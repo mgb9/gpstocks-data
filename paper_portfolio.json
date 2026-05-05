@@ -1,0 +1,34 @@
+{
+  "version": "1",
+  "startDate": "2026-04-27",
+  "lastUpdated": "2026-04-27",
+  "config": {
+    "initialCapital": 10000,
+    "currency": "GBP",
+    "scoreThreshold": 75,
+    "stopLossPct": -20.0,
+    "exitScoreThreshold": 60,
+    "maxPositionPct": 10.0,
+    "benchmark": "VWRL",
+    "regime": "Normal",
+    "rulesVersion": "3.0"
+  },
+  "cashBalance": 10000.0,
+  "positions": [],
+  "trades": [],
+  "navHistory": [
+    { "date": "2026-04-27", "nav": 10000.0, "benchmarkPrice": null }
+  ],
+  "metrics": {
+    "totalReturnPct": 0.0,
+    "benchmarkReturnPct": null,
+    "excessReturnPct": null,
+    "annualizedReturnPct": null,
+    "sharpe": null,
+    "maxDrawdownPct": 0.0,
+    "tradeCount": 0,
+    "winRatePct": null,
+    "avgHoldDays": null,
+    "openPositions": 0
+  }
+}

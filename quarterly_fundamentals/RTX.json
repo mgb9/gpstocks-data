@@ -1,0 +1,13 @@
+{
+  "ticker": "RTX",
+  "quarters": [
+    {"fiscalEnd": "2025-09-30", "revenue": 21000, "eps": 1.45, "ebit": 2300, "ebitda": 2900, "totalDebt": 41000, "cash": 6700},
+    {"fiscalEnd": "2025-06-30", "revenue": 20800, "eps": 1.40, "ebit": 2250, "ebitda": 2850, "totalDebt": 41200, "cash": 6500},
+    {"fiscalEnd": "2025-03-31", "revenue": 20100, "eps": 1.35, "ebit": 2200, "ebitda": 2800, "totalDebt": 41500, "cash": 6300},
+    {"fiscalEnd": "2024-12-31", "revenue": 21500, "eps": 1.50, "ebit": 2400, "ebitda": 3000, "totalDebt": 42000, "cash": 6000},
+    {"fiscalEnd": "2024-09-30", "revenue": 20100, "eps": 1.38, "ebit": 2200, "ebitda": 2800, "totalDebt": 42500, "cash": 5800},
+    {"fiscalEnd": "2024-06-30", "revenue": 19900, "eps": 1.32, "ebit": 2150, "ebitda": 2750, "totalDebt": 42800, "cash": 5600},
+    {"fiscalEnd": "2024-03-31", "revenue": 19200, "eps": 1.27, "ebit": 2100, "ebitda": 2700, "totalDebt": 43000, "cash": 5400},
+    {"fiscalEnd": "2023-12-31", "revenue": 20500, "eps": 1.42, "ebit": 2300, "ebitda": 2900, "totalDebt": 43500, "cash": 5200}
+  ]
+}

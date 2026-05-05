@@ -1,0 +1,15 @@
+{
+  "asOf": "2026-04-27",
+  "startDate": "2026-04-27",
+  "prices": {
+    "IWQU": {},
+    "IWVL": {},
+    "VMOM": {}
+  },
+  "meta": {
+    "IWQU": { "name": "iShares MSCI World Quality Factor", "factor": "Quality" },
+    "IWVL": { "name": "iShares MSCI World Value Factor",   "factor": "Value"   },
+    "VMOM": { "name": "Vanguard Global Momentum Factor",   "factor": "Momentum" }
+  },
+  "errors": []
+}

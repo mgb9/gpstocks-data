@@ -1,0 +1,32 @@
+{
+  "currentVersion": "v1.2",
+  "frozenAt": "2026-05-04",
+  "history": [
+    {
+      "version": "v1.0",
+      "frozenAt": "2026-04-26",
+      "changes": [
+        "Initial production release. All scoring thresholds, sub-score weights, and decision boundaries as defined at this date."
+      ]
+    },
+    {
+      "version": "v1.1",
+      "frozenAt": "2026-05-04",
+      "changes": [
+        "PR 11: Accruals Ratio (Hribar-Collins 2002 cash-flow proxy of the Sloan 1996 anomaly) demoted from a scored Quality sub-metric to a diagnostic flag, per the post-2002 decay literature.",
+        "PR 11: CFO / Net Income scoring made asymmetric — values below the 0.5 floor penalise the Quality score; values above the floor do NOT boost it. The asymmetry preserves the well-supported 'low CFO/NI is an earnings-quality red flag' interpretation while removing the eroded alpha-source claim.",
+        "PR 11: extreme-decile accrual flags (bottom and top decile of the live universe) are now computed at scoring time and stamped on each row as accrualFlag and accrualFlagCutoffs.",
+        "Methodology document attribution corrected: Sloan 1996 → Hribar-Collins 2002 cash-flow proxy.",
+        "Pre-bump snapshots (scored under v1.0) remain immutable per the freeze-date discipline (PR 10.5)."
+      ]
+    },
+    {
+      "version": "v1.2",
+      "frozenAt": "2026-05-04",
+      "changes": [
+        "PR 11.2: Quality near-miss tolerance switched from Math.floor to Math.round on the 20% failure-tolerance threshold. The floor variant produced a step-function discontinuity at every multiple of 5 in the evaluable rule count — surfaced by CB (Buy Now → Avoid in v1.1 despite the Quality SCORE going up by 0.1) when removing two passing rules dropped evaluable from 15 to 13 and the threshold from 3 to 2 while the failure count stayed at 3. Fix is sector-agnostic; preserves the documented '20% tolerance' semantic without introducing a second magic number.",
+        "PR 11.2: post-write fingerprint sanity check added to refresh_data_pi.sh and refresh_prices_pi.sh. Any stocks.json on disk that lacks rulesFingerprint after a refresh script exits is now caught immediately rather than silently breaking downstream email/alert scripts."
+      ]
+    }
+  ]
+}
