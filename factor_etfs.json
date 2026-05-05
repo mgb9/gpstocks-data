@@ -1,15 +1,28 @@
 {
-  "asOf": "2026-04-27",
-  "startDate": "2026-04-27",
+  "asOf": "2026-05-05",
+  "startDate": "2026-04-30",
   "prices": {
     "IWQU": {},
     "IWVL": {},
     "VMOM": {}
   },
   "meta": {
-    "IWQU": { "name": "iShares MSCI World Quality Factor", "factor": "Quality" },
-    "IWVL": { "name": "iShares MSCI World Value Factor",   "factor": "Value"   },
-    "VMOM": { "name": "Vanguard Global Momentum Factor",   "factor": "Momentum" }
+    "IWQU": {
+      "name": "iShares MSCI World Quality Factor",
+      "factor": "Quality"
+    },
+    "IWVL": {
+      "name": "iShares MSCI World Value Factor",
+      "factor": "Value"
+    },
+    "VMOM": {
+      "name": "Vanguard Global Momentum Factor",
+      "factor": "Momentum"
+    }
   },
-  "errors": []
+  "errors": [
+    "IWQU",
+    "IWVL",
+    "VMOM"
+  ]
 }
