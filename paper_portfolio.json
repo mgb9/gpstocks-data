@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-30",
-  "lastUpdated": "2026-05-05",
+  "lastUpdated": "2026-05-06",
   "config": {
     "initialCapital": 10000.0,
     "currency": "GBP",
@@ -13,7 +13,7 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 1991.82,
+  "cashBalance": 2480.5,
   "positions": [
     {
       "id": "d57d396e",
@@ -97,20 +97,6 @@
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 286.912,
-      "reviewDate": "2026-08-01"
-    },
-    {
-      "id": "fcda691d",
-      "ticker": "EQT",
-      "company": "EQT Corporation",
-      "sector": "Energy",
-      "entryDate": "2026-05-01",
-      "entryPrice": 60.08,
-      "scoreAtEntry": 81,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 48.064,
       "reviewDate": "2026-08-01"
     },
     {
@@ -276,6 +262,24 @@
       "plPct": -2.81,
       "holdDays": 2,
       "positionPct": 5.0
+    },
+    {
+      "id": "fcda691d",
+      "ticker": "EQT",
+      "company": "EQT Corporation",
+      "sector": "Energy",
+      "entryDate": "2026-05-01",
+      "entryPrice": 60.08,
+      "scoreAtEntry": 81,
+      "labelAtEntry": "Buy Now",
+      "exitDate": "2026-05-06",
+      "exitPrice": 58.72,
+      "exitReason": "label_changed_avoid",
+      "costBasis": 500.0,
+      "proceeds": 488.68,
+      "plPct": -2.26,
+      "holdDays": 5,
+      "positionPct": 5.0
     }
   ],
   "navHistory": [
@@ -303,18 +307,23 @@
       "date": "2026-05-05",
       "nav": 9876.22,
       "benchmarkPrice": 130.59
+    },
+    {
+      "date": "2026-05-06",
+      "nav": 9903.27,
+      "benchmarkPrice": 132.15
     }
   ],
   "metrics": {
-    "totalReturnPct": -1.24,
-    "benchmarkReturnPct": 0.84,
-    "excessReturnPct": -2.08,
+    "totalReturnPct": -0.97,
+    "benchmarkReturnPct": 2.05,
+    "excessReturnPct": -3.01,
     "annualizedReturnPct": null,
     "sharpe": null,
     "maxDrawdownPct": -1.24,
-    "tradeCount": 2,
+    "tradeCount": 3,
     "winRatePct": 0.0,
-    "avgHoldDays": 2.0,
-    "openPositions": 16
+    "avgHoldDays": 3.0,
+    "openPositions": 15
   }
 }

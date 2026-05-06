@@ -1,467 +1,467 @@
 {
-  "generatedAt": "2026-05-05",
+  "generatedAt": "2026-05-06",
   "earliestSnapshot": "2025-10-20",
-  "latestSnapshot": "2026-05-05",
-  "snapshotCount": 44,
+  "latestSnapshot": "2026-05-06",
+  "snapshotCount": 45,
   "tickers": {
     "AAPL": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ABBV": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ABNB": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "AIR.PA": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ALHC": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ALKT": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "AMD": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "AMT": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "AMZN": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ASAN": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ASML.AS": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "AVGO": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "AZN.L": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "BA": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "BARC.L": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "BATS.L": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "BLK": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "BP.L": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "BRZE": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "BVB.DE": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "BYND": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CARG": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CAT": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CERT": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "COIN": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "COST": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CRM": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CRWD": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CVX": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "DCBO": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "DDOG": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "DE": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "DGE.L": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "DIS": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "DOCS": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ENPH": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "FLYW": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "FRSH": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "GDRX": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "GE": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "GENI": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "GOOGL": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "GS": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "GSK.L": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "HD": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "HON": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "HOOD": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "HSBA.L": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "IBM": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "INMD": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "INSP": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "INTA": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "INTC": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ISRG": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "JNJ": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "JPM": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "KO": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "LLOY.L": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "LLY": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "LMT": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "LSEG.L": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "MANU": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "MARA": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "MC.PA": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "MCD": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "META": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "MNDY": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "MSFT": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "NEE": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "NET": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "NFLX": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "NUVB": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "NVDA": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "OFIX": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "OMCL": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "OR.PA": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "PFE": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "PG": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "PLD": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "PLTR": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "PRVA": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "PYPL": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "QCOM": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "RAMP": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "RARE": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "RBLX": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "RIO.L": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "RIVN": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "RTX": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "RXRX": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "SAF.PA": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "SAP.DE": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "SEMR": {
@@ -471,267 +471,267 @@
     },
     "SHEL.L": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "SHOP": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "SIE.DE": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "SLB": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "SNOW": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "SOFI": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "T": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "TASK": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "TGT": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "TMO": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "TSCO.L": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "TVTX": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "UBER": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ULVR.L": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "UNH": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "V": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "VCYT": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "VERX": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "VOD.L": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "VYX": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "WEAV": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "WMT": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "XOM": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "XYZ": {
       "firstSeen": "2025-10-20",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "GRG.L": {
       "firstSeen": "2026-04-14",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "HO.PA": {
       "firstSeen": "2026-04-14",
       "lastSeen": "2026-04-14",
-      "active": true
+      "active": false
     },
     "REPL": {
       "firstSeen": "2026-04-14",
       "lastSeen": "2026-04-14",
-      "active": true
+      "active": false
     },
     "TSCO": {
       "firstSeen": "2026-04-14",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "A": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "AAF.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "AAL.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ABF.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ABT": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ACGL": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ACN": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ADBE": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ADI": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ADM": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ADM.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ADP": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ADSK": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "AEE": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "AEP": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "AES": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "AFL": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "AIG": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "AIZ": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "AJG": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "AKAM": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ALB": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ALGN": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ALL": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ALLE": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ALW.L": {
@@ -741,852 +741,852 @@
     },
     "AMAT": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "AMCR": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "AME": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "AMGN": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "AMP": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ANET": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ANTO.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "AON": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "AOS": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "APA": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "APD": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "APH": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "APO": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "APP": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "APTV": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ARE": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ARES": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ATO": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "AUTO.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "AV.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "AVB": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "AVY": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "AWK": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "AXON": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "AXP": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "AZO": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "BA.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "BAB.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "BAC": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "BALL": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "BAX": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "BBOX.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "BBY": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "BDX": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "BEN": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "BEZ.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "BF-B": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "BG": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "BGEO.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "BIIB": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "BK": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "BKG.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "BKNG": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "BKR": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "BLDR": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "BLND.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "BMY": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "BNZL.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "BR": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "BRBY.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "BRK-B": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "BRO": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "BSX": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "BTRW.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "BX": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "BXP": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "C": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CAG": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CAH": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CARR": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CASY": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CB": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CBOE": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CBRE": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CCEP.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CCH.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CCI": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CCL": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CDNS": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CDW": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CEG": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CF": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CFG": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CHD": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CHRW": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CHTR": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CI": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CIEN": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CINF": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CL": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CLX": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CMCSA": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CME": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CMG": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CMI": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CMS": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CNA.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CNC": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CNP": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "COF": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "COHR": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "COO": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "COP": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "COR": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CPAY": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CPB": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CPG.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CPRT": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CPT": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CRDA.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CRH": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CRL": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CSCO": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CSGP": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CSX": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CTAS": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CTEC.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CTRA": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CTSH": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CTVA": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CVNA": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CVS": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "D": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "DAL": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "DASH": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "DCC.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "DD": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "DECK": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "DELL": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "DG": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "DGX": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "DHI": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "DHR": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "DLR": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "DLTR": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "DOC": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "DOV": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "DOW": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "DPLM.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "DPZ": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "DRI": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "DTE": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "DUK": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "DVA": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "DVN": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "DXCM": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "EA": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "EBAY": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ECL": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ED": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "EDV.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "EFX": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "EG": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "EIX": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "EL": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ELV": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "EME": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "EMR": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ENT.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "EOG": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "EPAM": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "EQIX": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "EQR": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "EQT": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ERIE": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ES": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ESS": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ETN": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ETR": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "EVRG": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "EW": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "EXC": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "EXE": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "EXPD": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "EXPE": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "EXPN.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "EXR": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "F": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "FANG": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "FAST": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "FCIT.L": {
@@ -1596,912 +1596,912 @@
     },
     "FCX": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "FDS": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "FDX": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "FE": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "FFIV": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "FICO": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "FIS": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "FISV": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "FITB": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "FIX": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "FOX": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "FOXA": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "FRES.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "FRT": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "FSLR": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "FTNT": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "FTV": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "GAW.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "GD": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "GDDY": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "GEHC": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "GEN": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "GEV": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "GILD": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "GIS": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "GL": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "GLEN.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "GLW": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "GM": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "GNRC": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "GOOG": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "GPC": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "GPN": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "GRMN": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "GWW": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "HAL": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "HAS": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "HBAN": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "HCA": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "HIG": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "HII": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "HLMA.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "HLN.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "HLT": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "HPE": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "HPQ": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "HRL": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "HSIC": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "HST": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "HSX.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "HSY": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "HUBB": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "HUM": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "HWDN.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "HWM": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "IAG.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "IBKR": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ICE": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ICG.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "IDXX": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "IEX": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "IFF": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "IGG.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "IHG.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "III.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "IMB.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "IMI.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "INCY": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "INF.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "INTU": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "INVH": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "IP": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "IQV": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "IR": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "IRM": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "IT": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ITRK.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ITW": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "IVZ": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "J": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "JBHT": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "JBL": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "JCI": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "JD.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "JKHY": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "KDP": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "KEY": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "KEYS": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "KGF.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "KHC": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "KIM": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "KKR": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "KLAC": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "KMB": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "KMI": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "KR": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "KVUE": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "LAND.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "LDOS": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "LEN": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "LGEN.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "LH": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "LHX": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "LII": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "LIN": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "LITE": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "LMP.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "LNT": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "LOW": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "LRCX": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "LULU": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "LUV": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "LVS": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "LYB": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "LYV": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "MA": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "MAA": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "MAR": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "MAS": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "MCHP": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "MCK": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "MCO": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "MDLZ": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "MDT": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "MET": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "MGM": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "MKC": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "MKS.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "MLM": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "MMM": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "MNDI.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "MNG.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "MNST": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "MO": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "MOS": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "MPC": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "MPWR": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "MRK": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "MRNA": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "MRO.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "MRSH": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "MS": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "MSCI": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "MSI": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "MTB": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "MTD": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "MTLN.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "MU": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "NCLH": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "NDAQ": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "NDSN": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "NEM": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "NG.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "NI": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "NKE": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "NOC": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "NOW": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "NRG": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "NSC": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "NTAP": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "NTRS": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "NUE": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "NVR": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "NWG.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "NWS": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "NWSA": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "NXPI": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "NXT.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "O": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ODFL": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "OKE": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "OMC": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ON": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ORCL": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ORLY": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "OTIS": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "OXY": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "PANW": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "PAYX": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "PCAR": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "PCG": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "PCT.L": {
@@ -2511,287 +2511,287 @@
     },
     "PEG": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "PEP": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "PFG": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "PGR": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "PH": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "PHM": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "PKG": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "PM": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "PNC": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "PNR": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "PNW": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "PODD": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "POOL": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "PPG": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "PPL": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "PRU": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "PRU.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "PSA": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "PSH.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "PSKY": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "PSN.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "PSON.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "PSX": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "PTC": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "PWR": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "Q": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "RCL": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "REG": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "REGN": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "REL.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "RF": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "RJF": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "RKT.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "RL": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "RMD": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "RMV.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ROK": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ROL": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ROP": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ROST": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "RR.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "RSG": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "RTO.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "RVTY": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "SATS": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "SBAC": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "SBRY.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "SBUX": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "SCHW": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "SDLF.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "SDR.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "SGE.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "SGRO.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "SHW": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "SJM": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "SMCI": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "SMIN.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "SMT.L": {
@@ -2801,487 +2801,487 @@
     },
     "SN.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "SNA": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "SNDK": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "SNPS": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "SO": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "SOLV": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "SPG": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "SPGI": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "SPX.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "SRE": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "SSE.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "STAN.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "STE": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "STJ.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "STLD": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "STT": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "STX": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "STZ": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "SVT.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "SW": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "SWK": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "SWKS": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "SYF": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "SYK": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "SYY": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "TAP": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "TDG": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "TDY": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "TECH": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "TEL": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "TER": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "TFC": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "TJX": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "TKO": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "TMUS": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "TPL": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "TPR": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "TRGP": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "TRMB": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "TROW": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "TRV": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "TSLA": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "TSN": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "TT": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "TTD": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "TTWO": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "TXN": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "TXT": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "TYL": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "UAL": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "UDR": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "UHS": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ULTA": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "UNP": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "UPS": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "URI": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "USB": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "UU.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "VICI": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "VLO": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "VLTO": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "VMC": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "VRSK": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "VRSN": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "VRT": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "VRTX": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "VST": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "VTR": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "VTRS": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "VZ": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "WAB": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "WAT": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "WBD": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "WDAY": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "WDC": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "WEC": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "WEIR.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "WELL": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "WFC": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "WM": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "WMB": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "WRB": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "WSM": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "WST": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "WTB.L": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "WTW": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "WY": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "WYNN": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "XEL": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "XYL": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "YUM": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ZBH": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ZBRA": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ZTS": {
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "AJB.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ALFA.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "AO.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "APAX.L": {
@@ -3291,7 +3291,7 @@
     },
     "ATG.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "BGFD.L": {
@@ -3306,7 +3306,7 @@
     },
     "BME.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "BNKR.L": {
@@ -3316,7 +3316,7 @@
     },
     "BOY.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "BRSC.L": {
@@ -3326,42 +3326,42 @@
     },
     "BWY.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "BYG.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "BYIT.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CBG.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CCR.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CGS.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CHRT.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CKN.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CLDN.L": {
@@ -3371,17 +3371,17 @@
     },
     "CLI.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CNE.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CRST.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "CTY.L": {
@@ -3391,22 +3391,22 @@
     },
     "DEC.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "DNLM.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "DOCS.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "DRX.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "EDIN.L": {
@@ -3416,37 +3416,37 @@
     },
     "ELM.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ENOG.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ESNT.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "FDEV.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "FDM.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "FERG.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "FGP.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "FGT.L": {
@@ -3456,12 +3456,12 @@
     },
     "FOUR.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "FRAS.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "FSFL.L": {
@@ -3471,17 +3471,17 @@
     },
     "FUTR.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "GNS.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "GPE.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "GSF.L": {
@@ -3491,17 +3491,17 @@
     },
     "HAS.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "HBR.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "HFD.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "HFEL.L": {
@@ -3521,107 +3521,107 @@
     },
     "HILS.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-04-30",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "HMSO.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-01",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "HOC.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-01",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "HSL.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-01",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "IBST.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-04-30",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ICGT.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-04-30",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "IHP.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-01",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "INCH.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-01",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "INVP.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-01",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "IPO.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-04-30",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ITH.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-04-30",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "ITV.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-04-30",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "JAM.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-04-24",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "JDW.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-04-24",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "JETG.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-04-24",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "JLEN.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-04-24",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "JMAT.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-04-24",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "JTC.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-04-24",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "JUP.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-04-24",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "KIE.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-04-24",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "LRE.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-04-24",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "MAB.L": {
@@ -16922,12 +16922,717 @@
       "ZBH",
       "ZBRA",
       "ZTS"
+    ],
+    "2026-05-06": [
+      "A",
+      "AAF.L",
+      "AAL.L",
+      "AAPL",
+      "ABBV",
+      "ABF.L",
+      "ABNB",
+      "ABT",
+      "ACGL",
+      "ACN",
+      "ADBE",
+      "ADI",
+      "ADM",
+      "ADM.L",
+      "ADP",
+      "ADSK",
+      "AEE",
+      "AEP",
+      "AES",
+      "AFL",
+      "AIG",
+      "AIR.PA",
+      "AIZ",
+      "AJB.L",
+      "AJG",
+      "AKAM",
+      "ALB",
+      "ALFA.L",
+      "ALGN",
+      "ALHC",
+      "ALKT",
+      "ALL",
+      "ALLE",
+      "AMAT",
+      "AMCR",
+      "AMD",
+      "AME",
+      "AMGN",
+      "AMP",
+      "AMT",
+      "AMZN",
+      "ANET",
+      "ANTO.L",
+      "AO.L",
+      "AON",
+      "AOS",
+      "APA",
+      "APD",
+      "APH",
+      "APO",
+      "APP",
+      "APTV",
+      "ARE",
+      "ARES",
+      "ASAN",
+      "ASML.AS",
+      "ATG.L",
+      "ATO",
+      "AUTO.L",
+      "AV.L",
+      "AVB",
+      "AVGO",
+      "AVY",
+      "AWK",
+      "AXON",
+      "AXP",
+      "AZN.L",
+      "AZO",
+      "BA",
+      "BA.L",
+      "BAB.L",
+      "BAC",
+      "BALL",
+      "BARC.L",
+      "BATS.L",
+      "BAX",
+      "BBOX.L",
+      "BBY",
+      "BDX",
+      "BEN",
+      "BEZ.L",
+      "BF-B",
+      "BG",
+      "BGEO.L",
+      "BIIB",
+      "BK",
+      "BKG.L",
+      "BKNG",
+      "BKR",
+      "BLDR",
+      "BLK",
+      "BLND.L",
+      "BME.L",
+      "BMY",
+      "BNZL.L",
+      "BOY.L",
+      "BP.L",
+      "BR",
+      "BRBY.L",
+      "BRK-B",
+      "BRO",
+      "BRZE",
+      "BSX",
+      "BTRW.L",
+      "BVB.DE",
+      "BWY.L",
+      "BX",
+      "BXP",
+      "BYG.L",
+      "BYIT.L",
+      "BYND",
+      "C",
+      "CAG",
+      "CAH",
+      "CARG",
+      "CARR",
+      "CASY",
+      "CAT",
+      "CB",
+      "CBG.L",
+      "CBOE",
+      "CBRE",
+      "CCEP.L",
+      "CCH.L",
+      "CCI",
+      "CCL",
+      "CCR.L",
+      "CDNS",
+      "CDW",
+      "CEG",
+      "CERT",
+      "CF",
+      "CFG",
+      "CGS.L",
+      "CHD",
+      "CHRT.L",
+      "CHRW",
+      "CHTR",
+      "CI",
+      "CIEN",
+      "CINF",
+      "CKN.L",
+      "CL",
+      "CLI.L",
+      "CLX",
+      "CMCSA",
+      "CME",
+      "CMG",
+      "CMI",
+      "CMS",
+      "CNA.L",
+      "CNC",
+      "CNE.L",
+      "CNP",
+      "COF",
+      "COHR",
+      "COIN",
+      "COO",
+      "COP",
+      "COR",
+      "COST",
+      "CPAY",
+      "CPB",
+      "CPG.L",
+      "CPRT",
+      "CPT",
+      "CRDA.L",
+      "CRH",
+      "CRL",
+      "CRM",
+      "CRST.L",
+      "CRWD",
+      "CSCO",
+      "CSGP",
+      "CSX",
+      "CTAS",
+      "CTEC.L",
+      "CTRA",
+      "CTSH",
+      "CTVA",
+      "CVNA",
+      "CVS",
+      "CVX",
+      "D",
+      "DAL",
+      "DASH",
+      "DCBO",
+      "DCC.L",
+      "DD",
+      "DDOG",
+      "DE",
+      "DEC.L",
+      "DECK",
+      "DELL",
+      "DG",
+      "DGE.L",
+      "DGX",
+      "DHI",
+      "DHR",
+      "DIS",
+      "DLR",
+      "DLTR",
+      "DNLM.L",
+      "DOC",
+      "DOCS",
+      "DOCS.L",
+      "DOV",
+      "DOW",
+      "DPLM.L",
+      "DPZ",
+      "DRI",
+      "DRX.L",
+      "DTE",
+      "DUK",
+      "DVA",
+      "DVN",
+      "DXCM",
+      "EA",
+      "EBAY",
+      "ECL",
+      "ED",
+      "EDV.L",
+      "EFX",
+      "EG",
+      "EIX",
+      "EL",
+      "ELM.L",
+      "ELV",
+      "EME",
+      "EMR",
+      "ENOG.L",
+      "ENPH",
+      "ENT.L",
+      "EOG",
+      "EPAM",
+      "EQIX",
+      "EQR",
+      "EQT",
+      "ERIE",
+      "ES",
+      "ESNT.L",
+      "ESS",
+      "ETN",
+      "ETR",
+      "EVRG",
+      "EW",
+      "EXC",
+      "EXE",
+      "EXPD",
+      "EXPE",
+      "EXPN.L",
+      "EXR",
+      "F",
+      "FANG",
+      "FAST",
+      "FCX",
+      "FDEV.L",
+      "FDM.L",
+      "FDS",
+      "FDX",
+      "FE",
+      "FERG.L",
+      "FFIV",
+      "FGP.L",
+      "FICO",
+      "FIS",
+      "FISV",
+      "FITB",
+      "FIX",
+      "FLYW",
+      "FOUR.L",
+      "FOX",
+      "FOXA",
+      "FRAS.L",
+      "FRES.L",
+      "FRSH",
+      "FRT",
+      "FSLR",
+      "FTNT",
+      "FTV",
+      "FUTR.L",
+      "GAW.L",
+      "GD",
+      "GDDY",
+      "GDRX",
+      "GE",
+      "GEHC",
+      "GEN",
+      "GENI",
+      "GEV",
+      "GILD",
+      "GIS",
+      "GL",
+      "GLEN.L",
+      "GLW",
+      "GM",
+      "GNRC",
+      "GNS.L",
+      "GOOG",
+      "GOOGL",
+      "GPC",
+      "GPE.L",
+      "GPN",
+      "GRG.L",
+      "GRMN",
+      "GS",
+      "GSK.L",
+      "GWW",
+      "HAL",
+      "HAS",
+      "HAS.L",
+      "HBAN",
+      "HBR.L",
+      "HCA",
+      "HD",
+      "HFD.L",
+      "HIG",
+      "HII",
+      "HILS.L",
+      "HLMA.L",
+      "HLN.L",
+      "HLT",
+      "HMSO.L",
+      "HOC.L",
+      "HON",
+      "HOOD",
+      "HPE",
+      "HPQ",
+      "HRL",
+      "HSBA.L",
+      "HSIC",
+      "HSL.L",
+      "HST",
+      "HSX.L",
+      "HSY",
+      "HUBB",
+      "HUM",
+      "HWDN.L",
+      "HWM",
+      "IAG.L",
+      "IBKR",
+      "IBM",
+      "IBST.L",
+      "ICE",
+      "ICG.L",
+      "ICGT.L",
+      "IDXX",
+      "IEX",
+      "IFF",
+      "IGG.L",
+      "IHG.L",
+      "IHP.L",
+      "III.L",
+      "IMB.L",
+      "IMI.L",
+      "INCH.L",
+      "INCY",
+      "INF.L",
+      "INMD",
+      "INSP",
+      "INTA",
+      "INTC",
+      "INTU",
+      "INVH",
+      "INVP.L",
+      "IP",
+      "IPO.L",
+      "IQV",
+      "IR",
+      "IRM",
+      "ISRG",
+      "IT",
+      "ITH.L",
+      "ITRK.L",
+      "ITV.L",
+      "ITW",
+      "IVZ",
+      "J",
+      "JAM.L",
+      "JBHT",
+      "JBL",
+      "JCI",
+      "JD.L",
+      "JDW.L",
+      "JETG.L",
+      "JKHY",
+      "JLEN.L",
+      "JMAT.L",
+      "JNJ",
+      "JPM",
+      "JTC.L",
+      "JUP.L",
+      "KDP",
+      "KEY",
+      "KEYS",
+      "KGF.L",
+      "KHC",
+      "KIE.L",
+      "KIM",
+      "KKR",
+      "KLAC",
+      "KMB",
+      "KMI",
+      "KO",
+      "KR",
+      "KVUE",
+      "L",
+      "LAND.L",
+      "LDOS",
+      "LEN",
+      "LGEN.L",
+      "LH",
+      "LHX",
+      "LII",
+      "LIN",
+      "LITE",
+      "LLOY.L",
+      "LLY",
+      "LMP.L",
+      "LMT",
+      "LNT",
+      "LOW",
+      "LRCX",
+      "LRE.L",
+      "LSEG.L",
+      "LULU",
+      "LUV",
+      "LVS",
+      "LYB",
+      "LYV",
+      "MA",
+      "MAA",
+      "MANU",
+      "MAR",
+      "MARA",
+      "MAS",
+      "MC.PA",
+      "MCD",
+      "MCHP",
+      "MCK",
+      "MCO",
+      "MDLZ",
+      "MDT",
+      "MET",
+      "META",
+      "MGM",
+      "MKC",
+      "MKS.L",
+      "MLM",
+      "MMM",
+      "MNDI.L",
+      "MNDY",
+      "MNG.L",
+      "MNST",
+      "MO",
+      "MOS",
+      "MPC",
+      "MPWR",
+      "MRK",
+      "MRNA",
+      "MRO.L",
+      "MRSH",
+      "MS",
+      "MSCI",
+      "MSFT",
+      "MSI",
+      "MTB",
+      "MTD",
+      "MTLN.L",
+      "MU",
+      "NCLH",
+      "NDAQ",
+      "NDSN",
+      "NEE",
+      "NEM",
+      "NET",
+      "NFLX",
+      "NG.L",
+      "NI",
+      "NKE",
+      "NOC",
+      "NOW",
+      "NRG",
+      "NSC",
+      "NTAP",
+      "NTRS",
+      "NUE",
+      "NUVB",
+      "NVDA",
+      "NVR",
+      "NWG.L",
+      "NWS",
+      "NWSA",
+      "NXPI",
+      "NXT.L",
+      "O",
+      "ODFL",
+      "OFIX",
+      "OKE",
+      "OMC",
+      "OMCL",
+      "ON",
+      "OR.PA",
+      "ORCL",
+      "ORLY",
+      "OTIS",
+      "OXY",
+      "PANW",
+      "PAYX",
+      "PCAR",
+      "PCG",
+      "PEG",
+      "PEP",
+      "PFE",
+      "PFG",
+      "PG",
+      "PGR",
+      "PH",
+      "PHM",
+      "PKG",
+      "PLD",
+      "PLTR",
+      "PM",
+      "PNC",
+      "PNR",
+      "PNW",
+      "PODD",
+      "POOL",
+      "PPG",
+      "PPL",
+      "PRU",
+      "PRU.L",
+      "PRVA",
+      "PSA",
+      "PSH.L",
+      "PSKY",
+      "PSN.L",
+      "PSON.L",
+      "PSX",
+      "PTC",
+      "PWR",
+      "PYPL",
+      "Q",
+      "QCOM",
+      "RAMP",
+      "RARE",
+      "RBLX",
+      "RCL",
+      "REG",
+      "REGN",
+      "REL.L",
+      "RF",
+      "RIO.L",
+      "RIVN",
+      "RJF",
+      "RKT.L",
+      "RL",
+      "RMD",
+      "RMV.L",
+      "ROK",
+      "ROL",
+      "ROP",
+      "ROST",
+      "RR.L",
+      "RSG",
+      "RTO.L",
+      "RTX",
+      "RVTY",
+      "RXRX",
+      "SAF.PA",
+      "SAP.DE",
+      "SATS",
+      "SBAC",
+      "SBRY.L",
+      "SBUX",
+      "SCHW",
+      "SDLF.L",
+      "SDR.L",
+      "SGE.L",
+      "SGRO.L",
+      "SHEL.L",
+      "SHOP",
+      "SHW",
+      "SIE.DE",
+      "SJM",
+      "SLB",
+      "SMCI",
+      "SMIN.L",
+      "SN.L",
+      "SNA",
+      "SNDK",
+      "SNOW",
+      "SNPS",
+      "SO",
+      "SOFI",
+      "SOLV",
+      "SPG",
+      "SPGI",
+      "SPX.L",
+      "SRE",
+      "SSE.L",
+      "STAN.L",
+      "STE",
+      "STJ.L",
+      "STLD",
+      "STT",
+      "STX",
+      "STZ",
+      "SVT.L",
+      "SW",
+      "SWK",
+      "SWKS",
+      "SYF",
+      "SYK",
+      "SYY",
+      "T",
+      "TAP",
+      "TASK",
+      "TDG",
+      "TDY",
+      "TECH",
+      "TEL",
+      "TER",
+      "TFC",
+      "TGT",
+      "TJX",
+      "TKO",
+      "TMO",
+      "TMUS",
+      "TPL",
+      "TPR",
+      "TRGP",
+      "TRMB",
+      "TROW",
+      "TRV",
+      "TSCO",
+      "TSCO.L",
+      "TSLA",
+      "TSN",
+      "TT",
+      "TTD",
+      "TTWO",
+      "TVTX",
+      "TXN",
+      "TXT",
+      "TYL",
+      "UAL",
+      "UBER",
+      "UDR",
+      "UHS",
+      "ULTA",
+      "ULVR.L",
+      "UNH",
+      "UNP",
+      "UPS",
+      "URI",
+      "USB",
+      "UU.L",
+      "V",
+      "VCYT",
+      "VERX",
+      "VICI",
+      "VLO",
+      "VLTO",
+      "VMC",
+      "VOD.L",
+      "VRSK",
+      "VRSN",
+      "VRT",
+      "VRTX",
+      "VST",
+      "VTR",
+      "VTRS",
+      "VYX",
+      "VZ",
+      "WAB",
+      "WAT",
+      "WBD",
+      "WDAY",
+      "WDC",
+      "WEAV",
+      "WEC",
+      "WEIR.L",
+      "WELL",
+      "WFC",
+      "WM",
+      "WMB",
+      "WMT",
+      "WRB",
+      "WSM",
+      "WST",
+      "WTB.L",
+      "WTW",
+      "WY",
+      "WYNN",
+      "XEL",
+      "XOM",
+      "XYL",
+      "XYZ",
+      "YUM",
+      "ZBH",
+      "ZBRA",
+      "ZTS"
     ]
   },
   "summary": {
     "totalTickers": 727,
-    "active": 727,
-    "inactive": 0,
+    "active": 725,
+    "inactive": 2,
     "note": "Tickers absent for more than 21 days from the latest snapshot are marked inactive (delisted or acquired). Pre-snapshot-window survivorship (anything delisted before 2025-10-20) is not captured here \u2014 that's a known limitation of the snapshot record."
   }
 }
