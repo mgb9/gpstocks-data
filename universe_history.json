@@ -3626,12 +3626,12 @@
     },
     "MAB.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-04-24",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "MGAM.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-04-24",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     "MNKS.L": {
@@ -17356,6 +17356,7 @@
       "LYV",
       "MA",
       "MAA",
+      "MAB.L",
       "MANU",
       "MAR",
       "MARA",
@@ -17369,6 +17370,7 @@
       "MDT",
       "MET",
       "META",
+      "MGAM.L",
       "MGM",
       "MKC",
       "MKS.L",
