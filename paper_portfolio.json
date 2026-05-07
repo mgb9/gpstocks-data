@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-30",
-  "lastUpdated": "2026-05-06",
+  "lastUpdated": "2026-05-07",
   "config": {
     "initialCapital": 10000.0,
     "currency": "GBP",
@@ -13,7 +13,7 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 2480.5,
+  "cashBalance": 981.46,
   "positions": [
     {
       "id": "d57d396e",
@@ -170,20 +170,6 @@
       "reviewDate": "2026-08-01"
     },
     {
-      "id": "43ae8e97",
-      "ticker": "FOXA",
-      "company": "Fox Corporation",
-      "sector": "Technology",
-      "entryDate": "2026-05-01",
-      "entryPrice": 63.49,
-      "scoreAtEntry": 75,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 50.792,
-      "reviewDate": "2026-08-01"
-    },
-    {
       "id": "bee114aa",
       "ticker": "SNA",
       "company": "Snap-On Incorporated",
@@ -224,6 +210,62 @@
       "positionPct": 5.0,
       "stopLossPrice": 45.544,
       "reviewDate": "2026-08-03"
+    },
+    {
+      "id": "1e2476a6",
+      "ticker": "EOG",
+      "company": "EOG Resources, Inc.",
+      "sector": "Energy",
+      "entryDate": "2026-05-07",
+      "entryPrice": 134.69,
+      "scoreAtEntry": 83,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 497.24,
+      "positionPct": 5.0,
+      "stopLossPrice": 107.752,
+      "reviewDate": "2026-08-07"
+    },
+    {
+      "id": "595610b7",
+      "ticker": "GILD",
+      "company": "Gilead Sciences, Inc.",
+      "sector": "Healthcare",
+      "entryDate": "2026-05-07",
+      "entryPrice": 136.3,
+      "scoreAtEntry": 81,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 497.24,
+      "positionPct": 5.0,
+      "stopLossPrice": 109.04,
+      "reviewDate": "2026-08-07"
+    },
+    {
+      "id": "e3908dbd",
+      "ticker": "NXT.L",
+      "company": "NEXT PLC ORD 10P",
+      "sector": "Consumer Discretionary",
+      "entryDate": "2026-05-07",
+      "entryPrice": 131.75,
+      "scoreAtEntry": 78,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 497.24,
+      "positionPct": 5.0,
+      "stopLossPrice": 105.4,
+      "reviewDate": "2026-08-07"
+    },
+    {
+      "id": "ba71be66",
+      "ticker": "MO",
+      "company": "Altria Group, Inc.",
+      "sector": "Consumer Staples",
+      "entryDate": "2026-05-07",
+      "entryPrice": 70.17,
+      "scoreAtEntry": 75,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 497.24,
+      "positionPct": 5.0,
+      "stopLossPrice": 56.136,
+      "reviewDate": "2026-08-07"
     }
   ],
   "trades": [
@@ -280,6 +322,24 @@
       "plPct": -2.26,
       "holdDays": 5,
       "positionPct": 5.0
+    },
+    {
+      "id": "43ae8e97",
+      "ticker": "FOXA",
+      "company": "Fox Corporation",
+      "sector": "Technology",
+      "entryDate": "2026-05-01",
+      "entryPrice": 63.49,
+      "scoreAtEntry": 75,
+      "labelAtEntry": "Buy Now",
+      "exitDate": "2026-05-07",
+      "exitPrice": 62.21,
+      "exitReason": "score_degraded",
+      "costBasis": 500.0,
+      "proceeds": 489.92,
+      "plPct": -2.02,
+      "holdDays": 6,
+      "positionPct": 5.0
     }
   ],
   "navHistory": [
@@ -312,18 +372,23 @@
       "date": "2026-05-06",
       "nav": 9903.27,
       "benchmarkPrice": 132.15
+    },
+    {
+      "date": "2026-05-07",
+      "nav": 9944.77,
+      "benchmarkPrice": 133.16
     }
   ],
   "metrics": {
-    "totalReturnPct": -0.97,
-    "benchmarkReturnPct": 2.05,
-    "excessReturnPct": -3.01,
+    "totalReturnPct": -0.55,
+    "benchmarkReturnPct": 2.83,
+    "excessReturnPct": -3.38,
     "annualizedReturnPct": null,
     "sharpe": null,
     "maxDrawdownPct": -1.24,
-    "tradeCount": 3,
+    "tradeCount": 4,
     "winRatePct": 0.0,
-    "avgHoldDays": 3.0,
-    "openPositions": 15
+    "avgHoldDays": 3.8,
+    "openPositions": 18
   }
 }
