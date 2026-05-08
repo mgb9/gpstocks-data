@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-30",
-  "lastUpdated": "2026-05-07",
+  "lastUpdated": "2026-05-08",
   "config": {
     "initialCapital": 10000.0,
     "currency": "GBP",
@@ -13,7 +13,7 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 981.46,
+  "cashBalance": 1928.11,
   "positions": [
     {
       "id": "d57d396e",
@@ -100,20 +100,6 @@
       "reviewDate": "2026-08-01"
     },
     {
-      "id": "6a2f1093",
-      "ticker": "CTRA",
-      "company": "Coterra Energy Inc.",
-      "sector": "Energy",
-      "entryDate": "2026-05-01",
-      "entryPrice": 35.91,
-      "scoreAtEntry": 80,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 28.728,
-      "reviewDate": "2026-08-01"
-    },
-    {
       "id": "f96b6db7",
       "ticker": "CB",
       "company": "Chubb Limited",
@@ -195,20 +181,6 @@
       "costBasis": 497.04,
       "positionPct": 5.0,
       "stopLossPrice": 34.504,
-      "reviewDate": "2026-08-03"
-    },
-    {
-      "id": "a8057d68",
-      "ticker": "FOX",
-      "company": "Fox Corporation",
-      "sector": "Technology",
-      "entryDate": "2026-05-03",
-      "entryPrice": 56.93,
-      "scoreAtEntry": 75,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 497.04,
-      "positionPct": 5.0,
-      "stopLossPrice": 45.544,
       "reviewDate": "2026-08-03"
     },
     {
@@ -340,6 +312,42 @@
       "plPct": -2.02,
       "holdDays": 6,
       "positionPct": 5.0
+    },
+    {
+      "id": "6a2f1093",
+      "ticker": "CTRA",
+      "company": "Coterra Energy Inc.",
+      "sector": "Energy",
+      "entryDate": "2026-05-01",
+      "entryPrice": 35.91,
+      "scoreAtEntry": 80,
+      "labelAtEntry": "Buy Now",
+      "exitDate": "2026-05-08",
+      "exitPrice": 32.56,
+      "exitReason": "label_changed_avoid",
+      "costBasis": 500.0,
+      "proceeds": 453.36,
+      "plPct": -9.33,
+      "holdDays": 7,
+      "positionPct": 5.0
+    },
+    {
+      "id": "a8057d68",
+      "ticker": "FOX",
+      "company": "Fox Corporation",
+      "sector": "Technology",
+      "entryDate": "2026-05-03",
+      "entryPrice": 56.93,
+      "scoreAtEntry": 75,
+      "labelAtEntry": "Buy Now",
+      "exitDate": "2026-05-08",
+      "exitPrice": 56.5,
+      "exitReason": "label_changed_avoid",
+      "costBasis": 497.04,
+      "proceeds": 493.29,
+      "plPct": -0.76,
+      "holdDays": 5,
+      "positionPct": 5.0
     }
   ],
   "navHistory": [
@@ -377,18 +385,23 @@
       "date": "2026-05-07",
       "nav": 9944.77,
       "benchmarkPrice": 133.16
+    },
+    {
+      "date": "2026-05-08",
+      "nav": 9850.25,
+      "benchmarkPrice": 132.75
     }
   ],
   "metrics": {
-    "totalReturnPct": -0.55,
-    "benchmarkReturnPct": 2.83,
-    "excessReturnPct": -3.38,
+    "totalReturnPct": -1.5,
+    "benchmarkReturnPct": 2.51,
+    "excessReturnPct": -4.01,
     "annualizedReturnPct": null,
     "sharpe": null,
-    "maxDrawdownPct": -1.24,
-    "tradeCount": 4,
+    "maxDrawdownPct": -1.5,
+    "tradeCount": 6,
     "winRatePct": 0.0,
-    "avgHoldDays": 3.8,
-    "openPositions": 18
+    "avgHoldDays": 4.5,
+    "openPositions": 16
   }
 }
