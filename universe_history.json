@@ -3621,22 +3621,42 @@
     },
     "LRE.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-06",
+      "lastSeen": "2026-05-11",
       "active": true
     },
     "MAB.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-06",
+      "lastSeen": "2026-05-11",
       "active": true
     },
     "MGAM.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-06",
+      "lastSeen": "2026-05-11",
       "active": true
     },
     "MNKS.L": {
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-04-24",
+      "lastSeen": "2026-05-11",
+      "active": true
+    },
+    "MONY.L": {
+      "firstSeen": "2026-05-11",
+      "lastSeen": "2026-05-11",
+      "active": true
+    },
+    "MTO.L": {
+      "firstSeen": "2026-05-11",
+      "lastSeen": "2026-05-11",
+      "active": true
+    },
+    "MUT.L": {
+      "firstSeen": "2026-05-11",
+      "lastSeen": "2026-05-11",
+      "active": true
+    },
+    "NCC.L": {
+      "firstSeen": "2026-05-11",
+      "lastSeen": "2026-05-11",
       "active": true
     }
   },
@@ -19449,6 +19469,7 @@
       "LNT",
       "LOW",
       "LRCX",
+      "LRE.L",
       "LSEG.L",
       "LULU",
       "LUV",
@@ -19457,6 +19478,7 @@
       "LYV",
       "MA",
       "MAA",
+      "MAB.L",
       "MANU",
       "MAR",
       "MARA",
@@ -19470,6 +19492,7 @@
       "MDT",
       "MET",
       "META",
+      "MGAM.L",
       "MGM",
       "MKC",
       "MKS.L",
@@ -19478,8 +19501,10 @@
       "MNDI.L",
       "MNDY",
       "MNG.L",
+      "MNKS.L",
       "MNST",
       "MO",
+      "MONY.L",
       "MOS",
       "MPC",
       "MPWR",
@@ -19494,7 +19519,10 @@
       "MTB",
       "MTD",
       "MTLN.L",
+      "MTO.L",
       "MU",
+      "MUT.L",
+      "NCC.L",
       "NCLH",
       "NDAQ",
       "NDSN",
@@ -19731,8 +19759,8 @@
     ]
   },
   "summary": {
-    "totalTickers": 727,
-    "active": 725,
+    "totalTickers": 731,
+    "active": 729,
     "inactive": 2,
     "note": "Tickers absent for more than 21 days from the latest snapshot are marked inactive (delisted or acquired). Pre-snapshot-window survivorship (anything delisted before 2025-10-20) is not captured here \u2014 that's a known limitation of the snapshot record."
   }
