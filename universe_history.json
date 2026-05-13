@@ -3626,27 +3626,27 @@
     },
     "MAB.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-11",
+      "lastSeen": "2026-05-13",
       "active": true
     },
     "MGAM.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-11",
+      "lastSeen": "2026-05-13",
       "active": true
     },
     "MNKS.L": {
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-05-11",
+      "lastSeen": "2026-05-13",
       "active": true
     },
     "MONY.L": {
       "firstSeen": "2026-05-11",
-      "lastSeen": "2026-05-11",
+      "lastSeen": "2026-05-13",
       "active": true
     },
     "MTO.L": {
       "firstSeen": "2026-05-11",
-      "lastSeen": "2026-05-11",
+      "lastSeen": "2026-05-13",
       "active": true
     },
     "MUT.L": {
@@ -20892,6 +20892,7 @@
       "LYV",
       "MA",
       "MAA",
+      "MAB.L",
       "MANU",
       "MAR",
       "MARA",
@@ -20905,6 +20906,7 @@
       "MDT",
       "MET",
       "META",
+      "MGAM.L",
       "MGM",
       "MKC",
       "MKS.L",
@@ -20913,8 +20915,10 @@
       "MNDI.L",
       "MNDY",
       "MNG.L",
+      "MNKS.L",
       "MNST",
       "MO",
+      "MONY.L",
       "MOS",
       "MPC",
       "MPWR",
@@ -20929,6 +20933,7 @@
       "MTB",
       "MTD",
       "MTLN.L",
+      "MTO.L",
       "MU",
       "NCLH",
       "NDAQ",
