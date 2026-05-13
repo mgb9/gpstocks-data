@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-30",
-  "lastUpdated": "2026-05-12",
+  "lastUpdated": "2026-05-13",
   "config": {
     "initialCapital": 10000.0,
     "currency": "GBP",
@@ -13,7 +13,7 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 948.38,
+  "cashBalance": 944.84,
   "positions": [
     {
       "id": "d57d396e",
@@ -111,20 +111,6 @@
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 261.6,
-      "reviewDate": "2026-08-01"
-    },
-    {
-      "id": "74981e36",
-      "ticker": "MAS",
-      "company": "Masco Corporation",
-      "sector": "Industrials",
-      "entryDate": "2026-05-01",
-      "entryPrice": 71.82,
-      "scoreAtEntry": 78,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 57.456,
       "reviewDate": "2026-08-01"
     },
     {
@@ -266,6 +252,20 @@
       "positionPct": 5.0,
       "stopLossPrice": 310.912,
       "reviewDate": "2026-08-12"
+    },
+    {
+      "id": "3b0d9051",
+      "ticker": "GOOG",
+      "company": "Alphabet Inc.",
+      "sector": "Communication Services",
+      "entryDate": "2026-05-13",
+      "entryPrice": 383.82,
+      "scoreAtEntry": 75,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 489.48,
+      "positionPct": 5.0,
+      "stopLossPrice": 307.056,
+      "reviewDate": "2026-08-13"
     }
   ],
   "trades": [
@@ -376,6 +376,24 @@
       "plPct": -0.76,
       "holdDays": 5,
       "positionPct": 5.0
+    },
+    {
+      "id": "74981e36",
+      "ticker": "MAS",
+      "company": "Masco Corporation",
+      "sector": "Industrials",
+      "entryDate": "2026-05-01",
+      "entryPrice": 71.82,
+      "scoreAtEntry": 78,
+      "labelAtEntry": "Buy Now",
+      "exitDate": "2026-05-13",
+      "exitPrice": 69.8,
+      "exitReason": "label_changed_avoid",
+      "costBasis": 500.0,
+      "proceeds": 485.94,
+      "plPct": -2.81,
+      "holdDays": 12,
+      "positionPct": 5.0
     }
   ],
   "navHistory": [
@@ -428,18 +446,23 @@
       "date": "2026-05-12",
       "nav": 9793.06,
       "benchmarkPrice": 133.23
+    },
+    {
+      "date": "2026-05-13",
+      "nav": 9789.65,
+      "benchmarkPrice": 134.16
     }
   ],
   "metrics": {
-    "totalReturnPct": -2.07,
-    "benchmarkReturnPct": 2.88,
-    "excessReturnPct": -4.95,
+    "totalReturnPct": -2.1,
+    "benchmarkReturnPct": 3.6,
+    "excessReturnPct": -5.7,
     "annualizedReturnPct": null,
     "sharpe": null,
-    "maxDrawdownPct": -2.07,
-    "tradeCount": 6,
+    "maxDrawdownPct": -2.1,
+    "tradeCount": 7,
     "winRatePct": 0.0,
-    "avgHoldDays": 4.5,
+    "avgHoldDays": 5.6,
     "openPositions": 18
   }
 }
