@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-30",
-  "lastUpdated": "2026-05-13",
+  "lastUpdated": "2026-05-14",
   "config": {
     "initialCapital": 10000.0,
     "currency": "GBP",
@@ -13,7 +13,7 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 944.84,
+  "cashBalance": 1960.99,
   "positions": [
     {
       "id": "d57d396e",
@@ -238,34 +238,6 @@
       "positionPct": 5.0,
       "stopLossPrice": 120.864,
       "reviewDate": "2026-08-11"
-    },
-    {
-      "id": "4721e228",
-      "ticker": "GOOGL",
-      "company": "Alphabet Inc.",
-      "sector": "Communication Services",
-      "entryDate": "2026-05-12",
-      "entryPrice": 388.64,
-      "scoreAtEntry": 75,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 489.65,
-      "positionPct": 5.0,
-      "stopLossPrice": 310.912,
-      "reviewDate": "2026-08-12"
-    },
-    {
-      "id": "3b0d9051",
-      "ticker": "GOOG",
-      "company": "Alphabet Inc.",
-      "sector": "Communication Services",
-      "entryDate": "2026-05-13",
-      "entryPrice": 383.82,
-      "scoreAtEntry": 75,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 489.48,
-      "positionPct": 5.0,
-      "stopLossPrice": 307.056,
-      "reviewDate": "2026-08-13"
     }
   ],
   "trades": [
@@ -394,6 +366,42 @@
       "plPct": -2.81,
       "holdDays": 12,
       "positionPct": 5.0
+    },
+    {
+      "id": "4721e228",
+      "ticker": "GOOGL",
+      "company": "Alphabet Inc.",
+      "sector": "Communication Services",
+      "entryDate": "2026-05-12",
+      "entryPrice": 388.64,
+      "scoreAtEntry": 75,
+      "labelAtEntry": "Buy Now",
+      "exitDate": "2026-05-14",
+      "exitPrice": 402.62,
+      "exitReason": "label_changed_avoid",
+      "costBasis": 489.65,
+      "proceeds": 507.26,
+      "plPct": 3.6,
+      "holdDays": 2,
+      "positionPct": 5.0
+    },
+    {
+      "id": "3b0d9051",
+      "ticker": "GOOG",
+      "company": "Alphabet Inc.",
+      "sector": "Communication Services",
+      "entryDate": "2026-05-13",
+      "entryPrice": 383.82,
+      "scoreAtEntry": 75,
+      "labelAtEntry": "Buy Now",
+      "exitDate": "2026-05-14",
+      "exitPrice": 399.04,
+      "exitReason": "label_changed_avoid",
+      "costBasis": 489.48,
+      "proceeds": 508.89,
+      "plPct": 3.97,
+      "holdDays": 1,
+      "positionPct": 5.0
     }
   ],
   "navHistory": [
@@ -451,18 +459,23 @@
       "date": "2026-05-13",
       "nav": 9789.65,
       "benchmarkPrice": 134.16
+    },
+    {
+      "date": "2026-05-14",
+      "nav": 9789.92,
+      "benchmarkPrice": 134.86
     }
   ],
   "metrics": {
     "totalReturnPct": -2.1,
-    "benchmarkReturnPct": 3.6,
-    "excessReturnPct": -5.7,
+    "benchmarkReturnPct": 4.14,
+    "excessReturnPct": -6.24,
     "annualizedReturnPct": null,
     "sharpe": null,
     "maxDrawdownPct": -2.1,
-    "tradeCount": 7,
-    "winRatePct": 0.0,
-    "avgHoldDays": 5.6,
-    "openPositions": 18
+    "tradeCount": 9,
+    "winRatePct": 22.2,
+    "avgHoldDays": 4.7,
+    "openPositions": 16
   }
 }
