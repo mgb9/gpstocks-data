@@ -3621,17 +3621,17 @@
     },
     "LRE.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-13",
+      "lastSeen": "2026-05-14",
       "active": true
     },
     "MAB.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-13",
+      "lastSeen": "2026-05-14",
       "active": true
     },
     "MGAM.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-13",
+      "lastSeen": "2026-05-14",
       "active": true
     },
     "MNKS.L": {
@@ -21593,6 +21593,7 @@
       "LNT",
       "LOW",
       "LRCX",
+      "LRE.L",
       "LSEG.L",
       "LULU",
       "LUV",
@@ -21601,6 +21602,7 @@
       "LYV",
       "MA",
       "MAA",
+      "MAB.L",
       "MANU",
       "MAR",
       "MARA",
@@ -21614,6 +21616,7 @@
       "MDT",
       "MET",
       "META",
+      "MGAM.L",
       "MGM",
       "MKC",
       "MKS.L",
