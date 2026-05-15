@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-30",
-  "lastUpdated": "2026-05-14",
+  "lastUpdated": "2026-05-15",
   "config": {
     "initialCapital": 10000.0,
     "currency": "GBP",
@@ -464,12 +464,17 @@
       "date": "2026-05-14",
       "nav": 9789.92,
       "benchmarkPrice": 134.86
+    },
+    {
+      "date": "2026-05-15",
+      "nav": 9811.68,
+      "benchmarkPrice": 135.33
     }
   ],
   "metrics": {
-    "totalReturnPct": -2.1,
-    "benchmarkReturnPct": 4.14,
-    "excessReturnPct": -6.24,
+    "totalReturnPct": -1.88,
+    "benchmarkReturnPct": 4.5,
+    "excessReturnPct": -6.39,
     "annualizedReturnPct": null,
     "sharpe": null,
     "maxDrawdownPct": -2.1,
