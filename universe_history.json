@@ -3621,7 +3621,7 @@
     },
     "LRE.L": {
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-14",
+      "lastSeen": "2026-05-15",
       "active": true
     },
     "MAB.L": {
@@ -22299,6 +22299,7 @@
       "LNT",
       "LOW",
       "LRCX",
+      "LRE.L",
       "LSEG.L",
       "LULU",
       "LUV",
