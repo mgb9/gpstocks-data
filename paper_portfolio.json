@@ -13,10 +13,40 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 7500.0,
+  "cashBalance": 3500.0,
   "positions": [
     {
-      "id": "555a4f59",
+      "id": "90ca6f5e",
+      "ticker": "INCY",
+      "company": "Incyte Corporation",
+      "sector": "Healthcare",
+      "homeIndex": "spy",
+      "entryDate": "2026-06-10",
+      "entryPrice": 103.23,
+      "scoreAtEntry": 90,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 500.0,
+      "positionPct": 5.0,
+      "stopLossPrice": 82.584,
+      "reviewDate": "2026-09-10"
+    },
+    {
+      "id": "8672ffae",
+      "ticker": "GL",
+      "company": "Globe Life Inc.",
+      "sector": "Financials",
+      "homeIndex": "spy",
+      "entryDate": "2026-06-10",
+      "entryPrice": 159.33,
+      "scoreAtEntry": 83,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 500.0,
+      "positionPct": 5.0,
+      "stopLossPrice": 127.464,
+      "reviewDate": "2026-09-10"
+    },
+    {
+      "id": "2eaccda6",
       "ticker": "CINF",
       "company": "Cincinnati Financial Corporatio",
       "sector": "Financials",
@@ -31,7 +61,22 @@
       "reviewDate": "2026-09-10"
     },
     {
-      "id": "dc879ab6",
+      "id": "248d66be",
+      "ticker": "GD",
+      "company": "General Dynamics Corporation",
+      "sector": "Industrials",
+      "homeIndex": "spy",
+      "entryDate": "2026-06-10",
+      "entryPrice": 345.68,
+      "scoreAtEntry": 81,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 500.0,
+      "positionPct": 5.0,
+      "stopLossPrice": 276.544,
+      "reviewDate": "2026-09-10"
+    },
+    {
+      "id": "40b79f19",
       "ticker": "CB",
       "company": "Chubb Limited",
       "sector": "Financials",
@@ -46,7 +91,7 @@
       "reviewDate": "2026-09-10"
     },
     {
-      "id": "062f5e37",
+      "id": "f68008a9",
       "ticker": "EOG",
       "company": "EOG Resources, Inc.",
       "sector": "Energy",
@@ -61,7 +106,22 @@
       "reviewDate": "2026-09-10"
     },
     {
-      "id": "4a415632",
+      "id": "09a25707",
+      "ticker": "IMI.L",
+      "company": "IMI PLC ORD 28 4/7P",
+      "sector": "Industrials",
+      "homeIndex": "isf",
+      "entryDate": "2026-06-10",
+      "entryPrice": 28.1,
+      "scoreAtEntry": 79,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 500.0,
+      "positionPct": 5.0,
+      "stopLossPrice": 22.48,
+      "reviewDate": "2026-09-10"
+    },
+    {
+      "id": "c407c0e6",
       "ticker": "BKR",
       "company": "Baker Hughes Company",
       "sector": "Energy",
@@ -76,7 +136,7 @@
       "reviewDate": "2026-09-10"
     },
     {
-      "id": "e99df97a",
+      "id": "2c949c89",
       "ticker": "DGX",
       "company": "Quest Diagnostics Incorporated",
       "sector": "Healthcare",
@@ -88,6 +148,66 @@
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 163.624,
+      "reviewDate": "2026-09-10"
+    },
+    {
+      "id": "0dbcd4fc",
+      "ticker": "CCH.L",
+      "company": "COCA-COLA HBC AG ORD CHF6.70 (C",
+      "sector": "Consumer Staples",
+      "homeIndex": "isf",
+      "entryDate": "2026-06-10",
+      "entryPrice": 44.16,
+      "scoreAtEntry": 77,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 500.0,
+      "positionPct": 5.0,
+      "stopLossPrice": 35.328,
+      "reviewDate": "2026-09-10"
+    },
+    {
+      "id": "9ce429ed",
+      "ticker": "LH",
+      "company": "Labcorp Holdings Inc.",
+      "sector": "Healthcare",
+      "homeIndex": "spy",
+      "entryDate": "2026-06-10",
+      "entryPrice": 271.24,
+      "scoreAtEntry": 77,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 500.0,
+      "positionPct": 5.0,
+      "stopLossPrice": 216.992,
+      "reviewDate": "2026-09-10"
+    },
+    {
+      "id": "0cc4fdd9",
+      "ticker": "HWM",
+      "company": "Howmet Aerospace Inc.",
+      "sector": "Industrials",
+      "homeIndex": "spy",
+      "entryDate": "2026-06-10",
+      "entryPrice": 257.16,
+      "scoreAtEntry": 76,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 500.0,
+      "positionPct": 5.0,
+      "stopLossPrice": 205.728,
+      "reviewDate": "2026-09-10"
+    },
+    {
+      "id": "e5154885",
+      "ticker": "MAS",
+      "company": "Masco Corporation",
+      "sector": "Industrials",
+      "homeIndex": "spy",
+      "entryDate": "2026-06-10",
+      "entryPrice": 72.35,
+      "scoreAtEntry": 76,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 500.0,
+      "positionPct": 5.0,
+      "stopLossPrice": 57.88,
       "reviewDate": "2026-09-10"
     }
   ],
@@ -103,8 +223,8 @@
       "nav": 10000.0,
       "benchmarkPrice": 133.72,
       "segmentNav": {
-        "spy": 2500.0,
-        "isf": 0.0,
+        "spy": 5500.0,
+        "isf": 1000.0,
         "midd": 0.0,
         "vwrl": 0.0
       }
@@ -120,6 +240,6 @@
     "tradeCount": 0,
     "winRatePct": null,
     "avgHoldDays": null,
-    "openPositions": 5
+    "openPositions": 13
   }
 }
