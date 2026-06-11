@@ -16,7 +16,7 @@
   "cashBalance": 3000.0,
   "positions": [
     {
-      "id": "45b7b7f1",
+      "id": "50612e78",
       "ticker": "INCY",
       "company": "Incyte Corporation",
       "sector": "Healthcare",
@@ -31,7 +31,7 @@
       "reviewDate": "2026-09-11"
     },
     {
-      "id": "a12c5dd7",
+      "id": "62742231",
       "ticker": "GL",
       "company": "Globe Life Inc.",
       "sector": "Financials",
@@ -46,7 +46,7 @@
       "reviewDate": "2026-09-11"
     },
     {
-      "id": "62075127",
+      "id": "a28361e2",
       "ticker": "EOG",
       "company": "EOG Resources, Inc.",
       "sector": "Energy",
@@ -61,7 +61,7 @@
       "reviewDate": "2026-09-11"
     },
     {
-      "id": "71e8afd5",
+      "id": "e87c6dd4",
       "ticker": "CB",
       "company": "Chubb Limited",
       "sector": "Financials",
@@ -76,7 +76,7 @@
       "reviewDate": "2026-09-11"
     },
     {
-      "id": "f043ed22",
+      "id": "7099349b",
       "ticker": "CINF",
       "company": "Cincinnati Financial Corporatio",
       "sector": "Financials",
@@ -91,22 +91,7 @@
       "reviewDate": "2026-09-11"
     },
     {
-      "id": "82a82547",
-      "ticker": "GD",
-      "company": "General Dynamics Corporation",
-      "sector": "Industrials",
-      "homeIndex": "spy",
-      "entryDate": "2026-06-11",
-      "entryPrice": 341.07,
-      "scoreAtEntry": 81,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 272.856,
-      "reviewDate": "2026-09-11"
-    },
-    {
-      "id": "f217d724",
+      "id": "c008b804",
       "ticker": "BKR",
       "company": "Baker Hughes Company",
       "sector": "Energy",
@@ -121,7 +106,7 @@
       "reviewDate": "2026-09-11"
     },
     {
-      "id": "1f8d49c4",
+      "id": "312f31c7",
       "ticker": "DGX",
       "company": "Quest Diagnostics Incorporated",
       "sector": "Healthcare",
@@ -136,7 +121,7 @@
       "reviewDate": "2026-09-11"
     },
     {
-      "id": "162a5670",
+      "id": "f97bcce8",
       "ticker": "CCH.L",
       "company": "COCA-COLA HBC AG ORD CHF6.70 (C",
       "sector": "Consumer Staples",
@@ -151,7 +136,7 @@
       "reviewDate": "2026-09-11"
     },
     {
-      "id": "730f615c",
+      "id": "b6588954",
       "ticker": "IMI.L",
       "company": "IMI PLC ORD 28 4/7P",
       "sector": "Industrials",
@@ -166,7 +151,22 @@
       "reviewDate": "2026-09-11"
     },
     {
-      "id": "7f3208ba",
+      "id": "b1696700",
+      "ticker": "GD",
+      "company": "General Dynamics Corporation",
+      "sector": "Industrials",
+      "homeIndex": "spy",
+      "entryDate": "2026-06-11",
+      "entryPrice": 341.07,
+      "scoreAtEntry": 76,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 500.0,
+      "positionPct": 5.0,
+      "stopLossPrice": 272.856,
+      "reviewDate": "2026-09-11"
+    },
+    {
+      "id": "e844a925",
       "ticker": "LH",
       "company": "Labcorp Holdings Inc.",
       "sector": "Healthcare",
@@ -181,7 +181,7 @@
       "reviewDate": "2026-09-11"
     },
     {
-      "id": "59112937",
+      "id": "a05b63f4",
       "ticker": "MAS",
       "company": "Masco Corporation",
       "sector": "Industrials",
@@ -196,7 +196,7 @@
       "reviewDate": "2026-09-11"
     },
     {
-      "id": "5d7d24f3",
+      "id": "01e4d6ca",
       "ticker": "RL",
       "company": "Ralph Lauren Corporation",
       "sector": "Consumer Discretionary",
@@ -211,7 +211,7 @@
       "reviewDate": "2026-09-11"
     },
     {
-      "id": "94edbed3",
+      "id": "acf67e16",
       "ticker": "MO",
       "company": "Altria Group, Inc.",
       "sector": "Consumer Staples",
@@ -236,7 +236,7 @@
     {
       "date": "2026-06-11",
       "nav": 10000.0,
-      "benchmarkPrice": 134.292,
+      "benchmarkPrice": 134.13,
       "segmentNav": {
         "spy": 6000.0,
         "isf": 1000.0,
