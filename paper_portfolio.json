@@ -13,10 +13,10 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 5500.0,
+  "cashBalance": 5000.0,
   "positions": [
     {
-      "id": "70d67c3a",
+      "id": "9accdfe1",
       "ticker": "INCY",
       "company": "Incyte Corporation",
       "sector": "Healthcare",
@@ -31,7 +31,7 @@
       "reviewDate": "2026-09-15"
     },
     {
-      "id": "cfec1473",
+      "id": "2a803e52",
       "ticker": "CINF",
       "company": "Cincinnati Financial Corporatio",
       "sector": "Financials",
@@ -46,7 +46,7 @@
       "reviewDate": "2026-09-15"
     },
     {
-      "id": "43e6b3ae",
+      "id": "cceec0d4",
       "ticker": "GL",
       "company": "Globe Life Inc.",
       "sector": "Financials",
@@ -61,7 +61,7 @@
       "reviewDate": "2026-09-15"
     },
     {
-      "id": "1bbf2e2c",
+      "id": "9201e73d",
       "ticker": "CB",
       "company": "Chubb Limited",
       "sector": "Financials",
@@ -76,7 +76,7 @@
       "reviewDate": "2026-09-15"
     },
     {
-      "id": "5c81897f",
+      "id": "ae19c437",
       "ticker": "EOG",
       "company": "EOG Resources, Inc.",
       "sector": "Energy",
@@ -91,7 +91,7 @@
       "reviewDate": "2026-09-15"
     },
     {
-      "id": "2d6fd6d9",
+      "id": "d8813a52",
       "ticker": "BKR",
       "company": "Baker Hughes Company",
       "sector": "Energy",
@@ -106,14 +106,29 @@
       "reviewDate": "2026-09-15"
     },
     {
-      "id": "93f53a6f",
+      "id": "5fe9e9e2",
+      "ticker": "HST",
+      "company": "Host Hotels & Resorts, Inc.",
+      "sector": "Real Estate",
+      "homeIndex": "spy",
+      "entryDate": "2026-06-15",
+      "entryPrice": 24.89,
+      "scoreAtEntry": 78,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 500.0,
+      "positionPct": 5.0,
+      "stopLossPrice": 19.912,
+      "reviewDate": "2026-09-15"
+    },
+    {
+      "id": "8a66999b",
       "ticker": "DGX",
       "company": "Quest Diagnostics Incorporated",
       "sector": "Healthcare",
       "homeIndex": "spy",
       "entryDate": "2026-06-15",
       "entryPrice": 203.06,
-      "scoreAtEntry": 76,
+      "scoreAtEntry": 77,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
@@ -121,7 +136,7 @@
       "reviewDate": "2026-09-15"
     },
     {
-      "id": "27b5c33d",
+      "id": "db5f5f43",
       "ticker": "HWM",
       "company": "Howmet Aerospace Inc.",
       "sector": "Industrials",
@@ -136,7 +151,7 @@
       "reviewDate": "2026-09-15"
     },
     {
-      "id": "4a78473c",
+      "id": "ad55bd27",
       "ticker": "IMI.L",
       "company": "IMI PLC ORD 28 4/7P",
       "sector": "Industrials",
@@ -161,9 +176,9 @@
     {
       "date": "2026-06-15",
       "nav": 10000.0,
-      "benchmarkPrice": 138.25,
+      "benchmarkPrice": 138.4,
       "segmentNav": {
-        "spy": 4000.0,
+        "spy": 4500.0,
         "isf": 500.0,
         "midd": 0.0,
         "vwrl": 0.0
@@ -180,6 +195,6 @@
     "tradeCount": 0,
     "winRatePct": null,
     "avgHoldDays": null,
-    "openPositions": 9
+    "openPositions": 10
   }
 }
