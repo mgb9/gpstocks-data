@@ -13,10 +13,10 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 5500.0,
+  "cashBalance": 5000.0,
   "positions": [
     {
-      "id": "f4c14bbf",
+      "id": "fcf40a42",
       "ticker": "INCY",
       "company": "Incyte Corporation",
       "sector": "Healthcare",
@@ -31,7 +31,7 @@
       "reviewDate": "2026-09-17"
     },
     {
-      "id": "b1efe6b5",
+      "id": "27d779a4",
       "ticker": "CB",
       "company": "Chubb Limited",
       "sector": "Financials",
@@ -46,7 +46,7 @@
       "reviewDate": "2026-09-17"
     },
     {
-      "id": "469c5b63",
+      "id": "574c7e46",
       "ticker": "CINF",
       "company": "Cincinnati Financial Corporatio",
       "sector": "Financials",
@@ -61,7 +61,7 @@
       "reviewDate": "2026-09-17"
     },
     {
-      "id": "ce82131a",
+      "id": "c4c0e94d",
       "ticker": "GL",
       "company": "Globe Life Inc.",
       "sector": "Financials",
@@ -76,7 +76,7 @@
       "reviewDate": "2026-09-17"
     },
     {
-      "id": "1948b803",
+      "id": "93c2ec8d",
       "ticker": "CCH.L",
       "company": "COCA-COLA HBC AG ORD CHF6.70 (C",
       "sector": "Consumer Staples",
@@ -91,7 +91,7 @@
       "reviewDate": "2026-09-17"
     },
     {
-      "id": "0a1ca116",
+      "id": "6028f56a",
       "ticker": "DGX",
       "company": "Quest Diagnostics Incorporated",
       "sector": "Healthcare",
@@ -106,7 +106,7 @@
       "reviewDate": "2026-09-17"
     },
     {
-      "id": "8877d255",
+      "id": "511018cf",
       "ticker": "BKR",
       "company": "Baker Hughes Company",
       "sector": "Energy",
@@ -121,7 +121,7 @@
       "reviewDate": "2026-09-17"
     },
     {
-      "id": "239b4b3e",
+      "id": "7d65e141",
       "ticker": "GOOGL",
       "company": "Alphabet Inc.",
       "sector": "Communication Services",
@@ -136,7 +136,7 @@
       "reviewDate": "2026-09-17"
     },
     {
-      "id": "386f74ac",
+      "id": "2d9e4a99",
       "ticker": "IMI.L",
       "company": "IMI PLC ORD 28 4/7P",
       "sector": "Industrials",
@@ -148,6 +148,21 @@
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 23.888,
+      "reviewDate": "2026-09-17"
+    },
+    {
+      "id": "062a8090",
+      "ticker": "MO",
+      "company": "Altria Group, Inc.",
+      "sector": "Consumer Staples",
+      "homeIndex": "spy",
+      "entryDate": "2026-06-17",
+      "entryPrice": 70.19,
+      "scoreAtEntry": 76,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 500.0,
+      "positionPct": 5.0,
+      "stopLossPrice": 56.152,
       "reviewDate": "2026-09-17"
     }
   ],
@@ -161,9 +176,9 @@
     {
       "date": "2026-06-17",
       "nav": 10000.0,
-      "benchmarkPrice": 138.44,
+      "benchmarkPrice": 138.35,
       "segmentNav": {
-        "spy": 3500.0,
+        "spy": 4000.0,
         "isf": 1000.0,
         "midd": 0.0,
         "vwrl": 0.0
@@ -180,6 +195,6 @@
     "tradeCount": 0,
     "winRatePct": null,
     "avgHoldDays": null,
-    "openPositions": 9
+    "openPositions": 10
   }
 }
