@@ -16,7 +16,7 @@
   "cashBalance": 6000.0,
   "positions": [
     {
-      "id": "d2850914",
+      "id": "9358d835",
       "ticker": "INCY",
       "company": "Incyte Corporation",
       "sector": "Healthcare",
@@ -31,7 +31,7 @@
       "reviewDate": "2026-09-18"
     },
     {
-      "id": "ca7c6d49",
+      "id": "e71a0e0c",
       "ticker": "CINF",
       "company": "Cincinnati Financial Corporatio",
       "sector": "Financials",
@@ -46,7 +46,7 @@
       "reviewDate": "2026-09-18"
     },
     {
-      "id": "9aa8944c",
+      "id": "8384c0c6",
       "ticker": "CB",
       "company": "Chubb Limited",
       "sector": "Financials",
@@ -61,7 +61,7 @@
       "reviewDate": "2026-09-18"
     },
     {
-      "id": "8325319f",
+      "id": "06d567c7",
       "ticker": "MO",
       "company": "Altria Group, Inc.",
       "sector": "Consumer Staples",
@@ -76,7 +76,7 @@
       "reviewDate": "2026-09-18"
     },
     {
-      "id": "72e48329",
+      "id": "f4b4ef57",
       "ticker": "GL",
       "company": "Globe Life Inc.",
       "sector": "Financials",
@@ -91,7 +91,7 @@
       "reviewDate": "2026-09-18"
     },
     {
-      "id": "448713fc",
+      "id": "bb1c7f04",
       "ticker": "CCH.L",
       "company": "COCA-COLA HBC AG ORD CHF6.70 (C",
       "sector": "Consumer Staples",
@@ -106,7 +106,7 @@
       "reviewDate": "2026-09-18"
     },
     {
-      "id": "9f0f827d",
+      "id": "3a856aff",
       "ticker": "DGX",
       "company": "Quest Diagnostics Incorporated",
       "sector": "Healthcare",
@@ -121,7 +121,7 @@
       "reviewDate": "2026-09-18"
     },
     {
-      "id": "84fbdf5f",
+      "id": "8d9e5c53",
       "ticker": "IMI.L",
       "company": "IMI PLC ORD 28 4/7P",
       "sector": "Industrials",
@@ -146,7 +146,7 @@
     {
       "date": "2026-06-18",
       "nav": 10000.0,
-      "benchmarkPrice": 138.73,
+      "benchmarkPrice": 139.03,
       "segmentNav": {
         "spy": 3000.0,
         "isf": 1000.0,
