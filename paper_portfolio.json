@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-27",
-  "lastUpdated": "2026-06-18",
+  "lastUpdated": "2026-06-19",
   "config": {
     "initialCapital": 10000,
     "currency": "GBP",
@@ -13,127 +13,112 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 6000.0,
+  "cashBalance": 6500.0,
   "positions": [
     {
-      "id": "9358d835",
+      "id": "f03850d2",
       "ticker": "INCY",
       "company": "Incyte Corporation",
       "sector": "Healthcare",
       "homeIndex": "spy",
-      "entryDate": "2026-06-18",
+      "entryDate": "2026-06-19",
       "entryPrice": 98.99,
       "scoreAtEntry": 89,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 79.192,
-      "reviewDate": "2026-09-18"
+      "reviewDate": "2026-09-19"
     },
     {
-      "id": "e71a0e0c",
+      "id": "25c85726",
       "ticker": "CINF",
       "company": "Cincinnati Financial Corporatio",
       "sector": "Financials",
       "homeIndex": "spy",
-      "entryDate": "2026-06-18",
+      "entryDate": "2026-06-19",
       "entryPrice": 171.47,
       "scoreAtEntry": 82,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 137.176,
-      "reviewDate": "2026-09-18"
+      "reviewDate": "2026-09-19"
     },
     {
-      "id": "8384c0c6",
+      "id": "7a2e43bb",
       "ticker": "CB",
       "company": "Chubb Limited",
       "sector": "Financials",
       "homeIndex": "spy",
-      "entryDate": "2026-06-18",
+      "entryDate": "2026-06-19",
       "entryPrice": 327.96,
       "scoreAtEntry": 81,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 262.368,
-      "reviewDate": "2026-09-18"
+      "reviewDate": "2026-09-19"
     },
     {
-      "id": "06d567c7",
+      "id": "ff905ffd",
       "ticker": "MO",
       "company": "Altria Group, Inc.",
       "sector": "Consumer Staples",
       "homeIndex": "spy",
-      "entryDate": "2026-06-18",
+      "entryDate": "2026-06-19",
       "entryPrice": 68.95,
       "scoreAtEntry": 81,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 55.16,
-      "reviewDate": "2026-09-18"
+      "reviewDate": "2026-09-19"
     },
     {
-      "id": "f4b4ef57",
+      "id": "b91f6de5",
       "ticker": "GL",
       "company": "Globe Life Inc.",
       "sector": "Financials",
       "homeIndex": "spy",
-      "entryDate": "2026-06-18",
+      "entryDate": "2026-06-19",
       "entryPrice": 171.25,
       "scoreAtEntry": 78,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 137.0,
-      "reviewDate": "2026-09-18"
+      "reviewDate": "2026-09-19"
     },
     {
-      "id": "bb1c7f04",
+      "id": "be65593a",
       "ticker": "CCH.L",
       "company": "COCA-COLA HBC AG ORD CHF6.70 (C",
       "sector": "Consumer Staples",
       "homeIndex": "isf",
-      "entryDate": "2026-06-18",
-      "entryPrice": 45.94,
+      "entryDate": "2026-06-19",
+      "entryPrice": 45.86,
       "scoreAtEntry": 77,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
-      "stopLossPrice": 36.752,
-      "reviewDate": "2026-09-18"
+      "stopLossPrice": 36.688,
+      "reviewDate": "2026-09-19"
     },
     {
-      "id": "3a856aff",
+      "id": "5b031141",
       "ticker": "DGX",
       "company": "Quest Diagnostics Incorporated",
       "sector": "Healthcare",
       "homeIndex": "spy",
-      "entryDate": "2026-06-18",
+      "entryDate": "2026-06-19",
       "entryPrice": 197.76,
       "scoreAtEntry": 77,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 158.208,
-      "reviewDate": "2026-09-18"
-    },
-    {
-      "id": "8d9e5c53",
-      "ticker": "IMI.L",
-      "company": "IMI PLC ORD 28 4/7P",
-      "sector": "Industrials",
-      "homeIndex": "isf",
-      "entryDate": "2026-06-18",
-      "entryPrice": 29.74,
-      "scoreAtEntry": 76,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 23.792,
-      "reviewDate": "2026-09-18"
+      "reviewDate": "2026-09-19"
     }
   ],
   "trades": [],
@@ -144,12 +129,12 @@
       "benchmarkPrice": null
     },
     {
-      "date": "2026-06-18",
+      "date": "2026-06-19",
       "nav": 10000.0,
-      "benchmarkPrice": 139.03,
+      "benchmarkPrice": 138.7,
       "segmentNav": {
         "spy": 3000.0,
-        "isf": 1000.0,
+        "isf": 500.0,
         "midd": 0.0,
         "vwrl": 0.0
       }
@@ -165,6 +150,6 @@
     "tradeCount": 0,
     "winRatePct": null,
     "avgHoldDays": null,
-    "openPositions": 8
+    "openPositions": 7
   }
 }
