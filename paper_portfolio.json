@@ -13,10 +13,10 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 5000.0,
+  "cashBalance": 5500.0,
   "positions": [
     {
-      "id": "0e610e61",
+      "id": "1a130e1d",
       "ticker": "INCY",
       "company": "Incyte Corporation",
       "sector": "Healthcare",
@@ -31,22 +31,7 @@
       "reviewDate": "2026-09-22"
     },
     {
-      "id": "d59b7b20",
-      "ticker": "CB",
-      "company": "Chubb Limited",
-      "sector": "Financials",
-      "homeIndex": "spy",
-      "entryDate": "2026-06-22",
-      "entryPrice": 323.4,
-      "scoreAtEntry": 82,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 258.72,
-      "reviewDate": "2026-09-22"
-    },
-    {
-      "id": "67fef79e",
+      "id": "1f8aa040",
       "ticker": "CINF",
       "company": "Cincinnati Financial Corporatio",
       "sector": "Financials",
@@ -61,22 +46,22 @@
       "reviewDate": "2026-09-22"
     },
     {
-      "id": "840e124b",
-      "ticker": "MO",
-      "company": "Altria Group, Inc.",
-      "sector": "Consumer Staples",
+      "id": "ed6e85a6",
+      "ticker": "CB",
+      "company": "Chubb Limited",
+      "sector": "Financials",
       "homeIndex": "spy",
       "entryDate": "2026-06-22",
-      "entryPrice": 69.12,
+      "entryPrice": 323.4,
       "scoreAtEntry": 81,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
-      "stopLossPrice": 55.296,
+      "stopLossPrice": 258.72,
       "reviewDate": "2026-09-22"
     },
     {
-      "id": "67d63603",
+      "id": "797c808e",
       "ticker": "GL",
       "company": "Globe Life Inc.",
       "sector": "Financials",
@@ -91,7 +76,7 @@
       "reviewDate": "2026-09-22"
     },
     {
-      "id": "14ba253d",
+      "id": "94b13a9d",
       "ticker": "CCH.L",
       "company": "COCA-COLA HBC AG ORD CHF6.70 (C",
       "sector": "Consumer Staples",
@@ -106,7 +91,7 @@
       "reviewDate": "2026-09-22"
     },
     {
-      "id": "ee9973a3",
+      "id": "3bbd2fc6",
       "ticker": "DGX",
       "company": "Quest Diagnostics Incorporated",
       "sector": "Healthcare",
@@ -121,7 +106,7 @@
       "reviewDate": "2026-09-22"
     },
     {
-      "id": "4b08d439",
+      "id": "42a110e1",
       "ticker": "GD",
       "company": "General Dynamics Corporation",
       "sector": "Industrials",
@@ -136,7 +121,7 @@
       "reviewDate": "2026-09-22"
     },
     {
-      "id": "16e6bfbe",
+      "id": "aebfb4c3",
       "ticker": "GOOG",
       "company": "Alphabet Inc.",
       "sector": "Communication Services",
@@ -151,7 +136,7 @@
       "reviewDate": "2026-09-22"
     },
     {
-      "id": "99027172",
+      "id": "4ba04fd8",
       "ticker": "GOOGL",
       "company": "Alphabet Inc.",
       "sector": "Communication Services",
@@ -176,9 +161,9 @@
     {
       "date": "2026-06-22",
       "nav": 10000.0,
-      "benchmarkPrice": 139.16,
+      "benchmarkPrice": 138.9,
       "segmentNav": {
-        "spy": 4500.0,
+        "spy": 4000.0,
         "isf": 500.0,
         "midd": 0.0,
         "vwrl": 0.0
@@ -195,6 +180,6 @@
     "tradeCount": 0,
     "winRatePct": null,
     "avgHoldDays": null,
-    "openPositions": 10
+    "openPositions": 9
   }
 }
