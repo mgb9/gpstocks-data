@@ -16,7 +16,7 @@
   "cashBalance": 6500.0,
   "positions": [
     {
-      "id": "2b9d9d4b",
+      "id": "0aef06c6",
       "ticker": "INCY",
       "company": "Incyte Corporation",
       "sector": "Healthcare",
@@ -31,7 +31,7 @@
       "reviewDate": "2026-09-24"
     },
     {
-      "id": "c0792e4e",
+      "id": "38c9d735",
       "ticker": "CB",
       "company": "Chubb Limited",
       "sector": "Financials",
@@ -46,7 +46,7 @@
       "reviewDate": "2026-09-24"
     },
     {
-      "id": "f6ed3edf",
+      "id": "925cd272",
       "ticker": "GL",
       "company": "Globe Life Inc.",
       "sector": "Financials",
@@ -61,7 +61,7 @@
       "reviewDate": "2026-09-24"
     },
     {
-      "id": "59cd135e",
+      "id": "4fc208b6",
       "ticker": "IMI.L",
       "company": "IMI PLC ORD 28 4/7P",
       "sector": "Industrials",
@@ -76,7 +76,7 @@
       "reviewDate": "2026-09-24"
     },
     {
-      "id": "75fcd752",
+      "id": "6959b9fe",
       "ticker": "DGX",
       "company": "Quest Diagnostics Incorporated",
       "sector": "Healthcare",
@@ -91,7 +91,7 @@
       "reviewDate": "2026-09-24"
     },
     {
-      "id": "f66915f3",
+      "id": "241ce4e3",
       "ticker": "CINF",
       "company": "Cincinnati Financial Corporatio",
       "sector": "Financials",
@@ -106,7 +106,7 @@
       "reviewDate": "2026-09-24"
     },
     {
-      "id": "60d2c3d1",
+      "id": "2d908806",
       "ticker": "GD",
       "company": "General Dynamics Corporation",
       "sector": "Industrials",
@@ -131,7 +131,7 @@
     {
       "date": "2026-06-24",
       "nav": 10000.0,
-      "benchmarkPrice": 137.18,
+      "benchmarkPrice": 137.64,
       "segmentNav": {
         "spy": 3000.0,
         "isf": 500.0,
