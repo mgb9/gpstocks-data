@@ -13,10 +13,10 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 6000.0,
+  "cashBalance": 5500.0,
   "positions": [
     {
-      "id": "1343e20b",
+      "id": "451fa5f8",
       "ticker": "INCY",
       "company": "Incyte Corporation",
       "sector": "Healthcare",
@@ -31,7 +31,7 @@
       "reviewDate": "2026-09-25"
     },
     {
-      "id": "ae84e7a1",
+      "id": "af2f3aef",
       "ticker": "CB",
       "company": "Chubb Limited",
       "sector": "Financials",
@@ -46,7 +46,7 @@
       "reviewDate": "2026-09-25"
     },
     {
-      "id": "d298bda9",
+      "id": "fecf86b8",
       "ticker": "GD",
       "company": "General Dynamics Corporation",
       "sector": "Industrials",
@@ -61,7 +61,7 @@
       "reviewDate": "2026-09-25"
     },
     {
-      "id": "638a6cf6",
+      "id": "b68351ae",
       "ticker": "GL",
       "company": "Globe Life Inc.",
       "sector": "Financials",
@@ -76,7 +76,7 @@
       "reviewDate": "2026-09-25"
     },
     {
-      "id": "cd983184",
+      "id": "6687add8",
       "ticker": "IMI.L",
       "company": "IMI PLC ORD 28 4/7P",
       "sector": "Industrials",
@@ -91,7 +91,7 @@
       "reviewDate": "2026-09-25"
     },
     {
-      "id": "1341f45c",
+      "id": "b5ab6f5c",
       "ticker": "CINF",
       "company": "Cincinnati Financial Corporatio",
       "sector": "Financials",
@@ -106,14 +106,29 @@
       "reviewDate": "2026-09-25"
     },
     {
-      "id": "5da2006e",
+      "id": "c130bb16",
+      "ticker": "ROST",
+      "company": "Ross Stores, Inc.",
+      "sector": "Consumer Discretionary",
+      "homeIndex": "spy",
+      "entryDate": "2026-06-25",
+      "entryPrice": 228.59,
+      "scoreAtEntry": 77,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 500.0,
+      "positionPct": 5.0,
+      "stopLossPrice": 182.872,
+      "reviewDate": "2026-09-25"
+    },
+    {
+      "id": "f9b89a4a",
       "ticker": "DGX",
       "company": "Quest Diagnostics Incorporated",
       "sector": "Healthcare",
       "homeIndex": "spy",
       "entryDate": "2026-06-25",
       "entryPrice": 203.11,
-      "scoreAtEntry": 77,
+      "scoreAtEntry": 76,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
@@ -121,7 +136,7 @@
       "reviewDate": "2026-09-25"
     },
     {
-      "id": "083b8adb",
+      "id": "4f323ff1",
       "ticker": "AZN.L",
       "company": "ASTRAZENECA PLC ORD SHS $0.25",
       "sector": "Healthcare",
@@ -146,9 +161,9 @@
     {
       "date": "2026-06-25",
       "nav": 10000.0,
-      "benchmarkPrice": 138.07,
+      "benchmarkPrice": 137.09,
       "segmentNav": {
-        "spy": 3000.0,
+        "spy": 3500.0,
         "isf": 1000.0,
         "midd": 0.0,
         "vwrl": 0.0
@@ -165,6 +180,6 @@
     "tradeCount": 0,
     "winRatePct": null,
     "avgHoldDays": null,
-    "openPositions": 8
+    "openPositions": 9
   }
 }
