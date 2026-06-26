@@ -13,10 +13,10 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 5000.0,
+  "cashBalance": 5500.0,
   "positions": [
     {
-      "id": "5af82510",
+      "id": "e4d6b485",
       "ticker": "INCY",
       "company": "Incyte Corporation",
       "sector": "Healthcare",
@@ -31,7 +31,7 @@
       "reviewDate": "2026-09-26"
     },
     {
-      "id": "1518b3a9",
+      "id": "2c3b0e24",
       "ticker": "CB",
       "company": "Chubb Limited",
       "sector": "Financials",
@@ -46,22 +46,7 @@
       "reviewDate": "2026-09-26"
     },
     {
-      "id": "254107a2",
-      "ticker": "GD",
-      "company": "General Dynamics Corporation",
-      "sector": "Industrials",
-      "homeIndex": "spy",
-      "entryDate": "2026-06-26",
-      "entryPrice": 344.7,
-      "scoreAtEntry": 80,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 275.76,
-      "reviewDate": "2026-09-26"
-    },
-    {
-      "id": "e1661c60",
+      "id": "4e156cbe",
       "ticker": "DGX",
       "company": "Quest Diagnostics Incorporated",
       "sector": "Healthcare",
@@ -76,7 +61,7 @@
       "reviewDate": "2026-09-26"
     },
     {
-      "id": "bcab1504",
+      "id": "a908117c",
       "ticker": "GL",
       "company": "Globe Life Inc.",
       "sector": "Financials",
@@ -91,7 +76,7 @@
       "reviewDate": "2026-09-26"
     },
     {
-      "id": "33e831ff",
+      "id": "d5d6edb0",
       "ticker": "CINF",
       "company": "Cincinnati Financial Corporatio",
       "sector": "Financials",
@@ -106,7 +91,7 @@
       "reviewDate": "2026-09-26"
     },
     {
-      "id": "499f0ca7",
+      "id": "f4173598",
       "ticker": "HWM",
       "company": "Howmet Aerospace Inc.",
       "sector": "Industrials",
@@ -121,7 +106,7 @@
       "reviewDate": "2026-09-26"
     },
     {
-      "id": "192de903",
+      "id": "a225f487",
       "ticker": "IMI.L",
       "company": "IMI PLC ORD 28 4/7P",
       "sector": "Industrials",
@@ -136,7 +121,7 @@
       "reviewDate": "2026-09-26"
     },
     {
-      "id": "b286d1ac",
+      "id": "660283a8",
       "ticker": "LH",
       "company": "Labcorp Holdings Inc.",
       "sector": "Healthcare",
@@ -151,7 +136,7 @@
       "reviewDate": "2026-09-26"
     },
     {
-      "id": "eddd06c1",
+      "id": "aab9f77e",
       "ticker": "AZN.L",
       "company": "ASTRAZENECA PLC ORD SHS $0.25",
       "sector": "Healthcare",
@@ -176,9 +161,9 @@
     {
       "date": "2026-06-26",
       "nav": 10000.0,
-      "benchmarkPrice": 135.82,
+      "benchmarkPrice": 136.8,
       "segmentNav": {
-        "spy": 4000.0,
+        "spy": 3500.0,
         "isf": 1000.0,
         "midd": 0.0,
         "vwrl": 0.0
@@ -195,6 +180,6 @@
     "tradeCount": 0,
     "winRatePct": null,
     "avgHoldDays": null,
-    "openPositions": 10
+    "openPositions": 9
   }
 }
