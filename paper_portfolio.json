@@ -16,7 +16,7 @@
   "cashBalance": 4500.0,
   "positions": [
     {
-      "id": "88509c04",
+      "id": "a045975e",
       "ticker": "INCY",
       "company": "Incyte Corporation",
       "sector": "Healthcare",
@@ -31,7 +31,7 @@
       "reviewDate": "2026-09-30"
     },
     {
-      "id": "08324f3e",
+      "id": "708f9e33",
       "ticker": "HIG",
       "company": "The Hartford Insurance Group, I",
       "sector": "Financials",
@@ -46,7 +46,7 @@
       "reviewDate": "2026-09-30"
     },
     {
-      "id": "ef4b2d44",
+      "id": "30a44d09",
       "ticker": "CB",
       "company": "Chubb Limited",
       "sector": "Financials",
@@ -61,7 +61,7 @@
       "reviewDate": "2026-09-30"
     },
     {
-      "id": "4c4ca8c8",
+      "id": "0b3a120c",
       "ticker": "GL",
       "company": "Globe Life Inc.",
       "sector": "Financials",
@@ -76,7 +76,7 @@
       "reviewDate": "2026-09-30"
     },
     {
-      "id": "c0d79772",
+      "id": "6b6d0cfa",
       "ticker": "IMI.L",
       "company": "IMI PLC ORD 28 4/7P",
       "sector": "Industrials",
@@ -91,7 +91,7 @@
       "reviewDate": "2026-09-30"
     },
     {
-      "id": "7ddc682c",
+      "id": "b87e6a69",
       "ticker": "CINF",
       "company": "Cincinnati Financial Corporatio",
       "sector": "Financials",
@@ -106,7 +106,7 @@
       "reviewDate": "2026-09-30"
     },
     {
-      "id": "31668f8f",
+      "id": "0637cc3a",
       "ticker": "LH",
       "company": "Labcorp Holdings Inc.",
       "sector": "Healthcare",
@@ -121,7 +121,7 @@
       "reviewDate": "2026-09-30"
     },
     {
-      "id": "9638212e",
+      "id": "c91884fc",
       "ticker": "AZN.L",
       "company": "ASTRAZENECA PLC ORD SHS $0.25",
       "sector": "Healthcare",
@@ -136,7 +136,7 @@
       "reviewDate": "2026-09-30"
     },
     {
-      "id": "0e69521f",
+      "id": "31addb37",
       "ticker": "HWM",
       "company": "Howmet Aerospace Inc.",
       "sector": "Industrials",
@@ -151,7 +151,7 @@
       "reviewDate": "2026-09-30"
     },
     {
-      "id": "f6989b37",
+      "id": "31d22140",
       "ticker": "DGX",
       "company": "Quest Diagnostics Incorporated",
       "sector": "Healthcare",
@@ -166,7 +166,7 @@
       "reviewDate": "2026-09-30"
     },
     {
-      "id": "12a6391f",
+      "id": "60563814",
       "ticker": "RL",
       "company": "Ralph Lauren Corporation",
       "sector": "Consumer Discretionary",
@@ -191,7 +191,7 @@
     {
       "date": "2026-06-30",
       "nav": 10000.0,
-      "benchmarkPrice": 137.75,
+      "benchmarkPrice": 137.84,
       "segmentNav": {
         "spy": 4500.0,
         "isf": 1000.0,
