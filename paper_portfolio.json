@@ -16,7 +16,7 @@
   "cashBalance": 5500.0,
   "positions": [
     {
-      "id": "7a4c6727",
+      "id": "07523c60",
       "ticker": "INCY",
       "company": "Incyte Corporation",
       "sector": "Healthcare",
@@ -31,7 +31,7 @@
       "reviewDate": "2026-10-01"
     },
     {
-      "id": "a535bd16",
+      "id": "e9655b38",
       "ticker": "CB",
       "company": "Chubb Limited",
       "sector": "Financials",
@@ -46,7 +46,7 @@
       "reviewDate": "2026-10-01"
     },
     {
-      "id": "3f9b87f5",
+      "id": "159f3073",
       "ticker": "GL",
       "company": "Globe Life Inc.",
       "sector": "Financials",
@@ -61,7 +61,7 @@
       "reviewDate": "2026-10-01"
     },
     {
-      "id": "61ce1fe6",
+      "id": "1830dd78",
       "ticker": "CINF",
       "company": "Cincinnati Financial Corporatio",
       "sector": "Financials",
@@ -76,14 +76,14 @@
       "reviewDate": "2026-10-01"
     },
     {
-      "id": "47056d33",
+      "id": "cebc838b",
       "ticker": "LH",
       "company": "Labcorp Holdings Inc.",
       "sector": "Healthcare",
       "homeIndex": "spy",
       "entryDate": "2026-07-01",
       "entryPrice": 280,
-      "scoreAtEntry": 77,
+      "scoreAtEntry": 76,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
@@ -91,22 +91,7 @@
       "reviewDate": "2026-10-01"
     },
     {
-      "id": "38de3582",
-      "ticker": "GD",
-      "company": "General Dynamics Corporation",
-      "sector": "Industrials",
-      "homeIndex": "spy",
-      "entryDate": "2026-07-01",
-      "entryPrice": 354.24,
-      "scoreAtEntry": 76,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 283.392,
-      "reviewDate": "2026-10-01"
-    },
-    {
-      "id": "f5d2e8d8",
+      "id": "341145c3",
       "ticker": "DGX",
       "company": "Quest Diagnostics Incorporated",
       "sector": "Healthcare",
@@ -121,7 +106,22 @@
       "reviewDate": "2026-10-01"
     },
     {
-      "id": "3fc41ded",
+      "id": "c8e98b08",
+      "ticker": "GD",
+      "company": "General Dynamics Corporation",
+      "sector": "Industrials",
+      "homeIndex": "spy",
+      "entryDate": "2026-07-01",
+      "entryPrice": 354.24,
+      "scoreAtEntry": 75,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 500.0,
+      "positionPct": 5.0,
+      "stopLossPrice": 283.392,
+      "reviewDate": "2026-10-01"
+    },
+    {
+      "id": "8f51906c",
       "ticker": "NXT.L",
       "company": "NEXT PLC ORD 10P",
       "sector": "Consumer Discretionary",
@@ -136,7 +136,7 @@
       "reviewDate": "2026-10-01"
     },
     {
-      "id": "d7c64d54",
+      "id": "bbe10518",
       "ticker": "RL",
       "company": "Ralph Lauren Corporation",
       "sector": "Consumer Discretionary",
@@ -161,7 +161,7 @@
     {
       "date": "2026-07-01",
       "nav": 10000.0,
-      "benchmarkPrice": 137.87,
+      "benchmarkPrice": 137.88,
       "segmentNav": {
         "spy": 4000.0,
         "isf": 500.0,
