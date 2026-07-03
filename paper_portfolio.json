@@ -13,10 +13,10 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 3500.0,
+  "cashBalance": 4500.0,
   "positions": [
     {
-      "id": "b7f4d663",
+      "id": "1c40076b",
       "ticker": "HIG",
       "company": "The Hartford Insurance Group, I",
       "sector": "Financials",
@@ -31,7 +31,7 @@
       "reviewDate": "2026-10-03"
     },
     {
-      "id": "b1a79b5e",
+      "id": "424ce5e3",
       "ticker": "INCY",
       "company": "Incyte Corporation",
       "sector": "Healthcare",
@@ -46,7 +46,7 @@
       "reviewDate": "2026-10-03"
     },
     {
-      "id": "702bb03b",
+      "id": "e35471c6",
       "ticker": "CINF",
       "company": "Cincinnati Financial Corporatio",
       "sector": "Financials",
@@ -61,7 +61,7 @@
       "reviewDate": "2026-10-03"
     },
     {
-      "id": "7b1eb018",
+      "id": "7cd59a57",
       "ticker": "IMI.L",
       "company": "IMI PLC ORD 28 4/7P",
       "sector": "Industrials",
@@ -76,7 +76,7 @@
       "reviewDate": "2026-10-03"
     },
     {
-      "id": "32f8bd58",
+      "id": "3109be44",
       "ticker": "CB",
       "company": "Chubb Limited",
       "sector": "Financials",
@@ -91,7 +91,7 @@
       "reviewDate": "2026-10-03"
     },
     {
-      "id": "9c59fed7",
+      "id": "8a656968",
       "ticker": "GL",
       "company": "Globe Life Inc.",
       "sector": "Financials",
@@ -106,37 +106,7 @@
       "reviewDate": "2026-10-03"
     },
     {
-      "id": "8f99d5f3",
-      "ticker": "GOOG",
-      "company": "Alphabet Inc.",
-      "sector": "Communication Services",
-      "homeIndex": "spy",
-      "entryDate": "2026-07-03",
-      "entryPrice": 356.18,
-      "scoreAtEntry": 76,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 284.944,
-      "reviewDate": "2026-10-03"
-    },
-    {
-      "id": "c718a2f4",
-      "ticker": "GOOGL",
-      "company": "Alphabet Inc.",
-      "sector": "Communication Services",
-      "homeIndex": "spy",
-      "entryDate": "2026-07-03",
-      "entryPrice": 359.91,
-      "scoreAtEntry": 76,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 287.928,
-      "reviewDate": "2026-10-03"
-    },
-    {
-      "id": "d4112a62",
+      "id": "e3bbb9fe",
       "ticker": "HWM",
       "company": "Howmet Aerospace Inc.",
       "sector": "Industrials",
@@ -151,7 +121,7 @@
       "reviewDate": "2026-10-03"
     },
     {
-      "id": "11684ae1",
+      "id": "a9064074",
       "ticker": "LH",
       "company": "Labcorp Holdings Inc.",
       "sector": "Healthcare",
@@ -166,7 +136,7 @@
       "reviewDate": "2026-10-03"
     },
     {
-      "id": "94bdde34",
+      "id": "c5bc3d3f",
       "ticker": "AMZN",
       "company": "Amazon.com, Inc.",
       "sector": "Consumer Discretionary",
@@ -181,7 +151,7 @@
       "reviewDate": "2026-10-03"
     },
     {
-      "id": "7d2c14ef",
+      "id": "08bede3f",
       "ticker": "NXT.L",
       "company": "NEXT PLC ORD 10P",
       "sector": "Consumer Discretionary",
@@ -196,7 +166,7 @@
       "reviewDate": "2026-10-03"
     },
     {
-      "id": "31cc4d5b",
+      "id": "eaed8fc1",
       "ticker": "RL",
       "company": "Ralph Lauren Corporation",
       "sector": "Consumer Discretionary",
@@ -221,9 +191,9 @@
     {
       "date": "2026-07-03",
       "nav": 10000.0,
-      "benchmarkPrice": 137.48,
+      "benchmarkPrice": 137.65,
       "segmentNav": {
-        "spy": 5500.0,
+        "spy": 4500.0,
         "isf": 1000.0,
         "midd": 0.0,
         "vwrl": 0.0
@@ -240,6 +210,6 @@
     "tradeCount": 0,
     "winRatePct": null,
     "avgHoldDays": null,
-    "openPositions": 13
+    "openPositions": 11
   }
 }
