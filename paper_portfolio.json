@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-27",
-  "lastUpdated": "2026-07-03",
+  "lastUpdated": "2026-07-06",
   "config": {
     "initialCapital": 10000,
     "currency": "GBP",
@@ -13,172 +13,202 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 4500.0,
+  "cashBalance": 3500.0,
   "positions": [
     {
-      "id": "1c40076b",
+      "id": "611cdc2f",
       "ticker": "HIG",
       "company": "The Hartford Insurance Group, I",
       "sector": "Financials",
       "homeIndex": "spy",
-      "entryDate": "2026-07-03",
+      "entryDate": "2026-07-06",
       "entryPrice": 137.85,
       "scoreAtEntry": 84,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 110.28,
-      "reviewDate": "2026-10-03"
+      "reviewDate": "2026-10-06"
     },
     {
-      "id": "424ce5e3",
+      "id": "a92af751",
       "ticker": "INCY",
       "company": "Incyte Corporation",
       "sector": "Healthcare",
       "homeIndex": "spy",
-      "entryDate": "2026-07-03",
+      "entryDate": "2026-07-06",
       "entryPrice": 116.86,
-      "scoreAtEntry": 83,
+      "scoreAtEntry": 84,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 93.488,
-      "reviewDate": "2026-10-03"
+      "reviewDate": "2026-10-06"
     },
     {
-      "id": "e35471c6",
+      "id": "d3c394a7",
       "ticker": "CINF",
       "company": "Cincinnati Financial Corporatio",
       "sector": "Financials",
       "homeIndex": "spy",
-      "entryDate": "2026-07-03",
+      "entryDate": "2026-07-06",
       "entryPrice": 192.03,
       "scoreAtEntry": 78,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 153.624,
-      "reviewDate": "2026-10-03"
+      "reviewDate": "2026-10-06"
     },
     {
-      "id": "7cd59a57",
+      "id": "1e6dd5e3",
       "ticker": "IMI.L",
       "company": "IMI PLC ORD 28 4/7P",
       "sector": "Industrials",
       "homeIndex": "isf",
-      "entryDate": "2026-07-03",
-      "entryPrice": 29.16,
+      "entryDate": "2026-07-06",
+      "entryPrice": 29.4,
       "scoreAtEntry": 78,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
-      "stopLossPrice": 23.328,
-      "reviewDate": "2026-10-03"
+      "stopLossPrice": 23.52,
+      "reviewDate": "2026-10-06"
     },
     {
-      "id": "3109be44",
+      "id": "fc3b299d",
       "ticker": "CB",
       "company": "Chubb Limited",
       "sector": "Financials",
       "homeIndex": "spy",
-      "entryDate": "2026-07-03",
+      "entryDate": "2026-07-06",
       "entryPrice": 361.17,
       "scoreAtEntry": 77,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 288.936,
-      "reviewDate": "2026-10-03"
+      "reviewDate": "2026-10-06"
     },
     {
-      "id": "8a656968",
+      "id": "66110757",
+      "ticker": "DGX",
+      "company": "Quest Diagnostics Incorporated",
+      "sector": "Healthcare",
+      "homeIndex": "spy",
+      "entryDate": "2026-07-06",
+      "entryPrice": 215.72,
+      "scoreAtEntry": 77,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 500.0,
+      "positionPct": 5.0,
+      "stopLossPrice": 172.576,
+      "reviewDate": "2026-10-06"
+    },
+    {
+      "id": "20e0b3be",
       "ticker": "GL",
       "company": "Globe Life Inc.",
       "sector": "Financials",
       "homeIndex": "spy",
-      "entryDate": "2026-07-03",
+      "entryDate": "2026-07-06",
       "entryPrice": 180.49,
       "scoreAtEntry": 76,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 144.392,
-      "reviewDate": "2026-10-03"
+      "reviewDate": "2026-10-06"
     },
     {
-      "id": "e3bbb9fe",
+      "id": "41af9e61",
       "ticker": "HWM",
       "company": "Howmet Aerospace Inc.",
       "sector": "Industrials",
       "homeIndex": "spy",
-      "entryDate": "2026-07-03",
+      "entryDate": "2026-07-06",
       "entryPrice": 270.41,
       "scoreAtEntry": 76,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 216.328,
-      "reviewDate": "2026-10-03"
+      "reviewDate": "2026-10-06"
     },
     {
-      "id": "a9064074",
+      "id": "50b19a22",
       "ticker": "LH",
       "company": "Labcorp Holdings Inc.",
       "sector": "Healthcare",
       "homeIndex": "spy",
-      "entryDate": "2026-07-03",
+      "entryDate": "2026-07-06",
       "entryPrice": 286.98,
       "scoreAtEntry": 76,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 229.584,
-      "reviewDate": "2026-10-03"
+      "reviewDate": "2026-10-06"
     },
     {
-      "id": "c5bc3d3f",
+      "id": "40b1af68",
       "ticker": "AMZN",
       "company": "Amazon.com, Inc.",
       "sector": "Consumer Discretionary",
       "homeIndex": "spy",
-      "entryDate": "2026-07-03",
+      "entryDate": "2026-07-06",
       "entryPrice": 242.67,
       "scoreAtEntry": 75,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 194.136,
-      "reviewDate": "2026-10-03"
+      "reviewDate": "2026-10-06"
     },
     {
-      "id": "08bede3f",
-      "ticker": "NXT.L",
-      "company": "NEXT PLC ORD 10P",
-      "sector": "Consumer Discretionary",
+      "id": "81885dfb",
+      "ticker": "AZN.L",
+      "company": "ASTRAZENECA PLC ORD SHS $0.25",
+      "sector": "Healthcare",
       "homeIndex": "isf",
-      "entryDate": "2026-07-03",
-      "entryPrice": 146.65,
+      "entryDate": "2026-07-06",
+      "entryPrice": 144.56,
       "scoreAtEntry": 75,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
-      "stopLossPrice": 117.32,
-      "reviewDate": "2026-10-03"
+      "stopLossPrice": 115.648,
+      "reviewDate": "2026-10-06"
     },
     {
-      "id": "eaed8fc1",
+      "id": "76f96b83",
+      "ticker": "NXT.L",
+      "company": "NEXT PLC ORD 10P",
+      "sector": "Consumer Discretionary",
+      "homeIndex": "isf",
+      "entryDate": "2026-07-06",
+      "entryPrice": 146.1,
+      "scoreAtEntry": 75,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 500.0,
+      "positionPct": 5.0,
+      "stopLossPrice": 116.88,
+      "reviewDate": "2026-10-06"
+    },
+    {
+      "id": "62af1cec",
       "ticker": "RL",
       "company": "Ralph Lauren Corporation",
       "sector": "Consumer Discretionary",
       "homeIndex": "spy",
-      "entryDate": "2026-07-03",
+      "entryDate": "2026-07-06",
       "entryPrice": 398.22,
       "scoreAtEntry": 75,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 318.576,
-      "reviewDate": "2026-10-03"
+      "reviewDate": "2026-10-06"
     }
   ],
   "trades": [],
@@ -189,12 +219,12 @@
       "benchmarkPrice": null
     },
     {
-      "date": "2026-07-03",
+      "date": "2026-07-06",
       "nav": 10000.0,
-      "benchmarkPrice": 137.65,
+      "benchmarkPrice": 137.77,
       "segmentNav": {
-        "spy": 4500.0,
-        "isf": 1000.0,
+        "spy": 5000.0,
+        "isf": 1500.0,
         "midd": 0.0,
         "vwrl": 0.0
       }
@@ -210,6 +240,6 @@
     "tradeCount": 0,
     "winRatePct": null,
     "avgHoldDays": null,
-    "openPositions": 11
+    "openPositions": 13
   }
 }
