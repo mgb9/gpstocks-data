@@ -13,10 +13,10 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 3000.0,
+  "cashBalance": 3500.0,
   "positions": [
     {
-      "id": "35043d8f",
+      "id": "a1fc4168",
       "ticker": "HIG",
       "company": "The Hartford Insurance Group, I",
       "sector": "Financials",
@@ -31,7 +31,7 @@
       "reviewDate": "2026-10-07"
     },
     {
-      "id": "fd577524",
+      "id": "accd6595",
       "ticker": "INCY",
       "company": "Incyte Corporation",
       "sector": "Healthcare",
@@ -46,7 +46,7 @@
       "reviewDate": "2026-10-07"
     },
     {
-      "id": "d93fd6f2",
+      "id": "6d9ca277",
       "ticker": "CB",
       "company": "Chubb Limited",
       "sector": "Financials",
@@ -61,7 +61,7 @@
       "reviewDate": "2026-10-07"
     },
     {
-      "id": "0427312f",
+      "id": "3d8529f6",
       "ticker": "CINF",
       "company": "Cincinnati Financial Corporatio",
       "sector": "Financials",
@@ -76,22 +76,22 @@
       "reviewDate": "2026-10-07"
     },
     {
-      "id": "d1a2aea3",
-      "ticker": "GILD",
-      "company": "Gilead Sciences, Inc.",
-      "sector": "Healthcare",
-      "homeIndex": "spy",
+      "id": "7e21aeb1",
+      "ticker": "IMI.L",
+      "company": "IMI PLC ORD 28 4/7P",
+      "sector": "Industrials",
+      "homeIndex": "isf",
       "entryDate": "2026-07-07",
-      "entryPrice": 129.61,
-      "scoreAtEntry": 78,
+      "entryPrice": 28.98,
+      "scoreAtEntry": 77,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
-      "stopLossPrice": 103.688,
+      "stopLossPrice": 23.184,
       "reviewDate": "2026-10-07"
     },
     {
-      "id": "c96d9476",
+      "id": "0db0dafe",
       "ticker": "GL",
       "company": "Globe Life Inc.",
       "sector": "Financials",
@@ -106,7 +106,7 @@
       "reviewDate": "2026-10-07"
     },
     {
-      "id": "938a00bd",
+      "id": "7b8852e5",
       "ticker": "GOOG",
       "company": "Alphabet Inc.",
       "sector": "Communication Services",
@@ -121,7 +121,7 @@
       "reviewDate": "2026-10-07"
     },
     {
-      "id": "5c43ffd6",
+      "id": "2e53f495",
       "ticker": "GOOGL",
       "company": "Alphabet Inc.",
       "sector": "Communication Services",
@@ -136,22 +136,7 @@
       "reviewDate": "2026-10-07"
     },
     {
-      "id": "6fbc60fe",
-      "ticker": "IMI.L",
-      "company": "IMI PLC ORD 28 4/7P",
-      "sector": "Industrials",
-      "homeIndex": "isf",
-      "entryDate": "2026-07-07",
-      "entryPrice": 28.98,
-      "scoreAtEntry": 76,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 23.184,
-      "reviewDate": "2026-10-07"
-    },
-    {
-      "id": "5d8e8024",
+      "id": "fa982705",
       "ticker": "LH",
       "company": "Labcorp Holdings Inc.",
       "sector": "Healthcare",
@@ -166,7 +151,7 @@
       "reviewDate": "2026-10-07"
     },
     {
-      "id": "ac054e87",
+      "id": "d8806b97",
       "ticker": "AMZN",
       "company": "Amazon.com, Inc.",
       "sector": "Consumer Discretionary",
@@ -181,7 +166,7 @@
       "reviewDate": "2026-10-07"
     },
     {
-      "id": "9a03be5d",
+      "id": "59d05dd0",
       "ticker": "DGX",
       "company": "Quest Diagnostics Incorporated",
       "sector": "Healthcare",
@@ -196,7 +181,7 @@
       "reviewDate": "2026-10-07"
     },
     {
-      "id": "9341baaa",
+      "id": "b76ab18e",
       "ticker": "NXT.L",
       "company": "NEXT PLC ORD 10P",
       "sector": "Consumer Discretionary",
@@ -211,7 +196,7 @@
       "reviewDate": "2026-10-07"
     },
     {
-      "id": "3bdb357d",
+      "id": "de9fc5bf",
       "ticker": "RL",
       "company": "Ralph Lauren Corporation",
       "sector": "Consumer Discretionary",
@@ -236,9 +221,9 @@
     {
       "date": "2026-07-07",
       "nav": 10000.0,
-      "benchmarkPrice": 137.3025,
+      "benchmarkPrice": 136.38,
       "segmentNav": {
-        "spy": 6000.0,
+        "spy": 5500.0,
         "isf": 1000.0,
         "midd": 0.0,
         "vwrl": 0.0
@@ -255,6 +240,6 @@
     "tradeCount": 0,
     "winRatePct": null,
     "avgHoldDays": null,
-    "openPositions": 14
+    "openPositions": 13
   }
 }
