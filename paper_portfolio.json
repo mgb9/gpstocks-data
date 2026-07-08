@@ -13,10 +13,10 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 4500.0,
+  "cashBalance": 5500.0,
   "positions": [
     {
-      "id": "79121d4e",
+      "id": "27ca16b4",
       "ticker": "HIG",
       "company": "The Hartford Insurance Group, I",
       "sector": "Financials",
@@ -31,7 +31,7 @@
       "reviewDate": "2026-10-08"
     },
     {
-      "id": "f4c0f782",
+      "id": "1d0fff89",
       "ticker": "CB",
       "company": "Chubb Limited",
       "sector": "Financials",
@@ -46,7 +46,7 @@
       "reviewDate": "2026-10-08"
     },
     {
-      "id": "3dd73d6e",
+      "id": "9bb6cb23",
       "ticker": "EOG",
       "company": "EOG Resources, Inc.",
       "sector": "Energy",
@@ -61,7 +61,7 @@
       "reviewDate": "2026-10-08"
     },
     {
-      "id": "a91ded13",
+      "id": "e879c07d",
       "ticker": "INCY",
       "company": "Incyte Corporation",
       "sector": "Healthcare",
@@ -76,7 +76,7 @@
       "reviewDate": "2026-10-08"
     },
     {
-      "id": "955f6c35",
+      "id": "9aa562b0",
       "ticker": "CINF",
       "company": "Cincinnati Financial Corporatio",
       "sector": "Financials",
@@ -91,7 +91,7 @@
       "reviewDate": "2026-10-08"
     },
     {
-      "id": "4b727e54",
+      "id": "1bff1567",
       "ticker": "DGX",
       "company": "Quest Diagnostics Incorporated",
       "sector": "Healthcare",
@@ -106,37 +106,7 @@
       "reviewDate": "2026-10-08"
     },
     {
-      "id": "3eb2cb81",
-      "ticker": "GOOG",
-      "company": "Alphabet Inc.",
-      "sector": "Communication Services",
-      "homeIndex": "spy",
-      "entryDate": "2026-07-08",
-      "entryPrice": 363.62,
-      "scoreAtEntry": 76,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 290.896,
-      "reviewDate": "2026-10-08"
-    },
-    {
-      "id": "584c13e6",
-      "ticker": "GOOGL",
-      "company": "Alphabet Inc.",
-      "sector": "Communication Services",
-      "homeIndex": "spy",
-      "entryDate": "2026-07-08",
-      "entryPrice": 367.03,
-      "scoreAtEntry": 76,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 293.624,
-      "reviewDate": "2026-10-08"
-    },
-    {
-      "id": "923bc923",
+      "id": "86e1acb3",
       "ticker": "LH",
       "company": "Labcorp Holdings Inc.",
       "sector": "Healthcare",
@@ -151,22 +121,22 @@
       "reviewDate": "2026-10-08"
     },
     {
-      "id": "2d12f521",
-      "ticker": "AZN.L",
-      "company": "ASTRAZENECA PLC ORD SHS $0.25",
-      "sector": "Healthcare",
-      "homeIndex": "isf",
+      "id": "08c18f63",
+      "ticker": "AMZN",
+      "company": "Amazon.com, Inc.",
+      "sector": "Consumer Discretionary",
+      "homeIndex": "spy",
       "entryDate": "2026-07-08",
-      "entryPrice": 143.64,
+      "entryPrice": 245.98,
       "scoreAtEntry": 75,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
-      "stopLossPrice": 114.912,
+      "stopLossPrice": 196.784,
       "reviewDate": "2026-10-08"
     },
     {
-      "id": "0b2cc3fb",
+      "id": "2826d971",
       "ticker": "NXT.L",
       "company": "NEXT PLC ORD 10P",
       "sector": "Consumer Discretionary",
@@ -191,10 +161,10 @@
     {
       "date": "2026-07-08",
       "nav": 10000.0,
-      "benchmarkPrice": 135.8,
+      "benchmarkPrice": 135.31,
       "segmentNav": {
-        "spy": 4500.0,
-        "isf": 1000.0,
+        "spy": 4000.0,
+        "isf": 500.0,
         "midd": 0.0,
         "vwrl": 0.0
       }
@@ -210,6 +180,6 @@
     "tradeCount": 0,
     "winRatePct": null,
     "avgHoldDays": null,
-    "openPositions": 11
+    "openPositions": 9
   }
 }
