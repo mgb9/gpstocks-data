@@ -16,7 +16,7 @@
   "cashBalance": 4000.0,
   "positions": [
     {
-      "id": "a8d58944",
+      "id": "e6ea770c",
       "ticker": "CB",
       "company": "Chubb Limited",
       "sector": "Financials",
@@ -31,7 +31,7 @@
       "reviewDate": "2026-10-13"
     },
     {
-      "id": "96b1a002",
+      "id": "fd7de155",
       "ticker": "CINF",
       "company": "Cincinnati Financial Corporatio",
       "sector": "Financials",
@@ -46,7 +46,7 @@
       "reviewDate": "2026-10-13"
     },
     {
-      "id": "53968e1a",
+      "id": "6d8c583c",
       "ticker": "HIG",
       "company": "The Hartford Insurance Group, I",
       "sector": "Financials",
@@ -61,7 +61,22 @@
       "reviewDate": "2026-10-13"
     },
     {
-      "id": "6bde41e9",
+      "id": "f4457713",
+      "ticker": "INCY",
+      "company": "Incyte Corporation",
+      "sector": "Healthcare",
+      "homeIndex": "spy",
+      "entryDate": "2026-07-13",
+      "entryPrice": 116.71,
+      "scoreAtEntry": 80,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 500.0,
+      "positionPct": 5.0,
+      "stopLossPrice": 93.368,
+      "reviewDate": "2026-10-13"
+    },
+    {
+      "id": "08d619f2",
       "ticker": "DGX",
       "company": "Quest Diagnostics Incorporated",
       "sector": "Healthcare",
@@ -76,22 +91,7 @@
       "reviewDate": "2026-10-13"
     },
     {
-      "id": "bedcd7f3",
-      "ticker": "INCY",
-      "company": "Incyte Corporation",
-      "sector": "Healthcare",
-      "homeIndex": "spy",
-      "entryDate": "2026-07-13",
-      "entryPrice": 116.71,
-      "scoreAtEntry": 79,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 93.368,
-      "reviewDate": "2026-10-13"
-    },
-    {
-      "id": "8ef02b50",
+      "id": "d8b0177e",
       "ticker": "BKR",
       "company": "Baker Hughes Company",
       "sector": "Energy",
@@ -106,7 +106,7 @@
       "reviewDate": "2026-10-13"
     },
     {
-      "id": "d0c12386",
+      "id": "b6f59ff8",
       "ticker": "LH",
       "company": "Labcorp Holdings Inc.",
       "sector": "Healthcare",
@@ -121,7 +121,7 @@
       "reviewDate": "2026-10-13"
     },
     {
-      "id": "53b27322",
+      "id": "1c752dae",
       "ticker": "GOOG",
       "company": "Alphabet Inc.",
       "sector": "Communication Services",
@@ -136,7 +136,7 @@
       "reviewDate": "2026-10-13"
     },
     {
-      "id": "1748ce8e",
+      "id": "77bc1b55",
       "ticker": "GOOGL",
       "company": "Alphabet Inc.",
       "sector": "Communication Services",
@@ -151,7 +151,7 @@
       "reviewDate": "2026-10-13"
     },
     {
-      "id": "454ed274",
+      "id": "6cf39e39",
       "ticker": "HWM",
       "company": "Howmet Aerospace Inc.",
       "sector": "Industrials",
@@ -166,7 +166,7 @@
       "reviewDate": "2026-10-13"
     },
     {
-      "id": "a454e4c6",
+      "id": "7a5a26b3",
       "ticker": "AMZN",
       "company": "Amazon.com, Inc.",
       "sector": "Consumer Discretionary",
@@ -181,7 +181,7 @@
       "reviewDate": "2026-10-13"
     },
     {
-      "id": "8b956a69",
+      "id": "def0152a",
       "ticker": "NXT.L",
       "company": "NEXT PLC ORD 10P",
       "sector": "Consumer Discretionary",
@@ -206,7 +206,7 @@
     {
       "date": "2026-07-13",
       "nav": 10000.0,
-      "benchmarkPrice": 136.568,
+      "benchmarkPrice": 136.88,
       "segmentNav": {
         "spy": 5500.0,
         "isf": 500.0,
