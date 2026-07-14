@@ -13,10 +13,10 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 3500.0,
+  "cashBalance": 4000.0,
   "positions": [
     {
-      "id": "4cc95183",
+      "id": "1d129e52",
       "ticker": "INCY",
       "company": "Incyte Corporation",
       "sector": "Healthcare",
@@ -31,7 +31,7 @@
       "reviewDate": "2026-10-14"
     },
     {
-      "id": "3fa01e65",
+      "id": "a9e18c38",
       "ticker": "HIG",
       "company": "The Hartford Insurance Group, I",
       "sector": "Financials",
@@ -46,7 +46,7 @@
       "reviewDate": "2026-10-14"
     },
     {
-      "id": "bb54ad3a",
+      "id": "fc518f64",
       "ticker": "CINF",
       "company": "Cincinnati Financial Corporatio",
       "sector": "Financials",
@@ -61,7 +61,7 @@
       "reviewDate": "2026-10-14"
     },
     {
-      "id": "cc69e472",
+      "id": "92fcb465",
       "ticker": "CB",
       "company": "Chubb Limited",
       "sector": "Financials",
@@ -76,7 +76,7 @@
       "reviewDate": "2026-10-14"
     },
     {
-      "id": "267cbc7c",
+      "id": "3dc4bd83",
       "ticker": "EOG",
       "company": "EOG Resources, Inc.",
       "sector": "Energy",
@@ -91,7 +91,7 @@
       "reviewDate": "2026-10-14"
     },
     {
-      "id": "0945c680",
+      "id": "0aadad98",
       "ticker": "DGX",
       "company": "Quest Diagnostics Incorporated",
       "sector": "Healthcare",
@@ -106,7 +106,7 @@
       "reviewDate": "2026-10-14"
     },
     {
-      "id": "b313f4b7",
+      "id": "dc575bad",
       "ticker": "BKR",
       "company": "Baker Hughes Company",
       "sector": "Energy",
@@ -121,7 +121,7 @@
       "reviewDate": "2026-10-14"
     },
     {
-      "id": "781d1ff0",
+      "id": "517e8b90",
       "ticker": "GL",
       "company": "Globe Life Inc.",
       "sector": "Financials",
@@ -136,22 +136,37 @@
       "reviewDate": "2026-10-14"
     },
     {
-      "id": "982fe046",
-      "ticker": "MTB",
-      "company": "M&T Bank Corporation",
-      "sector": "Financials",
+      "id": "da7f222a",
+      "ticker": "GOOG",
+      "company": "Alphabet Inc.",
+      "sector": "Communication Services",
       "homeIndex": "spy",
       "entryDate": "2026-07-14",
-      "entryPrice": 242.55,
+      "entryPrice": 350.67,
       "scoreAtEntry": 76,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
-      "stopLossPrice": 194.04,
+      "stopLossPrice": 280.536,
       "reviewDate": "2026-10-14"
     },
     {
-      "id": "7738103d",
+      "id": "e02abc85",
+      "ticker": "GOOGL",
+      "company": "Alphabet Inc.",
+      "sector": "Communication Services",
+      "homeIndex": "spy",
+      "entryDate": "2026-07-14",
+      "entryPrice": 352.51,
+      "scoreAtEntry": 76,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 500.0,
+      "positionPct": 5.0,
+      "stopLossPrice": 282.008,
+      "reviewDate": "2026-10-14"
+    },
+    {
+      "id": "4e59c65e",
       "ticker": "AMZN",
       "company": "Amazon.com, Inc.",
       "sector": "Consumer Discretionary",
@@ -166,37 +181,7 @@
       "reviewDate": "2026-10-14"
     },
     {
-      "id": "e1528ebf",
-      "ticker": "GOOG",
-      "company": "Alphabet Inc.",
-      "sector": "Communication Services",
-      "homeIndex": "spy",
-      "entryDate": "2026-07-14",
-      "entryPrice": 350.67,
-      "scoreAtEntry": 75,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 280.536,
-      "reviewDate": "2026-10-14"
-    },
-    {
-      "id": "773c97fd",
-      "ticker": "GOOGL",
-      "company": "Alphabet Inc.",
-      "sector": "Communication Services",
-      "homeIndex": "spy",
-      "entryDate": "2026-07-14",
-      "entryPrice": 352.51,
-      "scoreAtEntry": 75,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 282.008,
-      "reviewDate": "2026-10-14"
-    },
-    {
-      "id": "54f45f4d",
+      "id": "9ea37444",
       "ticker": "LH",
       "company": "Labcorp Holdings Inc.",
       "sector": "Healthcare",
@@ -221,9 +206,9 @@
     {
       "date": "2026-07-14",
       "nav": 10000.0,
-      "benchmarkPrice": 136.29,
+      "benchmarkPrice": 137.1,
       "segmentNav": {
-        "spy": 6500.0,
+        "spy": 6000.0,
         "isf": 0.0,
         "midd": 0.0,
         "vwrl": 0.0
@@ -240,6 +225,6 @@
     "tradeCount": 0,
     "winRatePct": null,
     "avgHoldDays": null,
-    "openPositions": 13
+    "openPositions": 12
   }
 }
