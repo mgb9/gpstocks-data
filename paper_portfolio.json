@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-27",
-  "lastUpdated": "2026-07-14",
+  "lastUpdated": "2026-07-15",
   "config": {
     "initialCapital": 10000,
     "currency": "GBP",
@@ -13,187 +13,217 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 4000.0,
+  "cashBalance": 3000.0,
   "positions": [
     {
-      "id": "1d129e52",
+      "id": "38fd824b",
       "ticker": "INCY",
       "company": "Incyte Corporation",
       "sector": "Healthcare",
       "homeIndex": "spy",
-      "entryDate": "2026-07-14",
+      "entryDate": "2026-07-15",
       "entryPrice": 114.23,
       "scoreAtEntry": 86,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 91.384,
-      "reviewDate": "2026-10-14"
+      "reviewDate": "2026-10-15"
     },
     {
-      "id": "a9e18c38",
+      "id": "46e3d1aa",
       "ticker": "HIG",
       "company": "The Hartford Insurance Group, I",
       "sector": "Financials",
       "homeIndex": "spy",
-      "entryDate": "2026-07-14",
+      "entryDate": "2026-07-15",
       "entryPrice": 140.78,
       "scoreAtEntry": 84,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 112.624,
-      "reviewDate": "2026-10-14"
+      "reviewDate": "2026-10-15"
     },
     {
-      "id": "fc518f64",
+      "id": "90678bcc",
       "ticker": "CINF",
       "company": "Cincinnati Financial Corporatio",
       "sector": "Financials",
       "homeIndex": "spy",
-      "entryDate": "2026-07-14",
+      "entryDate": "2026-07-15",
       "entryPrice": 182.67,
       "scoreAtEntry": 83,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 146.136,
-      "reviewDate": "2026-10-14"
+      "reviewDate": "2026-10-15"
     },
     {
-      "id": "92fcb465",
+      "id": "46bf61b6",
       "ticker": "CB",
       "company": "Chubb Limited",
       "sector": "Financials",
       "homeIndex": "spy",
-      "entryDate": "2026-07-14",
+      "entryDate": "2026-07-15",
       "entryPrice": 354.74,
       "scoreAtEntry": 82,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 283.792,
-      "reviewDate": "2026-10-14"
+      "reviewDate": "2026-10-15"
     },
     {
-      "id": "3dc4bd83",
+      "id": "78484df1",
       "ticker": "EOG",
       "company": "EOG Resources, Inc.",
       "sector": "Energy",
       "homeIndex": "spy",
-      "entryDate": "2026-07-14",
+      "entryDate": "2026-07-15",
       "entryPrice": 139.61,
       "scoreAtEntry": 80,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 111.688,
-      "reviewDate": "2026-10-14"
+      "reviewDate": "2026-10-15"
     },
     {
-      "id": "0aadad98",
+      "id": "bc7c0408",
       "ticker": "DGX",
       "company": "Quest Diagnostics Incorporated",
       "sector": "Healthcare",
       "homeIndex": "spy",
-      "entryDate": "2026-07-14",
+      "entryDate": "2026-07-15",
       "entryPrice": 207.35,
       "scoreAtEntry": 79,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 165.88,
-      "reviewDate": "2026-10-14"
+      "reviewDate": "2026-10-15"
     },
     {
-      "id": "dc575bad",
+      "id": "c0737954",
+      "ticker": "IMI.L",
+      "company": "IMI PLC ORD 28 4/7P",
+      "sector": "Industrials",
+      "homeIndex": "isf",
+      "entryDate": "2026-07-15",
+      "entryPrice": 28.62,
+      "scoreAtEntry": 79,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 500.0,
+      "positionPct": 5.0,
+      "stopLossPrice": 22.896,
+      "reviewDate": "2026-10-15"
+    },
+    {
+      "id": "4c38d309",
       "ticker": "BKR",
       "company": "Baker Hughes Company",
       "sector": "Energy",
       "homeIndex": "spy",
-      "entryDate": "2026-07-14",
+      "entryDate": "2026-07-15",
       "entryPrice": 57.66,
       "scoreAtEntry": 78,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 46.128,
-      "reviewDate": "2026-10-14"
+      "reviewDate": "2026-10-15"
     },
     {
-      "id": "517e8b90",
+      "id": "0334c4de",
       "ticker": "GL",
       "company": "Globe Life Inc.",
       "sector": "Financials",
       "homeIndex": "spy",
-      "entryDate": "2026-07-14",
+      "entryDate": "2026-07-15",
       "entryPrice": 178.62,
       "scoreAtEntry": 78,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 142.896,
-      "reviewDate": "2026-10-14"
+      "reviewDate": "2026-10-15"
     },
     {
-      "id": "da7f222a",
+      "id": "82ace6da",
       "ticker": "GOOG",
       "company": "Alphabet Inc.",
       "sector": "Communication Services",
       "homeIndex": "spy",
-      "entryDate": "2026-07-14",
-      "entryPrice": 350.67,
+      "entryDate": "2026-07-15",
+      "entryPrice": 357.33,
       "scoreAtEntry": 76,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
-      "stopLossPrice": 280.536,
-      "reviewDate": "2026-10-14"
+      "stopLossPrice": 285.864,
+      "reviewDate": "2026-10-15"
     },
     {
-      "id": "e02abc85",
+      "id": "1bcd5a9a",
       "ticker": "GOOGL",
       "company": "Alphabet Inc.",
       "sector": "Communication Services",
       "homeIndex": "spy",
-      "entryDate": "2026-07-14",
+      "entryDate": "2026-07-15",
       "entryPrice": 352.51,
       "scoreAtEntry": 76,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 282.008,
-      "reviewDate": "2026-10-14"
+      "reviewDate": "2026-10-15"
     },
     {
-      "id": "4e59c65e",
+      "id": "38e680ef",
       "ticker": "AMZN",
       "company": "Amazon.com, Inc.",
       "sector": "Consumer Discretionary",
       "homeIndex": "spy",
-      "entryDate": "2026-07-14",
+      "entryDate": "2026-07-15",
       "entryPrice": 247.31,
       "scoreAtEntry": 75,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 197.848,
-      "reviewDate": "2026-10-14"
+      "reviewDate": "2026-10-15"
     },
     {
-      "id": "9ea37444",
+      "id": "9a0d4d7a",
       "ticker": "LH",
       "company": "Labcorp Holdings Inc.",
       "sector": "Healthcare",
       "homeIndex": "spy",
-      "entryDate": "2026-07-14",
+      "entryDate": "2026-07-15",
       "entryPrice": 276.68,
       "scoreAtEntry": 75,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 221.344,
-      "reviewDate": "2026-10-14"
+      "reviewDate": "2026-10-15"
+    },
+    {
+      "id": "63743e9f",
+      "ticker": "NXT.L",
+      "company": "NEXT PLC ORD 10P",
+      "sector": "Consumer Discretionary",
+      "homeIndex": "isf",
+      "entryDate": "2026-07-15",
+      "entryPrice": 146.3,
+      "scoreAtEntry": 75,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 500.0,
+      "positionPct": 5.0,
+      "stopLossPrice": 117.04,
+      "reviewDate": "2026-10-15"
     }
   ],
   "trades": [],
@@ -204,12 +234,12 @@
       "benchmarkPrice": null
     },
     {
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "nav": 10000.0,
       "benchmarkPrice": 137.1,
       "segmentNav": {
         "spy": 6000.0,
-        "isf": 0.0,
+        "isf": 1000.0,
         "midd": 0.0,
         "vwrl": 0.0
       }
@@ -225,6 +255,6 @@
     "tradeCount": 0,
     "winRatePct": null,
     "avgHoldDays": null,
-    "openPositions": 12
+    "openPositions": 14
   }
 }
