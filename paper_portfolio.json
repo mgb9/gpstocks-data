@@ -13,10 +13,10 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 2000.0,
+  "cashBalance": 1500.0,
   "positions": [
     {
-      "id": "a0ffd9fc",
+      "id": "01ad27ea",
       "ticker": "HIG",
       "company": "The Hartford Insurance Group, I",
       "sector": "Financials",
@@ -31,7 +31,7 @@
       "reviewDate": "2026-10-16"
     },
     {
-      "id": "34992489",
+      "id": "669231a9",
       "ticker": "CB",
       "company": "Chubb Limited",
       "sector": "Financials",
@@ -46,7 +46,7 @@
       "reviewDate": "2026-10-16"
     },
     {
-      "id": "9825f1b7",
+      "id": "a65e601e",
       "ticker": "CINF",
       "company": "Cincinnati Financial Corporatio",
       "sector": "Financials",
@@ -61,7 +61,7 @@
       "reviewDate": "2026-10-16"
     },
     {
-      "id": "87bd2f6a",
+      "id": "79b70093",
       "ticker": "INCY",
       "company": "Incyte Corporation",
       "sector": "Healthcare",
@@ -76,22 +76,7 @@
       "reviewDate": "2026-10-16"
     },
     {
-      "id": "86ca07b2",
-      "ticker": "DGX",
-      "company": "Quest Diagnostics Incorporated",
-      "sector": "Healthcare",
-      "homeIndex": "spy",
-      "entryDate": "2026-07-16",
-      "entryPrice": 201.77,
-      "scoreAtEntry": 80,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 161.416,
-      "reviewDate": "2026-10-16"
-    },
-    {
-      "id": "b3d38c2e",
+      "id": "315715c7",
       "ticker": "EOG",
       "company": "EOG Resources, Inc.",
       "sector": "Energy",
@@ -106,7 +91,7 @@
       "reviewDate": "2026-10-16"
     },
     {
-      "id": "4621716b",
+      "id": "e9018435",
       "ticker": "BKR",
       "company": "Baker Hughes Company",
       "sector": "Energy",
@@ -121,7 +106,22 @@
       "reviewDate": "2026-10-16"
     },
     {
-      "id": "75f0a6d7",
+      "id": "23869081",
+      "ticker": "DGX",
+      "company": "Quest Diagnostics Incorporated",
+      "sector": "Healthcare",
+      "homeIndex": "spy",
+      "entryDate": "2026-07-16",
+      "entryPrice": 201.77,
+      "scoreAtEntry": 79,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 500.0,
+      "positionPct": 5.0,
+      "stopLossPrice": 161.416,
+      "reviewDate": "2026-10-16"
+    },
+    {
+      "id": "aad66895",
       "ticker": "GILD",
       "company": "Gilead Sciences, Inc.",
       "sector": "Healthcare",
@@ -136,7 +136,7 @@
       "reviewDate": "2026-10-16"
     },
     {
-      "id": "a35ccccd",
+      "id": "268af488",
       "ticker": "GL",
       "company": "Globe Life Inc.",
       "sector": "Financials",
@@ -151,7 +151,7 @@
       "reviewDate": "2026-10-16"
     },
     {
-      "id": "9f56f62f",
+      "id": "46e07f29",
       "ticker": "GOOG",
       "company": "Alphabet Inc.",
       "sector": "Communication Services",
@@ -166,7 +166,7 @@
       "reviewDate": "2026-10-16"
     },
     {
-      "id": "6f6df426",
+      "id": "0f3d86b3",
       "ticker": "GOOGL",
       "company": "Alphabet Inc.",
       "sector": "Communication Services",
@@ -181,7 +181,7 @@
       "reviewDate": "2026-10-16"
     },
     {
-      "id": "3d95385f",
+      "id": "89e0487a",
       "ticker": "IMI.L",
       "company": "IMI PLC ORD 28 4/7P",
       "sector": "Industrials",
@@ -196,7 +196,7 @@
       "reviewDate": "2026-10-16"
     },
     {
-      "id": "9e3a2089",
+      "id": "22cc2d97",
       "ticker": "LH",
       "company": "Labcorp Holdings Inc.",
       "sector": "Healthcare",
@@ -211,22 +211,22 @@
       "reviewDate": "2026-10-16"
     },
     {
-      "id": "523f4af8",
-      "ticker": "ROST",
-      "company": "Ross Stores, Inc.",
-      "sector": "Consumer Discretionary",
+      "id": "b4c77be0",
+      "ticker": "HWM",
+      "company": "Howmet Aerospace Inc.",
+      "sector": "Industrials",
       "homeIndex": "spy",
       "entryDate": "2026-07-16",
-      "entryPrice": 225.81,
+      "entryPrice": 279.24,
       "scoreAtEntry": 76,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
-      "stopLossPrice": 180.648,
+      "stopLossPrice": 223.392,
       "reviewDate": "2026-10-16"
     },
     {
-      "id": "df486c96",
+      "id": "32f4f608",
       "ticker": "GD",
       "company": "General Dynamics Corporation",
       "sector": "Industrials",
@@ -241,7 +241,7 @@
       "reviewDate": "2026-10-16"
     },
     {
-      "id": "267f2c4e",
+      "id": "c4f2fee0",
       "ticker": "NXT.L",
       "company": "NEXT PLC ORD 10P",
       "sector": "Consumer Discretionary",
@@ -253,6 +253,21 @@
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 118.12,
+      "reviewDate": "2026-10-16"
+    },
+    {
+      "id": "e0116eb6",
+      "ticker": "ROST",
+      "company": "Ross Stores, Inc.",
+      "sector": "Consumer Discretionary",
+      "homeIndex": "spy",
+      "entryDate": "2026-07-16",
+      "entryPrice": 225.81,
+      "scoreAtEntry": 75,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 500.0,
+      "positionPct": 5.0,
+      "stopLossPrice": 180.648,
       "reviewDate": "2026-10-16"
     }
   ],
@@ -266,9 +281,9 @@
     {
       "date": "2026-07-16",
       "nav": 10000.0,
-      "benchmarkPrice": 135.56,
+      "benchmarkPrice": 136.05,
       "segmentNav": {
-        "spy": 7000.0,
+        "spy": 7500.0,
         "isf": 1000.0,
         "midd": 0.0,
         "vwrl": 0.0
@@ -285,6 +300,6 @@
     "tradeCount": 0,
     "winRatePct": null,
     "avgHoldDays": null,
-    "openPositions": 16
+    "openPositions": 17
   }
 }
