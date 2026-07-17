@@ -16,7 +16,7 @@
   "cashBalance": 3000.0,
   "positions": [
     {
-      "id": "1b476607",
+      "id": "b39fc400",
       "ticker": "HIG",
       "company": "The Hartford Insurance Group, I",
       "sector": "Financials",
@@ -31,7 +31,7 @@
       "reviewDate": "2026-10-17"
     },
     {
-      "id": "7ac3f8b9",
+      "id": "f4a4483e",
       "ticker": "CB",
       "company": "Chubb Limited",
       "sector": "Financials",
@@ -46,7 +46,7 @@
       "reviewDate": "2026-10-17"
     },
     {
-      "id": "6735809a",
+      "id": "b2227f76",
       "ticker": "CINF",
       "company": "Cincinnati Financial Corporatio",
       "sector": "Financials",
@@ -61,7 +61,7 @@
       "reviewDate": "2026-10-17"
     },
     {
-      "id": "40288714",
+      "id": "830ec4bf",
       "ticker": "EOG",
       "company": "EOG Resources, Inc.",
       "sector": "Energy",
@@ -76,7 +76,7 @@
       "reviewDate": "2026-10-17"
     },
     {
-      "id": "ff411ad6",
+      "id": "ecc7d081",
       "ticker": "INCY",
       "company": "Incyte Corporation",
       "sector": "Healthcare",
@@ -91,7 +91,7 @@
       "reviewDate": "2026-10-17"
     },
     {
-      "id": "32cb01ec",
+      "id": "02afc0a6",
       "ticker": "BKR",
       "company": "Baker Hughes Company",
       "sector": "Energy",
@@ -106,7 +106,7 @@
       "reviewDate": "2026-10-17"
     },
     {
-      "id": "d229272e",
+      "id": "76f392fe",
       "ticker": "DGX",
       "company": "Quest Diagnostics Incorporated",
       "sector": "Healthcare",
@@ -121,7 +121,7 @@
       "reviewDate": "2026-10-17"
     },
     {
-      "id": "7b1404c0",
+      "id": "7c92fcfe",
       "ticker": "GL",
       "company": "Globe Life Inc.",
       "sector": "Financials",
@@ -136,7 +136,7 @@
       "reviewDate": "2026-10-17"
     },
     {
-      "id": "217d9197",
+      "id": "e7967735",
       "ticker": "IMI.L",
       "company": "IMI PLC ORD 28 4/7P",
       "sector": "Industrials",
@@ -151,7 +151,7 @@
       "reviewDate": "2026-10-17"
     },
     {
-      "id": "34bd6165",
+      "id": "2d425a86",
       "ticker": "GOOG",
       "company": "Alphabet Inc.",
       "sector": "Communication Services",
@@ -166,7 +166,7 @@
       "reviewDate": "2026-10-17"
     },
     {
-      "id": "765149f5",
+      "id": "dd27acc3",
       "ticker": "GOOGL",
       "company": "Alphabet Inc.",
       "sector": "Communication Services",
@@ -181,7 +181,7 @@
       "reviewDate": "2026-10-17"
     },
     {
-      "id": "0d06119f",
+      "id": "2da82785",
       "ticker": "HWM",
       "company": "Howmet Aerospace Inc.",
       "sector": "Industrials",
@@ -196,7 +196,7 @@
       "reviewDate": "2026-10-17"
     },
     {
-      "id": "54f8dffc",
+      "id": "297d4543",
       "ticker": "LH",
       "company": "Labcorp Holdings Inc.",
       "sector": "Healthcare",
@@ -211,7 +211,7 @@
       "reviewDate": "2026-10-17"
     },
     {
-      "id": "930fbdd9",
+      "id": "579b4189",
       "ticker": "GILD",
       "company": "Gilead Sciences, Inc.",
       "sector": "Healthcare",
@@ -236,7 +236,7 @@
     {
       "date": "2026-07-17",
       "nav": 10000.0,
-      "benchmarkPrice": 134.65,
+      "benchmarkPrice": 134.78,
       "segmentNav": {
         "spy": 6500.0,
         "isf": 500.0,
