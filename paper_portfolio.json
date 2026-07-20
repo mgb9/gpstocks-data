@@ -13,10 +13,10 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 2500.0,
+  "cashBalance": 3500.0,
   "positions": [
     {
-      "id": "20579c26",
+      "id": "99ebfba1",
       "ticker": "HIG",
       "company": "The Hartford Insurance Group, I",
       "sector": "Financials",
@@ -31,7 +31,7 @@
       "reviewDate": "2026-10-20"
     },
     {
-      "id": "ede5a792",
+      "id": "c447e419",
       "ticker": "CB",
       "company": "Chubb Limited",
       "sector": "Financials",
@@ -46,7 +46,7 @@
       "reviewDate": "2026-10-20"
     },
     {
-      "id": "5569ff77",
+      "id": "84cf5ba0",
       "ticker": "CINF",
       "company": "Cincinnati Financial Corporatio",
       "sector": "Financials",
@@ -61,7 +61,7 @@
       "reviewDate": "2026-10-20"
     },
     {
-      "id": "24171aee",
+      "id": "5196a11d",
       "ticker": "EOG",
       "company": "EOG Resources, Inc.",
       "sector": "Energy",
@@ -76,7 +76,7 @@
       "reviewDate": "2026-10-20"
     },
     {
-      "id": "349dd44a",
+      "id": "532e1c54",
       "ticker": "INCY",
       "company": "Incyte Corporation",
       "sector": "Healthcare",
@@ -91,7 +91,7 @@
       "reviewDate": "2026-10-20"
     },
     {
-      "id": "de85b474",
+      "id": "c8f3b40d",
       "ticker": "DGX",
       "company": "Quest Diagnostics Incorporated",
       "sector": "Healthcare",
@@ -106,7 +106,7 @@
       "reviewDate": "2026-10-20"
     },
     {
-      "id": "1c993108",
+      "id": "be345699",
       "ticker": "BKR",
       "company": "Baker Hughes Company",
       "sector": "Energy",
@@ -121,7 +121,7 @@
       "reviewDate": "2026-10-20"
     },
     {
-      "id": "115cfd5e",
+      "id": "8a6763c0",
       "ticker": "GL",
       "company": "Globe Life Inc.",
       "sector": "Financials",
@@ -136,7 +136,7 @@
       "reviewDate": "2026-10-20"
     },
     {
-      "id": "e55310c5",
+      "id": "699f17aa",
       "ticker": "IMI.L",
       "company": "IMI PLC ORD 28 4/7P",
       "sector": "Industrials",
@@ -151,37 +151,7 @@
       "reviewDate": "2026-10-20"
     },
     {
-      "id": "63328eb6",
-      "ticker": "GOOG",
-      "company": "Alphabet Inc.",
-      "sector": "Communication Services",
-      "homeIndex": "spy",
-      "entryDate": "2026-07-20",
-      "entryPrice": 346.12,
-      "scoreAtEntry": 76,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 276.896,
-      "reviewDate": "2026-10-20"
-    },
-    {
-      "id": "3d1b7bfa",
-      "ticker": "LH",
-      "company": "Labcorp Holdings Inc.",
-      "sector": "Healthcare",
-      "homeIndex": "spy",
-      "entryDate": "2026-07-20",
-      "entryPrice": 283.36,
-      "scoreAtEntry": 76,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 226.688,
-      "reviewDate": "2026-10-20"
-    },
-    {
-      "id": "93c6dbdb",
+      "id": "44183fd6",
       "ticker": "AMZN",
       "company": "Amazon.com, Inc.",
       "sector": "Consumer Discretionary",
@@ -196,7 +166,7 @@
       "reviewDate": "2026-10-20"
     },
     {
-      "id": "54f8a554",
+      "id": "8bf4893d",
       "ticker": "GILD",
       "company": "Gilead Sciences, Inc.",
       "sector": "Healthcare",
@@ -211,22 +181,22 @@
       "reviewDate": "2026-10-20"
     },
     {
-      "id": "35710012",
-      "ticker": "MO",
-      "company": "Altria Group, Inc.",
-      "sector": "Consumer Staples",
+      "id": "4fcb74e6",
+      "ticker": "GOOG",
+      "company": "Alphabet Inc.",
+      "sector": "Communication Services",
       "homeIndex": "spy",
       "entryDate": "2026-07-20",
-      "entryPrice": 74.21,
+      "entryPrice": 346.12,
       "scoreAtEntry": 75,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
-      "stopLossPrice": 59.368,
+      "stopLossPrice": 276.896,
       "reviewDate": "2026-10-20"
     },
     {
-      "id": "b283e3ea",
+      "id": "d0b77a6a",
       "ticker": "NXT.L",
       "company": "NEXT PLC ORD 10P",
       "sector": "Consumer Discretionary",
@@ -251,9 +221,9 @@
     {
       "date": "2026-07-20",
       "nav": 10000.0,
-      "benchmarkPrice": 135.0196,
+      "benchmarkPrice": 135.26,
       "segmentNav": {
-        "spy": 6500.0,
+        "spy": 5500.0,
         "isf": 1000.0,
         "midd": 0.0,
         "vwrl": 0.0
@@ -270,6 +240,6 @@
     "tradeCount": 0,
     "winRatePct": null,
     "avgHoldDays": null,
-    "openPositions": 15
+    "openPositions": 13
   }
 }
