@@ -16,7 +16,7 @@
   "cashBalance": 4000.0,
   "positions": [
     {
-      "id": "1035ae41",
+      "id": "473e89c2",
       "ticker": "HIG",
       "company": "The Hartford Insurance Group, I",
       "sector": "Financials",
@@ -31,7 +31,7 @@
       "reviewDate": "2026-10-21"
     },
     {
-      "id": "6f9017d6",
+      "id": "73069018",
       "ticker": "INCY",
       "company": "Incyte Corporation",
       "sector": "Healthcare",
@@ -46,7 +46,7 @@
       "reviewDate": "2026-10-21"
     },
     {
-      "id": "12cd8f73",
+      "id": "993dbcdd",
       "ticker": "CB",
       "company": "Chubb Limited",
       "sector": "Financials",
@@ -61,7 +61,7 @@
       "reviewDate": "2026-10-21"
     },
     {
-      "id": "ac0c02ab",
+      "id": "39aa8783",
       "ticker": "CINF",
       "company": "Cincinnati Financial Corporatio",
       "sector": "Financials",
@@ -76,7 +76,7 @@
       "reviewDate": "2026-10-21"
     },
     {
-      "id": "dc6babbf",
+      "id": "fc889528",
       "ticker": "EOG",
       "company": "EOG Resources, Inc.",
       "sector": "Energy",
@@ -91,7 +91,22 @@
       "reviewDate": "2026-10-21"
     },
     {
-      "id": "cd0dbc2a",
+      "id": "e4adf0d1",
+      "ticker": "GILD",
+      "company": "Gilead Sciences, Inc.",
+      "sector": "Healthcare",
+      "homeIndex": "spy",
+      "entryDate": "2026-07-21",
+      "entryPrice": 133.21,
+      "scoreAtEntry": 80,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 500.0,
+      "positionPct": 5.0,
+      "stopLossPrice": 106.568,
+      "reviewDate": "2026-10-21"
+    },
+    {
+      "id": "111ca495",
       "ticker": "DGX",
       "company": "Quest Diagnostics Incorporated",
       "sector": "Healthcare",
@@ -106,7 +121,7 @@
       "reviewDate": "2026-10-21"
     },
     {
-      "id": "244a0923",
+      "id": "a626480a",
       "ticker": "GL",
       "company": "Globe Life Inc.",
       "sector": "Financials",
@@ -121,7 +136,7 @@
       "reviewDate": "2026-10-21"
     },
     {
-      "id": "a437ed35",
+      "id": "a4ba50ee",
       "ticker": "IMI.L",
       "company": "IMI PLC ORD 28 4/7P",
       "sector": "Industrials",
@@ -136,7 +151,7 @@
       "reviewDate": "2026-10-21"
     },
     {
-      "id": "118db192",
+      "id": "5ed0fd59",
       "ticker": "AMZN",
       "company": "Amazon.com, Inc.",
       "sector": "Consumer Discretionary",
@@ -151,7 +166,7 @@
       "reviewDate": "2026-10-21"
     },
     {
-      "id": "ba9d40f9",
+      "id": "875e024f",
       "ticker": "LH",
       "company": "Labcorp Holdings Inc.",
       "sector": "Healthcare",
@@ -166,22 +181,7 @@
       "reviewDate": "2026-10-21"
     },
     {
-      "id": "5372d264",
-      "ticker": "GILD",
-      "company": "Gilead Sciences, Inc.",
-      "sector": "Healthcare",
-      "homeIndex": "spy",
-      "entryDate": "2026-07-21",
-      "entryPrice": 133.21,
-      "scoreAtEntry": 75,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 106.568,
-      "reviewDate": "2026-10-21"
-    },
-    {
-      "id": "9832a5dc",
+      "id": "8a049836",
       "ticker": "MO",
       "company": "Altria Group, Inc.",
       "sector": "Consumer Staples",
@@ -206,7 +206,7 @@
     {
       "date": "2026-07-21",
       "nav": 10000.0,
-      "benchmarkPrice": 135.71,
+      "benchmarkPrice": 136.46,
       "segmentNav": {
         "spy": 5500.0,
         "isf": 500.0,
