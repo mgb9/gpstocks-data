@@ -16,7 +16,7 @@
   "cashBalance": 6000.0,
   "positions": [
     {
-      "id": "4a93db4d",
+      "id": "43413498",
       "ticker": "INCY",
       "company": "Incyte Corporation",
       "sector": "Healthcare",
@@ -31,7 +31,7 @@
       "reviewDate": "2026-10-24"
     },
     {
-      "id": "478004b6",
+      "id": "0a36e170",
       "ticker": "HIG",
       "company": "The Hartford Insurance Group, I",
       "sector": "Financials",
@@ -46,7 +46,7 @@
       "reviewDate": "2026-10-24"
     },
     {
-      "id": "9490fd96",
+      "id": "d8f4379e",
       "ticker": "CINF",
       "company": "Cincinnati Financial Corporatio",
       "sector": "Financials",
@@ -61,7 +61,7 @@
       "reviewDate": "2026-10-24"
     },
     {
-      "id": "297058d7",
+      "id": "236673a5",
       "ticker": "IMI.L",
       "company": "IMI PLC ORD 28 4/7P",
       "sector": "Industrials",
@@ -76,7 +76,7 @@
       "reviewDate": "2026-10-24"
     },
     {
-      "id": "d47668a8",
+      "id": "bac502e9",
       "ticker": "BKR",
       "company": "Baker Hughes Company",
       "sector": "Energy",
@@ -91,22 +91,7 @@
       "reviewDate": "2026-10-24"
     },
     {
-      "id": "b5e459e0",
-      "ticker": "LH",
-      "company": "Labcorp Holdings Inc.",
-      "sector": "Healthcare",
-      "homeIndex": "spy",
-      "entryDate": "2026-07-24",
-      "entryPrice": 291.02,
-      "scoreAtEntry": 76,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 232.816,
-      "reviewDate": "2026-10-24"
-    },
-    {
-      "id": "7086be63",
+      "id": "a2e2d46a",
       "ticker": "EOG",
       "company": "EOG Resources, Inc.",
       "sector": "Energy",
@@ -121,7 +106,22 @@
       "reviewDate": "2026-10-24"
     },
     {
-      "id": "3c1d8103",
+      "id": "b43fa164",
+      "ticker": "LH",
+      "company": "Labcorp Holdings Inc.",
+      "sector": "Healthcare",
+      "homeIndex": "spy",
+      "entryDate": "2026-07-24",
+      "entryPrice": 291.02,
+      "scoreAtEntry": 75,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 500.0,
+      "positionPct": 5.0,
+      "stopLossPrice": 232.816,
+      "reviewDate": "2026-10-24"
+    },
+    {
+      "id": "1b2ed7a7",
       "ticker": "NXT.L",
       "company": "NEXT PLC ORD 10P",
       "sector": "Consumer Discretionary",
@@ -146,7 +146,7 @@
     {
       "date": "2026-07-24",
       "nav": 10000.0,
-      "benchmarkPrice": 135.67,
+      "benchmarkPrice": 135.74,
       "segmentNav": {
         "spy": 3000.0,
         "isf": 1000.0,
