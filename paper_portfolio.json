@@ -16,22 +16,7 @@
   "cashBalance": 7000.0,
   "positions": [
     {
-      "id": "7049c4b9",
-      "ticker": "INCY",
-      "company": "Incyte Corporation",
-      "sector": "Healthcare",
-      "homeIndex": "spy",
-      "entryDate": "2026-07-28",
-      "entryPrice": 118.87,
-      "scoreAtEntry": 85,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 95.096,
-      "reviewDate": "2026-10-28"
-    },
-    {
-      "id": "3788c8fe",
+      "id": "9f229e0d",
       "ticker": "HIG",
       "company": "The Hartford Insurance Group, I",
       "sector": "Financials",
@@ -46,7 +31,7 @@
       "reviewDate": "2026-10-28"
     },
     {
-      "id": "4d38682a",
+      "id": "ef81483b",
       "ticker": "CINF",
       "company": "Cincinnati Financial Corporatio",
       "sector": "Financials",
@@ -61,7 +46,7 @@
       "reviewDate": "2026-10-28"
     },
     {
-      "id": "08ddfc55",
+      "id": "3bd5e156",
       "ticker": "EOG",
       "company": "EOG Resources, Inc.",
       "sector": "Energy",
@@ -76,7 +61,22 @@
       "reviewDate": "2026-10-28"
     },
     {
-      "id": "b1971a48",
+      "id": "33816f3e",
+      "ticker": "INCY",
+      "company": "Incyte Corporation",
+      "sector": "Healthcare",
+      "homeIndex": "spy",
+      "entryDate": "2026-07-28",
+      "entryPrice": 118.87,
+      "scoreAtEntry": 80,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 500.0,
+      "positionPct": 5.0,
+      "stopLossPrice": 95.096,
+      "reviewDate": "2026-10-28"
+    },
+    {
+      "id": "e5c0bd17",
       "ticker": "IMI.L",
       "company": "IMI PLC ORD 28 4/7P",
       "sector": "Industrials",
@@ -91,18 +91,18 @@
       "reviewDate": "2026-10-28"
     },
     {
-      "id": "af307077",
-      "ticker": "DGX",
-      "company": "Quest Diagnostics Incorporated",
+      "id": "321bc3d9",
+      "ticker": "LH",
+      "company": "Labcorp Holdings Inc.",
       "sector": "Healthcare",
       "homeIndex": "spy",
       "entryDate": "2026-07-28",
-      "entryPrice": 231.84,
+      "entryPrice": 301.17,
       "scoreAtEntry": 75,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
-      "stopLossPrice": 185.472,
+      "stopLossPrice": 240.936,
       "reviewDate": "2026-10-28"
     }
   ],
@@ -116,7 +116,7 @@
     {
       "date": "2026-07-28",
       "nav": 10000.0,
-      "benchmarkPrice": 135.52,
+      "benchmarkPrice": 135.9,
       "segmentNav": {
         "spy": 2500.0,
         "isf": 500.0,
