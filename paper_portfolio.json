@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-27",
-  "lastUpdated": "2026-07-28",
+  "lastUpdated": "2026-07-29",
   "config": {
     "initialCapital": 10000,
     "currency": "GBP",
@@ -13,97 +13,67 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 7000.0,
+  "cashBalance": 8000.0,
   "positions": [
     {
-      "id": "9f229e0d",
+      "id": "874e8989",
+      "ticker": "CINF",
+      "company": "Cincinnati Financial Corporatio",
+      "sector": "Financials",
+      "homeIndex": "spy",
+      "entryDate": "2026-07-29",
+      "entryPrice": 184.23,
+      "scoreAtEntry": 86,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 500.0,
+      "positionPct": 5.0,
+      "stopLossPrice": 147.384,
+      "reviewDate": "2026-10-29"
+    },
+    {
+      "id": "e27e9d0b",
       "ticker": "HIG",
       "company": "The Hartford Insurance Group, I",
       "sector": "Financials",
       "homeIndex": "spy",
-      "entryDate": "2026-07-28",
+      "entryDate": "2026-07-29",
       "entryPrice": 140.14,
       "scoreAtEntry": 84,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 112.112,
-      "reviewDate": "2026-10-28"
+      "reviewDate": "2026-10-29"
     },
     {
-      "id": "ef81483b",
-      "ticker": "CINF",
-      "company": "Cincinnati Financial Corporatio",
-      "sector": "Financials",
+      "id": "1b160d7b",
+      "ticker": "INCY",
+      "company": "Incyte Corporation",
+      "sector": "Healthcare",
       "homeIndex": "spy",
-      "entryDate": "2026-07-28",
-      "entryPrice": 184.23,
+      "entryDate": "2026-07-29",
+      "entryPrice": 118.87,
       "scoreAtEntry": 83,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
-      "stopLossPrice": 147.384,
-      "reviewDate": "2026-10-28"
+      "stopLossPrice": 95.096,
+      "reviewDate": "2026-10-29"
     },
     {
-      "id": "3bd5e156",
+      "id": "878253ae",
       "ticker": "EOG",
       "company": "EOG Resources, Inc.",
       "sector": "Energy",
       "homeIndex": "spy",
-      "entryDate": "2026-07-28",
+      "entryDate": "2026-07-29",
       "entryPrice": 140.31,
       "scoreAtEntry": 82,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 112.248,
-      "reviewDate": "2026-10-28"
-    },
-    {
-      "id": "33816f3e",
-      "ticker": "INCY",
-      "company": "Incyte Corporation",
-      "sector": "Healthcare",
-      "homeIndex": "spy",
-      "entryDate": "2026-07-28",
-      "entryPrice": 118.87,
-      "scoreAtEntry": 80,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 95.096,
-      "reviewDate": "2026-10-28"
-    },
-    {
-      "id": "e5c0bd17",
-      "ticker": "IMI.L",
-      "company": "IMI PLC ORD 28 4/7P",
-      "sector": "Industrials",
-      "homeIndex": "isf",
-      "entryDate": "2026-07-28",
-      "entryPrice": 29.8,
-      "scoreAtEntry": 76,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 23.84,
-      "reviewDate": "2026-10-28"
-    },
-    {
-      "id": "321bc3d9",
-      "ticker": "LH",
-      "company": "Labcorp Holdings Inc.",
-      "sector": "Healthcare",
-      "homeIndex": "spy",
-      "entryDate": "2026-07-28",
-      "entryPrice": 301.17,
-      "scoreAtEntry": 75,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 240.936,
-      "reviewDate": "2026-10-28"
+      "reviewDate": "2026-10-29"
     }
   ],
   "trades": [],
@@ -114,12 +84,12 @@
       "benchmarkPrice": null
     },
     {
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "nav": 10000.0,
       "benchmarkPrice": 135.9,
       "segmentNav": {
-        "spy": 2500.0,
-        "isf": 500.0,
+        "spy": 2000.0,
+        "isf": 0.0,
         "midd": 0.0,
         "vwrl": 0.0
       }
@@ -135,6 +105,6 @@
     "tradeCount": 0,
     "winRatePct": null,
     "avgHoldDays": null,
-    "openPositions": 6
+    "openPositions": 4
   }
 }
