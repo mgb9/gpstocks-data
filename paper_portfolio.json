@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-27",
-  "lastUpdated": "2026-07-29",
+  "lastUpdated": "2026-07-30",
   "config": {
     "initialCapital": 10000,
     "currency": "GBP",
@@ -13,82 +13,112 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 7500.0,
+  "cashBalance": 6500.0,
   "positions": [
     {
-      "id": "b65cbdd2",
-      "ticker": "HIG",
-      "company": "The Hartford Insurance Group, I",
-      "sector": "Financials",
-      "homeIndex": "spy",
-      "entryDate": "2026-07-29",
-      "entryPrice": 143.42,
-      "scoreAtEntry": 87,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 114.736,
-      "reviewDate": "2026-10-29"
-    },
-    {
-      "id": "9b295521",
+      "id": "8aa67702",
       "ticker": "CINF",
       "company": "Cincinnati Financial Corporatio",
       "sector": "Financials",
       "homeIndex": "spy",
-      "entryDate": "2026-07-29",
-      "entryPrice": 182.63,
-      "scoreAtEntry": 86,
+      "entryDate": "2026-07-30",
+      "entryPrice": 181.33,
+      "scoreAtEntry": 85,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
-      "stopLossPrice": 146.104,
-      "reviewDate": "2026-10-29"
+      "stopLossPrice": 145.064,
+      "reviewDate": "2026-10-30"
     },
     {
-      "id": "e059e206",
-      "ticker": "EOG",
-      "company": "EOG Resources, Inc.",
-      "sector": "Energy",
+      "id": "bc26ebeb",
+      "ticker": "HIG",
+      "company": "The Hartford Insurance Group, I",
+      "sector": "Financials",
       "homeIndex": "spy",
-      "entryDate": "2026-07-29",
-      "entryPrice": 139.64,
-      "scoreAtEntry": 80,
+      "entryDate": "2026-07-30",
+      "entryPrice": 145.68,
+      "scoreAtEntry": 84,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
-      "stopLossPrice": 111.712,
-      "reviewDate": "2026-10-29"
+      "stopLossPrice": 116.544,
+      "reviewDate": "2026-10-30"
     },
     {
-      "id": "401ff7bc",
+      "id": "b90a5618",
       "ticker": "INCY",
       "company": "Incyte Corporation",
       "sector": "Healthcare",
       "homeIndex": "spy",
-      "entryDate": "2026-07-29",
-      "entryPrice": 129.93,
-      "scoreAtEntry": 77,
+      "entryDate": "2026-07-30",
+      "entryPrice": 127.1,
+      "scoreAtEntry": 84,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
-      "stopLossPrice": 103.944,
-      "reviewDate": "2026-10-29"
+      "stopLossPrice": 101.68,
+      "reviewDate": "2026-10-30"
     },
     {
-      "id": "d85ed2d6",
-      "ticker": "MO",
-      "company": "Altria Group, Inc.",
-      "sector": "Consumer Staples",
+      "id": "59c15ec7",
+      "ticker": "EOG",
+      "company": "EOG Resources, Inc.",
+      "sector": "Energy",
       "homeIndex": "spy",
-      "entryDate": "2026-07-29",
-      "entryPrice": 74.82,
+      "entryDate": "2026-07-30",
+      "entryPrice": 145.94,
+      "scoreAtEntry": 79,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 500.0,
+      "positionPct": 5.0,
+      "stopLossPrice": 116.752,
+      "reviewDate": "2026-10-30"
+    },
+    {
+      "id": "b22dca8b",
+      "ticker": "HAS",
+      "company": "Hasbro, Inc.",
+      "sector": "Consumer Discretionary",
+      "homeIndex": "spy",
+      "entryDate": "2026-07-30",
+      "entryPrice": 95.17,
       "scoreAtEntry": 76,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
-      "stopLossPrice": 59.856,
-      "reviewDate": "2026-10-29"
+      "stopLossPrice": 76.136,
+      "reviewDate": "2026-10-30"
+    },
+    {
+      "id": "a9c6c828",
+      "ticker": "IMI.L",
+      "company": "IMI PLC ORD 28 4/7P",
+      "sector": "Industrials",
+      "homeIndex": "isf",
+      "entryDate": "2026-07-30",
+      "entryPrice": 28.6,
+      "scoreAtEntry": 76,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 500.0,
+      "positionPct": 5.0,
+      "stopLossPrice": 22.88,
+      "reviewDate": "2026-10-30"
+    },
+    {
+      "id": "c9713695",
+      "ticker": "LH",
+      "company": "Labcorp Holdings Inc.",
+      "sector": "Healthcare",
+      "homeIndex": "spy",
+      "entryDate": "2026-07-30",
+      "entryPrice": 307.15,
+      "scoreAtEntry": 75,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 500.0,
+      "positionPct": 5.0,
+      "stopLossPrice": 245.72,
+      "reviewDate": "2026-10-30"
     }
   ],
   "trades": [],
@@ -99,12 +129,12 @@
       "benchmarkPrice": null
     },
     {
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "nav": 10000.0,
-      "benchmarkPrice": 134.71,
+      "benchmarkPrice": 134.39,
       "segmentNav": {
-        "spy": 2500.0,
-        "isf": 0.0,
+        "spy": 3000.0,
+        "isf": 500.0,
         "midd": 0.0,
         "vwrl": 0.0
       }
@@ -120,6 +150,6 @@
     "tradeCount": 0,
     "winRatePct": null,
     "avgHoldDays": null,
-    "openPositions": 5
+    "openPositions": 7
   }
 }
