@@ -13,10 +13,10 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 6500.0,
+  "cashBalance": 7000.0,
   "positions": [
     {
-      "id": "8aa67702",
+      "id": "82816265",
       "ticker": "CINF",
       "company": "Cincinnati Financial Corporatio",
       "sector": "Financials",
@@ -31,7 +31,7 @@
       "reviewDate": "2026-10-30"
     },
     {
-      "id": "bc26ebeb",
+      "id": "3e8524e2",
       "ticker": "HIG",
       "company": "The Hartford Insurance Group, I",
       "sector": "Financials",
@@ -46,7 +46,7 @@
       "reviewDate": "2026-10-30"
     },
     {
-      "id": "b90a5618",
+      "id": "532822dd",
       "ticker": "INCY",
       "company": "Incyte Corporation",
       "sector": "Healthcare",
@@ -61,7 +61,7 @@
       "reviewDate": "2026-10-30"
     },
     {
-      "id": "59c15ec7",
+      "id": "6761fa11",
       "ticker": "EOG",
       "company": "EOG Resources, Inc.",
       "sector": "Energy",
@@ -76,7 +76,7 @@
       "reviewDate": "2026-10-30"
     },
     {
-      "id": "b22dca8b",
+      "id": "d09fccd3",
       "ticker": "HAS",
       "company": "Hasbro, Inc.",
       "sector": "Consumer Discretionary",
@@ -91,7 +91,7 @@
       "reviewDate": "2026-10-30"
     },
     {
-      "id": "a9c6c828",
+      "id": "35ba1193",
       "ticker": "IMI.L",
       "company": "IMI PLC ORD 28 4/7P",
       "sector": "Industrials",
@@ -103,21 +103,6 @@
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 22.88,
-      "reviewDate": "2026-10-30"
-    },
-    {
-      "id": "c9713695",
-      "ticker": "LH",
-      "company": "Labcorp Holdings Inc.",
-      "sector": "Healthcare",
-      "homeIndex": "spy",
-      "entryDate": "2026-07-30",
-      "entryPrice": 307.15,
-      "scoreAtEntry": 75,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 245.72,
       "reviewDate": "2026-10-30"
     }
   ],
@@ -131,9 +116,9 @@
     {
       "date": "2026-07-30",
       "nav": 10000.0,
-      "benchmarkPrice": 134.39,
+      "benchmarkPrice": 134.49,
       "segmentNav": {
-        "spy": 3000.0,
+        "spy": 2500.0,
         "isf": 500.0,
         "midd": 0.0,
         "vwrl": 0.0
@@ -150,6 +135,6 @@
     "tradeCount": 0,
     "winRatePct": null,
     "avgHoldDays": null,
-    "openPositions": 7
+    "openPositions": 6
   }
 }
