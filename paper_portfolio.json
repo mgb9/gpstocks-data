@@ -16,7 +16,7 @@
   "cashBalance": 6500.0,
   "positions": [
     {
-      "id": "d61ae699",
+      "id": "031723d2",
       "ticker": "INCY",
       "company": "Incyte Corporation",
       "sector": "Healthcare",
@@ -31,22 +31,7 @@
       "reviewDate": "2026-10-31"
     },
     {
-      "id": "fff5db84",
-      "ticker": "CINF",
-      "company": "Cincinnati Financial Corporatio",
-      "sector": "Financials",
-      "homeIndex": "spy",
-      "entryDate": "2026-07-31",
-      "entryPrice": 174.73,
-      "scoreAtEntry": 86,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 139.784,
-      "reviewDate": "2026-10-31"
-    },
-    {
-      "id": "77ce592a",
+      "id": "a06a768b",
       "ticker": "HIG",
       "company": "The Hartford Insurance Group, I",
       "sector": "Financials",
@@ -61,7 +46,22 @@
       "reviewDate": "2026-10-31"
     },
     {
-      "id": "ac7a401f",
+      "id": "fcde00c1",
+      "ticker": "CINF",
+      "company": "Cincinnati Financial Corporatio",
+      "sector": "Financials",
+      "homeIndex": "spy",
+      "entryDate": "2026-07-31",
+      "entryPrice": 174.73,
+      "scoreAtEntry": 85,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 500.0,
+      "positionPct": 5.0,
+      "stopLossPrice": 139.784,
+      "reviewDate": "2026-10-31"
+    },
+    {
+      "id": "b8969f52",
       "ticker": "BMY",
       "company": "Bristol-Myers Squibb Company",
       "sector": "Healthcare",
@@ -76,7 +76,7 @@
       "reviewDate": "2026-10-31"
     },
     {
-      "id": "3b46d2da",
+      "id": "f9437edf",
       "ticker": "EOG",
       "company": "EOG Resources, Inc.",
       "sector": "Energy",
@@ -91,7 +91,7 @@
       "reviewDate": "2026-10-31"
     },
     {
-      "id": "c480027d",
+      "id": "29509eb6",
       "ticker": "IMI.L",
       "company": "IMI PLC ORD 28 4/7P",
       "sector": "Industrials",
@@ -106,7 +106,7 @@
       "reviewDate": "2026-10-31"
     },
     {
-      "id": "c4b14354",
+      "id": "336fcf2d",
       "ticker": "GD",
       "company": "General Dynamics Corporation",
       "sector": "Industrials",
@@ -131,7 +131,7 @@
     {
       "date": "2026-07-31",
       "nav": 10000.0,
-      "benchmarkPrice": 136.03,
+      "benchmarkPrice": 134.83,
       "segmentNav": {
         "spy": 3000.0,
         "isf": 500.0,
