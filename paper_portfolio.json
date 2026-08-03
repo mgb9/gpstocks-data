@@ -16,7 +16,7 @@
   "cashBalance": 5500.0,
   "positions": [
     {
-      "id": "a4471a85",
+      "id": "516c062b",
       "ticker": "INCY",
       "company": "Incyte Corporation",
       "sector": "Healthcare",
@@ -31,7 +31,7 @@
       "reviewDate": "2026-11-03"
     },
     {
-      "id": "2d158d04",
+      "id": "42ad18f9",
       "ticker": "HIG",
       "company": "The Hartford Insurance Group, I",
       "sector": "Financials",
@@ -46,7 +46,7 @@
       "reviewDate": "2026-11-03"
     },
     {
-      "id": "c671e0b9",
+      "id": "b35f320d",
       "ticker": "CINF",
       "company": "Cincinnati Financial Corporatio",
       "sector": "Financials",
@@ -61,7 +61,7 @@
       "reviewDate": "2026-11-03"
     },
     {
-      "id": "cd3c9f12",
+      "id": "62c60cff",
       "ticker": "BMY",
       "company": "Bristol-Myers Squibb Company",
       "sector": "Healthcare",
@@ -76,7 +76,7 @@
       "reviewDate": "2026-11-03"
     },
     {
-      "id": "6c540bf5",
+      "id": "b90ad128",
       "ticker": "EOG",
       "company": "EOG Resources, Inc.",
       "sector": "Energy",
@@ -91,7 +91,7 @@
       "reviewDate": "2026-11-03"
     },
     {
-      "id": "5c7b15c7",
+      "id": "0ff0af9f",
       "ticker": "IMI.L",
       "company": "IMI PLC ORD 28 4/7P",
       "sector": "Industrials",
@@ -106,7 +106,22 @@
       "reviewDate": "2026-11-03"
     },
     {
-      "id": "3606afdc",
+      "id": "a1b60628",
+      "ticker": "HAS",
+      "company": "Hasbro, Inc.",
+      "sector": "Consumer Discretionary",
+      "homeIndex": "spy",
+      "entryDate": "2026-08-03",
+      "entryPrice": 93.94,
+      "scoreAtEntry": 78,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 500.0,
+      "positionPct": 5.0,
+      "stopLossPrice": 75.152,
+      "reviewDate": "2026-11-03"
+    },
+    {
+      "id": "59f78424",
       "ticker": "LH",
       "company": "Labcorp Holdings Inc.",
       "sector": "Healthcare",
@@ -121,22 +136,7 @@
       "reviewDate": "2026-11-03"
     },
     {
-      "id": "b4ebf926",
-      "ticker": "HAS",
-      "company": "Hasbro, Inc.",
-      "sector": "Consumer Discretionary",
-      "homeIndex": "spy",
-      "entryDate": "2026-08-03",
-      "entryPrice": 93.94,
-      "scoreAtEntry": 76,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 75.152,
-      "reviewDate": "2026-11-03"
-    },
-    {
-      "id": "127cc160",
+      "id": "d8664eb7",
       "ticker": "NXT.L",
       "company": "NEXT PLC ORD 10P",
       "sector": "Consumer Discretionary",
@@ -161,7 +161,7 @@
     {
       "date": "2026-08-03",
       "nav": 10000.0,
-      "benchmarkPrice": 136.19,
+      "benchmarkPrice": 136.98,
       "segmentNav": {
         "spy": 3500.0,
         "isf": 1000.0,
