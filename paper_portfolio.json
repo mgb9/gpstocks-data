@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-27",
-  "lastUpdated": "2026-07-31",
+  "lastUpdated": "2026-08-03",
   "config": {
     "initialCapital": 10000,
     "currency": "GBP",
@@ -13,112 +13,142 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 6500.0,
+  "cashBalance": 5500.0,
   "positions": [
     {
-      "id": "031723d2",
+      "id": "a4471a85",
       "ticker": "INCY",
       "company": "Incyte Corporation",
       "sector": "Healthcare",
       "homeIndex": "spy",
-      "entryDate": "2026-07-31",
-      "entryPrice": 122.99,
+      "entryDate": "2026-08-03",
+      "entryPrice": 119.52,
       "scoreAtEntry": 87,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
-      "stopLossPrice": 98.392,
-      "reviewDate": "2026-10-31"
+      "stopLossPrice": 95.616,
+      "reviewDate": "2026-11-03"
     },
     {
-      "id": "a06a768b",
+      "id": "2d158d04",
       "ticker": "HIG",
       "company": "The Hartford Insurance Group, I",
       "sector": "Financials",
       "homeIndex": "spy",
-      "entryDate": "2026-07-31",
-      "entryPrice": 143.05,
+      "entryDate": "2026-08-03",
+      "entryPrice": 141.91,
       "scoreAtEntry": 86,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
-      "stopLossPrice": 114.44,
-      "reviewDate": "2026-10-31"
+      "stopLossPrice": 113.528,
+      "reviewDate": "2026-11-03"
     },
     {
-      "id": "fcde00c1",
+      "id": "c671e0b9",
       "ticker": "CINF",
       "company": "Cincinnati Financial Corporatio",
       "sector": "Financials",
       "homeIndex": "spy",
-      "entryDate": "2026-07-31",
-      "entryPrice": 174.73,
+      "entryDate": "2026-08-03",
+      "entryPrice": 177.68,
       "scoreAtEntry": 85,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
-      "stopLossPrice": 139.784,
-      "reviewDate": "2026-10-31"
+      "stopLossPrice": 142.144,
+      "reviewDate": "2026-11-03"
     },
     {
-      "id": "b8969f52",
+      "id": "cd3c9f12",
       "ticker": "BMY",
       "company": "Bristol-Myers Squibb Company",
       "sector": "Healthcare",
       "homeIndex": "spy",
-      "entryDate": "2026-07-31",
-      "entryPrice": 64.86,
+      "entryDate": "2026-08-03",
+      "entryPrice": 65.31,
       "scoreAtEntry": 80,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
-      "stopLossPrice": 51.888,
-      "reviewDate": "2026-10-31"
+      "stopLossPrice": 52.248,
+      "reviewDate": "2026-11-03"
     },
     {
-      "id": "f9437edf",
+      "id": "6c540bf5",
       "ticker": "EOG",
       "company": "EOG Resources, Inc.",
       "sector": "Energy",
       "homeIndex": "spy",
-      "entryDate": "2026-07-31",
-      "entryPrice": 145.51,
+      "entryDate": "2026-08-03",
+      "entryPrice": 148.69,
       "scoreAtEntry": 79,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
-      "stopLossPrice": 116.408,
-      "reviewDate": "2026-10-31"
+      "stopLossPrice": 118.952,
+      "reviewDate": "2026-11-03"
     },
     {
-      "id": "29509eb6",
+      "id": "5c7b15c7",
       "ticker": "IMI.L",
       "company": "IMI PLC ORD 28 4/7P",
       "sector": "Industrials",
       "homeIndex": "isf",
-      "entryDate": "2026-07-31",
-      "entryPrice": 29.46,
+      "entryDate": "2026-08-03",
+      "entryPrice": 29.36,
       "scoreAtEntry": 79,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
-      "stopLossPrice": 23.568,
-      "reviewDate": "2026-10-31"
+      "stopLossPrice": 23.488,
+      "reviewDate": "2026-11-03"
     },
     {
-      "id": "336fcf2d",
-      "ticker": "GD",
-      "company": "General Dynamics Corporation",
-      "sector": "Industrials",
+      "id": "3606afdc",
+      "ticker": "LH",
+      "company": "Labcorp Holdings Inc.",
+      "sector": "Healthcare",
       "homeIndex": "spy",
-      "entryDate": "2026-07-31",
-      "entryPrice": 382.2,
+      "entryDate": "2026-08-03",
+      "entryPrice": 309.2,
+      "scoreAtEntry": 77,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 500.0,
+      "positionPct": 5.0,
+      "stopLossPrice": 247.36,
+      "reviewDate": "2026-11-03"
+    },
+    {
+      "id": "b4ebf926",
+      "ticker": "HAS",
+      "company": "Hasbro, Inc.",
+      "sector": "Consumer Discretionary",
+      "homeIndex": "spy",
+      "entryDate": "2026-08-03",
+      "entryPrice": 93.94,
+      "scoreAtEntry": 76,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 500.0,
+      "positionPct": 5.0,
+      "stopLossPrice": 75.152,
+      "reviewDate": "2026-11-03"
+    },
+    {
+      "id": "127cc160",
+      "ticker": "NXT.L",
+      "company": "NEXT PLC ORD 10P",
+      "sector": "Consumer Discretionary",
+      "homeIndex": "isf",
+      "entryDate": "2026-08-03",
+      "entryPrice": 148.45,
       "scoreAtEntry": 75,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
-      "stopLossPrice": 305.76,
-      "reviewDate": "2026-10-31"
+      "stopLossPrice": 118.76,
+      "reviewDate": "2026-11-03"
     }
   ],
   "trades": [],
@@ -129,12 +159,12 @@
       "benchmarkPrice": null
     },
     {
-      "date": "2026-07-31",
+      "date": "2026-08-03",
       "nav": 10000.0,
-      "benchmarkPrice": 134.83,
+      "benchmarkPrice": 136.19,
       "segmentNav": {
-        "spy": 3000.0,
-        "isf": 500.0,
+        "spy": 3500.0,
+        "isf": 1000.0,
         "midd": 0.0,
         "vwrl": 0.0
       }
@@ -150,6 +180,6 @@
     "tradeCount": 0,
     "winRatePct": null,
     "avgHoldDays": null,
-    "openPositions": 7
+    "openPositions": 9
   }
 }
