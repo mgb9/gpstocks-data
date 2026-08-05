@@ -16,7 +16,7 @@
   "cashBalance": 6000.0,
   "positions": [
     {
-      "id": "acf86bd5",
+      "id": "494454de",
       "ticker": "INCY",
       "company": "Incyte Corporation",
       "sector": "Healthcare",
@@ -31,7 +31,7 @@
       "reviewDate": "2026-11-05"
     },
     {
-      "id": "eab1fbf5",
+      "id": "7d7cb1f0",
       "ticker": "CINF",
       "company": "Cincinnati Financial Corporatio",
       "sector": "Financials",
@@ -46,7 +46,7 @@
       "reviewDate": "2026-11-05"
     },
     {
-      "id": "c3714cfd",
+      "id": "7a496d60",
       "ticker": "HIG",
       "company": "The Hartford Insurance Group, I",
       "sector": "Financials",
@@ -61,14 +61,14 @@
       "reviewDate": "2026-11-05"
     },
     {
-      "id": "487cb1a7",
+      "id": "6506bb33",
       "ticker": "EOG",
       "company": "EOG Resources, Inc.",
       "sector": "Energy",
       "homeIndex": "spy",
       "entryDate": "2026-08-05",
       "entryPrice": 143.52,
-      "scoreAtEntry": 81,
+      "scoreAtEntry": 82,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
@@ -76,7 +76,7 @@
       "reviewDate": "2026-11-05"
     },
     {
-      "id": "5d3d4f4a",
+      "id": "4ae229bd",
       "ticker": "AMZN",
       "company": "Amazon.com, Inc.",
       "sector": "Consumer Discretionary",
@@ -91,7 +91,22 @@
       "reviewDate": "2026-11-05"
     },
     {
-      "id": "cb80494d",
+      "id": "eaafe84a",
+      "ticker": "BMY",
+      "company": "Bristol-Myers Squibb Company",
+      "sector": "Healthcare",
+      "homeIndex": "spy",
+      "entryDate": "2026-08-05",
+      "entryPrice": 65.89,
+      "scoreAtEntry": 76,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 500.0,
+      "positionPct": 5.0,
+      "stopLossPrice": 52.712,
+      "reviewDate": "2026-11-05"
+    },
+    {
+      "id": "323e2c8b",
       "ticker": "CCH.L",
       "company": "COCA-COLA HBC AG ORD CHF6.70 (C",
       "sector": "Consumer Staples",
@@ -106,7 +121,7 @@
       "reviewDate": "2026-11-05"
     },
     {
-      "id": "79edf374",
+      "id": "6e222ce8",
       "ticker": "IMI.L",
       "company": "IMI PLC ORD 28 4/7P",
       "sector": "Industrials",
@@ -118,21 +133,6 @@
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 24.176,
-      "reviewDate": "2026-11-05"
-    },
-    {
-      "id": "2cbee799",
-      "ticker": "BMY",
-      "company": "Bristol-Myers Squibb Company",
-      "sector": "Healthcare",
-      "homeIndex": "spy",
-      "entryDate": "2026-08-05",
-      "entryPrice": 65.89,
-      "scoreAtEntry": 75,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 52.712,
       "reviewDate": "2026-11-05"
     }
   ],
@@ -146,7 +146,7 @@
     {
       "date": "2026-08-05",
       "nav": 10000.0,
-      "benchmarkPrice": 139.84,
+      "benchmarkPrice": 139.6,
       "segmentNav": {
         "spy": 3000.0,
         "isf": 1000.0,
