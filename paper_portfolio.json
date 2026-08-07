@@ -16,7 +16,7 @@
   "cashBalance": 5000.0,
   "positions": [
     {
-      "id": "b33af521",
+      "id": "d0d15e57",
       "ticker": "INCY",
       "company": "Incyte Corporation",
       "sector": "Healthcare",
@@ -31,7 +31,7 @@
       "reviewDate": "2026-11-07"
     },
     {
-      "id": "62952d6e",
+      "id": "dda82dfa",
       "ticker": "CINF",
       "company": "Cincinnati Financial Corporatio",
       "sector": "Financials",
@@ -46,7 +46,7 @@
       "reviewDate": "2026-11-07"
     },
     {
-      "id": "d69b2688",
+      "id": "e06b7f6d",
       "ticker": "HIG",
       "company": "The Hartford Insurance Group, I",
       "sector": "Financials",
@@ -61,7 +61,7 @@
       "reviewDate": "2026-11-07"
     },
     {
-      "id": "98f6b39c",
+      "id": "679e5838",
       "ticker": "CCH.L",
       "company": "COCA-COLA HBC AG ORD CHF6.70 (C",
       "sector": "Consumer Staples",
@@ -76,7 +76,7 @@
       "reviewDate": "2026-11-07"
     },
     {
-      "id": "4ff9f1d4",
+      "id": "16b73093",
       "ticker": "BMY",
       "company": "Bristol-Myers Squibb Company",
       "sector": "Healthcare",
@@ -91,7 +91,7 @@
       "reviewDate": "2026-11-07"
     },
     {
-      "id": "b47cf73b",
+      "id": "b0cdc5ab",
       "ticker": "EOG",
       "company": "EOG Resources, Inc.",
       "sector": "Energy",
@@ -106,7 +106,7 @@
       "reviewDate": "2026-11-07"
     },
     {
-      "id": "2f3332af",
+      "id": "a95647a4",
       "ticker": "AMZN",
       "company": "Amazon.com, Inc.",
       "sector": "Consumer Discretionary",
@@ -121,7 +121,7 @@
       "reviewDate": "2026-11-07"
     },
     {
-      "id": "148a3d97",
+      "id": "a2b9c92b",
       "ticker": "IMI.L",
       "company": "IMI PLC ORD 28 4/7P",
       "sector": "Industrials",
@@ -136,7 +136,7 @@
       "reviewDate": "2026-11-07"
     },
     {
-      "id": "e598e7c0",
+      "id": "d592132b",
       "ticker": "EXPD",
       "company": "Expeditors International of Was",
       "sector": "Industrials",
@@ -151,7 +151,7 @@
       "reviewDate": "2026-11-07"
     },
     {
-      "id": "22ae8e6e",
+      "id": "10d78347",
       "ticker": "NXT.L",
       "company": "NEXT PLC ORD 10P",
       "sector": "Consumer Discretionary",
@@ -176,7 +176,7 @@
     {
       "date": "2026-08-07",
       "nav": 10000.0,
-      "benchmarkPrice": 139.71,
+      "benchmarkPrice": 139.74,
       "segmentNav": {
         "spy": 3500.0,
         "isf": 1500.0,
