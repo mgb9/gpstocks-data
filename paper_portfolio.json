@@ -13,10 +13,10 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 3500.0,
+  "cashBalance": 4000.0,
   "positions": [
     {
-      "id": "7f3c69e7",
+      "id": "c3d3c79d",
       "ticker": "INCY",
       "company": "Incyte Corporation",
       "sector": "Healthcare",
@@ -31,7 +31,7 @@
       "reviewDate": "2026-11-10"
     },
     {
-      "id": "7dbdd125",
+      "id": "4bd1bf37",
       "ticker": "CINF",
       "company": "Cincinnati Financial Corporatio",
       "sector": "Financials",
@@ -46,7 +46,7 @@
       "reviewDate": "2026-11-10"
     },
     {
-      "id": "b636a4dd",
+      "id": "b9d2ec4d",
       "ticker": "GL",
       "company": "Globe Life Inc.",
       "sector": "Financials",
@@ -61,7 +61,7 @@
       "reviewDate": "2026-11-10"
     },
     {
-      "id": "44b58bc6",
+      "id": "48180c1a",
       "ticker": "HIG",
       "company": "The Hartford Insurance Group, I",
       "sector": "Financials",
@@ -76,7 +76,7 @@
       "reviewDate": "2026-11-10"
     },
     {
-      "id": "939ee12e",
+      "id": "47cfd592",
       "ticker": "COP",
       "company": "ConocoPhillips",
       "sector": "Energy",
@@ -91,7 +91,7 @@
       "reviewDate": "2026-11-10"
     },
     {
-      "id": "08f7fc3b",
+      "id": "1d15b807",
       "ticker": "CCH.L",
       "company": "COCA-COLA HBC AG ORD CHF6.70 (C",
       "sector": "Consumer Staples",
@@ -106,7 +106,7 @@
       "reviewDate": "2026-11-10"
     },
     {
-      "id": "24c15627",
+      "id": "6ade624a",
       "ticker": "BMY",
       "company": "Bristol-Myers Squibb Company",
       "sector": "Healthcare",
@@ -121,7 +121,7 @@
       "reviewDate": "2026-11-10"
     },
     {
-      "id": "a9fa0991",
+      "id": "dbeedb13",
       "ticker": "EOG",
       "company": "EOG Resources, Inc.",
       "sector": "Energy",
@@ -136,14 +136,14 @@
       "reviewDate": "2026-11-10"
     },
     {
-      "id": "c066c490",
+      "id": "5a094311",
       "ticker": "AMZN",
       "company": "Amazon.com, Inc.",
       "sector": "Consumer Discretionary",
       "homeIndex": "spy",
       "entryDate": "2026-08-10",
       "entryPrice": 274.48,
-      "scoreAtEntry": 79,
+      "scoreAtEntry": 78,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
@@ -151,7 +151,7 @@
       "reviewDate": "2026-11-10"
     },
     {
-      "id": "5ed1d35d",
+      "id": "b8ebbcbd",
       "ticker": "HWM",
       "company": "Howmet Aerospace Inc.",
       "sector": "Industrials",
@@ -166,22 +166,7 @@
       "reviewDate": "2026-11-10"
     },
     {
-      "id": "218007f0",
-      "ticker": "IMI.L",
-      "company": "IMI PLC ORD 28 4/7P",
-      "sector": "Industrials",
-      "homeIndex": "isf",
-      "entryDate": "2026-08-10",
-      "entryPrice": 31.36,
-      "scoreAtEntry": 76,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 25.088,
-      "reviewDate": "2026-11-10"
-    },
-    {
-      "id": "84494728",
+      "id": "97bbc358",
       "ticker": "EXPD",
       "company": "Expeditors International of Was",
       "sector": "Industrials",
@@ -196,7 +181,7 @@
       "reviewDate": "2026-11-10"
     },
     {
-      "id": "58c8a86f",
+      "id": "9d9cc77e",
       "ticker": "NXT.L",
       "company": "NEXT PLC ORD 10P",
       "sector": "Consumer Discretionary",
@@ -221,10 +206,10 @@
     {
       "date": "2026-08-10",
       "nav": 10000.0,
-      "benchmarkPrice": 139.62,
+      "benchmarkPrice": 139.29,
       "segmentNav": {
         "spy": 5000.0,
-        "isf": 1500.0,
+        "isf": 1000.0,
         "midd": 0.0,
         "vwrl": 0.0
       }
@@ -240,6 +225,6 @@
     "tradeCount": 0,
     "winRatePct": null,
     "avgHoldDays": null,
-    "openPositions": 13
+    "openPositions": 12
   }
 }
