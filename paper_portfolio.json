@@ -13,17 +13,17 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 6000.0,
+  "cashBalance": 5000.0,
   "positions": [
     {
-      "id": "45e16830",
+      "id": "6b53a748",
       "ticker": "INCY",
       "company": "Incyte Corporation",
       "sector": "Healthcare",
       "homeIndex": "spy",
       "entryDate": "2026-08-13",
       "entryPrice": 120.77,
-      "scoreAtEntry": 87,
+      "scoreAtEntry": 86,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
@@ -31,7 +31,7 @@
       "reviewDate": "2026-11-13"
     },
     {
-      "id": "415c27c2",
+      "id": "42455734",
       "ticker": "COP",
       "company": "ConocoPhillips",
       "sector": "Energy",
@@ -46,7 +46,7 @@
       "reviewDate": "2026-11-13"
     },
     {
-      "id": "2a0b6f29",
+      "id": "0cf6f8fc",
       "ticker": "EOG",
       "company": "EOG Resources, Inc.",
       "sector": "Energy",
@@ -61,7 +61,7 @@
       "reviewDate": "2026-11-13"
     },
     {
-      "id": "9976d311",
+      "id": "d9da6ac6",
       "ticker": "GL",
       "company": "Globe Life Inc.",
       "sector": "Financials",
@@ -76,7 +76,7 @@
       "reviewDate": "2026-11-13"
     },
     {
-      "id": "00da10a6",
+      "id": "5fcbda21",
       "ticker": "BMY",
       "company": "Bristol-Myers Squibb Company",
       "sector": "Healthcare",
@@ -91,7 +91,7 @@
       "reviewDate": "2026-11-13"
     },
     {
-      "id": "7dc3640d",
+      "id": "b8c1f321",
       "ticker": "AMZN",
       "company": "Amazon.com, Inc.",
       "sector": "Consumer Discretionary",
@@ -106,7 +106,7 @@
       "reviewDate": "2026-11-13"
     },
     {
-      "id": "265d8bde",
+      "id": "b9464c55",
       "ticker": "HWM",
       "company": "Howmet Aerospace Inc.",
       "sector": "Industrials",
@@ -121,7 +121,22 @@
       "reviewDate": "2026-11-13"
     },
     {
-      "id": "fee902fc",
+      "id": "9a53fde2",
+      "ticker": "IMI.L",
+      "company": "IMI PLC ORD 28 4/7P",
+      "sector": "Industrials",
+      "homeIndex": "isf",
+      "entryDate": "2026-08-13",
+      "entryPrice": 31.48,
+      "scoreAtEntry": 76,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 500.0,
+      "positionPct": 5.0,
+      "stopLossPrice": 25.184,
+      "reviewDate": "2026-11-13"
+    },
+    {
+      "id": "310fde6b",
       "ticker": "NXT.L",
       "company": "NEXT PLC ORD 10P",
       "sector": "Consumer Discretionary",
@@ -133,6 +148,21 @@
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 122.64,
+      "reviewDate": "2026-11-13"
+    },
+    {
+      "id": "11bd4e92",
+      "ticker": "RL",
+      "company": "Ralph Lauren Corporation",
+      "sector": "Consumer Discretionary",
+      "homeIndex": "spy",
+      "entryDate": "2026-08-13",
+      "entryPrice": 396.35,
+      "scoreAtEntry": 76,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 500.0,
+      "positionPct": 5.0,
+      "stopLossPrice": 317.08,
       "reviewDate": "2026-11-13"
     }
   ],
@@ -146,10 +176,10 @@
     {
       "date": "2026-08-13",
       "nav": 10000.0,
-      "benchmarkPrice": 140.22,
+      "benchmarkPrice": 140.33,
       "segmentNav": {
-        "spy": 3500.0,
-        "isf": 500.0,
+        "spy": 4000.0,
+        "isf": 1000.0,
         "midd": 0.0,
         "vwrl": 0.0
       }
@@ -165,6 +195,6 @@
     "tradeCount": 0,
     "winRatePct": null,
     "avgHoldDays": null,
-    "openPositions": 8
+    "openPositions": 10
   }
 }
