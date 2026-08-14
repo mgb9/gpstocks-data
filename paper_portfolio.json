@@ -16,14 +16,14 @@
   "cashBalance": 5500.0,
   "positions": [
     {
-      "id": "9eeb39df",
+      "id": "e5efa343",
       "ticker": "INCY",
       "company": "Incyte Corporation",
       "sector": "Healthcare",
       "homeIndex": "spy",
       "entryDate": "2026-08-14",
       "entryPrice": 120.52,
-      "scoreAtEntry": 86,
+      "scoreAtEntry": 88,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
@@ -31,14 +31,14 @@
       "reviewDate": "2026-11-14"
     },
     {
-      "id": "7bd5ed84",
+      "id": "2428fba7",
       "ticker": "COP",
       "company": "ConocoPhillips",
       "sector": "Energy",
       "homeIndex": "spy",
       "entryDate": "2026-08-14",
       "entryPrice": 124.52,
-      "scoreAtEntry": 84,
+      "scoreAtEntry": 83,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
@@ -46,7 +46,7 @@
       "reviewDate": "2026-11-14"
     },
     {
-      "id": "1d969b7d",
+      "id": "dc1e2f14",
       "ticker": "EOG",
       "company": "EOG Resources, Inc.",
       "sector": "Energy",
@@ -61,7 +61,7 @@
       "reviewDate": "2026-11-14"
     },
     {
-      "id": "b3fb541f",
+      "id": "21e386ea",
       "ticker": "HIG",
       "company": "The Hartford Insurance Group, I",
       "sector": "Financials",
@@ -76,7 +76,22 @@
       "reviewDate": "2026-11-14"
     },
     {
-      "id": "c77c1e5f",
+      "id": "dc774489",
+      "ticker": "GL",
+      "company": "Globe Life Inc.",
+      "sector": "Financials",
+      "homeIndex": "spy",
+      "entryDate": "2026-08-14",
+      "entryPrice": 180.67,
+      "scoreAtEntry": 80,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 500.0,
+      "positionPct": 5.0,
+      "stopLossPrice": 144.536,
+      "reviewDate": "2026-11-14"
+    },
+    {
+      "id": "b1ae073d",
       "ticker": "AMZN",
       "company": "Amazon.com, Inc.",
       "sector": "Consumer Discretionary",
@@ -91,22 +106,7 @@
       "reviewDate": "2026-11-14"
     },
     {
-      "id": "859f7fb3",
-      "ticker": "GL",
-      "company": "Globe Life Inc.",
-      "sector": "Financials",
-      "homeIndex": "spy",
-      "entryDate": "2026-08-14",
-      "entryPrice": 180.67,
-      "scoreAtEntry": 79,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 144.536,
-      "reviewDate": "2026-11-14"
-    },
-    {
-      "id": "d938f052",
+      "id": "70bd8c48",
       "ticker": "BMY",
       "company": "Bristol-Myers Squibb Company",
       "sector": "Healthcare",
@@ -121,7 +121,22 @@
       "reviewDate": "2026-11-14"
     },
     {
-      "id": "1df2e324",
+      "id": "57d8386c",
+      "ticker": "IMI.L",
+      "company": "IMI PLC ORD 28 4/7P",
+      "sector": "Industrials",
+      "homeIndex": "isf",
+      "entryDate": "2026-08-14",
+      "entryPrice": 30.88,
+      "scoreAtEntry": 78,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 500.0,
+      "positionPct": 5.0,
+      "stopLossPrice": 24.704,
+      "reviewDate": "2026-11-14"
+    },
+    {
+      "id": "1df50684",
       "ticker": "HWM",
       "company": "Howmet Aerospace Inc.",
       "sector": "Industrials",
@@ -133,21 +148,6 @@
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 226.256,
-      "reviewDate": "2026-11-14"
-    },
-    {
-      "id": "21fe973f",
-      "ticker": "IMI.L",
-      "company": "IMI PLC ORD 28 4/7P",
-      "sector": "Industrials",
-      "homeIndex": "isf",
-      "entryDate": "2026-08-14",
-      "entryPrice": 31.48,
-      "scoreAtEntry": 76,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 25.184,
       "reviewDate": "2026-11-14"
     }
   ],
@@ -161,7 +161,7 @@
     {
       "date": "2026-08-14",
       "nav": 10000.0,
-      "benchmarkPrice": 140.5,
+      "benchmarkPrice": 139.86,
       "segmentNav": {
         "spy": 4000.0,
         "isf": 500.0,
