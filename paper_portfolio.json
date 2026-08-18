@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-27",
-  "lastUpdated": "2026-08-17",
+  "lastUpdated": "2026-08-18",
   "config": {
     "initialCapital": 10000,
     "currency": "GBP",
@@ -13,187 +13,127 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 4000.0,
+  "cashBalance": 6000.0,
   "positions": [
     {
-      "id": "ebfb2df9",
+      "id": "3a12cc72",
       "ticker": "INCY",
       "company": "Incyte Corporation",
       "sector": "Healthcare",
       "homeIndex": "spy",
-      "entryDate": "2026-08-17",
+      "entryDate": "2026-08-18",
       "entryPrice": 120.16,
-      "scoreAtEntry": 86,
+      "scoreAtEntry": 87,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 96.128,
-      "reviewDate": "2026-11-17"
+      "reviewDate": "2026-11-18"
     },
     {
-      "id": "0ef440fd",
+      "id": "0cbde944",
       "ticker": "COP",
       "company": "ConocoPhillips",
       "sector": "Energy",
       "homeIndex": "spy",
-      "entryDate": "2026-08-17",
-      "entryPrice": 126.78,
+      "entryDate": "2026-08-18",
+      "entryPrice": 125.94,
       "scoreAtEntry": 83,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
-      "stopLossPrice": 101.424,
-      "reviewDate": "2026-11-17"
+      "stopLossPrice": 100.752,
+      "reviewDate": "2026-11-18"
     },
     {
-      "id": "2613e2fc",
+      "id": "56f5f104",
       "ticker": "EOG",
       "company": "EOG Resources, Inc.",
       "sector": "Energy",
       "homeIndex": "spy",
-      "entryDate": "2026-08-17",
+      "entryDate": "2026-08-18",
       "entryPrice": 142.61,
       "scoreAtEntry": 83,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 114.088,
-      "reviewDate": "2026-11-17"
+      "reviewDate": "2026-11-18"
     },
     {
-      "id": "94cf1659",
+      "id": "d46845af",
       "ticker": "HIG",
       "company": "The Hartford Insurance Group, I",
       "sector": "Financials",
       "homeIndex": "spy",
-      "entryDate": "2026-08-17",
+      "entryDate": "2026-08-18",
       "entryPrice": 138.02,
       "scoreAtEntry": 83,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 110.416,
-      "reviewDate": "2026-11-17"
+      "reviewDate": "2026-11-18"
     },
     {
-      "id": "e8f35158",
+      "id": "6ad4c559",
       "ticker": "BMY",
       "company": "Bristol-Myers Squibb Company",
       "sector": "Healthcare",
       "homeIndex": "spy",
-      "entryDate": "2026-08-17",
+      "entryDate": "2026-08-18",
       "entryPrice": 63.83,
       "scoreAtEntry": 82,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 51.064,
-      "reviewDate": "2026-11-17"
+      "reviewDate": "2026-11-18"
     },
     {
-      "id": "6639460e",
+      "id": "c0dc3a1b",
       "ticker": "GL",
       "company": "Globe Life Inc.",
       "sector": "Financials",
       "homeIndex": "spy",
-      "entryDate": "2026-08-17",
+      "entryDate": "2026-08-18",
       "entryPrice": 181,
       "scoreAtEntry": 80,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 144.8,
-      "reviewDate": "2026-11-17"
+      "reviewDate": "2026-11-18"
     },
     {
-      "id": "f35d9ec4",
+      "id": "f04b88e5",
       "ticker": "AMZN",
       "company": "Amazon.com, Inc.",
       "sector": "Consumer Discretionary",
       "homeIndex": "spy",
-      "entryDate": "2026-08-17",
+      "entryDate": "2026-08-18",
       "entryPrice": 262.65,
       "scoreAtEntry": 78,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 210.12,
-      "reviewDate": "2026-11-17"
+      "reviewDate": "2026-11-18"
     },
     {
-      "id": "808d7fc4",
+      "id": "c3678572",
       "ticker": "NXT.L",
       "company": "NEXT PLC ORD 10P",
       "sector": "Consumer Discretionary",
       "homeIndex": "isf",
-      "entryDate": "2026-08-17",
-      "entryPrice": 152.55,
-      "scoreAtEntry": 78,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 122.04,
-      "reviewDate": "2026-11-17"
-    },
-    {
-      "id": "83a95145",
-      "ticker": "RL",
-      "company": "Ralph Lauren Corporation",
-      "sector": "Consumer Discretionary",
-      "homeIndex": "spy",
-      "entryDate": "2026-08-17",
-      "entryPrice": 388.92,
+      "entryDate": "2026-08-18",
+      "entryPrice": 150.45,
       "scoreAtEntry": 77,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
-      "stopLossPrice": 311.136,
-      "reviewDate": "2026-11-17"
-    },
-    {
-      "id": "fc84b2f3",
-      "ticker": "IMI.L",
-      "company": "IMI PLC ORD 28 4/7P",
-      "sector": "Industrials",
-      "homeIndex": "isf",
-      "entryDate": "2026-08-17",
-      "entryPrice": 30.72,
-      "scoreAtEntry": 76,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 24.576,
-      "reviewDate": "2026-11-17"
-    },
-    {
-      "id": "f360a30b",
-      "ticker": "DGX",
-      "company": "Quest Diagnostics Incorporated",
-      "sector": "Healthcare",
-      "homeIndex": "spy",
-      "entryDate": "2026-08-17",
-      "entryPrice": 234.4,
-      "scoreAtEntry": 75,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 187.52,
-      "reviewDate": "2026-11-17"
-    },
-    {
-      "id": "9d57ff4d",
-      "ticker": "LH",
-      "company": "Labcorp Holdings Inc.",
-      "sector": "Healthcare",
-      "homeIndex": "spy",
-      "entryDate": "2026-08-17",
-      "entryPrice": 318.13,
-      "scoreAtEntry": 75,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 254.504,
-      "reviewDate": "2026-11-17"
+      "stopLossPrice": 120.36,
+      "reviewDate": "2026-11-18"
     }
   ],
   "trades": [],
@@ -204,12 +144,12 @@
       "benchmarkPrice": null
     },
     {
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "nav": 10000.0,
-      "benchmarkPrice": 139.95,
+      "benchmarkPrice": 138.84,
       "segmentNav": {
-        "spy": 5000.0,
-        "isf": 1000.0,
+        "spy": 3500.0,
+        "isf": 500.0,
         "midd": 0.0,
         "vwrl": 0.0
       }
@@ -225,6 +165,6 @@
     "tradeCount": 0,
     "winRatePct": null,
     "avgHoldDays": null,
-    "openPositions": 12
+    "openPositions": 8
   }
 }
