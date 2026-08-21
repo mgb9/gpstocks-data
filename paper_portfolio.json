@@ -16,7 +16,7 @@
   "cashBalance": 5500.0,
   "positions": [
     {
-      "id": "6e02da54",
+      "id": "c8d603f5",
       "ticker": "INCY",
       "company": "Incyte Corporation",
       "sector": "Healthcare",
@@ -31,29 +31,14 @@
       "reviewDate": "2026-11-21"
     },
     {
-      "id": "f8e2ce3c",
-      "ticker": "BMY",
-      "company": "Bristol-Myers Squibb Company",
-      "sector": "Healthcare",
-      "homeIndex": "spy",
-      "entryDate": "2026-08-21",
-      "entryPrice": 65.47,
-      "scoreAtEntry": 82,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 52.376,
-      "reviewDate": "2026-11-21"
-    },
-    {
-      "id": "10e8ee1c",
+      "id": "f3fb10a3",
       "ticker": "COP",
       "company": "ConocoPhillips",
       "sector": "Energy",
       "homeIndex": "spy",
       "entryDate": "2026-08-21",
       "entryPrice": 134.89,
-      "scoreAtEntry": 82,
+      "scoreAtEntry": 83,
       "labelAtEntry": "Buy Now",
       "costBasis": 500.0,
       "positionPct": 5.0,
@@ -61,7 +46,7 @@
       "reviewDate": "2026-11-21"
     },
     {
-      "id": "f32dac60",
+      "id": "12c08607",
       "ticker": "EOG",
       "company": "EOG Resources, Inc.",
       "sector": "Energy",
@@ -76,7 +61,22 @@
       "reviewDate": "2026-11-21"
     },
     {
-      "id": "b5e5da8f",
+      "id": "a6c8e349",
+      "ticker": "BMY",
+      "company": "Bristol-Myers Squibb Company",
+      "sector": "Healthcare",
+      "homeIndex": "spy",
+      "entryDate": "2026-08-21",
+      "entryPrice": 65.47,
+      "scoreAtEntry": 81,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 500.0,
+      "positionPct": 5.0,
+      "stopLossPrice": 52.376,
+      "reviewDate": "2026-11-21"
+    },
+    {
+      "id": "351d3072",
       "ticker": "AMZN",
       "company": "Amazon.com, Inc.",
       "sector": "Consumer Discretionary",
@@ -91,7 +91,7 @@
       "reviewDate": "2026-11-21"
     },
     {
-      "id": "df5da450",
+      "id": "36d57ab5",
       "ticker": "SCHW",
       "company": "Charles Schwab Corporation (The",
       "sector": "Financials",
@@ -106,7 +106,7 @@
       "reviewDate": "2026-11-21"
     },
     {
-      "id": "7f0fa179",
+      "id": "c19c0c57",
       "ticker": "IMI.L",
       "company": "IMI PLC ORD 28 4/7P",
       "sector": "Industrials",
@@ -121,7 +121,7 @@
       "reviewDate": "2026-11-21"
     },
     {
-      "id": "4c986049",
+      "id": "d6f51c08",
       "ticker": "NXT.L",
       "company": "NEXT PLC ORD 10P",
       "sector": "Consumer Discretionary",
@@ -136,7 +136,7 @@
       "reviewDate": "2026-11-21"
     },
     {
-      "id": "38897ff0",
+      "id": "f4720678",
       "ticker": "HWM",
       "company": "Howmet Aerospace Inc.",
       "sector": "Industrials",
@@ -161,7 +161,7 @@
     {
       "date": "2026-08-21",
       "nav": 10000.0,
-      "benchmarkPrice": 137.6,
+      "benchmarkPrice": 137.96,
       "segmentNav": {
         "spy": 3500.0,
         "isf": 1000.0,
