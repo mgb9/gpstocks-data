@@ -16,7 +16,7 @@
   "cashBalance": 6500.0,
   "positions": [
     {
-      "id": "a4c2745f",
+      "id": "2fde6939",
       "ticker": "INCY",
       "company": "Incyte Corporation",
       "sector": "Healthcare",
@@ -31,7 +31,7 @@
       "reviewDate": "2026-11-24"
     },
     {
-      "id": "29a0e15c",
+      "id": "7ce31991",
       "ticker": "BMY",
       "company": "Bristol-Myers Squibb Company",
       "sector": "Healthcare",
@@ -46,7 +46,7 @@
       "reviewDate": "2026-11-24"
     },
     {
-      "id": "aa182466",
+      "id": "1c611272",
       "ticker": "EOG",
       "company": "EOG Resources, Inc.",
       "sector": "Energy",
@@ -61,7 +61,7 @@
       "reviewDate": "2026-11-24"
     },
     {
-      "id": "f926e754",
+      "id": "0c49aef3",
       "ticker": "COP",
       "company": "ConocoPhillips",
       "sector": "Energy",
@@ -76,7 +76,7 @@
       "reviewDate": "2026-11-24"
     },
     {
-      "id": "103b64ce",
+      "id": "c454a244",
       "ticker": "SCHW",
       "company": "Charles Schwab Corporation (The",
       "sector": "Financials",
@@ -91,7 +91,7 @@
       "reviewDate": "2026-11-24"
     },
     {
-      "id": "9baef99c",
+      "id": "6c2690b9",
       "ticker": "AMZN",
       "company": "Amazon.com, Inc.",
       "sector": "Consumer Discretionary",
@@ -106,7 +106,7 @@
       "reviewDate": "2026-11-24"
     },
     {
-      "id": "1ec72dcf",
+      "id": "6c40d0ad",
       "ticker": "IMI.L",
       "company": "IMI PLC ORD 28 4/7P",
       "sector": "Industrials",
@@ -131,7 +131,7 @@
     {
       "date": "2026-08-24",
       "nav": 10000.0,
-      "benchmarkPrice": 137.58,
+      "benchmarkPrice": 137.25,
       "segmentNav": {
         "spy": 3000.0,
         "isf": 500.0,
