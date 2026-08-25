@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-25T16:31:26Z",
+  "generatedAt": "2026-08-25T16:57:51Z",
   "artefacts": {
     "stocks": {
-      "asOf": "2026-08-25T16:30:45.283Z",
+      "asOf": "2026-08-25T16:57:19.414Z",
       "size": 702,
       "source": "built"
     },
     "macro": {
-      "asOf": "2026-08-25T16:30:59Z",
+      "asOf": "2026-08-25T16:57:27Z",
       "size": 20,
       "source": "built"
     },
@@ -18,7 +18,7 @@
     "insiders": {
       "asOf": "2026-08-25",
       "size": 3,
-      "source": "built"
+      "source": "published"
     },
     "factorEtfs": {
       "asOf": "2026-08-25",
@@ -36,8 +36,8 @@
       "source": "built"
     },
     "prices": {
-      "asOf": "2026-08-25T10:05:41.233719Z",
-      "size": 716,
+      "asOf": "2026-08-25T16:09:17.027637Z",
+      "size": 765,
       "source": "published"
     },
     "snapshots": {
