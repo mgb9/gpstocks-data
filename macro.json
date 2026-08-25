@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-08-25T14:16:31Z",
+  "asOf": "2026-08-25T16:30:59Z",
   "series": {
     "VIXCLS": {
       "name": "VIX",
@@ -3980,17 +3980,13 @@
     "BAMLH0A0HYM2": {
       "name": "US HY credit spread",
       "source": "ICE BofA via FRED",
-      "latest": 2.7,
-      "latestDate": "2026-08-21",
-      "delta1mPct": 0.7462686567164185,
-      "delta1yPct": -8.47457627118644,
-      "deltaYoYPct": -8.47457627118644,
-      "deltaYoYAbs": -0.25,
+      "latest": 2.69,
+      "latestDate": "2026-08-24",
+      "delta1mPct": -4.270462633451961,
+      "delta1yPct": -3.9285714285714244,
+      "deltaYoYPct": -3.9285714285714244,
+      "deltaYoYAbs": -0.10999999999999988,
       "history": [
-        {
-          "date": "2025-12-16",
-          "value": 2.98
-        },
         {
           "date": "2025-12-17",
           "value": 2.99
@@ -4706,6 +4702,10 @@
         {
           "date": "2026-08-21",
           "value": 2.7
+        },
+        {
+          "date": "2026-08-24",
+          "value": 2.69
         }
       ]
     },
@@ -8084,12 +8084,12 @@
     "FTSE": {
       "name": "FTSE 100",
       "source": "Yahoo Finance",
-      "latest": 10847.169921875,
+      "latest": 10886.16015625,
       "latestDate": "2026-08-25",
-      "delta1mPct": 0.6063006026051388,
-      "delta1yPct": 17.06674167930432,
-      "deltaYoYPct": 17.06674167930432,
-      "deltaYoYAbs": 1581.3701171875,
+      "delta1mPct": 0.9679307115044767,
+      "delta1yPct": 17.48753896822562,
+      "deltaYoYPct": 17.48753896822562,
+      "deltaYoYAbs": 1620.3603515625,
       "history": [
         {
           "date": "2025-12-08",
@@ -8809,19 +8809,19 @@
         },
         {
           "date": "2026-08-25",
-          "value": 10847.169921875
+          "value": 10886.16015625
         }
       ]
     },
     "FTMC": {
       "name": "FTSE 250",
       "source": "Yahoo Finance",
-      "latest": 24813.419921875,
+      "latest": 24856.05078125,
       "latestDate": "2026-08-25",
-      "delta1mPct": 3.830096649781008,
-      "delta1yPct": 13.504385892027953,
-      "deltaYoYPct": 13.504385892027953,
-      "deltaYoYAbs": 2952.220703125,
+      "delta1mPct": 4.00848263055697,
+      "delta1yPct": 13.699392849095688,
+      "deltaYoYPct": 13.699392849095688,
+      "deltaYoYAbs": 2994.8515625,
       "history": [
         {
           "date": "2025-12-08",
@@ -9541,7 +9541,7 @@
         },
         {
           "date": "2026-08-25",
-          "value": 24813.419921875
+          "value": 24856.05078125
         }
       ]
     }
