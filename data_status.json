@@ -1,27 +1,27 @@
 {
-  "generatedAt": "2026-08-25T08:28:26Z",
+  "generatedAt": "2026-08-25T08:35:24Z",
   "artefacts": {
     "stocks": {
       "asOf": "2026-08-25T08:27:44.118Z",
       "size": 702,
-      "source": "built"
+      "source": "published"
     },
     "macro": {
       "asOf": "2026-08-25T08:27:50Z",
       "size": 20,
-      "source": "built"
+      "source": "published"
     },
     "benchmarks": {
-      "asOf": "2026-08-25",
+      "asOf": "2026-05-03",
       "source": "built"
     },
     "insiders": {
       "asOf": "2026-08-25",
       "size": 6,
-      "source": "built"
+      "source": "published"
     },
     "factorEtfs": {
-      "asOf": "2026-08-25",
+      "asOf": "2026-08-24",
       "size": 3,
       "source": "built"
     },
@@ -33,20 +33,17 @@
     "universeHistory": {
       "asOf": "2026-08-25",
       "size": 106,
-      "source": "built"
+      "source": "published"
     },
     "prices": {
-      "asOf": "2026-04-22T09:00:22.986601Z",
-      "size": 729,
-      "source": "published"
+      "asOf": "2026-08-25T08:35:06.506213Z",
+      "size": 716,
+      "source": "built"
     },
     "snapshots": {
       "asOf": "2026-08-25",
       "size": 106,
       "source": "built"
     }
-  },
-  "problems": [
-    "Price history: 125 days old — drives the correlation matrix and historical backtests"
-  ]
+  }
 }
