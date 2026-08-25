@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-27",
-  "lastUpdated": "2026-08-24",
+  "lastUpdated": "2026-08-25",
   "config": {
     "initialCapital": 10000,
     "currency": "GBP",
@@ -13,7 +13,7 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 6500.0,
+  "cashBalance": 5999.98,
   "positions": [
     {
       "id": "2fde6939",
@@ -119,6 +119,21 @@
       "positionPct": 5.0,
       "stopLossPrice": 24.432,
       "reviewDate": "2026-11-24"
+    },
+    {
+      "id": "5044bdd7",
+      "ticker": "HIG",
+      "company": "The Hartford Insurance Group, I",
+      "sector": "Financials",
+      "homeIndex": "spy",
+      "entryDate": "2026-08-25",
+      "entryPrice": 138.98,
+      "scoreAtEntry": 83,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 500.02,
+      "positionPct": 5.0,
+      "stopLossPrice": 111.184,
+      "reviewDate": "2026-11-25"
     }
   ],
   "trades": [],
@@ -138,18 +153,29 @@
         "midd": 0.0,
         "vwrl": 0.0
       }
+    },
+    {
+      "date": "2026-08-25",
+      "nav": 10000.43,
+      "benchmarkPrice": 137.63,
+      "segmentNav": {
+        "spy": 3500.44,
+        "isf": 500.0,
+        "midd": 0.0,
+        "vwrl": 0.0
+      }
     }
   ],
   "metrics": {
     "totalReturnPct": 0.0,
     "benchmarkReturnPct": null,
     "excessReturnPct": null,
-    "annualizedReturnPct": 0.0,
+    "annualizedReturnPct": 0.01,
     "sharpe": null,
     "maxDrawdownPct": 0.0,
     "tradeCount": 0,
     "winRatePct": null,
     "avgHoldDays": null,
-    "openPositions": 7
+    "openPositions": 8
   }
 }
