@@ -1,24 +1,24 @@
 {
-  "asOf": "2026-08-25",
+  "asOf": "2026-08-26",
   "horizonDays": 90,
   "regime": "Normal",
-  "snapshots": 41,
+  "snapshots": 42,
   "observations": 753,
   "methodology": "weekly-sampled, fixed-horizon, run-deduplicated, non-overlapping",
   "unitOfObservation": "Label-transition, non-overlapping: one row per ticker per label-change; skip ticker until t + horizonDays after emitting. Weekly-sampled start dates.",
   "universeAttrition": {
     "droppedDelisted": 7,
-    "droppedImmature": 270,
+    "droppedImmature": 303,
     "recoveredFromIndex": 14,
-    "totalCandidates": 1030,
+    "totalCandidates": 1063,
     "window": {
       "from": "2025-10-20",
-      "to": "2026-08-19"
+      "to": "2026-08-26"
     }
   },
   "pitCoverage": {
     "substituted": 0,
-    "missing": 13414,
+    "missing": 14114,
     "fraction": 0
   },
   "rulesVersion": "v1.3",
@@ -296,10 +296,10 @@
         55.55555555555556
       ],
       "bootstrapSnapshots": 10,
-      "avgBenchmarkReturnPct": 4.873559875120118,
-      "avgExcessReturnPct": -6.368985526037502,
+      "avgBenchmarkReturnPct": 4.873559290254317,
+      "avgExcessReturnPct": -6.3689849411717,
       "hitRateVsBenchmarkPct": 30.18867924528302,
-      "informationRatio": -0.4092782448984178
+      "informationRatio": -0.40927819839095636
     },
     "Avoid": {
       "n": 596,
@@ -895,10 +895,10 @@
         55.55555555555556
       ],
       "bootstrapSnapshots": 10,
-      "avgBenchmarkReturnPct": 4.873559875120118,
-      "avgExcessReturnPct": -6.368985526037502,
+      "avgBenchmarkReturnPct": 4.873559290254317,
+      "avgExcessReturnPct": -6.3689849411717,
       "hitRateVsBenchmarkPct": 30.18867924528302,
-      "informationRatio": -0.4092782448984178
+      "informationRatio": -0.40927819839095636
     },
     "Avoid": {
       "n": 568,

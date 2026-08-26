@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-27",
-  "lastUpdated": "2026-08-25",
+  "lastUpdated": "2026-08-26",
   "config": {
     "initialCapital": 10000,
     "currency": "GBP",
@@ -13,7 +13,7 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 5999.98,
+  "cashBalance": 5500.36,
   "positions": [
     {
       "id": "2fde6939",
@@ -134,6 +134,23 @@
       "positionPct": 5.0,
       "stopLossPrice": 111.184,
       "reviewDate": "2026-11-25"
+    },
+    {
+      "id": "e4124b27",
+      "ticker": "NXT.L",
+      "company": "NEXT PLC ORD 10P",
+      "sector": "Consumer Discretionary",
+      "homeIndex": "isf",
+      "entryDate": "2026-08-26",
+      "entryPrice": 156.35,
+      "scoreAtEntry": 77,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 496.62,
+      "cashCommitted": 499.62,
+      "entryFee": 3.0,
+      "positionPct": 5.0,
+      "stopLossPrice": 125.08,
+      "reviewDate": "2026-11-26"
     }
   ],
   "trades": [],
@@ -164,18 +181,29 @@
         "midd": 0.0,
         "vwrl": 0.0
       }
+    },
+    {
+      "date": "2026-08-26",
+      "nav": 9989.4,
+      "benchmarkPrice": 138.2,
+      "segmentNav": {
+        "spy": 3484.57,
+        "isf": 1004.48,
+        "midd": 0.0,
+        "vwrl": 0.0
+      }
     }
   ],
   "metrics": {
-    "totalReturnPct": 0.0,
+    "totalReturnPct": -0.11,
     "benchmarkReturnPct": null,
     "excessReturnPct": null,
-    "annualizedReturnPct": 0.01,
+    "annualizedReturnPct": -0.32,
     "sharpe": null,
-    "maxDrawdownPct": 0.0,
+    "maxDrawdownPct": -0.11,
     "tradeCount": 0,
     "winRatePct": null,
     "avgHoldDays": null,
-    "openPositions": 8
+    "openPositions": 9
   }
 }
