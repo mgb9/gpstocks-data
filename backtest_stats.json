@@ -8,9 +8,9 @@
   "unitOfObservation": "Label-transition, non-overlapping: one row per ticker per label-change; skip ticker until t + horizonDays after emitting. Weekly-sampled start dates.",
   "universeAttrition": {
     "droppedDelisted": 7,
-    "droppedImmature": 303,
+    "droppedImmature": 304,
     "recoveredFromIndex": 14,
-    "totalCandidates": 1063,
+    "totalCandidates": 1064,
     "window": {
       "from": "2025-10-20",
       "to": "2026-08-26"
