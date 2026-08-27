@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-27",
-  "lastUpdated": "2026-08-26",
+  "lastUpdated": "2026-08-27",
   "config": {
     "initialCapital": 10000,
     "currency": "GBP",
@@ -13,7 +13,7 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 5500.36,
+  "cashBalance": 5983.34,
   "positions": [
     {
       "id": "2fde6939",
@@ -61,36 +61,6 @@
       "reviewDate": "2026-11-24"
     },
     {
-      "id": "0c49aef3",
-      "ticker": "COP",
-      "company": "ConocoPhillips",
-      "sector": "Energy",
-      "homeIndex": "spy",
-      "entryDate": "2026-08-24",
-      "entryPrice": 134.87,
-      "scoreAtEntry": 78,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 107.896,
-      "reviewDate": "2026-11-24"
-    },
-    {
-      "id": "c454a244",
-      "ticker": "SCHW",
-      "company": "Charles Schwab Corporation (The",
-      "sector": "Financials",
-      "homeIndex": "spy",
-      "entryDate": "2026-08-24",
-      "entryPrice": 112.3,
-      "scoreAtEntry": 77,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 89.84,
-      "reviewDate": "2026-11-24"
-    },
-    {
       "id": "6c2690b9",
       "ticker": "AMZN",
       "company": "Amazon.com, Inc.",
@@ -103,21 +73,6 @@
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 206.904,
-      "reviewDate": "2026-11-24"
-    },
-    {
-      "id": "6c40d0ad",
-      "ticker": "IMI.L",
-      "company": "IMI PLC ORD 28 4/7P",
-      "sector": "Industrials",
-      "homeIndex": "isf",
-      "entryDate": "2026-08-24",
-      "entryPrice": 30.54,
-      "scoreAtEntry": 76,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 24.432,
       "reviewDate": "2026-11-24"
     },
     {
@@ -136,24 +91,143 @@
       "reviewDate": "2026-11-25"
     },
     {
+      "id": "7bbd4325",
+      "ticker": "ALL",
+      "company": "Allstate Corporation (The)",
+      "sector": "Financials",
+      "homeIndex": "spy",
+      "entryDate": "2026-08-27",
+      "entryPrice": 261.81,
+      "scoreAtEntry": 85,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 496.88,
+      "cashCommitted": 498.13,
+      "entryFee": 1.25,
+      "positionPct": 5.0,
+      "stopLossPrice": 209.448,
+      "reviewDate": "2026-11-27"
+    },
+    {
+      "id": "05d607bd",
+      "ticker": "TROW",
+      "company": "T. Rowe Price Group, Inc.",
+      "sector": "Financials",
+      "homeIndex": "spy",
+      "entryDate": "2026-08-27",
+      "entryPrice": 112.55,
+      "scoreAtEntry": 76,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 496.88,
+      "cashCommitted": 498.13,
+      "entryFee": 1.25,
+      "positionPct": 5.0,
+      "stopLossPrice": 90.04,
+      "reviewDate": "2026-11-27"
+    },
+    {
+      "id": "3b1bd7bf",
+      "ticker": "ROST",
+      "company": "Ross Stores, Inc.",
+      "sector": "Consumer Discretionary",
+      "homeIndex": "spy",
+      "entryDate": "2026-08-27",
+      "entryPrice": 236.27,
+      "scoreAtEntry": 75,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 496.88,
+      "cashCommitted": 498.13,
+      "entryFee": 1.25,
+      "positionPct": 5.0,
+      "stopLossPrice": 189.016,
+      "reviewDate": "2026-11-27"
+    }
+  ],
+  "trades": [
+    {
+      "id": "0c49aef3",
+      "ticker": "COP",
+      "company": "ConocoPhillips",
+      "sector": "Energy",
+      "entryDate": "2026-08-24",
+      "entryPrice": 134.87,
+      "scoreAtEntry": 78,
+      "labelAtEntry": "Buy Now",
+      "exitDate": "2026-08-27",
+      "exitPrice": 130.61,
+      "exitReason": "label_changed_avoid",
+      "costBasis": 500.0,
+      "cashCommitted": 500.0,
+      "entryFee": 0.0,
+      "exitFee": 1.21,
+      "proceeds": 483.0,
+      "plPct": -3.4,
+      "holdDays": 3,
+      "positionPct": 5.0
+    },
+    {
+      "id": "c454a244",
+      "ticker": "SCHW",
+      "company": "Charles Schwab Corporation (The",
+      "sector": "Financials",
+      "entryDate": "2026-08-24",
+      "entryPrice": 112.3,
+      "scoreAtEntry": 77,
+      "labelAtEntry": "Buy Now",
+      "exitDate": "2026-08-27",
+      "exitPrice": 112.3,
+      "exitReason": "removed_from_universe",
+      "costBasis": 500.0,
+      "cashCommitted": 500.0,
+      "entryFee": 0.0,
+      "exitFee": 1.25,
+      "proceeds": 498.75,
+      "plPct": -0.25,
+      "holdDays": 3,
+      "positionPct": 5.0
+    },
+    {
+      "id": "6c40d0ad",
+      "ticker": "IMI.L",
+      "company": "IMI PLC ORD 28 4/7P",
+      "sector": "Industrials",
+      "entryDate": "2026-08-24",
+      "entryPrice": 30.54,
+      "scoreAtEntry": 76,
+      "labelAtEntry": "Buy Now",
+      "exitDate": "2026-08-27",
+      "exitPrice": 30.54,
+      "exitReason": "removed_from_universe",
+      "costBasis": 500.0,
+      "cashCommitted": 500.0,
+      "entryFee": 0.0,
+      "exitFee": 0.5,
+      "proceeds": 499.5,
+      "plPct": -0.1,
+      "holdDays": 3,
+      "positionPct": 5.0
+    },
+    {
       "id": "e4124b27",
       "ticker": "NXT.L",
       "company": "NEXT PLC ORD 10P",
       "sector": "Consumer Discretionary",
-      "homeIndex": "isf",
       "entryDate": "2026-08-26",
       "entryPrice": 156.35,
       "scoreAtEntry": 77,
       "labelAtEntry": "Buy Now",
+      "exitDate": "2026-08-27",
+      "exitPrice": 156.35,
+      "exitReason": "removed_from_universe",
       "costBasis": 496.62,
       "cashCommitted": 499.62,
       "entryFee": 3.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 125.08,
-      "reviewDate": "2026-11-26"
+      "exitFee": 0.5,
+      "proceeds": 496.12,
+      "plPct": -0.7,
+      "holdDays": 1,
+      "positionPct": 5.0
     }
   ],
-  "trades": [],
   "navHistory": [
     {
       "date": "2026-04-27",
@@ -192,18 +266,29 @@
         "midd": 0.0,
         "vwrl": 0.0
       }
+    },
+    {
+      "date": "2026-08-27",
+      "nav": 9958.93,
+      "benchmarkPrice": 138.83,
+      "segmentNav": {
+        "spy": 3975.59,
+        "isf": 0.0,
+        "midd": 0.0,
+        "vwrl": 0.0
+      }
     }
   ],
   "metrics": {
-    "totalReturnPct": -0.11,
+    "totalReturnPct": -0.41,
     "benchmarkReturnPct": null,
     "excessReturnPct": null,
-    "annualizedReturnPct": -0.32,
+    "annualizedReturnPct": -1.22,
     "sharpe": null,
-    "maxDrawdownPct": -0.11,
-    "tradeCount": 0,
-    "winRatePct": null,
-    "avgHoldDays": null,
-    "openPositions": 9
+    "maxDrawdownPct": -0.41,
+    "tradeCount": 4,
+    "winRatePct": 0.0,
+    "avgHoldDays": 2.5,
+    "openPositions": 8
   }
 }
