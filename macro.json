@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-08-27T20:24:41Z",
+  "asOf": "2026-08-28T00:43:50Z",
   "series": {
     "VIXCLS": {
       "name": "VIX",
@@ -737,16 +737,12 @@
       "name": "10y-2y spread",
       "source": "Federal Reserve Board via FRED",
       "latest": 0.47,
-      "latestDate": "2026-08-26",
-      "delta1mPct": 38.23529411764704,
+      "latestDate": "2026-08-27",
+      "delta1mPct": 34.285714285714285,
       "delta1yPct": -27.6923076923077,
       "deltaYoYPct": -27.6923076923077,
       "deltaYoYAbs": -0.18000000000000005,
       "history": [
-        {
-          "date": "2025-12-09",
-          "value": 0.57
-        },
         {
           "date": "2025-12-10",
           "value": 0.59
@@ -1461,6 +1457,10 @@
         },
         {
           "date": "2026-08-26",
+          "value": 0.47
+        },
+        {
+          "date": "2026-08-27",
           "value": 0.47
         }
       ]
@@ -8092,12 +8092,12 @@
     "FTSE": {
       "name": "FTSE 100",
       "source": "Yahoo Finance",
-      "latest": 10792.5400390625,
+      "latest": NaN,
       "latestDate": "2026-08-27",
-      "delta1mPct": -0.7217363714239721,
-      "delta1yPct": 16.60677477243261,
-      "deltaYoYPct": 16.60677477243261,
-      "deltaYoYAbs": 1537.0400390625,
+      "delta1mPct": NaN,
+      "delta1yPct": NaN,
+      "deltaYoYPct": NaN,
+      "deltaYoYAbs": NaN,
       "history": [
         {
           "date": "2025-12-10",
@@ -8817,19 +8817,19 @@
         },
         {
           "date": "2026-08-27",
-          "value": 10792.5400390625
+          "value": NaN
         }
       ]
     },
     "FTMC": {
       "name": "FTSE 250",
       "source": "Yahoo Finance",
-      "latest": 24898.859375,
+      "latest": NaN,
       "latestDate": "2026-08-27",
-      "delta1mPct": 3.724499119560882,
-      "delta1yPct": 14.188761178628756,
-      "deltaYoYPct": 14.188761178628756,
-      "deltaYoYAbs": 3093.859375,
+      "delta1mPct": NaN,
+      "delta1yPct": NaN,
+      "deltaYoYPct": NaN,
+      "deltaYoYAbs": NaN,
       "history": [
         {
           "date": "2025-12-10",
@@ -9549,7 +9549,7 @@
         },
         {
           "date": "2026-08-27",
-          "value": 24898.859375
+          "value": NaN
         }
       ]
     }

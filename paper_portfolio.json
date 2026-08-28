@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-27",
-  "lastUpdated": "2026-08-27",
+  "lastUpdated": "2026-08-28",
   "config": {
     "initialCapital": 10000,
     "currency": "GBP",
@@ -13,7 +13,7 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 5983.34,
+  "cashBalance": 6478.98,
   "positions": [
     {
       "id": "2fde6939",
@@ -105,23 +105,6 @@
       "entryFee": 1.25,
       "positionPct": 5.0,
       "stopLossPrice": 209.448,
-      "reviewDate": "2026-11-27"
-    },
-    {
-      "id": "05d607bd",
-      "ticker": "TROW",
-      "company": "T. Rowe Price Group, Inc.",
-      "sector": "Financials",
-      "homeIndex": "spy",
-      "entryDate": "2026-08-27",
-      "entryPrice": 112.55,
-      "scoreAtEntry": 76,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 496.88,
-      "cashCommitted": 498.13,
-      "entryFee": 1.25,
-      "positionPct": 5.0,
-      "stopLossPrice": 90.04,
       "reviewDate": "2026-11-27"
     },
     {
@@ -226,6 +209,27 @@
       "plPct": -0.7,
       "holdDays": 1,
       "positionPct": 5.0
+    },
+    {
+      "id": "05d607bd",
+      "ticker": "TROW",
+      "company": "T. Rowe Price Group, Inc.",
+      "sector": "Financials",
+      "entryDate": "2026-08-27",
+      "entryPrice": 112.55,
+      "scoreAtEntry": 76,
+      "labelAtEntry": "Buy Now",
+      "exitDate": "2026-08-28",
+      "exitPrice": 112.55,
+      "exitReason": "removed_from_universe",
+      "costBasis": 496.88,
+      "cashCommitted": 498.13,
+      "entryFee": 1.25,
+      "exitFee": 1.24,
+      "proceeds": 495.64,
+      "plPct": -0.5,
+      "holdDays": 1,
+      "positionPct": 5.0
     }
   ],
   "navHistory": [
@@ -277,18 +281,29 @@
         "midd": 0.0,
         "vwrl": 0.0
       }
+    },
+    {
+      "date": "2026-08-28",
+      "nav": 9913.87,
+      "benchmarkPrice": 138.29,
+      "segmentNav": {
+        "spy": 3434.89,
+        "isf": 0.0,
+        "midd": 0.0,
+        "vwrl": 0.0
+      }
     }
   ],
   "metrics": {
-    "totalReturnPct": -0.41,
+    "totalReturnPct": -0.86,
     "benchmarkReturnPct": null,
     "excessReturnPct": null,
-    "annualizedReturnPct": -1.22,
+    "annualizedReturnPct": -2.53,
     "sharpe": null,
-    "maxDrawdownPct": -0.41,
-    "tradeCount": 4,
+    "maxDrawdownPct": -0.87,
+    "tradeCount": 5,
     "winRatePct": 0.0,
-    "avgHoldDays": 2.5,
-    "openPositions": 8
+    "avgHoldDays": 2.2,
+    "openPositions": 7
   }
 }
