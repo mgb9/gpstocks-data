@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-08-28T21:25:32Z",
+  "generatedAt": "2026-08-29T00:29:23Z",
   "artefacts": {
     "stocks": {
-      "asOf": "2026-08-28T21:24:49.691Z",
+      "asOf": "2026-08-29T00:28:34.214Z",
       "size": 700,
       "source": "built"
     },
     "macro": {
-      "asOf": "2026-08-28T21:24:58Z",
+      "asOf": "2026-08-29T00:28:42Z",
       "size": 20,
       "source": "built"
     },
     "benchmarks": {
-      "asOf": "2026-08-28",
+      "asOf": "2026-08-29",
       "source": "built"
     },
     "insiders": {
-      "asOf": "2026-08-28",
-      "size": 8,
+      "asOf": "2026-08-29",
+      "size": 7,
       "source": "built"
     },
     "factorEtfs": {
-      "asOf": "2026-08-28",
+      "asOf": "2026-08-29",
       "size": 3,
       "source": "built"
     },
     "paperPortfolio": {
-      "asOf": "2026-08-28",
-      "size": 7,
+      "asOf": "2026-08-29",
+      "size": 10,
       "source": "built"
     },
     "universeHistory": {
-      "asOf": "2026-08-28",
-      "size": 109,
+      "asOf": "2026-08-29",
+      "size": 110,
       "source": "built"
     },
     "prices": {
@@ -41,8 +41,8 @@
       "source": "published"
     },
     "snapshots": {
-      "asOf": "2026-08-28",
-      "size": 109,
+      "asOf": "2026-08-29",
+      "size": 110,
       "source": "built"
     }
   },

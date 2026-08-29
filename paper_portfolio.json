@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-27",
-  "lastUpdated": "2026-08-28",
+  "lastUpdated": "2026-08-29",
   "config": {
     "initialCapital": 10000,
     "currency": "GBP",
@@ -13,7 +13,7 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 6478.98,
+  "cashBalance": 4991.07,
   "positions": [
     {
       "id": "2fde6939",
@@ -123,6 +123,57 @@
       "positionPct": 5.0,
       "stopLossPrice": 189.016,
       "reviewDate": "2026-11-27"
+    },
+    {
+      "id": "0d935e6d",
+      "ticker": "CINF",
+      "company": "Cincinnati Financial Corporatio",
+      "sector": "Financials",
+      "homeIndex": "spy",
+      "entryDate": "2026-08-29",
+      "entryPrice": 171.97,
+      "scoreAtEntry": 81,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 494.73,
+      "cashCommitted": 495.97,
+      "entryFee": 1.24,
+      "positionPct": 5.0,
+      "stopLossPrice": 137.576,
+      "reviewDate": "2026-11-29"
+    },
+    {
+      "id": "3c9b19e0",
+      "ticker": "NXT.L",
+      "company": "NEXT PLC ORD 10P",
+      "sector": "Consumer Discretionary",
+      "homeIndex": "isf",
+      "entryDate": "2026-08-29",
+      "entryPrice": 155.35,
+      "scoreAtEntry": 78,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 492.99,
+      "cashCommitted": 495.97,
+      "entryFee": 2.98,
+      "positionPct": 5.0,
+      "stopLossPrice": 124.28,
+      "reviewDate": "2026-11-29"
+    },
+    {
+      "id": "380c370e",
+      "ticker": "IMI.L",
+      "company": "IMI PLC ORD 28 4/7P",
+      "sector": "Industrials",
+      "homeIndex": "isf",
+      "entryDate": "2026-08-29",
+      "entryPrice": 31.24,
+      "scoreAtEntry": 77,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 492.99,
+      "cashCommitted": 495.97,
+      "entryFee": 2.98,
+      "positionPct": 5.0,
+      "stopLossPrice": 24.992,
+      "reviewDate": "2026-11-29"
     }
   ],
   "trades": [
@@ -292,18 +343,29 @@
         "midd": 0.0,
         "vwrl": 0.0
       }
+    },
+    {
+      "date": "2026-08-29",
+      "nav": 9912.17,
+      "benchmarkPrice": 138.29,
+      "segmentNav": {
+        "spy": 3935.11,
+        "isf": 985.98,
+        "midd": 0.0,
+        "vwrl": 0.0
+      }
     }
   ],
   "metrics": {
-    "totalReturnPct": -0.86,
+    "totalReturnPct": -0.88,
     "benchmarkReturnPct": null,
     "excessReturnPct": null,
-    "annualizedReturnPct": -2.53,
+    "annualizedReturnPct": -2.56,
     "sharpe": null,
-    "maxDrawdownPct": -0.87,
+    "maxDrawdownPct": -0.88,
     "tradeCount": 5,
     "winRatePct": 0.0,
     "avgHoldDays": 2.2,
-    "openPositions": 7
+    "openPositions": 10
   }
 }
