@@ -1,0 +1,4056 @@
+{
+  "asOf": "2026-08-31",
+  "window": {
+    "from": "2025-10-20",
+    "to": "2026-08-31"
+  },
+  "pairsCompared": 110,
+  "totalEvents": 2313,
+  "events": [
+    {
+      "ticker": "STX",
+      "date": "2026-08-03",
+      "field": "sharesYoYChange",
+      "prev": 5.5,
+      "curr": 5704.1,
+      "relChangePct": 103610.91
+    },
+    {
+      "ticker": "SFR.L",
+      "date": "2026-07-07",
+      "field": "gpa",
+      "prev": 0.004,
+      "curr": 0.549,
+      "relChangePct": 13625.0
+    },
+    {
+      "ticker": "SFR.L",
+      "date": "2026-07-07",
+      "field": "grossMargin",
+      "prev": 0.4,
+      "curr": 48.4,
+      "relChangePct": 12000.0
+    },
+    {
+      "ticker": "CSX",
+      "date": "2026-04-24",
+      "field": "epsGrowthTTM",
+      "prev": -0.4,
+      "curr": 26.5,
+      "relChangePct": 6725.0
+    },
+    {
+      "ticker": "AMP",
+      "date": "2026-04-27",
+      "field": "epsGrowthTTM",
+      "prev": -1.1,
+      "curr": 66.0,
+      "relChangePct": 6100.0
+    },
+    {
+      "ticker": "DELL",
+      "date": "2026-06-11",
+      "field": "fcf",
+      "prev": -128,
+      "curr": 5434,
+      "relChangePct": 4345.31
+    },
+    {
+      "ticker": "LMT",
+      "date": "2026-07-27",
+      "field": "epsGrowthTTM",
+      "prev": -11.5,
+      "curr": 443.8,
+      "relChangePct": 3959.13
+    },
+    {
+      "ticker": "PAY.L",
+      "date": "2026-06-29",
+      "field": "sharesYoYChange",
+      "prev": -0.2,
+      "curr": -7.9,
+      "relChangePct": -3850.0
+    },
+    {
+      "ticker": "LMT",
+      "date": "2026-07-27",
+      "field": "revGrowthTTM",
+      "prev": 0.3,
+      "curr": 10.5,
+      "relChangePct": 3400.0
+    },
+    {
+      "ticker": "AMCR",
+      "date": "2026-08-18",
+      "field": "revTrend3y",
+      "prev": 0.7,
+      "curr": 19.9,
+      "relChangePct": 2742.86
+    },
+    {
+      "ticker": "CSGP",
+      "date": "2026-07-30",
+      "field": "opMargin",
+      "prev": 0.3,
+      "curr": 8.2,
+      "relChangePct": 2633.33
+    },
+    {
+      "ticker": "GPN",
+      "date": "2026-05-11",
+      "field": "opMargin",
+      "prev": -0.5,
+      "curr": 12.5,
+      "relChangePct": 2600.0
+    },
+    {
+      "ticker": "WST",
+      "date": "2026-04-27",
+      "field": "epsGrowthTTM",
+      "prev": 2.1,
+      "curr": 56.1,
+      "relChangePct": 2571.43
+    },
+    {
+      "ticker": "UNH",
+      "date": "2026-04-24",
+      "field": "opMargin",
+      "prev": 0.3,
+      "curr": 8.0,
+      "relChangePct": 2566.67
+    },
+    {
+      "ticker": "MLM",
+      "date": "2026-05-03",
+      "field": "revGrowthTTM",
+      "prev": 0.7,
+      "curr": 17.2,
+      "relChangePct": 2357.14
+    },
+    {
+      "ticker": "DCC.L",
+      "date": "2026-06-19",
+      "field": "sharesYoYChange",
+      "prev": 0.2,
+      "curr": -4.5,
+      "relChangePct": -2350.0
+    },
+    {
+      "ticker": "PFG",
+      "date": "2026-04-27",
+      "field": "epsGrowthTTM",
+      "prev": -40.9,
+      "curr": 819.0,
+      "relChangePct": 2102.44
+    },
+    {
+      "ticker": "BTRW.L",
+      "date": "2026-05-11",
+      "field": "sharesYoYChange",
+      "prev": -2.1,
+      "curr": 41.6,
+      "relChangePct": 2080.95
+    },
+    {
+      "ticker": "BTRW.L",
+      "date": "2026-06-12",
+      "field": "sharesYoYChange",
+      "prev": -2.1,
+      "curr": 41.6,
+      "relChangePct": 2080.95
+    },
+    {
+      "ticker": "BTRW.L",
+      "date": "2026-06-22",
+      "field": "sharesYoYChange",
+      "prev": -2.1,
+      "curr": 41.6,
+      "relChangePct": 2080.95
+    },
+    {
+      "ticker": "BTRW.L",
+      "date": "2026-06-30",
+      "field": "sharesYoYChange",
+      "prev": -2.1,
+      "curr": 41.6,
+      "relChangePct": 2080.95
+    },
+    {
+      "ticker": "BTRW.L",
+      "date": "2026-07-07",
+      "field": "sharesYoYChange",
+      "prev": -2.1,
+      "curr": 41.6,
+      "relChangePct": 2080.95
+    },
+    {
+      "ticker": "BTRW.L",
+      "date": "2026-07-13",
+      "field": "sharesYoYChange",
+      "prev": -2.1,
+      "curr": 41.6,
+      "relChangePct": 2080.95
+    },
+    {
+      "ticker": "BTRW.L",
+      "date": "2026-07-16",
+      "field": "sharesYoYChange",
+      "prev": -2.1,
+      "curr": 41.6,
+      "relChangePct": 2080.95
+    },
+    {
+      "ticker": "BTRW.L",
+      "date": "2026-07-23",
+      "field": "sharesYoYChange",
+      "prev": -2.1,
+      "curr": 41.6,
+      "relChangePct": 2080.95
+    },
+    {
+      "ticker": "CBRE",
+      "date": "2026-04-24",
+      "field": "opMargin",
+      "prev": 0.1,
+      "curr": 2.0,
+      "relChangePct": 1900.0
+    },
+    {
+      "ticker": "NEM",
+      "date": "2026-04-27",
+      "field": "epsGrowthTTM",
+      "prev": -4.6,
+      "curr": 78.6,
+      "relChangePct": 1808.7
+    },
+    {
+      "ticker": "STE",
+      "date": "2026-06-10",
+      "field": "marginTrend3y",
+      "prev": 0.1,
+      "curr": 1.9,
+      "relChangePct": 1800.0
+    },
+    {
+      "ticker": "DOW",
+      "date": "2026-07-27",
+      "field": "fcf",
+      "prev": 15,
+      "curr": 285,
+      "relChangePct": 1800.0
+    },
+    {
+      "ticker": "VOD.L",
+      "date": "2026-06-10",
+      "field": "revTrend3y",
+      "prev": -0.2,
+      "curr": 3.3,
+      "relChangePct": 1750.0
+    },
+    {
+      "ticker": "INVH",
+      "date": "2026-08-03",
+      "field": "epsGrowthTTM",
+      "prev": -3.7,
+      "curr": 60.5,
+      "relChangePct": 1735.14
+    },
+    {
+      "ticker": "OMC",
+      "date": "2026-05-03",
+      "field": "sharesYoYChange",
+      "prev": 3.2,
+      "curr": 57.7,
+      "relChangePct": 1703.12
+    },
+    {
+      "ticker": "PCAR",
+      "date": "2026-07-30",
+      "field": "fcf",
+      "prev": 1482,
+      "curr": 23982,
+      "relChangePct": 1518.22
+    },
+    {
+      "ticker": "III.L",
+      "date": "2026-06-10",
+      "field": "sharesYoYChange",
+      "prev": 0.1,
+      "curr": 1.6,
+      "relChangePct": 1500.0
+    },
+    {
+      "ticker": "CBRE",
+      "date": "2026-04-24",
+      "field": "fcf",
+      "prev": -84.0,
+      "curr": 1137.0,
+      "relChangePct": 1453.57
+    },
+    {
+      "ticker": "SFR.L",
+      "date": "2026-07-07",
+      "field": "opMargin",
+      "prev": -0.5,
+      "curr": 6.4,
+      "relChangePct": 1380.0
+    },
+    {
+      "ticker": "WDC",
+      "date": "2026-08-18",
+      "field": "interestCover",
+      "prev": 4.2,
+      "curr": 61,
+      "relChangePct": 1352.38
+    },
+    {
+      "ticker": "PCG",
+      "date": "2026-04-24",
+      "field": "epsGrowthTTM",
+      "prev": -3.3,
+      "curr": 41.0,
+      "relChangePct": 1342.42
+    },
+    {
+      "ticker": "DE",
+      "date": "2026-08-21",
+      "field": "fcf",
+      "prev": 1099,
+      "curr": -13618,
+      "relChangePct": -1339.13
+    },
+    {
+      "ticker": "VTRS",
+      "date": "2026-05-11",
+      "field": "opMargin",
+      "prev": -0.6,
+      "curr": 6.8,
+      "relChangePct": 1233.33
+    },
+    {
+      "ticker": "LII",
+      "date": "2026-05-04",
+      "field": "epsGrowthTTM",
+      "prev": -0.6,
+      "curr": -7.7,
+      "relChangePct": -1183.33
+    },
+    {
+      "ticker": "UDR",
+      "date": "2026-05-03",
+      "field": "revGrowthTTM",
+      "prev": -0.4,
+      "curr": 4.2,
+      "relChangePct": 1150.0
+    },
+    {
+      "ticker": "COHR",
+      "date": "2026-08-18",
+      "field": "sharesYoYChange",
+      "prev": 2.1,
+      "curr": 26.2,
+      "relChangePct": 1147.62
+    },
+    {
+      "ticker": "INTC",
+      "date": "2026-04-27",
+      "field": "netMargin",
+      "prev": -0.5,
+      "curr": -5.9,
+      "relChangePct": -1080.0
+    },
+    {
+      "ticker": "TXN",
+      "date": "2026-04-24",
+      "field": "epsGrowthTTM",
+      "prev": -3.2,
+      "curr": 31.3,
+      "relChangePct": 1078.12
+    },
+    {
+      "ticker": "IP",
+      "date": "2026-05-07",
+      "field": "revGrowthTTM",
+      "prev": 1.2,
+      "curr": 13.4,
+      "relChangePct": 1016.67
+    },
+    {
+      "ticker": "INTC",
+      "date": "2026-04-27",
+      "field": "roic",
+      "prev": 0.0,
+      "curr": -2.9,
+      "relChangePct": -999.0
+    },
+    {
+      "ticker": "HLT",
+      "date": "2026-04-30",
+      "field": "netDebtEbitda",
+      "prev": 0.0,
+      "curr": 4.2,
+      "relChangePct": 999.0
+    },
+    {
+      "ticker": "ABBV",
+      "date": "2026-05-01",
+      "field": "netDebtEbitda",
+      "prev": 0.0,
+      "curr": 2.1,
+      "relChangePct": 999.0
+    },
+    {
+      "ticker": "PSX",
+      "date": "2026-05-01",
+      "field": "netDebtEbitda",
+      "prev": 0.0,
+      "curr": 3.1,
+      "relChangePct": 999.0
+    },
+    {
+      "ticker": "L",
+      "date": "2026-05-06",
+      "field": "netDebtEbitda",
+      "prev": 0,
+      "curr": 0.8,
+      "relChangePct": 999.0
+    },
+    {
+      "ticker": "MPC",
+      "date": "2026-05-07",
+      "field": "netDebtEbitda",
+      "prev": 0,
+      "curr": 3.1,
+      "relChangePct": 999.0
+    },
+    {
+      "ticker": "MAR",
+      "date": "2026-05-08",
+      "field": "netDebtEbitda",
+      "prev": 0,
+      "curr": 3.6,
+      "relChangePct": 999.0
+    },
+    {
+      "ticker": "MCD",
+      "date": "2026-05-11",
+      "field": "netDebtEbitda",
+      "prev": 0,
+      "curr": 3.6,
+      "relChangePct": 999.0
+    },
+    {
+      "ticker": "TRGP",
+      "date": "2026-05-11",
+      "field": "netDebtEbitda",
+      "prev": 0,
+      "curr": 3.6,
+      "relChangePct": 999.0
+    },
+    {
+      "ticker": "ZTS",
+      "date": "2026-05-11",
+      "field": "netDebtEbitda",
+      "prev": 0,
+      "curr": 1.8,
+      "relChangePct": 999.0
+    },
+    {
+      "ticker": "JD.L",
+      "date": "2026-06-10",
+      "field": "sharesYoYChange",
+      "prev": 0,
+      "curr": -0.9,
+      "relChangePct": -999.0
+    },
+    {
+      "ticker": "PAYX",
+      "date": "2026-06-26",
+      "field": "sharesYoYChange",
+      "prev": 0,
+      "curr": -0.6,
+      "relChangePct": -999.0
+    },
+    {
+      "ticker": "AO.L",
+      "date": "2026-07-01",
+      "field": "revTrend3y",
+      "prev": 0,
+      "curr": 6.8,
+      "relChangePct": 999.0
+    },
+    {
+      "ticker": "JNJ",
+      "date": "2026-07-17",
+      "field": "netDebtEbitda",
+      "prev": 0,
+      "curr": 0.9,
+      "relChangePct": 999.0
+    },
+    {
+      "ticker": "GL",
+      "date": "2026-07-24",
+      "field": "netDebtEbitda",
+      "prev": 0,
+      "curr": 1.7,
+      "relChangePct": 999.0
+    },
+    {
+      "ticker": "LVS",
+      "date": "2026-07-24",
+      "field": "netDebtEbitda",
+      "prev": 0,
+      "curr": 2.7,
+      "relChangePct": 999.0
+    },
+    {
+      "ticker": "DOV",
+      "date": "2026-07-27",
+      "field": "netDebtEbitda",
+      "prev": 0,
+      "curr": 0.8,
+      "relChangePct": 999.0
+    },
+    {
+      "ticker": "EW",
+      "date": "2026-07-27",
+      "field": "netDebtEbitda",
+      "prev": 0,
+      "curr": -1.5,
+      "relChangePct": -999.0
+    },
+    {
+      "ticker": "PKG",
+      "date": "2026-07-27",
+      "field": "netDebtEbitda",
+      "prev": 0,
+      "curr": 2,
+      "relChangePct": 999.0
+    },
+    {
+      "ticker": "HLT",
+      "date": "2026-07-30",
+      "field": "netDebtEbitda",
+      "prev": 0,
+      "curr": 4.2,
+      "relChangePct": 999.0
+    },
+    {
+      "ticker": "BSX",
+      "date": "2026-07-31",
+      "field": "netDebtEbitda",
+      "prev": 0,
+      "curr": 1.7,
+      "relChangePct": 999.0
+    },
+    {
+      "ticker": "SGRO.L",
+      "date": "2026-08-03",
+      "field": "opMargin",
+      "prev": 0,
+      "curr": 70.8,
+      "relChangePct": 999.0
+    },
+    {
+      "ticker": "MCD",
+      "date": "2026-08-06",
+      "field": "netDebtEbitda",
+      "prev": 0,
+      "curr": 3.6,
+      "relChangePct": 999.0
+    },
+    {
+      "ticker": "MPC",
+      "date": "2026-08-06",
+      "field": "netDebtEbitda",
+      "prev": 0,
+      "curr": 1.7,
+      "relChangePct": 999.0
+    },
+    {
+      "ticker": "MRK",
+      "date": "2026-08-06",
+      "field": "netDebtEbitda",
+      "prev": 0,
+      "curr": 2.9,
+      "relChangePct": 999.0
+    },
+    {
+      "ticker": "PSX",
+      "date": "2026-08-07",
+      "field": "netDebtEbitda",
+      "prev": 0,
+      "curr": 1.7,
+      "relChangePct": 999.0
+    },
+    {
+      "ticker": "WYNN",
+      "date": "2026-08-07",
+      "field": "netDebtEbitda",
+      "prev": 0,
+      "curr": 5.7,
+      "relChangePct": 999.0
+    },
+    {
+      "ticker": "TRGP",
+      "date": "2026-08-10",
+      "field": "netDebtEbitda",
+      "prev": 0,
+      "curr": 3.5,
+      "relChangePct": 999.0
+    },
+    {
+      "ticker": "WIZZ.L",
+      "date": "2026-08-10",
+      "field": "netDebtEbitda",
+      "prev": 0,
+      "curr": 23.8,
+      "relChangePct": 999.0
+    },
+    {
+      "ticker": "ZTS",
+      "date": "2026-08-10",
+      "field": "netDebtEbitda",
+      "prev": 0,
+      "curr": 1.9,
+      "relChangePct": 999.0
+    },
+    {
+      "ticker": "OMC",
+      "date": "2026-07-30",
+      "field": "epsGrowthTTM",
+      "prev": -6.9,
+      "curr": 58.8,
+      "relChangePct": 952.17
+    },
+    {
+      "ticker": "UAL",
+      "date": "2026-04-23",
+      "field": "epsGrowthTTM",
+      "prev": 8.1,
+      "curr": 84.4,
+      "relChangePct": 941.98
+    },
+    {
+      "ticker": "GSK.L",
+      "date": "2026-07-30",
+      "field": "epsGrowthTTM",
+      "prev": 8.4,
+      "curr": -69.5,
+      "relChangePct": -927.38
+    },
+    {
+      "ticker": "CBRE",
+      "date": "2026-04-24",
+      "field": "epsGrowthTTM",
+      "prev": -12.1,
+      "curr": 98.1,
+      "relChangePct": 910.74
+    },
+    {
+      "ticker": "BAB.L",
+      "date": "2026-07-01",
+      "field": "grossMargin",
+      "prev": 6.1,
+      "curr": 57.7,
+      "relChangePct": 845.9
+    },
+    {
+      "ticker": "EQT",
+      "date": "2026-04-23",
+      "field": "epsGrowthTTM",
+      "prev": 54.6,
+      "curr": 490.0,
+      "relChangePct": 797.44
+    },
+    {
+      "ticker": "BAB.L",
+      "date": "2026-07-01",
+      "field": "gpa",
+      "prev": 0.085,
+      "curr": 0.76,
+      "relChangePct": 794.12
+    },
+    {
+      "ticker": "BTRW.L",
+      "date": "2026-07-01",
+      "field": "revTrend3y",
+      "prev": 1.6,
+      "curr": -11,
+      "relChangePct": -787.5
+    },
+    {
+      "ticker": "BTRW.L",
+      "date": "2026-07-06",
+      "field": "revTrend3y",
+      "prev": 1.6,
+      "curr": -11,
+      "relChangePct": -787.5
+    },
+    {
+      "ticker": "BTRW.L",
+      "date": "2026-07-10",
+      "field": "revTrend3y",
+      "prev": 1.6,
+      "curr": -11,
+      "relChangePct": -787.5
+    },
+    {
+      "ticker": "BTRW.L",
+      "date": "2026-07-15",
+      "field": "revTrend3y",
+      "prev": 1.6,
+      "curr": -11,
+      "relChangePct": -787.5
+    },
+    {
+      "ticker": "BTRW.L",
+      "date": "2026-07-21",
+      "field": "revTrend3y",
+      "prev": 1.6,
+      "curr": -11,
+      "relChangePct": -787.5
+    },
+    {
+      "ticker": "COR",
+      "date": "2026-05-08",
+      "field": "epsGrowthTTM",
+      "prev": 14.8,
+      "curr": 128.3,
+      "relChangePct": 766.89
+    },
+    {
+      "ticker": "ZTS",
+      "date": "2026-05-11",
+      "field": "epsGrowthTTM",
+      "prev": 0.7,
+      "curr": 6,
+      "relChangePct": 757.14
+    },
+    {
+      "ticker": "EL",
+      "date": "2026-08-21",
+      "field": "sharesYoYChange",
+      "prev": -0.2,
+      "curr": 1.3,
+      "relChangePct": 750.0
+    },
+    {
+      "ticker": "RJF",
+      "date": "2026-04-24",
+      "field": "epsGrowthTTM",
+      "prev": -2.4,
+      "curr": 15.3,
+      "relChangePct": 737.5
+    },
+    {
+      "ticker": "LRCX",
+      "date": "2026-08-11",
+      "field": "revTrend3y",
+      "prev": 1.9,
+      "curr": 15.9,
+      "relChangePct": 736.84
+    },
+    {
+      "ticker": "BKR",
+      "date": "2026-04-27",
+      "field": "revGrowthTTM",
+      "prev": 0.3,
+      "curr": 2.5,
+      "relChangePct": 733.33
+    },
+    {
+      "ticker": "CB",
+      "date": "2026-04-30",
+      "field": "netDebtEbitda",
+      "prev": -0.2,
+      "curr": 1.2,
+      "relChangePct": 700.0
+    },
+    {
+      "ticker": "D",
+      "date": "2026-06-10",
+      "field": "sharesYoYChange",
+      "prev": 0.4,
+      "curr": 3.2,
+      "relChangePct": 700.0
+    },
+    {
+      "ticker": "NCC.L",
+      "date": "2026-07-20",
+      "field": "sharesYoYChange",
+      "prev": 0.2,
+      "curr": -1.2,
+      "relChangePct": -700.0
+    },
+    {
+      "ticker": "NCC.L",
+      "date": "2026-07-23",
+      "field": "sharesYoYChange",
+      "prev": 0.2,
+      "curr": -1.2,
+      "relChangePct": -700.0
+    },
+    {
+      "ticker": "SNDK",
+      "date": "2026-08-19",
+      "field": "interestCover",
+      "prev": 22.5,
+      "curr": 179.3,
+      "relChangePct": 696.89
+    },
+    {
+      "ticker": "FCX",
+      "date": "2026-04-27",
+      "field": "revGrowthTTM",
+      "prev": -1.5,
+      "curr": 8.8,
+      "relChangePct": 686.67
+    },
+    {
+      "ticker": "PRU",
+      "date": "2026-08-10",
+      "field": "revGrowthTTM",
+      "prev": -2.5,
+      "curr": 14.1,
+      "relChangePct": 664.0
+    },
+    {
+      "ticker": "BKR",
+      "date": "2026-04-27",
+      "field": "epsGrowthTTM",
+      "prev": -25.6,
+      "curr": 132.5,
+      "relChangePct": 617.58
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2026-04-24",
+      "field": "revGrowthTTM",
+      "prev": -3.1,
+      "curr": 15.8,
+      "relChangePct": 609.68
+    },
+    {
+      "ticker": "CI",
+      "date": "2026-06-10",
+      "field": "revTrend3y",
+      "prev": 12.1,
+      "curr": -61.6,
+      "relChangePct": -609.09
+    },
+    {
+      "ticker": "BTRW.L",
+      "date": "2026-05-08",
+      "field": "revTrend3y",
+      "prev": 1.6,
+      "curr": -7.5,
+      "relChangePct": -568.75
+    },
+    {
+      "ticker": "BTRW.L",
+      "date": "2026-06-11",
+      "field": "revTrend3y",
+      "prev": 1.6,
+      "curr": -7.5,
+      "relChangePct": -568.75
+    },
+    {
+      "ticker": "BTRW.L",
+      "date": "2026-06-19",
+      "field": "revTrend3y",
+      "prev": 1.6,
+      "curr": -7.5,
+      "relChangePct": -568.75
+    },
+    {
+      "ticker": "BTRW.L",
+      "date": "2026-06-29",
+      "field": "revTrend3y",
+      "prev": 1.6,
+      "curr": -7.5,
+      "relChangePct": -568.75
+    },
+    {
+      "ticker": "AAF.L",
+      "date": "2026-06-11",
+      "field": "revTrend3y",
+      "prev": -1.9,
+      "curr": 8.8,
+      "relChangePct": 563.16
+    },
+    {
+      "ticker": "POLR.L",
+      "date": "2026-07-03",
+      "field": "sharesYoYChange",
+      "prev": 0.2,
+      "curr": 1.3,
+      "relChangePct": 550.0
+    },
+    {
+      "ticker": "BXP",
+      "date": "2026-07-30",
+      "field": "revGrowthTTM",
+      "prev": 0.6,
+      "curr": 3.8,
+      "relChangePct": 533.33
+    },
+    {
+      "ticker": "EXR",
+      "date": "2026-05-03",
+      "field": "currentRatio",
+      "prev": 0.11,
+      "curr": 0.69,
+      "relChangePct": 527.27
+    },
+    {
+      "ticker": "CB",
+      "date": "2026-07-27",
+      "field": "netDebtEbitda",
+      "prev": -0.2,
+      "curr": 0.8,
+      "relChangePct": 500.0
+    },
+    {
+      "ticker": "PCG",
+      "date": "2026-04-24",
+      "field": "revGrowthTTM",
+      "prev": 2.6,
+      "curr": 15.0,
+      "relChangePct": 476.92
+    },
+    {
+      "ticker": "ABT",
+      "date": "2026-05-01",
+      "field": "netDebtEbitda",
+      "prev": 0.4,
+      "curr": 2.3,
+      "relChangePct": 475.0
+    },
+    {
+      "ticker": "OMC",
+      "date": "2026-07-30",
+      "field": "netMargin",
+      "prev": 0.3,
+      "curr": 1.7,
+      "relChangePct": 466.67
+    },
+    {
+      "ticker": "CNP",
+      "date": "2026-07-30",
+      "field": "revGrowthTTM",
+      "prev": 1.9,
+      "curr": 10.7,
+      "relChangePct": 463.16
+    },
+    {
+      "ticker": "CCR.L",
+      "date": "2026-06-15",
+      "field": "gpa",
+      "prev": 0.052,
+      "curr": 0.291,
+      "relChangePct": 459.62
+    },
+    {
+      "ticker": "TXN",
+      "date": "2026-04-24",
+      "field": "fcf",
+      "prev": -301.0,
+      "curr": 1066.0,
+      "relChangePct": 454.15
+    },
+    {
+      "ticker": "MAS",
+      "date": "2026-04-23",
+      "field": "epsGrowthTTM",
+      "prev": -5.9,
+      "curr": 20.7,
+      "relChangePct": 450.85
+    },
+    {
+      "ticker": "URI",
+      "date": "2026-04-24",
+      "field": "epsGrowthTTM",
+      "prev": -1.9,
+      "curr": 6.6,
+      "relChangePct": 447.37
+    },
+    {
+      "ticker": "WMB",
+      "date": "2026-05-07",
+      "field": "revGrowthTTM",
+      "prev": -2.6,
+      "curr": 9,
+      "relChangePct": 446.15
+    },
+    {
+      "ticker": "ROK",
+      "date": "2026-08-06",
+      "field": "fcf",
+      "prev": -379,
+      "curr": 1304,
+      "relChangePct": 444.06
+    },
+    {
+      "ticker": "MAS",
+      "date": "2026-04-23",
+      "field": "revGrowthTTM",
+      "prev": -1.9,
+      "curr": 6.5,
+      "relChangePct": 442.11
+    },
+    {
+      "ticker": "VST",
+      "date": "2026-08-11",
+      "field": "sharesYoYChange",
+      "prev": -0.5,
+      "curr": 1.7,
+      "relChangePct": 440.0
+    },
+    {
+      "ticker": "TT",
+      "date": "2026-08-03",
+      "field": "epsGrowthTTM",
+      "prev": -2.1,
+      "curr": 7.1,
+      "relChangePct": 438.1
+    },
+    {
+      "ticker": "CCR.L",
+      "date": "2026-06-15",
+      "field": "grossMargin",
+      "prev": 4.5,
+      "curr": 24.1,
+      "relChangePct": 435.56
+    },
+    {
+      "ticker": "FDX",
+      "date": "2026-07-24",
+      "field": "revTrend3y",
+      "prev": -0.8,
+      "curr": 2.6,
+      "relChangePct": 425.0
+    },
+    {
+      "ticker": "EA",
+      "date": "2026-06-10",
+      "field": "marginTrend3y",
+      "prev": 1.7,
+      "curr": -5.5,
+      "relChangePct": -423.53
+    },
+    {
+      "ticker": "JETG.L",
+      "date": "2026-06-25",
+      "field": "interestCover",
+      "prev": 16.5,
+      "curr": 86,
+      "relChangePct": 421.21
+    },
+    {
+      "ticker": "WAT",
+      "date": "2026-05-07",
+      "field": "opMargin",
+      "prev": -3.7,
+      "curr": 11.7,
+      "relChangePct": 416.22
+    },
+    {
+      "ticker": "WY",
+      "date": "2026-05-03",
+      "field": "fcf",
+      "prev": -9.0,
+      "curr": -46,
+      "relChangePct": -411.11
+    },
+    {
+      "ticker": "IFF",
+      "date": "2026-08-07",
+      "field": "roic",
+      "prev": 1.8,
+      "curr": -5.5,
+      "relChangePct": -405.56
+    },
+    {
+      "ticker": "CPT",
+      "date": "2026-07-27",
+      "field": "opMargin",
+      "prev": 3.7,
+      "curr": 18.5,
+      "relChangePct": 400.0
+    },
+    {
+      "ticker": "PG",
+      "date": "2026-04-27",
+      "field": "revGrowthTTM",
+      "prev": 1.5,
+      "curr": 7.4,
+      "relChangePct": 393.33
+    },
+    {
+      "ticker": "PEP",
+      "date": "2026-07-13",
+      "field": "epsGrowthTTM",
+      "prev": 27.8,
+      "curr": 137,
+      "relChangePct": 392.81
+    },
+    {
+      "ticker": "PNN.L",
+      "date": "2026-06-19",
+      "field": "marginTrend3y",
+      "prev": -2.7,
+      "curr": 7.7,
+      "relChangePct": 385.19
+    },
+    {
+      "ticker": "ROK",
+      "date": "2026-05-07",
+      "field": "fcf",
+      "prev": -350,
+      "curr": 974,
+      "relChangePct": 378.29
+    },
+    {
+      "ticker": "VP.L",
+      "date": "2026-06-22",
+      "field": "fcf",
+      "prev": -4,
+      "curr": 11,
+      "relChangePct": 375.0
+    },
+    {
+      "ticker": "SHEL.L",
+      "date": "2026-05-11",
+      "field": "epsGrowthTTM",
+      "prev": -10.1,
+      "curr": 26.6,
+      "relChangePct": 363.37
+    },
+    {
+      "ticker": "GEN",
+      "date": "2026-06-10",
+      "field": "marginTrend3y",
+      "prev": 2.7,
+      "curr": 12.4,
+      "relChangePct": 359.26
+    },
+    {
+      "ticker": "EQT",
+      "date": "2026-07-23",
+      "field": "revGrowthTTM",
+      "prev": 0.7,
+      "curr": -1.8,
+      "relChangePct": -357.14
+    },
+    {
+      "ticker": "SNDK",
+      "date": "2026-08-19",
+      "field": "revTrend3y",
+      "prev": 9.9,
+      "curr": 44.8,
+      "relChangePct": 352.53
+    },
+    {
+      "ticker": "VOD.L",
+      "date": "2026-06-10",
+      "field": "interestCover",
+      "prev": 0.4,
+      "curr": 1.8,
+      "relChangePct": 350.0
+    },
+    {
+      "ticker": "JMAT.L",
+      "date": "2026-06-12",
+      "field": "marginTrend3y",
+      "prev": 0.2,
+      "curr": -0.5,
+      "relChangePct": -350.0
+    },
+    {
+      "ticker": "AMP",
+      "date": "2026-05-03",
+      "field": "sharesYoYChange",
+      "prev": 2.1,
+      "curr": -5.1,
+      "relChangePct": -342.86
+    },
+    {
+      "ticker": "CMCSA",
+      "date": "2026-04-24",
+      "field": "revGrowthTTM",
+      "prev": 1.2,
+      "curr": 5.3,
+      "relChangePct": 341.67
+    },
+    {
+      "ticker": "PAY.L",
+      "date": "2026-06-29",
+      "field": "fcf",
+      "prev": 24,
+      "curr": 105,
+      "relChangePct": 337.5
+    },
+    {
+      "ticker": "SBAC",
+      "date": "2026-07-17",
+      "field": "fcf",
+      "prev": -302,
+      "curr": 708,
+      "relChangePct": 334.44
+    },
+    {
+      "ticker": "GEV",
+      "date": "2026-04-23",
+      "field": "revGrowthTTM",
+      "prev": 3.8,
+      "curr": 16.3,
+      "relChangePct": 328.95
+    },
+    {
+      "ticker": "CCR.L",
+      "date": "2026-06-15",
+      "field": "revTrend3y",
+      "prev": -0.4,
+      "curr": -1.7,
+      "relChangePct": -325.0
+    },
+    {
+      "ticker": "SJM",
+      "date": "2026-06-18",
+      "field": "revTrend3y",
+      "prev": 0.8,
+      "curr": 3.4,
+      "relChangePct": 325.0
+    },
+    {
+      "ticker": "MRK",
+      "date": "2026-05-03",
+      "field": "opMargin",
+      "prev": -17.8,
+      "curr": 38.1,
+      "relChangePct": 314.04
+    },
+    {
+      "ticker": "BYIT.L",
+      "date": "2026-06-10",
+      "field": "sharesYoYChange",
+      "prev": 0.5,
+      "curr": -1,
+      "relChangePct": -300.0
+    },
+    {
+      "ticker": "BKR",
+      "date": "2026-07-29",
+      "field": "netDebtEbitda",
+      "prev": 0.1,
+      "curr": -0.2,
+      "relChangePct": -300.0
+    },
+    {
+      "ticker": "XEL",
+      "date": "2026-08-03",
+      "field": "epsGrowthTTM",
+      "prev": 6,
+      "curr": 24,
+      "relChangePct": 300.0
+    },
+    {
+      "ticker": "WEIR.L",
+      "date": "2026-08-28",
+      "field": "piotroskiF",
+      "prev": 1,
+      "curr": 4,
+      "relChangePct": 300.0
+    },
+    {
+      "ticker": "XOM",
+      "date": "2026-08-28",
+      "field": "piotroskiF",
+      "prev": 1,
+      "curr": 4,
+      "relChangePct": 300.0
+    },
+    {
+      "ticker": "AMP",
+      "date": "2026-04-27",
+      "field": "currentRatio",
+      "prev": 2.29,
+      "curr": 9.05,
+      "relChangePct": 295.2
+    },
+    {
+      "ticker": "GIS",
+      "date": "2026-07-06",
+      "field": "marginTrend3y",
+      "prev": 1.7,
+      "curr": -3.3,
+      "relChangePct": -294.12
+    },
+    {
+      "ticker": "COHR",
+      "date": "2026-08-18",
+      "field": "interestCover",
+      "prev": 1.4,
+      "curr": 5.5,
+      "relChangePct": 292.86
+    },
+    {
+      "ticker": "CSX",
+      "date": "2026-04-24",
+      "field": "revGrowthTTM",
+      "prev": -0.9,
+      "curr": 1.7,
+      "relChangePct": 288.89
+    },
+    {
+      "ticker": "IBKR",
+      "date": "2026-04-29",
+      "field": "marketCap",
+      "prev": 34281.0,
+      "curr": 129929.0,
+      "relChangePct": 279.01
+    },
+    {
+      "ticker": "PRU",
+      "date": "2026-08-10",
+      "field": "netDebtEbitda",
+      "prev": 0.9,
+      "curr": 3.4,
+      "relChangePct": 277.78
+    },
+    {
+      "ticker": "XEL",
+      "date": "2026-08-03",
+      "field": "revGrowthTTM",
+      "prev": 2.9,
+      "curr": -5.1,
+      "relChangePct": -275.86
+    },
+    {
+      "ticker": "INTC",
+      "date": "2026-04-27",
+      "field": "revGrowthTTM",
+      "prev": -4.1,
+      "curr": 7.2,
+      "relChangePct": 275.61
+    },
+    {
+      "ticker": "CCR.L",
+      "date": "2026-06-15",
+      "field": "marginTrend3y",
+      "prev": -0.4,
+      "curr": 0.7,
+      "relChangePct": 275.0
+    },
+    {
+      "ticker": "BG",
+      "date": "2026-07-30",
+      "field": "opMargin",
+      "prev": 1.2,
+      "curr": 4.5,
+      "relChangePct": 275.0
+    },
+    {
+      "ticker": "COHR",
+      "date": "2026-08-18",
+      "field": "revTrend3y",
+      "prev": 4,
+      "curr": 14.8,
+      "relChangePct": 270.0
+    },
+    {
+      "ticker": "INTC",
+      "date": "2026-07-27",
+      "field": "roic",
+      "prev": -2.9,
+      "curr": -10.7,
+      "relChangePct": -268.97
+    },
+    {
+      "ticker": "TSCO",
+      "date": "2026-04-22",
+      "field": "epsGrowthTTM",
+      "prev": -2.2,
+      "curr": -8.1,
+      "relChangePct": -268.18
+    },
+    {
+      "ticker": "PRU",
+      "date": "2026-05-11",
+      "field": "netDebtEbitda",
+      "prev": 0.9,
+      "curr": 3.3,
+      "relChangePct": 266.67
+    },
+    {
+      "ticker": "MAR",
+      "date": "2026-05-08",
+      "field": "opMargin",
+      "prev": 16.1,
+      "curr": 59,
+      "relChangePct": 266.46
+    },
+    {
+      "ticker": "HSBA.L",
+      "date": "2026-06-23",
+      "field": "revTrend3y",
+      "prev": 0.9,
+      "curr": 3.2,
+      "relChangePct": 255.56
+    },
+    {
+      "ticker": "KKR",
+      "date": "2026-08-10",
+      "field": "revGrowthTTM",
+      "prev": 2.2,
+      "curr": 7.8,
+      "relChangePct": 254.55
+    },
+    {
+      "ticker": "GSK.L",
+      "date": "2026-07-30",
+      "field": "revGrowthTTM",
+      "prev": 1.5,
+      "curr": 5.3,
+      "relChangePct": 253.33
+    },
+    {
+      "ticker": "INTC",
+      "date": "2026-07-27",
+      "field": "revGrowthTTM",
+      "prev": 7.2,
+      "curr": 25.4,
+      "relChangePct": 252.78
+    },
+    {
+      "ticker": "MDLZ",
+      "date": "2026-07-30",
+      "field": "epsGrowthTTM",
+      "prev": 41.3,
+      "curr": 144.9,
+      "relChangePct": 250.85
+    },
+    {
+      "ticker": "WKP.L",
+      "date": "2026-06-23",
+      "field": "marginTrend3y",
+      "prev": -1.2,
+      "curr": -4.2,
+      "relChangePct": -250.0
+    },
+    {
+      "ticker": "UU.L",
+      "date": "2026-06-23",
+      "field": "marginTrend3y",
+      "prev": 4.9,
+      "curr": 17.1,
+      "relChangePct": 248.98
+    },
+    {
+      "ticker": "CNP",
+      "date": "2026-07-30",
+      "field": "epsGrowthTTM",
+      "prev": 6.7,
+      "curr": 23.3,
+      "relChangePct": 247.76
+    },
+    {
+      "ticker": "HFD.L",
+      "date": "2026-08-10",
+      "field": "sharesYoYChange",
+      "prev": 0.7,
+      "curr": -1,
+      "relChangePct": -242.86
+    },
+    {
+      "ticker": "V",
+      "date": "2026-07-10",
+      "field": "sharesYoYChange",
+      "prev": -2.5,
+      "curr": -8.5,
+      "relChangePct": -240.0
+    },
+    {
+      "ticker": "CHRT.L",
+      "date": "2026-08-25",
+      "field": "fcf",
+      "prev": 5,
+      "curr": -7,
+      "relChangePct": -240.0
+    },
+    {
+      "ticker": "INTC",
+      "date": "2026-07-27",
+      "field": "netMargin",
+      "prev": -5.9,
+      "curr": -19.8,
+      "relChangePct": -235.59
+    },
+    {
+      "ticker": "III.L",
+      "date": "2026-06-10",
+      "field": "revTrend3y",
+      "prev": 3.3,
+      "curr": 10.9,
+      "relChangePct": 230.3
+    },
+    {
+      "ticker": "DLR",
+      "date": "2026-04-27",
+      "field": "epsGrowthTTM",
+      "prev": -53.4,
+      "curr": 69.4,
+      "relChangePct": 229.96
+    },
+    {
+      "ticker": "VP.L",
+      "date": "2026-06-19",
+      "field": "revTrend3y",
+      "prev": 0.8,
+      "curr": -1,
+      "relChangePct": -225.0
+    },
+    {
+      "ticker": "F",
+      "date": "2026-07-30",
+      "field": "fcf",
+      "prev": -2248,
+      "curr": -7289,
+      "relChangePct": -224.24
+    },
+    {
+      "ticker": "FCX",
+      "date": "2026-04-27",
+      "field": "epsGrowthTTM",
+      "prev": 47.7,
+      "curr": 154.0,
+      "relChangePct": 222.85
+    },
+    {
+      "ticker": "SBRY.L",
+      "date": "2026-04-24",
+      "field": "fcf",
+      "prev": 393.0,
+      "curr": -475.0,
+      "relChangePct": -220.87
+    },
+    {
+      "ticker": "STX",
+      "date": "2026-08-06",
+      "field": "revTrend3y",
+      "prev": 7.2,
+      "curr": 23,
+      "relChangePct": 219.44
+    },
+    {
+      "ticker": "WRB",
+      "date": "2026-04-23",
+      "field": "epsGrowthTTM",
+      "prev": -21.8,
+      "curr": 26.0,
+      "relChangePct": 219.27
+    },
+    {
+      "ticker": "ACGL",
+      "date": "2026-07-30",
+      "field": "revGrowthTTM",
+      "prev": -3.3,
+      "curr": -10.5,
+      "relChangePct": -218.18
+    },
+    {
+      "ticker": "CASY",
+      "date": "2026-06-24",
+      "field": "revTrend3y",
+      "prev": 1.8,
+      "curr": 5.7,
+      "relChangePct": 216.67
+    },
+    {
+      "ticker": "CMCSA",
+      "date": "2026-07-27",
+      "field": "fcf",
+      "prev": 4013,
+      "curr": 12698,
+      "relChangePct": 216.42
+    },
+    {
+      "ticker": "LRCX",
+      "date": "2026-08-11",
+      "field": "marginTrend3y",
+      "prev": 2.1,
+      "curr": 6.6,
+      "relChangePct": 214.29
+    },
+    {
+      "ticker": "FRES.L",
+      "date": "2026-04-21",
+      "field": "marginTrend3y",
+      "prev": 14.1,
+      "curr": 44.1,
+      "relChangePct": 212.77
+    },
+    {
+      "ticker": "BLND.L",
+      "date": "2026-06-12",
+      "field": "revTrend3y",
+      "prev": 2.8,
+      "curr": -3.1,
+      "relChangePct": -210.71
+    },
+    {
+      "ticker": "PCAR",
+      "date": "2026-05-01",
+      "field": "currentRatio",
+      "prev": 1.79,
+      "curr": 5.56,
+      "relChangePct": 210.61
+    },
+    {
+      "ticker": "MMM",
+      "date": "2026-04-23",
+      "field": "fcf",
+      "prev": 749.0,
+      "curr": 2322.0,
+      "relChangePct": 210.01
+    },
+    {
+      "ticker": "BRK-B",
+      "date": "2026-08-14",
+      "field": "epsGrowthTTM",
+      "prev": -99.8,
+      "curr": 107.8,
+      "relChangePct": 208.02
+    },
+    {
+      "ticker": "STZ",
+      "date": "2026-04-24",
+      "field": "revTrend3y",
+      "prev": 2.6,
+      "curr": -2.8,
+      "relChangePct": -207.69
+    },
+    {
+      "ticker": "PG",
+      "date": "2026-04-27",
+      "field": "epsGrowthTTM",
+      "prev": -5.4,
+      "curr": 5.8,
+      "relChangePct": 207.41
+    },
+    {
+      "ticker": "PCAR",
+      "date": "2026-07-31",
+      "field": "currentRatio",
+      "prev": 1.82,
+      "curr": 5.52,
+      "relChangePct": 203.3
+    },
+    {
+      "ticker": "CME",
+      "date": "2026-04-27",
+      "field": "netDebtEbitda",
+      "prev": 0.1,
+      "curr": 0.3,
+      "relChangePct": 200.0
+    },
+    {
+      "ticker": "AVB",
+      "date": "2026-05-11",
+      "field": "piotroskiF",
+      "prev": 1,
+      "curr": 3,
+      "relChangePct": 200.0
+    },
+    {
+      "ticker": "PKG",
+      "date": "2026-05-11",
+      "field": "piotroskiF",
+      "prev": 1,
+      "curr": 3,
+      "relChangePct": 200.0
+    },
+    {
+      "ticker": "WKP.L",
+      "date": "2026-06-12",
+      "field": "sharesYoYChange",
+      "prev": 0.3,
+      "curr": -0.3,
+      "relChangePct": -200.0
+    },
+    {
+      "ticker": "DCC.L",
+      "date": "2026-06-19",
+      "field": "marginTrend3y",
+      "prev": 0.3,
+      "curr": 0.9,
+      "relChangePct": 200.0
+    },
+    {
+      "ticker": "CSGP",
+      "date": "2026-07-30",
+      "field": "roic",
+      "prev": 0.3,
+      "curr": 0.9,
+      "relChangePct": 200.0
+    },
+    {
+      "ticker": "CSGP",
+      "date": "2026-07-30",
+      "field": "netMargin",
+      "prev": 0.7,
+      "curr": 2.1,
+      "relChangePct": 200.0
+    },
+    {
+      "ticker": "OMC",
+      "date": "2026-07-31",
+      "field": "piotroskiF",
+      "prev": 1,
+      "curr": 3,
+      "relChangePct": 200.0
+    },
+    {
+      "ticker": "AVB",
+      "date": "2026-08-03",
+      "field": "piotroskiF",
+      "prev": 1,
+      "curr": 3,
+      "relChangePct": 200.0
+    },
+    {
+      "ticker": "WRB",
+      "date": "2026-08-03",
+      "field": "netDebtEbitda",
+      "prev": -0.1,
+      "curr": -0.3,
+      "relChangePct": -200.0
+    },
+    {
+      "ticker": "PKG",
+      "date": "2026-08-10",
+      "field": "piotroskiF",
+      "prev": 1,
+      "curr": 3,
+      "relChangePct": 200.0
+    },
+    {
+      "ticker": "CHRT.L",
+      "date": "2026-08-20",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 6,
+      "relChangePct": 200.0
+    },
+    {
+      "ticker": "CERT",
+      "date": "2026-05-14",
+      "field": "opMargin",
+      "prev": -4,
+      "curr": 3.8,
+      "relChangePct": 195.0
+    },
+    {
+      "ticker": "LEN",
+      "date": "2026-06-15",
+      "field": "netDebtEbitda",
+      "prev": -2,
+      "curr": 1.9,
+      "relChangePct": 195.0
+    },
+    {
+      "ticker": "BRK-B",
+      "date": "2026-08-12",
+      "field": "epsGrowthTTM",
+      "prev": 107.8,
+      "curr": -99.8,
+      "relChangePct": -192.58
+    },
+    {
+      "ticker": "GEV",
+      "date": "2026-04-27",
+      "field": "opMargin",
+      "prev": 1.9,
+      "curr": 5.5,
+      "relChangePct": 189.47
+    },
+    {
+      "ticker": "MTO.L",
+      "date": "2026-06-23",
+      "field": "marginTrend3y",
+      "prev": 0.7,
+      "curr": -0.6,
+      "relChangePct": -185.71
+    },
+    {
+      "ticker": "NWS",
+      "date": "2026-08-10",
+      "field": "sharesYoYChange",
+      "prev": -0.7,
+      "curr": -2,
+      "relChangePct": -185.71
+    },
+    {
+      "ticker": "NWSA",
+      "date": "2026-08-10",
+      "field": "sharesYoYChange",
+      "prev": -0.7,
+      "curr": -2,
+      "relChangePct": -185.71
+    },
+    {
+      "ticker": "SATS",
+      "date": "2026-05-13",
+      "field": "fcf",
+      "prev": 543,
+      "curr": -458,
+      "relChangePct": -184.35
+    },
+    {
+      "ticker": "FCX",
+      "date": "2026-07-27",
+      "field": "revGrowthTTM",
+      "prev": 8.8,
+      "curr": -7.3,
+      "relChangePct": -182.95
+    },
+    {
+      "ticker": "CB",
+      "date": "2026-04-23",
+      "field": "epsGrowthTTM",
+      "prev": 27.9,
+      "curr": 78.7,
+      "relChangePct": 182.08
+    },
+    {
+      "ticker": "WST",
+      "date": "2026-04-27",
+      "field": "revGrowthTTM",
+      "prev": 7.5,
+      "curr": 21.0,
+      "relChangePct": 180.0
+    },
+    {
+      "ticker": "BKR",
+      "date": "2026-04-27",
+      "field": "fcf",
+      "prev": 1127.0,
+      "curr": 3151.0,
+      "relChangePct": 179.59
+    },
+    {
+      "ticker": "TKO",
+      "date": "2026-06-10",
+      "field": "marketCap",
+      "prev": 14136,
+      "curr": 39415,
+      "relChangePct": 178.83
+    },
+    {
+      "ticker": "COIN",
+      "date": "2026-08-03",
+      "field": "opMargin",
+      "prev": -5,
+      "curr": -13.9,
+      "relChangePct": -178.0
+    },
+    {
+      "ticker": "BLND.L",
+      "date": "2026-06-12",
+      "field": "marginTrend3y",
+      "prev": -0.9,
+      "curr": -2.5,
+      "relChangePct": -177.78
+    },
+    {
+      "ticker": "AFL",
+      "date": "2026-05-08",
+      "field": "netDebtEbitda",
+      "prev": 0.4,
+      "curr": 1.1,
+      "relChangePct": 175.0
+    },
+    {
+      "ticker": "MCHP",
+      "date": "2026-06-10",
+      "field": "sharesYoYChange",
+      "prev": -2,
+      "curr": 1.5,
+      "relChangePct": 175.0
+    },
+    {
+      "ticker": "HON",
+      "date": "2026-07-27",
+      "field": "revGrowthTTM",
+      "prev": -6.1,
+      "curr": 4.3,
+      "relChangePct": 170.49
+    },
+    {
+      "ticker": "GEV",
+      "date": "2026-04-23",
+      "field": "epsGrowthTTM",
+      "prev": 671.7,
+      "curr": 1816.5,
+      "relChangePct": 170.43
+    },
+    {
+      "ticker": "HFD.L",
+      "date": "2026-08-10",
+      "field": "interestCover",
+      "prev": 2,
+      "curr": 5.4,
+      "relChangePct": 170.0
+    },
+    {
+      "ticker": "AVB",
+      "date": "2026-07-16",
+      "field": "marketCap",
+      "prev": 27222,
+      "curr": 73042,
+      "relChangePct": 168.32
+    },
+    {
+      "ticker": "STLD",
+      "date": "2026-04-22",
+      "field": "epsGrowthTTM",
+      "prev": 34.7,
+      "curr": 93.1,
+      "relChangePct": 168.3
+    },
+    {
+      "ticker": "WRB",
+      "date": "2026-04-23",
+      "field": "revGrowthTTM",
+      "prev": 1.5,
+      "curr": 4.0,
+      "relChangePct": 166.67
+    },
+    {
+      "ticker": "WTB.L",
+      "date": "2026-06-10",
+      "field": "marginTrend3y",
+      "prev": 0.9,
+      "curr": -0.6,
+      "relChangePct": -166.67
+    },
+    {
+      "ticker": "PNN.L",
+      "date": "2026-06-19",
+      "field": "interestCover",
+      "prev": 0.6,
+      "curr": 1.6,
+      "relChangePct": 166.67
+    },
+    {
+      "ticker": "FRAS.L",
+      "date": "2026-08-20",
+      "field": "opMargin",
+      "prev": 5.3,
+      "curr": 14,
+      "relChangePct": 164.15
+    },
+    {
+      "ticker": "BA",
+      "date": "2026-04-23",
+      "field": "opMargin",
+      "prev": -3.2,
+      "curr": 2.0,
+      "relChangePct": 162.5
+    },
+    {
+      "ticker": "SFR.L",
+      "date": "2026-07-24",
+      "field": "marginTrend3y",
+      "prev": -1.8,
+      "curr": -4.7,
+      "relChangePct": -161.11
+    },
+    {
+      "ticker": "PAYX",
+      "date": "2026-07-21",
+      "field": "marginTrend3y",
+      "prev": -1,
+      "curr": -2.6,
+      "relChangePct": -160.0
+    },
+    {
+      "ticker": "F",
+      "date": "2026-07-30",
+      "field": "revGrowthTTM",
+      "prev": 6.4,
+      "curr": -3.8,
+      "relChangePct": -159.37
+    },
+    {
+      "ticker": "VP.L",
+      "date": "2026-06-19",
+      "field": "marginTrend3y",
+      "prev": -4.4,
+      "curr": -11.4,
+      "relChangePct": -159.09
+    },
+    {
+      "ticker": "INTC",
+      "date": "2026-07-27",
+      "field": "fcf",
+      "prev": -8301,
+      "curr": 4866,
+      "relChangePct": 158.62
+    },
+    {
+      "ticker": "EXR",
+      "date": "2026-07-30",
+      "field": "epsGrowthTTM",
+      "prev": -10.6,
+      "curr": 6.2,
+      "relChangePct": 158.49
+    },
+    {
+      "ticker": "FRAS.L",
+      "date": "2026-08-20",
+      "field": "fcf",
+      "prev": -99,
+      "curr": 57,
+      "relChangePct": 157.58
+    },
+    {
+      "ticker": "NRG",
+      "date": "2026-05-08",
+      "field": "netDebtEbitda",
+      "prev": 4,
+      "curr": 10.3,
+      "relChangePct": 157.5
+    },
+    {
+      "ticker": "SGRO.L",
+      "date": "2026-08-03",
+      "field": "fcf",
+      "prev": 117,
+      "curr": 301,
+      "relChangePct": 157.26
+    },
+    {
+      "ticker": "URI",
+      "date": "2026-04-24",
+      "field": "revGrowthTTM",
+      "prev": 2.8,
+      "curr": 7.2,
+      "relChangePct": 157.14
+    },
+    {
+      "ticker": "SJM",
+      "date": "2026-06-18",
+      "field": "marginTrend3y",
+      "prev": 5.1,
+      "curr": -2.9,
+      "relChangePct": -156.86
+    },
+    {
+      "ticker": "BDX",
+      "date": "2026-08-10",
+      "field": "revGrowthTTM",
+      "prev": -9.5,
+      "curr": 5.4,
+      "relChangePct": 156.84
+    },
+    {
+      "ticker": "GEHC",
+      "date": "2026-07-31",
+      "field": "epsGrowthTTM",
+      "prev": -30.9,
+      "curr": 16.8,
+      "relChangePct": 154.37
+    },
+    {
+      "ticker": "PLD",
+      "date": "2026-05-03",
+      "field": "currentRatio",
+      "prev": 0.21,
+      "curr": 0.53,
+      "relChangePct": 152.38
+    },
+    {
+      "ticker": "PRU",
+      "date": "2026-05-11",
+      "field": "revGrowthTTM",
+      "prev": 6.1,
+      "curr": 15.3,
+      "relChangePct": 150.82
+    },
+    {
+      "ticker": "RTO.L",
+      "date": "2026-05-08",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 5,
+      "relChangePct": 150.0
+    },
+    {
+      "ticker": "GIS",
+      "date": "2026-07-06",
+      "field": "revTrend3y",
+      "prev": -1,
+      "curr": -2.5,
+      "relChangePct": -150.0
+    },
+    {
+      "ticker": "NKE",
+      "date": "2026-07-17",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 5,
+      "relChangePct": 150.0
+    },
+    {
+      "ticker": "SCT.L",
+      "date": "2026-08-28",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 5,
+      "relChangePct": 150.0
+    },
+    {
+      "ticker": "PCG",
+      "date": "2026-08-31",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 5,
+      "relChangePct": 150.0
+    },
+    {
+      "ticker": "LVS",
+      "date": "2026-04-24",
+      "field": "epsGrowthTTM",
+      "prev": 29.3,
+      "curr": 73.0,
+      "relChangePct": 149.15
+    },
+    {
+      "ticker": "BDX",
+      "date": "2026-05-11",
+      "field": "revGrowthTTM",
+      "prev": -10.6,
+      "curr": 5.2,
+      "relChangePct": 149.06
+    },
+    {
+      "ticker": "HLT",
+      "date": "2026-04-30",
+      "field": "opMargin",
+      "prev": 23.1,
+      "curr": 57.4,
+      "relChangePct": 148.48
+    },
+    {
+      "ticker": "SFR.L",
+      "date": "2026-06-26",
+      "field": "fcf",
+      "prev": 13,
+      "curr": 32,
+      "relChangePct": 146.15
+    },
+    {
+      "ticker": "STX",
+      "date": "2026-08-06",
+      "field": "interestCover",
+      "prev": 5.7,
+      "curr": 14,
+      "relChangePct": 145.61
+    },
+    {
+      "ticker": "PG",
+      "date": "2026-08-06",
+      "field": "marginTrend3y",
+      "prev": 2.2,
+      "curr": -1,
+      "relChangePct": -145.45
+    },
+    {
+      "ticker": "EL",
+      "date": "2026-08-21",
+      "field": "opMargin",
+      "prev": -15.4,
+      "curr": 7,
+      "relChangePct": 145.45
+    },
+    {
+      "ticker": "HLT",
+      "date": "2026-07-30",
+      "field": "opMargin",
+      "prev": 25.7,
+      "curr": 63,
+      "relChangePct": 145.14
+    },
+    {
+      "ticker": "QQ.L",
+      "date": "2026-06-12",
+      "field": "marginTrend3y",
+      "prev": -1.8,
+      "curr": 0.8,
+      "relChangePct": 144.44
+    },
+    {
+      "ticker": "BG",
+      "date": "2026-07-30",
+      "field": "epsGrowthTTM",
+      "prev": -76.4,
+      "curr": 33,
+      "relChangePct": 143.19
+    },
+    {
+      "ticker": "SNDK",
+      "date": "2026-08-19",
+      "field": "marginTrend3y",
+      "prev": 28.2,
+      "curr": 68.2,
+      "relChangePct": 141.84
+    },
+    {
+      "ticker": "DE",
+      "date": "2026-08-24",
+      "field": "fcf",
+      "prev": -13618,
+      "curr": 5665,
+      "relChangePct": 141.6
+    },
+    {
+      "ticker": "CCI",
+      "date": "2026-04-24",
+      "field": "netMargin",
+      "prev": 10.4,
+      "curr": 25.1,
+      "relChangePct": 141.35
+    },
+    {
+      "ticker": "DGE.L",
+      "date": "2026-08-19",
+      "field": "marginTrend3y",
+      "prev": -5.6,
+      "curr": -13.5,
+      "relChangePct": -141.07
+    },
+    {
+      "ticker": "JETG.L",
+      "date": "2026-06-25",
+      "field": "revTrend3y",
+      "prev": -23.7,
+      "curr": 9.7,
+      "relChangePct": 140.93
+    },
+    {
+      "ticker": "AEE",
+      "date": "2026-08-05",
+      "field": "revGrowthTTM",
+      "prev": -2.6,
+      "curr": -6.2,
+      "relChangePct": -138.46
+    },
+    {
+      "ticker": "MDLZ",
+      "date": "2026-07-30",
+      "field": "opMargin",
+      "prev": 9.3,
+      "curr": 22,
+      "relChangePct": 136.56
+    },
+    {
+      "ticker": "SHEL.L",
+      "date": "2026-05-11",
+      "field": "revGrowthTTM",
+      "prev": -3.6,
+      "curr": 1.3,
+      "relChangePct": 136.11
+    },
+    {
+      "ticker": "PPG",
+      "date": "2026-07-30",
+      "field": "epsGrowthTTM",
+      "prev": 4.2,
+      "curr": -1.5,
+      "relChangePct": -135.71
+    },
+    {
+      "ticker": "BXP",
+      "date": "2026-07-30",
+      "field": "epsGrowthTTM",
+      "prev": 65.5,
+      "curr": -23.2,
+      "relChangePct": -135.42
+    },
+    {
+      "ticker": "RJF",
+      "date": "2026-04-24",
+      "field": "revGrowthTTM",
+      "prev": 5.7,
+      "curr": 13.4,
+      "relChangePct": 135.09
+    },
+    {
+      "ticker": "WIZZ.L",
+      "date": "2026-06-19",
+      "field": "marginTrend3y",
+      "prev": 17.7,
+      "curr": -6.2,
+      "relChangePct": -135.03
+    },
+    {
+      "ticker": "HON",
+      "date": "2026-04-27",
+      "field": "revGrowthTTM",
+      "prev": -6.9,
+      "curr": 2.4,
+      "relChangePct": 134.78
+    },
+    {
+      "ticker": "VST",
+      "date": "2026-07-15",
+      "field": "fcf",
+      "prev": 477,
+      "curr": -164,
+      "relChangePct": -134.38
+    },
+    {
+      "ticker": "EL",
+      "date": "2026-08-21",
+      "field": "marginTrend3y",
+      "prev": -3.2,
+      "curr": 1.1,
+      "relChangePct": 134.38
+    },
+    {
+      "ticker": "NSC",
+      "date": "2026-04-27",
+      "field": "epsGrowthTTM",
+      "prev": -11.4,
+      "curr": -26.6,
+      "relChangePct": -133.33
+    },
+    {
+      "ticker": "MCHP",
+      "date": "2026-06-10",
+      "field": "piotroskiF",
+      "prev": 3,
+      "curr": 7,
+      "relChangePct": 133.33
+    },
+    {
+      "ticker": "WKP.L",
+      "date": "2026-06-23",
+      "field": "interestCover",
+      "prev": 1.2,
+      "curr": 2.8,
+      "relChangePct": 133.33
+    },
+    {
+      "ticker": "CPT",
+      "date": "2026-08-03",
+      "field": "revGrowthTTM",
+      "prev": 2.4,
+      "curr": -0.8,
+      "relChangePct": -133.33
+    },
+    {
+      "ticker": "FOX",
+      "date": "2026-08-10",
+      "field": "revTrend3y",
+      "prev": 3,
+      "curr": 7,
+      "relChangePct": 133.33
+    },
+    {
+      "ticker": "FOXA",
+      "date": "2026-08-10",
+      "field": "revTrend3y",
+      "prev": 3,
+      "curr": 7,
+      "relChangePct": 133.33
+    },
+    {
+      "ticker": "VST",
+      "date": "2026-06-10",
+      "field": "sharesYoYChange",
+      "prev": 1.7,
+      "curr": -0.5,
+      "relChangePct": -129.41
+    },
+    {
+      "ticker": "EDV.L",
+      "date": "2026-08-03",
+      "field": "epsGrowthTTM",
+      "prev": 25.3,
+      "curr": -7.3,
+      "relChangePct": -128.85
+    },
+    {
+      "ticker": "OSB.L",
+      "date": "2026-08-10",
+      "field": "revGrowthTTM",
+      "prev": -0.7,
+      "curr": 0.2,
+      "relChangePct": 128.57
+    },
+    {
+      "ticker": "KLAC",
+      "date": "2026-08-10",
+      "field": "revTrend3y",
+      "prev": 5,
+      "curr": 11.4,
+      "relChangePct": 128.0
+    },
+    {
+      "ticker": "CI",
+      "date": "2026-06-12",
+      "field": "marginTrend3y",
+      "prev": 2.9,
+      "curr": -0.8,
+      "relChangePct": -127.59
+    },
+    {
+      "ticker": "USB",
+      "date": "2026-07-20",
+      "field": "revGrowthTTM",
+      "prev": 4.6,
+      "curr": 10.4,
+      "relChangePct": 126.09
+    },
+    {
+      "ticker": "MRNA",
+      "date": "2026-08-19",
+      "field": "marketCap",
+      "prev": 25351,
+      "curr": 57133,
+      "relChangePct": 125.37
+    },
+    {
+      "ticker": "ACN",
+      "date": "2026-06-22",
+      "field": "epsGrowthTTM",
+      "prev": 4,
+      "curr": 9,
+      "relChangePct": 125.0
+    },
+    {
+      "ticker": "WKP.L",
+      "date": "2026-06-23",
+      "field": "revTrend3y",
+      "prev": 2.1,
+      "curr": -0.5,
+      "relChangePct": -123.81
+    },
+    {
+      "ticker": "CMCSA",
+      "date": "2026-07-27",
+      "field": "revGrowthTTM",
+      "prev": 5.3,
+      "curr": -1.2,
+      "relChangePct": -122.64
+    },
+    {
+      "ticker": "NEM",
+      "date": "2026-04-27",
+      "field": "revGrowthTTM",
+      "prev": 20.6,
+      "curr": 45.8,
+      "relChangePct": 122.33
+    },
+    {
+      "ticker": "VP.L",
+      "date": "2026-06-22",
+      "field": "opMargin",
+      "prev": -11.2,
+      "curr": 2.5,
+      "relChangePct": 122.32
+    },
+    {
+      "ticker": "FDX",
+      "date": "2026-07-24",
+      "field": "marginTrend3y",
+      "prev": 0.9,
+      "curr": -0.2,
+      "relChangePct": -122.22
+    },
+    {
+      "ticker": "BTRW.L",
+      "date": "2026-05-11",
+      "field": "revTrend3y",
+      "prev": -7.5,
+      "curr": 1.6,
+      "relChangePct": 121.33
+    },
+    {
+      "ticker": "BTRW.L",
+      "date": "2026-06-12",
+      "field": "revTrend3y",
+      "prev": -7.5,
+      "curr": 1.6,
+      "relChangePct": 121.33
+    },
+    {
+      "ticker": "BTRW.L",
+      "date": "2026-06-22",
+      "field": "revTrend3y",
+      "prev": -7.5,
+      "curr": 1.6,
+      "relChangePct": 121.33
+    },
+    {
+      "ticker": "BTRW.L",
+      "date": "2026-06-30",
+      "field": "revTrend3y",
+      "prev": -7.5,
+      "curr": 1.6,
+      "relChangePct": 121.33
+    },
+    {
+      "ticker": "TECH",
+      "date": "2026-08-26",
+      "field": "marginTrend3y",
+      "prev": -5.7,
+      "curr": 1.2,
+      "relChangePct": 121.05
+    },
+    {
+      "ticker": "UAL",
+      "date": "2026-04-23",
+      "field": "revGrowthTTM",
+      "prev": 4.8,
+      "curr": 10.6,
+      "relChangePct": 120.83
+    },
+    {
+      "ticker": "STZ",
+      "date": "2026-04-24",
+      "field": "marginTrend3y",
+      "prev": 2.9,
+      "curr": -0.6,
+      "relChangePct": -120.69
+    },
+    {
+      "ticker": "BA",
+      "date": "2026-07-30",
+      "field": "fcf",
+      "prev": 2554,
+      "curr": 5625,
+      "relChangePct": 120.24
+    },
+    {
+      "ticker": "HUBB",
+      "date": "2026-07-30",
+      "field": "netDebtEbitda",
+      "prev": 1.5,
+      "curr": 3.3,
+      "relChangePct": 120.0
+    },
+    {
+      "ticker": "CI",
+      "date": "2026-06-12",
+      "field": "revTrend3y",
+      "prev": -61.6,
+      "curr": 12.2,
+      "relChangePct": 119.81
+    },
+    {
+      "ticker": "COF",
+      "date": "2026-04-23",
+      "field": "epsGrowthTTM",
+      "prev": 22.2,
+      "curr": -4.3,
+      "relChangePct": -119.37
+    },
+    {
+      "ticker": "VOD.L",
+      "date": "2026-06-10",
+      "field": "sharesYoYChange",
+      "prev": -3.7,
+      "curr": -8.1,
+      "relChangePct": -118.92
+    },
+    {
+      "ticker": "NCC.L",
+      "date": "2026-07-21",
+      "field": "sharesYoYChange",
+      "prev": -1.2,
+      "curr": 0.2,
+      "relChangePct": 116.67
+    },
+    {
+      "ticker": "EQT",
+      "date": "2026-07-24",
+      "field": "revGrowthTTM",
+      "prev": -1.8,
+      "curr": -3.9,
+      "relChangePct": -116.67
+    },
+    {
+      "ticker": "PLD",
+      "date": "2026-07-31",
+      "field": "currentRatio",
+      "prev": 0.3,
+      "curr": 0.65,
+      "relChangePct": 116.67
+    },
+    {
+      "ticker": "NCC.L",
+      "date": "2026-08-06",
+      "field": "sharesYoYChange",
+      "prev": -1.2,
+      "curr": 0.2,
+      "relChangePct": 116.67
+    },
+    {
+      "ticker": "QQ.L",
+      "date": "2026-06-12",
+      "field": "interestCover",
+      "prev": 3.8,
+      "curr": 8.2,
+      "relChangePct": 115.79
+    },
+    {
+      "ticker": "CB",
+      "date": "2026-04-23",
+      "field": "netDebtEbitda",
+      "prev": 1.3,
+      "curr": -0.2,
+      "relChangePct": -115.38
+    },
+    {
+      "ticker": "ERIE",
+      "date": "2026-04-27",
+      "field": "epsGrowthTTM",
+      "prev": -58.4,
+      "curr": 8.7,
+      "relChangePct": 114.9
+    },
+    {
+      "ticker": "BTRW.L",
+      "date": "2026-07-07",
+      "field": "revTrend3y",
+      "prev": -11,
+      "curr": 1.6,
+      "relChangePct": 114.55
+    },
+    {
+      "ticker": "BTRW.L",
+      "date": "2026-07-13",
+      "field": "revTrend3y",
+      "prev": -11,
+      "curr": 1.6,
+      "relChangePct": 114.55
+    },
+    {
+      "ticker": "BTRW.L",
+      "date": "2026-07-16",
+      "field": "revTrend3y",
+      "prev": -11,
+      "curr": 1.6,
+      "relChangePct": 114.55
+    },
+    {
+      "ticker": "BTRW.L",
+      "date": "2026-07-23",
+      "field": "revTrend3y",
+      "prev": -11,
+      "curr": 1.6,
+      "relChangePct": 114.55
+    },
+    {
+      "ticker": "TSLA",
+      "date": "2026-04-24",
+      "field": "epsGrowthTTM",
+      "prev": -60.6,
+      "curr": 8.3,
+      "relChangePct": 113.7
+    },
+    {
+      "ticker": "DD",
+      "date": "2026-08-06",
+      "field": "revGrowthTTM",
+      "prev": -29.6,
+      "curr": 4,
+      "relChangePct": 113.51
+    },
+    {
+      "ticker": "AO.L",
+      "date": "2026-07-01",
+      "field": "interestCover",
+      "prev": 6.7,
+      "curr": 14.3,
+      "relChangePct": 113.43
+    },
+    {
+      "ticker": "MDT",
+      "date": "2026-06-22",
+      "field": "marginTrend3y",
+      "prev": 0.8,
+      "curr": 1.7,
+      "relChangePct": 112.5
+    },
+    {
+      "ticker": "PHP.L",
+      "date": "2026-08-03",
+      "field": "epsGrowthTTM",
+      "prev": -6.4,
+      "curr": -13.6,
+      "relChangePct": -112.5
+    },
+    {
+      "ticker": "IBST.L",
+      "date": "2026-08-10",
+      "field": "opMargin",
+      "prev": -13.9,
+      "curr": 1.7,
+      "relChangePct": 112.23
+    },
+    {
+      "ticker": "PLD",
+      "date": "2026-07-20",
+      "field": "revGrowthTTM",
+      "prev": 5.8,
+      "curr": 12.3,
+      "relChangePct": 112.07
+    },
+    {
+      "ticker": "NSC",
+      "date": "2026-04-27",
+      "field": "revGrowthTTM",
+      "prev": -1.7,
+      "curr": 0.2,
+      "relChangePct": 111.76
+    },
+    {
+      "ticker": "CSGP",
+      "date": "2026-07-30",
+      "field": "fcf",
+      "prev": 202,
+      "curr": 427,
+      "relChangePct": 111.39
+    },
+    {
+      "ticker": "INCY",
+      "date": "2026-07-30",
+      "field": "fcf",
+      "prev": 559,
+      "curr": 1181,
+      "relChangePct": 111.27
+    },
+    {
+      "ticker": "PAY.L",
+      "date": "2026-06-15",
+      "field": "marginTrend3y",
+      "prev": -13.4,
+      "curr": 1.5,
+      "relChangePct": 111.19
+    },
+    {
+      "ticker": "WTB.L",
+      "date": "2026-06-10",
+      "field": "revTrend3y",
+      "prev": 3.6,
+      "curr": -0.4,
+      "relChangePct": -111.11
+    },
+    {
+      "ticker": "EW",
+      "date": "2026-04-27",
+      "field": "epsGrowthTTM",
+      "prev": -76.6,
+      "curr": 8.2,
+      "relChangePct": 110.7
+    },
+    {
+      "ticker": "BG",
+      "date": "2026-05-03",
+      "field": "sharesYoYChange",
+      "prev": 17.2,
+      "curr": 36.2,
+      "relChangePct": 110.47
+    },
+    {
+      "ticker": "LUV",
+      "date": "2026-04-24",
+      "field": "roic",
+      "prev": 4.8,
+      "curr": 10.1,
+      "relChangePct": 110.42
+    },
+    {
+      "ticker": "DD",
+      "date": "2026-05-07",
+      "field": "revGrowthTTM",
+      "prev": -45.2,
+      "curr": 4.3,
+      "relChangePct": 109.51
+    },
+    {
+      "ticker": "COR",
+      "date": "2026-05-08",
+      "field": "fcf",
+      "prev": 3463,
+      "curr": -318,
+      "relChangePct": -109.18
+    },
+    {
+      "ticker": "LII",
+      "date": "2026-07-31",
+      "field": "epsGrowthTTM",
+      "prev": -1.3,
+      "curr": 0.1,
+      "relChangePct": 107.69
+    },
+    {
+      "ticker": "FOX",
+      "date": "2026-08-10",
+      "field": "marginTrend3y",
+      "prev": 1.3,
+      "curr": 2.7,
+      "relChangePct": 107.69
+    },
+    {
+      "ticker": "FOXA",
+      "date": "2026-08-10",
+      "field": "marginTrend3y",
+      "prev": 1.3,
+      "curr": 2.7,
+      "relChangePct": 107.69
+    },
+    {
+      "ticker": "ACGL",
+      "date": "2026-07-30",
+      "field": "epsGrowthTTM",
+      "prev": 94.6,
+      "curr": -7.1,
+      "relChangePct": -107.51
+    },
+    {
+      "ticker": "HUBB",
+      "date": "2026-07-30",
+      "field": "epsGrowthTTM",
+      "prev": 12.5,
+      "curr": -0.9,
+      "relChangePct": -107.2
+    },
+    {
+      "ticker": "UPS",
+      "date": "2026-08-10",
+      "field": "opMargin",
+      "prev": 4.4,
+      "curr": 9.1,
+      "relChangePct": 106.82
+    },
+    {
+      "ticker": "TECH",
+      "date": "2026-08-26",
+      "field": "interestCover",
+      "prev": 12.6,
+      "curr": 26,
+      "relChangePct": 106.35
+    },
+    {
+      "ticker": "IFF",
+      "date": "2026-08-07",
+      "field": "revGrowthTTM",
+      "prev": -29.3,
+      "curr": 1.8,
+      "relChangePct": 106.14
+    },
+    {
+      "ticker": "PCAR",
+      "date": "2026-07-30",
+      "field": "revGrowthTTM",
+      "prev": -8.9,
+      "curr": 0.5,
+      "relChangePct": 105.62
+    },
+    {
+      "ticker": "BTRW.L",
+      "date": "2026-05-08",
+      "field": "sharesYoYChange",
+      "prev": 41.6,
+      "curr": -2.1,
+      "relChangePct": -105.05
+    },
+    {
+      "ticker": "BTRW.L",
+      "date": "2026-06-11",
+      "field": "sharesYoYChange",
+      "prev": 41.6,
+      "curr": -2.1,
+      "relChangePct": -105.05
+    },
+    {
+      "ticker": "BTRW.L",
+      "date": "2026-06-19",
+      "field": "sharesYoYChange",
+      "prev": 41.6,
+      "curr": -2.1,
+      "relChangePct": -105.05
+    },
+    {
+      "ticker": "BTRW.L",
+      "date": "2026-06-29",
+      "field": "sharesYoYChange",
+      "prev": 41.6,
+      "curr": -2.1,
+      "relChangePct": -105.05
+    },
+    {
+      "ticker": "BTRW.L",
+      "date": "2026-07-01",
+      "field": "sharesYoYChange",
+      "prev": 41.6,
+      "curr": -2.1,
+      "relChangePct": -105.05
+    },
+    {
+      "ticker": "BTRW.L",
+      "date": "2026-07-06",
+      "field": "sharesYoYChange",
+      "prev": 41.6,
+      "curr": -2.1,
+      "relChangePct": -105.05
+    },
+    {
+      "ticker": "BTRW.L",
+      "date": "2026-07-10",
+      "field": "sharesYoYChange",
+      "prev": 41.6,
+      "curr": -2.1,
+      "relChangePct": -105.05
+    },
+    {
+      "ticker": "BTRW.L",
+      "date": "2026-07-15",
+      "field": "sharesYoYChange",
+      "prev": 41.6,
+      "curr": -2.1,
+      "relChangePct": -105.05
+    },
+    {
+      "ticker": "BTRW.L",
+      "date": "2026-07-21",
+      "field": "sharesYoYChange",
+      "prev": 41.6,
+      "curr": -2.1,
+      "relChangePct": -105.05
+    },
+    {
+      "ticker": "CMCSA",
+      "date": "2026-07-27",
+      "field": "epsGrowthTTM",
+      "prev": -32.6,
+      "curr": -66.8,
+      "relChangePct": -104.91
+    },
+    {
+      "ticker": "SFR.L",
+      "date": "2026-06-26",
+      "field": "grossMargin",
+      "prev": -8.3,
+      "curr": 0.4,
+      "relChangePct": 104.82
+    },
+    {
+      "ticker": "SFR.L",
+      "date": "2026-06-26",
+      "field": "gpa",
+      "prev": -0.094,
+      "curr": 0.004,
+      "relChangePct": 104.26
+    },
+    {
+      "ticker": "MOS",
+      "date": "2026-08-07",
+      "field": "opMargin",
+      "prev": 3.3,
+      "curr": -0.1,
+      "relChangePct": -103.03
+    },
+    {
+      "ticker": "PAYX",
+      "date": "2026-07-21",
+      "field": "revTrend3y",
+      "prev": 3.6,
+      "curr": 7.3,
+      "relChangePct": 102.78
+    },
+    {
+      "ticker": "HIG",
+      "date": "2026-07-27",
+      "field": "revGrowthTTM",
+      "prev": 4,
+      "curr": 8.1,
+      "relChangePct": 102.5
+    },
+    {
+      "ticker": "AAF.L",
+      "date": "2026-06-11",
+      "field": "marginTrend3y",
+      "prev": -4.2,
+      "curr": 0.1,
+      "relChangePct": 102.38
+    },
+    {
+      "ticker": "UNH",
+      "date": "2026-04-24",
+      "field": "epsGrowthTTM",
+      "prev": -99.9,
+      "curr": 0.7,
+      "relChangePct": 100.7
+    },
+    {
+      "ticker": "KIE.L",
+      "date": "2026-08-11",
+      "field": "marketCap",
+      "prev": 1091,
+      "curr": 2183,
+      "relChangePct": 100.09
+    },
+    {
+      "ticker": "BKR",
+      "date": "2026-04-27",
+      "field": "netDebtEbitda",
+      "prev": 0.6,
+      "curr": 0.0,
+      "relChangePct": -100.0
+    },
+    {
+      "ticker": "CME",
+      "date": "2026-04-27",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 4,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "CINF",
+      "date": "2026-04-29",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 4,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "SLB",
+      "date": "2026-05-01",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 4,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "DRX.L",
+      "date": "2026-05-03",
+      "field": "piotroskiF",
+      "prev": 3,
+      "curr": 6,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "HBAN",
+      "date": "2026-05-03",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 4,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "IRM",
+      "date": "2026-05-03",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 4,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "PLD",
+      "date": "2026-05-03",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 4,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "PWR",
+      "date": "2026-05-03",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 4,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "REGN",
+      "date": "2026-05-03",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 4,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "NTRS",
+      "date": "2026-05-04",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 4,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "PGR",
+      "date": "2026-05-06",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 4,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "OFIX",
+      "date": "2026-05-07",
+      "field": "fcf",
+      "prev": 11,
+      "curr": 22,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "APO",
+      "date": "2026-05-11",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 4,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "AVB",
+      "date": "2026-05-11",
+      "field": "currentRatio",
+      "prev": 0.19,
+      "curr": 0.38,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "BX",
+      "date": "2026-05-11",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 4,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "COF",
+      "date": "2026-05-11",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 4,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "DOC",
+      "date": "2026-05-11",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 4,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "IBKR",
+      "date": "2026-05-11",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 4,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "ITW",
+      "date": "2026-05-11",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 4,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "MET",
+      "date": "2026-05-11",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 4,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "JD.L",
+      "date": "2026-06-10",
+      "field": "piotroskiF",
+      "prev": 4,
+      "curr": 8,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "CGS.L",
+      "date": "2026-07-01",
+      "field": "piotroskiF",
+      "prev": 3,
+      "curr": 6,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "SFR.L",
+      "date": "2026-07-24",
+      "field": "interestCover",
+      "prev": 3.4,
+      "curr": 6.8,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "CME",
+      "date": "2026-07-27",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 4,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "ACGL",
+      "date": "2026-07-30",
+      "field": "netDebtEbitda",
+      "prev": -0.2,
+      "curr": 0,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "BA",
+      "date": "2026-07-30",
+      "field": "opMargin",
+      "prev": 1.7,
+      "curr": 0,
+      "relChangePct": -100.0
+    },
+    {
+      "ticker": "CINF",
+      "date": "2026-07-30",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 4,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "HBAN",
+      "date": "2026-07-30",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 4,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "COF",
+      "date": "2026-07-31",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 4,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "PLD",
+      "date": "2026-07-31",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 4,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "SLB",
+      "date": "2026-07-31",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 4,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "PGR",
+      "date": "2026-08-05",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 4,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "DOC",
+      "date": "2026-08-07",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 4,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "BX",
+      "date": "2026-08-10",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 4,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "IBKR",
+      "date": "2026-08-10",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 4,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "ITW",
+      "date": "2026-08-10",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 4,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "WYNN",
+      "date": "2026-08-10",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 4,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "NEE",
+      "date": "2026-08-11",
+      "field": "sharesYoYChange",
+      "prev": 0.6,
+      "curr": 1.2,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "NEE",
+      "date": "2026-08-21",
+      "field": "sharesYoYChange",
+      "prev": 0.6,
+      "curr": 1.2,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "PPG",
+      "date": "2026-08-24",
+      "field": "marginTrend3y",
+      "prev": 1.1,
+      "curr": 0,
+      "relChangePct": -100.0
+    },
+    {
+      "ticker": "NEE",
+      "date": "2026-08-25",
+      "field": "sharesYoYChange",
+      "prev": 0.6,
+      "curr": 1.2,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "NEE",
+      "date": "2026-08-27",
+      "field": "sharesYoYChange",
+      "prev": 0.6,
+      "curr": 1.2,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "BWY.L",
+      "date": "2026-08-28",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 4,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "NEE",
+      "date": "2026-08-31",
+      "field": "sharesYoYChange",
+      "prev": 0.6,
+      "curr": 1.2,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "STX",
+      "date": "2026-08-06",
+      "field": "sharesYoYChange",
+      "prev": 5704.1,
+      "curr": 5.5,
+      "relChangePct": -99.9
+    },
+    {
+      "ticker": "PCG",
+      "date": "2026-07-27",
+      "field": "revGrowthTTM",
+      "prev": 15,
+      "curr": 0.1,
+      "relChangePct": -99.33
+    },
+    {
+      "ticker": "HLT",
+      "date": "2026-07-30",
+      "field": "revGrowthTTM",
+      "prev": 152,
+      "curr": 2.5,
+      "relChangePct": -98.36
+    },
+    {
+      "ticker": "CGS.L",
+      "date": "2026-07-01",
+      "field": "revTrend3y",
+      "prev": -4.2,
+      "curr": -8.3,
+      "relChangePct": -97.62
+    },
+    {
+      "ticker": "PAY.L",
+      "date": "2026-06-15",
+      "field": "sharesYoYChange",
+      "prev": -7.7,
+      "curr": -0.2,
+      "relChangePct": 97.4
+    },
+    {
+      "ticker": "QQ.L",
+      "date": "2026-06-12",
+      "field": "revTrend3y",
+      "prev": 6.9,
+      "curr": 0.2,
+      "relChangePct": -97.1
+    },
+    {
+      "ticker": "AMCR",
+      "date": "2026-05-11",
+      "field": "fcf",
+      "prev": 4924,
+      "curr": 150,
+      "relChangePct": -96.95
+    },
+    {
+      "ticker": "HAS.L",
+      "date": "2026-08-24",
+      "field": "grossMargin",
+      "prev": 100,
+      "curr": 3.4,
+      "relChangePct": -96.6
+    },
+    {
+      "ticker": "BAB.L",
+      "date": "2026-07-01",
+      "field": "revTrend3y",
+      "prev": 2.9,
+      "curr": 5.7,
+      "relChangePct": 96.55
+    },
+    {
+      "ticker": "HAS.L",
+      "date": "2026-08-24",
+      "field": "gpa",
+      "prev": 3.533,
+      "curr": 0.122,
+      "relChangePct": -96.55
+    },
+    {
+      "ticker": "SFR.L",
+      "date": "2026-06-26",
+      "field": "opMargin",
+      "prev": -12.8,
+      "curr": -0.5,
+      "relChangePct": 96.09
+    },
+    {
+      "ticker": "MAR",
+      "date": "2026-05-08",
+      "field": "revGrowthTTM",
+      "prev": 313.8,
+      "curr": 12.6,
+      "relChangePct": -95.98
+    },
+    {
+      "ticker": "EQT",
+      "date": "2026-04-23",
+      "field": "revGrowthTTM",
+      "prev": 26.9,
+      "curr": 52.5,
+      "relChangePct": 95.17
+    },
+    {
+      "ticker": "DGE.L",
+      "date": "2026-08-10",
+      "field": "opMargin",
+      "prev": 16.1,
+      "curr": 31.4,
+      "relChangePct": 95.03
+    },
+    {
+      "ticker": "OMC",
+      "date": "2026-04-30",
+      "field": "sharesYoYChange",
+      "prev": 57.7,
+      "curr": 3.2,
+      "relChangePct": -94.45
+    },
+    {
+      "ticker": "TSCO.L",
+      "date": "2026-06-10",
+      "field": "marginTrend3y",
+      "prev": 1.8,
+      "curr": 0.1,
+      "relChangePct": -94.44
+    },
+    {
+      "ticker": "ADM",
+      "date": "2026-08-06",
+      "field": "currentRatio",
+      "prev": 22.97,
+      "curr": 1.39,
+      "relChangePct": -93.95
+    },
+    {
+      "ticker": "HLT",
+      "date": "2026-04-30",
+      "field": "revGrowthTTM",
+      "prev": 175.8,
+      "curr": 11.0,
+      "relChangePct": -93.74
+    },
+    {
+      "ticker": "PCAR",
+      "date": "2026-05-01",
+      "field": "fcf",
+      "prev": 23587.0,
+      "curr": 1485.0,
+      "relChangePct": -93.7
+    },
+    {
+      "ticker": "BAB.L",
+      "date": "2026-07-01",
+      "field": "marginTrend3y",
+      "prev": 4.7,
+      "curr": 0.3,
+      "relChangePct": -93.62
+    },
+    {
+      "ticker": "EXPN.L",
+      "date": "2026-06-15",
+      "field": "marginTrend3y",
+      "prev": 4.6,
+      "curr": 0.3,
+      "relChangePct": -93.48
+    },
+    {
+      "ticker": "CMG",
+      "date": "2026-08-03",
+      "field": "epsGrowthTTM",
+      "prev": -17.9,
+      "curr": -1.3,
+      "relChangePct": 92.74
+    },
+    {
+      "ticker": "AIZ",
+      "date": "2026-08-10",
+      "field": "netDebtEbitda",
+      "prev": 1.3,
+      "curr": 0.1,
+      "relChangePct": -92.31
+    },
+    {
+      "ticker": "PCAR",
+      "date": "2026-07-31",
+      "field": "fcf",
+      "prev": 23982,
+      "curr": 1944,
+      "relChangePct": -91.89
+    },
+    {
+      "ticker": "MCHP",
+      "date": "2026-06-10",
+      "field": "interestCover",
+      "prev": 1.2,
+      "curr": 2.3,
+      "relChangePct": 91.67
+    },
+    {
+      "ticker": "BYG.L",
+      "date": "2026-06-19",
+      "field": "sharesYoYChange",
+      "prev": 3.5,
+      "curr": 0.3,
+      "relChangePct": -91.43
+    },
+    {
+      "ticker": "JMAT.L",
+      "date": "2026-06-12",
+      "field": "revTrend3y",
+      "prev": -7.9,
+      "curr": -0.7,
+      "relChangePct": 91.14
+    },
+    {
+      "ticker": "VP.L",
+      "date": "2026-06-19",
+      "field": "interestCover",
+      "prev": 3.1,
+      "curr": 0.3,
+      "relChangePct": -90.32
+    },
+    {
+      "ticker": "BXP",
+      "date": "2026-05-11",
+      "field": "revGrowthTTM",
+      "prev": 5.6,
+      "curr": 0.6,
+      "relChangePct": -89.29
+    },
+    {
+      "ticker": "PWR",
+      "date": "2026-08-03",
+      "field": "fcf",
+      "prev": 1037,
+      "curr": 1955,
+      "relChangePct": 88.52
+    },
+    {
+      "ticker": "DVN",
+      "date": "2026-05-11",
+      "field": "marketCap",
+      "prev": 28387,
+      "curr": 53504,
+      "relChangePct": 88.48
+    },
+    {
+      "ticker": "D",
+      "date": "2026-05-07",
+      "field": "sharesYoYChange",
+      "prev": 3.2,
+      "curr": 0.4,
+      "relChangePct": -87.5
+    },
+    {
+      "ticker": "D",
+      "date": "2026-08-06",
+      "field": "sharesYoYChange",
+      "prev": 3.2,
+      "curr": 0.4,
+      "relChangePct": -87.5
+    },
+    {
+      "ticker": "SFR.L",
+      "date": "2026-07-07",
+      "field": "netDebtEbitda",
+      "prev": 18.6,
+      "curr": 2.4,
+      "relChangePct": -87.1
+    },
+    {
+      "ticker": "ROL",
+      "date": "2026-04-24",
+      "field": "epsGrowthTTM",
+      "prev": 9.9,
+      "curr": 1.3,
+      "relChangePct": -86.87
+    },
+    {
+      "ticker": "GLW",
+      "date": "2026-07-30",
+      "field": "epsGrowthTTM",
+      "prev": 138.9,
+      "curr": 18.5,
+      "relChangePct": -86.68
+    },
+    {
+      "ticker": "LMP.L",
+      "date": "2026-06-12",
+      "field": "sharesYoYChange",
+      "prev": 82.4,
+      "curr": 11.3,
+      "relChangePct": -86.29
+    },
+    {
+      "ticker": "BA",
+      "date": "2026-04-23",
+      "field": "fcf",
+      "prev": 1762.0,
+      "curr": 3278.0,
+      "relChangePct": 86.04
+    },
+    {
+      "ticker": "SAP.DE",
+      "date": "2026-04-27",
+      "field": "epsGrowthTTM",
+      "prev": 5.0,
+      "curr": 9.3,
+      "relChangePct": 86.0
+    },
+    {
+      "ticker": "PAY.L",
+      "date": "2026-06-15",
+      "field": "revTrend3y",
+      "prev": 22.8,
+      "curr": 3.2,
+      "relChangePct": -85.96
+    },
+    {
+      "ticker": "GEV",
+      "date": "2026-04-23",
+      "field": "netMargin",
+      "prev": 12.8,
+      "curr": 23.8,
+      "relChangePct": 85.94
+    },
+    {
+      "ticker": "AMZN",
+      "date": "2026-08-03",
+      "field": "fcf",
+      "prev": 22875,
+      "curr": 3219,
+      "relChangePct": -85.93
+    },
+    {
+      "ticker": "AIZ",
+      "date": "2026-05-11",
+      "field": "netDebtEbitda",
+      "prev": 1.4,
+      "curr": 0.2,
+      "relChangePct": -85.71
+    },
+    {
+      "ticker": "PG",
+      "date": "2026-08-03",
+      "field": "sharesYoYChange",
+      "prev": -0.7,
+      "curr": -1.3,
+      "relChangePct": -85.71
+    },
+    {
+      "ticker": "MRK",
+      "date": "2026-08-10",
+      "field": "opMargin",
+      "prev": -1.4,
+      "curr": -0.2,
+      "relChangePct": 85.71
+    },
+    {
+      "ticker": "PH",
+      "date": "2026-08-25",
+      "field": "revTrend3y",
+      "prev": 1.4,
+      "curr": 2.6,
+      "relChangePct": 85.71
+    },
+    {
+      "ticker": "PWR",
+      "date": "2026-08-03",
+      "field": "epsGrowthTTM",
+      "prev": 51,
+      "curr": 94.7,
+      "relChangePct": 85.69
+    },
+    {
+      "ticker": "NRG",
+      "date": "2026-05-08",
+      "field": "roic",
+      "prev": 41.5,
+      "curr": 6.2,
+      "relChangePct": -85.06
+    },
+    {
+      "ticker": "MET",
+      "date": "2026-05-11",
+      "field": "netDebtEbitda",
+      "prev": 2,
+      "curr": 3.7,
+      "relChangePct": 85.0
+    },
+    {
+      "ticker": "INTC",
+      "date": "2026-04-27",
+      "field": "fcf",
+      "prev": -4505.0,
+      "curr": -8301.0,
+      "relChangePct": -84.26
+    },
+    {
+      "ticker": "IBM",
+      "date": "2026-04-24",
+      "field": "epsGrowthTTM",
+      "prev": 89.9,
+      "curr": 14.2,
+      "relChangePct": -84.2
+    },
+    {
+      "ticker": "UNH",
+      "date": "2026-04-24",
+      "field": "revGrowthTTM",
+      "prev": 12.3,
+      "curr": 2.0,
+      "relChangePct": -83.74
+    },
+    {
+      "ticker": "CB",
+      "date": "2026-04-23",
+      "field": "revGrowthTTM",
+      "prev": 5.5,
+      "curr": 10.1,
+      "relChangePct": 83.64
+    },
+    {
+      "ticker": "GEV",
+      "date": "2026-04-23",
+      "field": "fcf",
+      "prev": 5278.0,
+      "curr": 9675.0,
+      "relChangePct": 83.31
+    },
+    {
+      "ticker": "STE",
+      "date": "2026-05-13",
+      "field": "fcf",
+      "prev": 321,
+      "curr": 588,
+      "relChangePct": 83.18
+    },
+    {
+      "ticker": "CAG",
+      "date": "2026-07-17",
+      "field": "marginTrend3y",
+      "prev": -2.3,
+      "curr": -4.2,
+      "relChangePct": -82.61
+    },
+    {
+      "ticker": "HSX.L",
+      "date": "2026-08-07",
+      "field": "netDebtEbitda",
+      "prev": -1.7,
+      "curr": -0.3,
+      "relChangePct": 82.35
+    },
+    {
+      "ticker": "FCX",
+      "date": "2026-07-27",
+      "field": "epsGrowthTTM",
+      "prev": 153.1,
+      "curr": 27.1,
+      "relChangePct": -82.3
+    },
+    {
+      "ticker": "AO.L",
+      "date": "2026-07-01",
+      "field": "marginTrend3y",
+      "prev": 2.8,
+      "curr": 0.5,
+      "relChangePct": -82.14
+    },
+    {
+      "ticker": "SAP.DE",
+      "date": "2026-04-27",
+      "field": "revGrowthTTM",
+      "prev": 3.3,
+      "curr": 6.0,
+      "relChangePct": 81.82
+    },
+    {
+      "ticker": "PAY.L",
+      "date": "2026-06-29",
+      "field": "netDebtEbitda",
+      "prev": 1.6,
+      "curr": 0.3,
+      "relChangePct": -81.25
+    },
+    {
+      "ticker": "CPT",
+      "date": "2026-05-03",
+      "field": "opMargin",
+      "prev": 19.4,
+      "curr": 3.7,
+      "relChangePct": -80.93
+    },
+    {
+      "ticker": "VERX",
+      "date": "2026-05-11",
+      "field": "opMargin",
+      "prev": -8.3,
+      "curr": -1.6,
+      "relChangePct": 80.72
+    },
+    {
+      "ticker": "CARG",
+      "date": "2026-05-12",
+      "field": "revGrowthTTM",
+      "prev": 8.2,
+      "curr": 14.8,
+      "relChangePct": 80.49
+    },
+    {
+      "ticker": "INCY",
+      "date": "2026-07-30",
+      "field": "revGrowthTTM",
+      "prev": 20.9,
+      "curr": 37.7,
+      "relChangePct": 80.38
+    },
+    {
+      "ticker": "STE",
+      "date": "2026-06-10",
+      "field": "interestCover",
+      "prev": 10.2,
+      "curr": 18.3,
+      "relChangePct": 79.41
+    },
+    {
+      "ticker": "WDC",
+      "date": "2026-08-18",
+      "field": "revTrend3y",
+      "prev": 15,
+      "curr": 26.9,
+      "relChangePct": 79.33
+    },
+    {
+      "ticker": "TXN",
+      "date": "2026-04-24",
+      "field": "revGrowthTTM",
+      "prev": 10.4,
+      "curr": 18.6,
+      "relChangePct": 78.85
+    },
+    {
+      "ticker": "PCAR",
+      "date": "2026-07-30",
+      "field": "epsGrowthTTM",
+      "prev": 19.7,
+      "curr": 4.2,
+      "relChangePct": -78.68
+    },
+    {
+      "ticker": "APD",
+      "date": "2026-08-18",
+      "field": "netDebtEbitda",
+      "prev": 16.8,
+      "curr": 3.7,
+      "relChangePct": -77.98
+    },
+    {
+      "ticker": "STAN.L",
+      "date": "2026-08-06",
+      "field": "epsGrowthTTM",
+      "prev": 30.7,
+      "curr": 6.8,
+      "relChangePct": -77.85
+    },
+    {
+      "ticker": "KIE.L",
+      "date": "2026-07-10",
+      "field": "sharesYoYChange",
+      "prev": 1.8,
+      "curr": 3.2,
+      "relChangePct": 77.78
+    },
+    {
+      "ticker": "GEV",
+      "date": "2026-04-23",
+      "field": "roic",
+      "prev": 42.6,
+      "curr": 75.7,
+      "relChangePct": 77.7
+    },
+    {
+      "ticker": "ADM",
+      "date": "2026-05-07",
+      "field": "currentRatio",
+      "prev": 5.81,
+      "curr": 1.31,
+      "relChangePct": -77.45
+    },
+    {
+      "ticker": "AFL",
+      "date": "2026-05-08",
+      "field": "currentRatio",
+      "prev": 4.16,
+      "curr": 0.94,
+      "relChangePct": -77.4
+    },
+    {
+      "ticker": "AMCR",
+      "date": "2026-08-17",
+      "field": "fcf",
+      "prev": 6608,
+      "curr": 1504,
+      "relChangePct": -77.24
+    },
+    {
+      "ticker": "INTC",
+      "date": "2026-07-27",
+      "field": "opMargin",
+      "prev": 6.9,
+      "curr": 12.2,
+      "relChangePct": 76.81
+    },
+    {
+      "ticker": "TT",
+      "date": "2026-08-03",
+      "field": "revGrowthTTM",
+      "prev": 6,
+      "curr": 10.6,
+      "relChangePct": 76.67
+    },
+    {
+      "ticker": "ORCL",
+      "date": "2026-06-24",
+      "field": "revTrend3y",
+      "prev": 4.7,
+      "curr": 8.3,
+      "relChangePct": 76.6
+    },
+    {
+      "ticker": "CPT",
+      "date": "2026-08-03",
+      "field": "currentRatio",
+      "prev": 1.48,
+      "curr": 0.35,
+      "relChangePct": -76.35
+    }
+  ],
+  "summary": {
+    "byField": {
+      "fcf": 399,
+      "opMargin": 307,
+      "piotroskiF": 289,
+      "netDebtEbitda": 257,
+      "revGrowthTTM": 145,
+      "epsGrowthTTM": 136,
+      "interestCover": 133,
+      "currentRatio": 105,
+      "gpa": 94,
+      "revTrend3y": 89,
+      "sharesYoYChange": 78,
+      "grossMargin": 74,
+      "marginTrend3y": 65,
+      "netMargin": 59,
+      "roic": 52,
+      "marketCap": 31
+    },
+    "byTicker": {
+      "BTRW.L": 51,
+      "FDEV.L": 20,
+      "FCX": 19,
+      "VRSN": 19,
+      "V": 17,
+      "PAY.L": 15,
+      "PFG": 15,
+      "PCG": 15,
+      "LVS": 15,
+      "NCC.L": 15,
+      "EA": 15,
+      "INTC": 14,
+      "PKG": 14,
+      "EQT": 14,
+      "GLW": 14,
+      "RSG": 14,
+      "SFR.L": 13,
+      "CB": 13,
+      "CMCSA": 13,
+      "OMC": 12
+    },
+    "newFilingUpdates": 6473,
+    "unclassifiedChanges": 110,
+    "eventsPerPairAvg": 21.03
+  }
+}
