@@ -5,7 +5,7 @@
     "to": "2026-08-31"
   },
   "pairsCompared": 110,
-  "totalEvents": 2313,
+  "totalEvents": 2312,
   "events": [
     {
       "ticker": "STX",
@@ -3360,14 +3360,6 @@
       "relChangePct": 100.0
     },
     {
-      "ticker": "NEE",
-      "date": "2026-08-31",
-      "field": "sharesYoYChange",
-      "prev": 0.6,
-      "curr": 1.2,
-      "relChangePct": 100.0
-    },
-    {
       "ticker": "STX",
       "date": "2026-08-06",
       "field": "sharesYoYChange",
@@ -4006,6 +3998,14 @@
       "prev": 1.48,
       "curr": 0.35,
       "relChangePct": -76.35
+    },
+    {
+      "ticker": "WAT",
+      "date": "2026-05-14",
+      "field": "opMargin",
+      "prev": 11.7,
+      "curr": 2.8,
+      "relChangePct": -76.07
     }
   ],
   "summary": {
@@ -4020,7 +4020,7 @@
       "currentRatio": 105,
       "gpa": 94,
       "revTrend3y": 89,
-      "sharesYoYChange": 78,
+      "sharesYoYChange": 77,
       "grossMargin": 74,
       "marginTrend3y": 65,
       "netMargin": 59,
@@ -4051,6 +4051,6 @@
     },
     "newFilingUpdates": 6473,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 21.03
+    "eventsPerPairAvg": 21.02
   }
 }

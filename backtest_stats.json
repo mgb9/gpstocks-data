@@ -296,10 +296,10 @@
         55.55555555555556
       ],
       "bootstrapSnapshots": 10,
-      "avgBenchmarkReturnPct": 4.873559290254317,
-      "avgExcessReturnPct": -6.3689849411717,
+      "avgBenchmarkReturnPct": 4.873559875120118,
+      "avgExcessReturnPct": -6.368985526037502,
       "hitRateVsBenchmarkPct": 30.18867924528302,
-      "informationRatio": -0.40927819839095636
+      "informationRatio": -0.4092782448984178
     },
     "Avoid": {
       "n": 596,
@@ -895,10 +895,10 @@
         55.55555555555556
       ],
       "bootstrapSnapshots": 10,
-      "avgBenchmarkReturnPct": 4.873559290254317,
-      "avgExcessReturnPct": -6.3689849411717,
+      "avgBenchmarkReturnPct": 4.873559875120118,
+      "avgExcessReturnPct": -6.368985526037502,
       "hitRateVsBenchmarkPct": 30.18867924528302,
-      "informationRatio": -0.40927819839095636
+      "informationRatio": -0.4092782448984178
     },
     "Avoid": {
       "n": 568,

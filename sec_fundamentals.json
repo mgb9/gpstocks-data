@@ -46192,116 +46192,116 @@
     },
     "SMCI": {
       "cik": 1375365,
-      "entityName": "SUPER MICRO COMPUTER, INC.",
+      "entityName": "Super Micro Computer, Inc.",
       "metrics": {
         "revGrowthTTM": {
-          "value": 56.238495446394296,
-          "asOfFiled": "2026-05-11"
+          "value": 77.78535103837869,
+          "asOfFiled": "2026-08-31"
         },
         "epsGrowthTTM": {
-          "value": null,
-          "reason": "prior-year EPS TTM not positive"
+          "value": 94.04761904761905,
+          "asOfFiled": "2026-08-31"
         },
         "opMargin": {
-          "value": 4.483097224984322,
-          "asOfFiled": "2026-05-11"
+          "value": 7.092340305442439,
+          "asOfFiled": "2026-08-31"
         },
         "netMargin": {
-          "value": 3.7014313799743537,
-          "asOfFiled": "2026-05-11"
+          "value": 5.709876069142744,
+          "asOfFiled": "2026-08-31"
         },
         "grossMargin": {
-          "value": 8.393782518718135,
-          "asOfFiled": "2026-05-11"
+          "value": 10.821604097086885,
+          "asOfFiled": "2026-08-31"
         },
         "fcf": {
-          "value": -6849.681,
-          "asOfFiled": "2026-05-11"
+          "value": -6971.885,
+          "asOfFiled": "2026-08-31"
         },
         "sharesYoYChange": {
-          "value": 0.7708947667408594,
-          "asOfFiled": "2026-05-11"
+          "value": 10.549367632039086,
+          "asOfFiled": "2026-08-31"
         }
       },
       "raw": {
         "revenue": {
           "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
           "ttm": {
-            "value": 33700206000,
-            "periodEnd": "2026-03-31",
-            "asOfFiled": "2026-05-11"
+            "value": 39063072000,
+            "periodEnd": "2026-06-30",
+            "asOfFiled": "2026-08-31"
           }
         },
         "netIncome": {
           "tag": "NetIncomeLoss",
           "ttm": {
-            "value": 1247390000,
-            "periodEnd": "2026-03-31",
-            "asOfFiled": "2026-05-11"
+            "value": 2230453000,
+            "periodEnd": "2026-06-30",
+            "asOfFiled": "2026-08-31"
           }
         },
         "operatingIncome": {
           "tag": "OperatingIncomeLoss",
           "ttm": {
-            "value": 1510813000,
-            "periodEnd": "2026-03-31",
-            "asOfFiled": "2026-05-11"
+            "value": 2770486000,
+            "periodEnd": "2026-06-30",
+            "asOfFiled": "2026-08-31"
           }
         },
         "grossProfit": {
           "tag": "GrossProfit",
           "ttm": {
-            "value": 2828722000,
-            "periodEnd": "2026-03-31",
-            "asOfFiled": "2026-05-11"
+            "value": 4227251000,
+            "periodEnd": "2026-06-30",
+            "asOfFiled": "2026-08-31"
           }
         },
         "epsDiluted": {
           "tag": "EarningsPerShareDiluted",
           "ttm": {
-            "value": 1.89,
-            "periodEnd": "2026-03-31",
-            "asOfFiled": "2026-05-11"
+            "value": 3.26,
+            "periodEnd": "2026-06-30",
+            "asOfFiled": "2026-08-31"
           }
         },
         "cfo": {
           "tag": "NetCashProvidedByUsedInOperatingActivities",
           "ttm": {
-            "value": -6693234000,
-            "periodEnd": "2026-03-31",
-            "asOfFiled": "2026-05-11"
+            "value": -6809886000,
+            "periodEnd": "2026-06-30",
+            "asOfFiled": "2026-08-31"
           }
         },
         "capex": {
           "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
           "ttm": {
-            "value": 156447000,
-            "periodEnd": "2026-03-31",
-            "asOfFiled": "2026-05-11"
+            "value": 161999000,
+            "periodEnd": "2026-06-30",
+            "asOfFiled": "2026-08-31"
           }
         },
         "assets": {
           "tag": "Assets",
           "latest": {
-            "value": 23452029000,
-            "periodEnd": "2026-03-31",
-            "asOfFiled": "2026-05-11"
+            "value": 29945467000,
+            "periodEnd": "2026-06-30",
+            "asOfFiled": "2026-08-31"
           }
         },
         "equity": {
           "tag": "StockholdersEquity",
           "latest": {
-            "value": 7575430000,
-            "periodEnd": "2026-03-31",
-            "asOfFiled": "2026-05-11"
+            "value": 14479452000,
+            "periodEnd": "2026-06-30",
+            "asOfFiled": "2026-08-31"
           }
         },
         "sharesOutstanding": {
           "tag": "EntityCommonStockSharesOutstanding",
           "latest": {
-            "value": 601418482,
-            "periodEnd": "2026-04-30",
-            "asOfFiled": "2026-05-11"
+            "value": 656965384,
+            "periodEnd": "2026-07-31",
+            "asOfFiled": "2026-08-31"
           }
         }
       }

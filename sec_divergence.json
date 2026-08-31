@@ -14,7 +14,7 @@
       "n": 485,
       "mode": "points",
       "medianAbsDivergencePct": 3.632432232955915,
-      "p90AbsDivergencePct": 21.518955791774506,
+      "p90AbsDivergencePct": 21.04280545325324,
       "worst": [
         {
           "ticker": "COF",
@@ -79,10 +79,10 @@
       ]
     },
     "epsGrowthTTM": {
-      "n": 424,
+      "n": 425,
       "mode": "points",
-      "medianAbsDivergencePct": 23.41171697143275,
-      "p90AbsDivergencePct": 153.56313486370155,
+      "medianAbsDivergencePct": 23.432584269662932,
+      "p90AbsDivergencePct": 156.2944427405999,
       "worst": [
         {
           "ticker": "BXP",
@@ -217,7 +217,7 @@
     "netMargin": {
       "n": 478,
       "mode": "points",
-      "medianAbsDivergencePct": 0.03628880433316706,
+      "medianAbsDivergencePct": 0.03596802771498897,
       "p90AbsDivergencePct": 2.5158964861755355,
       "worst": [
         {
@@ -285,7 +285,7 @@
     "grossMargin": {
       "n": 247,
       "mode": "points",
-      "medianAbsDivergencePct": 0.28651234967024664,
+      "medianAbsDivergencePct": 0.28643804516668325,
       "p90AbsDivergencePct": 23.001027517079287,
       "worst": [
         {
@@ -419,10 +419,10 @@
       ]
     },
     "sharesYoYChange": {
-      "n": 442,
+      "n": 443,
       "mode": "points",
-      "medianAbsDivergencePct": 1.2623584143309599,
-      "p90AbsDivergencePct": 8.130394729722772,
+      "medianAbsDivergencePct": 1.254516797580194,
+      "p90AbsDivergencePct": 8.267872836836649,
       "worst": [
         {
           "ticker": "BKNG",
