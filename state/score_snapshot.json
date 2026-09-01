@@ -1,14 +1,6 @@
 {
-  "MNKS.L": {
-    "score": 93.0,
-    "label": "Avoid"
-  },
   "RCP.L": {
-    "score": 92.0,
-    "label": "Avoid"
-  },
-  "PNL.L": {
-    "score": 89.0,
+    "score": 88.0,
     "label": "Avoid"
   },
   "ALL": {
@@ -35,10 +27,6 @@
     "score": 84.0,
     "label": "Buy Now"
   },
-  "HSL.L": {
-    "score": 84.0,
-    "label": "Avoid"
-  },
   "POLR.L": {
     "score": 84.0,
     "label": "Avoid"
@@ -47,12 +35,16 @@
     "score": 83.0,
     "label": "Avoid"
   },
-  "TRV": {
+  "TEM.L": {
     "score": 83.0,
     "label": "Avoid"
   },
-  "COP": {
-    "score": 82.0,
+  "TGT": {
+    "score": 83.0,
+    "label": "Buy Now"
+  },
+  "TRV": {
+    "score": 83.0,
     "label": "Avoid"
   },
   "HSX.L": {
@@ -60,6 +52,10 @@
     "label": "Avoid"
   },
   "JLEN.L": {
+    "score": 82.0,
+    "label": "Avoid"
+  },
+  "MNKS.L": {
     "score": 82.0,
     "label": "Avoid"
   },
@@ -83,6 +79,10 @@
     "score": 81.0,
     "label": "Avoid"
   },
+  "COP": {
+    "score": 81.0,
+    "label": "Avoid"
+  },
   "CVX": {
     "score": 81.0,
     "label": "Avoid"
@@ -99,7 +99,7 @@
     "score": 81.0,
     "label": "Buy Now"
   },
-  "FDEV.L": {
+  "HSL.L": {
     "score": 81.0,
     "label": "Avoid"
   },
@@ -107,7 +107,7 @@
     "score": 81.0,
     "label": "Avoid"
   },
-  "TGT": {
+  "SAIN.L": {
     "score": 81.0,
     "label": "Avoid"
   },
@@ -163,10 +163,6 @@
     "score": 79.0,
     "label": "Staged Buy"
   },
-  "TEM.L": {
-    "score": 79.0,
-    "label": "Avoid"
-  },
   "AMZN": {
     "score": 78.0,
     "label": "Buy Now"
@@ -179,6 +175,10 @@
     "score": 78.0,
     "label": "Buy Now"
   },
+  "MUT.L": {
+    "score": 78.0,
+    "label": "Avoid"
+  },
   "NXT.L": {
     "score": 78.0,
     "label": "Buy Now"
@@ -187,13 +187,13 @@
     "score": 78.0,
     "label": "Avoid"
   },
-  "RJF": {
-    "score": 78.0,
-    "label": "Staged Buy"
-  },
   "CNE.L": {
     "score": 77.0,
     "label": "Avoid"
+  },
+  "EXPE": {
+    "score": 77.0,
+    "label": "Staged Buy"
   },
   "FOXA": {
     "score": 77.0,
@@ -220,10 +220,6 @@
     "label": "Avoid"
   },
   "DLTR": {
-    "score": 76.0,
-    "label": "Staged Buy"
-  },
-  "EXPE": {
     "score": 76.0,
     "label": "Staged Buy"
   },
@@ -263,13 +259,13 @@
     "score": 75.0,
     "label": "Buy Now"
   },
+  "HST": {
+    "score": 75.0,
+    "label": "Avoid"
+  },
   "IEX": {
     "score": 75.0,
     "label": "Staged Buy"
-  },
-  "MUT.L": {
-    "score": 75.0,
-    "label": "Avoid"
   },
   "NDSN": {
     "score": 75.0,
@@ -307,15 +303,7 @@
     "score": 74.0,
     "label": "Avoid"
   },
-  "CGS.L": {
-    "score": 74.0,
-    "label": "Avoid"
-  },
   "DEC.L": {
-    "score": 74.0,
-    "label": "Avoid"
-  },
-  "DELL": {
     "score": 74.0,
     "label": "Avoid"
   },
@@ -323,15 +311,7 @@
     "score": 74.0,
     "label": "Staged Buy"
   },
-  "HST": {
-    "score": 74.0,
-    "label": "Avoid"
-  },
   "PGR": {
-    "score": 74.0,
-    "label": "Avoid"
-  },
-  "SAIN.L": {
     "score": 74.0,
     "label": "Avoid"
   },
@@ -344,6 +324,10 @@
     "label": "Staged Buy"
   },
   "BALL": {
+    "score": 73.0,
+    "label": "Avoid"
+  },
+  "DELL": {
     "score": 73.0,
     "label": "Avoid"
   },
@@ -379,11 +363,11 @@
     "score": 73.0,
     "label": "Avoid"
   },
-  "SVS.L": {
+  "RJF": {
     "score": 73.0,
     "label": "Avoid"
   },
-  "UKW.L": {
+  "SVS.L": {
     "score": 73.0,
     "label": "Avoid"
   },
@@ -431,6 +415,14 @@
     "score": 72.0,
     "label": "Avoid"
   },
+  "DIS": {
+    "score": 72.0,
+    "label": "Avoid"
+  },
+  "FDEV.L": {
+    "score": 72.0,
+    "label": "Avoid"
+  },
   "GEN": {
     "score": 72.0,
     "label": "Staged Buy"
@@ -440,10 +432,6 @@
     "label": "Avoid"
   },
   "HSBA.L": {
-    "score": 72.0,
-    "label": "Avoid"
-  },
-  "ICGT.L": {
     "score": 72.0,
     "label": "Avoid"
   },
@@ -511,10 +499,6 @@
     "score": 71.0,
     "label": "Avoid"
   },
-  "IBKR": {
-    "score": 71.0,
-    "label": "Avoid"
-  },
   "JBHT": {
     "score": 71.0,
     "label": "Avoid"
@@ -539,7 +523,7 @@
     "score": 71.0,
     "label": "Avoid"
   },
-  "REGN": {
+  "ROP": {
     "score": 71.0,
     "label": "Avoid"
   },
@@ -550,6 +534,10 @@
   "SYF": {
     "score": 71.0,
     "label": "Avoid"
+  },
+  "AMP": {
+    "score": 70.0,
+    "label": "Staged Buy"
   },
   "BIIB": {
     "score": 70.0,
@@ -587,15 +575,15 @@
     "score": 70.0,
     "label": "Avoid"
   },
+  "IBKR": {
+    "score": 70.0,
+    "label": "Avoid"
+  },
   "IHG.L": {
     "score": 70.0,
     "label": "Avoid"
   },
   "INVP.L": {
-    "score": 70.0,
-    "label": "Avoid"
-  },
-  "JAM.L": {
     "score": 70.0,
     "label": "Avoid"
   },
@@ -623,7 +611,7 @@
     "score": 70.0,
     "label": "Avoid"
   },
-  "ROP": {
+  "REGN": {
     "score": 70.0,
     "label": "Avoid"
   },
@@ -639,15 +627,19 @@
     "score": 70.0,
     "label": "Avoid"
   },
+  "SNA": {
+    "score": 70.0,
+    "label": "Avoid"
+  },
+  "UBER": {
+    "score": 70.0,
+    "label": "Staged Buy"
+  },
   "VTRS": {
     "score": 70.0,
     "label": "Avoid"
   },
   "AMGN": {
-    "score": 69.0,
-    "label": "Staged Buy"
-  },
-  "AMP": {
     "score": 69.0,
     "label": "Staged Buy"
   },
@@ -683,6 +675,10 @@
     "score": 69.0,
     "label": "Staged Buy"
   },
+  "JAM.L": {
+    "score": 69.0,
+    "label": "Avoid"
+  },
   "JNJ": {
     "score": 69.0,
     "label": "Avoid"
@@ -715,20 +711,16 @@
     "score": 69.0,
     "label": "Avoid"
   },
-  "SNA": {
-    "score": 69.0,
-    "label": "Avoid"
-  },
   "TRGP": {
     "score": 69.0,
     "label": "Avoid"
   },
-  "UBER": {
-    "score": 69.0,
-    "label": "Staged Buy"
-  },
   "VOD.L": {
     "score": 69.0,
+    "label": "Avoid"
+  },
+  "A": {
+    "score": 68.0,
     "label": "Avoid"
   },
   "AAF.L": {
@@ -748,6 +740,10 @@
     "label": "Avoid"
   },
   "AO.L": {
+    "score": 68.0,
+    "label": "Avoid"
+  },
+  "AV.L": {
     "score": 68.0,
     "label": "Avoid"
   },
@@ -781,7 +777,7 @@
   },
   "EME": {
     "score": 68.0,
-    "label": "Watchlist"
+    "label": "Avoid"
   },
   "EMR": {
     "score": 68.0,
@@ -819,10 +815,6 @@
     "score": 68.0,
     "label": "Avoid"
   },
-  "OMC": {
-    "score": 68.0,
-    "label": "Avoid"
-  },
   "QQ.L": {
     "score": 68.0,
     "label": "Avoid"
@@ -847,10 +839,6 @@
     "score": 68.0,
     "label": "Staged Buy on Dip"
   },
-  "A": {
-    "score": 67.0,
-    "label": "Avoid"
-  },
   "BOY.L": {
     "score": 67.0,
     "label": "Avoid"
@@ -871,6 +859,10 @@
     "score": 67.0,
     "label": "Avoid"
   },
+  "CGS.L": {
+    "score": 67.0,
+    "label": "Avoid"
+  },
   "CPAY": {
     "score": 67.0,
     "label": "Avoid"
@@ -878,10 +870,6 @@
   "CRM": {
     "score": 67.0,
     "label": "Staged Buy"
-  },
-  "DIS": {
-    "score": 67.0,
-    "label": "Avoid"
   },
   "DRI": {
     "score": 67.0,
@@ -907,9 +895,9 @@
     "score": 67.0,
     "label": "Avoid"
   },
-  "HWM": {
+  "IGG.L": {
     "score": 67.0,
-    "label": "Watchlist"
+    "label": "Avoid"
   },
   "JBL": {
     "score": 67.0,
@@ -920,6 +908,10 @@
     "label": "Avoid"
   },
   "MA": {
+    "score": 67.0,
+    "label": "Avoid"
+  },
+  "MCO": {
     "score": 67.0,
     "label": "Avoid"
   },
@@ -959,6 +951,10 @@
     "score": 67.0,
     "label": "Avoid"
   },
+  "TFC": {
+    "score": 67.0,
+    "label": "Avoid"
+  },
   "TRIG.L": {
     "score": 67.0,
     "label": "Avoid"
@@ -995,10 +991,6 @@
     "score": 67.0,
     "label": "Watchlist"
   },
-  "AV.L": {
-    "score": 66.0,
-    "label": "Avoid"
-  },
   "BNZL.L": {
     "score": 66.0,
     "label": "Avoid"
@@ -1011,7 +1003,7 @@
     "score": 66.0,
     "label": "Avoid"
   },
-  "CRL": {
+  "CHD": {
     "score": 66.0,
     "label": "Avoid"
   },
@@ -1031,15 +1023,15 @@
     "score": 66.0,
     "label": "Avoid"
   },
+  "FSLR": {
+    "score": 66.0,
+    "label": "Watchlist"
+  },
   "GD": {
     "score": 66.0,
     "label": "Avoid"
   },
-  "HUM": {
-    "score": 66.0,
-    "label": "Avoid"
-  },
-  "IGG.L": {
+  "HSIC": {
     "score": 66.0,
     "label": "Avoid"
   },
@@ -1051,15 +1043,19 @@
     "score": 66.0,
     "label": "Avoid"
   },
-  "MCO": {
-    "score": 66.0,
-    "label": "Avoid"
-  },
   "MMM": {
     "score": 66.0,
     "label": "Staged Buy"
   },
   "NSC": {
+    "score": 66.0,
+    "label": "Avoid"
+  },
+  "OMC": {
+    "score": 66.0,
+    "label": "Avoid"
+  },
+  "PHM": {
     "score": 66.0,
     "label": "Avoid"
   },
@@ -1074,6 +1070,10 @@
   "RR.L": {
     "score": 66.0,
     "label": "Avoid"
+  },
+  "RTX": {
+    "score": 66.0,
+    "label": "Staged Buy"
   },
   "SGE.L": {
     "score": 66.0,
@@ -1103,6 +1103,10 @@
     "score": 65.0,
     "label": "Staged Buy"
   },
+  "ADSK": {
+    "score": 65.0,
+    "label": "Staged Buy"
+  },
   "ALFA.L": {
     "score": 65.0,
     "label": "Avoid"
@@ -1119,7 +1123,7 @@
     "score": 65.0,
     "label": "Avoid"
   },
-  "CHD": {
+  "CRL": {
     "score": 65.0,
     "label": "Avoid"
   },
@@ -1135,10 +1139,6 @@
     "score": 65.0,
     "label": "Avoid"
   },
-  "FSLR": {
-    "score": 65.0,
-    "label": "Watchlist"
-  },
   "HCA": {
     "score": 65.0,
     "label": "Staged Buy"
@@ -1147,9 +1147,13 @@
     "score": 65.0,
     "label": "Avoid"
   },
-  "HSIC": {
+  "HUM": {
     "score": 65.0,
     "label": "Avoid"
+  },
+  "HWM": {
+    "score": 65.0,
+    "label": "Watchlist"
   },
   "IT": {
     "score": 65.0,
@@ -1175,14 +1179,6 @@
     "score": 65.0,
     "label": "Avoid"
   },
-  "PHM": {
-    "score": 65.0,
-    "label": "Avoid"
-  },
-  "RTX": {
-    "score": 65.0,
-    "label": "Staged Buy"
-  },
   "RVTY": {
     "score": 65.0,
     "label": "Avoid"
@@ -1192,10 +1188,6 @@
     "label": "Avoid"
   },
   "STLD": {
-    "score": 65.0,
-    "label": "Avoid"
-  },
-  "TFC": {
     "score": 65.0,
     "label": "Avoid"
   },
@@ -1209,10 +1201,6 @@
   },
   "YUM": {
     "score": 65.0,
-    "label": "Avoid"
-  },
-  "BBOX.L": {
-    "score": 64.0,
     "label": "Avoid"
   },
   "CPG.L": {
@@ -1287,10 +1275,6 @@
     "score": 64.0,
     "label": "Avoid"
   },
-  "PETS.L": {
-    "score": 64.0,
-    "label": "Avoid"
-  },
   "PODD": {
     "score": 64.0,
     "label": "Watchlist"
@@ -1307,7 +1291,15 @@
     "score": 64.0,
     "label": "Staged Buy"
   },
+  "SPX.L": {
+    "score": 64.0,
+    "label": "Watchlist"
+  },
   "STX": {
+    "score": 64.0,
+    "label": "Staged Buy"
+  },
+  "TER": {
     "score": 64.0,
     "label": "Staged Buy"
   },
@@ -1415,6 +1407,10 @@
     "score": 63.0,
     "label": "Avoid"
   },
+  "ON": {
+    "score": 63.0,
+    "label": "Avoid"
+  },
   "PH": {
     "score": 63.0,
     "label": "Staged Buy"
@@ -1439,7 +1435,7 @@
     "score": 63.0,
     "label": "Avoid"
   },
-  "TER": {
+  "UKW.L": {
     "score": 63.0,
     "label": "Avoid"
   },
@@ -1458,10 +1454,6 @@
   "ADP": {
     "score": 62.0,
     "label": "Avoid"
-  },
-  "ADSK": {
-    "score": 62.0,
-    "label": "Staged Buy"
   },
   "AJG": {
     "score": 62.0,
@@ -1527,6 +1519,14 @@
     "score": 62.0,
     "label": "Watchlist"
   },
+  "PETS.L": {
+    "score": 62.0,
+    "label": "Avoid"
+  },
+  "PNL.L": {
+    "score": 62.0,
+    "label": "Avoid"
+  },
   "PRU.L": {
     "score": 62.0,
     "label": "Avoid"
@@ -1559,6 +1559,10 @@
     "score": 61.0,
     "label": "Avoid"
   },
+  "CHRW": {
+    "score": 61.0,
+    "label": "Avoid"
+  },
   "CIEN": {
     "score": 61.0,
     "label": "Avoid"
@@ -1587,10 +1591,6 @@
     "score": 61.0,
     "label": "Avoid"
   },
-  "KR": {
-    "score": 61.0,
-    "label": "Avoid"
-  },
   "LIN": {
     "score": 61.0,
     "label": "Avoid"
@@ -1604,10 +1604,6 @@
     "label": "Avoid"
   },
   "NWS": {
-    "score": 61.0,
-    "label": "Avoid"
-  },
-  "ON": {
     "score": 61.0,
     "label": "Avoid"
   },
@@ -1651,11 +1647,11 @@
     "score": 60.0,
     "label": "Avoid"
   },
-  "AMT": {
+  "ALLE": {
     "score": 60.0,
-    "label": "Avoid"
+    "label": "Watchlist"
   },
-  "AZN.L": {
+  "AMT": {
     "score": 60.0,
     "label": "Avoid"
   },
@@ -1700,6 +1696,10 @@
     "label": "Avoid"
   },
   "KDP": {
+    "score": 60.0,
+    "label": "Avoid"
+  },
+  "KVUE": {
     "score": 60.0,
     "label": "Avoid"
   },
@@ -1763,15 +1763,15 @@
     "score": 60.0,
     "label": "Avoid"
   },
-  "ALLE": {
-    "score": 59.0,
-    "label": "Watchlist"
-  },
   "AMAT": {
     "score": 59.0,
     "label": "Watchlist"
   },
   "AVGO": {
+    "score": 59.0,
+    "label": "Avoid"
+  },
+  "AZN.L": {
     "score": 59.0,
     "label": "Avoid"
   },
@@ -1803,11 +1803,15 @@
     "score": 59.0,
     "label": "Avoid"
   },
+  "INTU": {
+    "score": 59.0,
+    "label": "Watchlist"
+  },
   "JCI": {
     "score": 59.0,
     "label": "Avoid"
   },
-  "KVUE": {
+  "KR": {
     "score": 59.0,
     "label": "Avoid"
   },
@@ -1823,6 +1827,14 @@
     "score": 59.0,
     "label": "Avoid"
   },
+  "ODFL": {
+    "score": 59.0,
+    "label": "Avoid"
+  },
+  "PKG": {
+    "score": 59.0,
+    "label": "Avoid"
+  },
   "PNW": {
     "score": 59.0,
     "label": "Avoid"
@@ -1834,10 +1846,6 @@
   "SPI.L": {
     "score": 59.0,
     "label": "Avoid"
-  },
-  "SPX.L": {
-    "score": 59.0,
-    "label": "Watchlist"
   },
   "SW": {
     "score": 59.0,
@@ -1852,6 +1860,10 @@
     "label": "Avoid"
   },
   "APD": {
+    "score": 58.0,
+    "label": "Avoid"
+  },
+  "BBOX.L": {
     "score": 58.0,
     "label": "Avoid"
   },
@@ -1887,10 +1899,6 @@
     "score": 58.0,
     "label": "Avoid"
   },
-  "INTU": {
-    "score": 58.0,
-    "label": "Watchlist"
-  },
   "ITW": {
     "score": 58.0,
     "label": "Staged Buy"
@@ -1900,14 +1908,6 @@
     "label": "Avoid"
   },
   "LYV": {
-    "score": 58.0,
-    "label": "Avoid"
-  },
-  "ODFL": {
-    "score": 58.0,
-    "label": "Avoid"
-  },
-  "PKG": {
     "score": 58.0,
     "label": "Avoid"
   },
@@ -1959,7 +1959,7 @@
     "score": 57.0,
     "label": "Avoid"
   },
-  "DGE.L": {
+  "DHI": {
     "score": 57.0,
     "label": "Avoid"
   },
@@ -1980,6 +1980,10 @@
     "label": "Avoid"
   },
   "HWDN.L": {
+    "score": 57.0,
+    "label": "Avoid"
+  },
+  "ICGT.L": {
     "score": 57.0,
     "label": "Avoid"
   },
@@ -2063,15 +2067,15 @@
     "score": 56.0,
     "label": "Avoid"
   },
-  "CHRW": {
-    "score": 56.0,
-    "label": "Avoid"
-  },
   "CPRT": {
     "score": 56.0,
     "label": "Avoid"
   },
   "DDOG": {
+    "score": 56.0,
+    "label": "Avoid"
+  },
+  "DGE.L": {
     "score": 56.0,
     "label": "Avoid"
   },
@@ -2135,6 +2139,10 @@
     "score": 55.0,
     "label": "Avoid"
   },
+  "ESS": {
+    "score": 55.0,
+    "label": "Avoid"
+  },
   "EXC": {
     "score": 55.0,
     "label": "Avoid"
@@ -2167,7 +2175,7 @@
     "score": 55.0,
     "label": "Avoid"
   },
-  "SERE.L": {
+  "PNR": {
     "score": 55.0,
     "label": "Avoid"
   },
@@ -2191,6 +2199,10 @@
     "score": 54.0,
     "label": "Avoid"
   },
+  "CPB": {
+    "score": 54.0,
+    "label": "Avoid"
+  },
   "CSGP": {
     "score": 54.0,
     "label": "Avoid"
@@ -2200,10 +2212,6 @@
     "label": "Avoid"
   },
   "DPZ": {
-    "score": 54.0,
-    "label": "Avoid"
-  },
-  "ESS": {
     "score": 54.0,
     "label": "Avoid"
   },
@@ -2259,10 +2267,6 @@
     "score": 53.0,
     "label": "Avoid"
   },
-  "CPB": {
-    "score": 53.0,
-    "label": "Avoid"
-  },
   "DTE": {
     "score": 53.0,
     "label": "Avoid"
@@ -2292,10 +2296,6 @@
     "label": "Avoid"
   },
   "SHI.L": {
-    "score": 53.0,
-    "label": "Avoid"
-  },
-  "TRY.L": {
     "score": 53.0,
     "label": "Avoid"
   },
@@ -2355,6 +2355,10 @@
     "score": 52.0,
     "label": "Avoid"
   },
+  "PPH.L": {
+    "score": 52.0,
+    "label": "Avoid"
+  },
   "SBAC": {
     "score": 52.0,
     "label": "Avoid"
@@ -2395,9 +2399,9 @@
     "score": 51.0,
     "label": "Avoid"
   },
-  "DHI": {
+  "HSY": {
     "score": 51.0,
-    "label": "Avoid"
+    "label": "Watchlist"
   },
   "IRM": {
     "score": 51.0,
@@ -2451,10 +2455,6 @@
     "score": 50.0,
     "label": "Avoid"
   },
-  "HSY": {
-    "score": 50.0,
-    "label": "Watchlist"
-  },
   "MNDI.L": {
     "score": 50.0,
     "label": "Avoid"
@@ -2467,17 +2467,9 @@
     "score": 50.0,
     "label": "Avoid"
   },
-  "PNR": {
-    "score": 50.0,
-    "label": "Avoid"
-  },
   "Q": {
     "score": 50.0,
     "label": "Avoid"
-  },
-  "SYK": {
-    "score": 50.0,
-    "label": "Watchlist"
   },
   "TJX": {
     "score": 50.0,
@@ -2511,6 +2503,10 @@
     "score": 49.0,
     "label": "Avoid"
   },
+  "TRY.L": {
+    "score": 49.0,
+    "label": "Avoid"
+  },
   "AON": {
     "score": 48.0,
     "label": "Avoid"
@@ -2523,10 +2519,6 @@
     "score": 48.0,
     "label": "Avoid"
   },
-  "IBM": {
-    "score": 48.0,
-    "label": "Avoid"
-  },
   "IBST.L": {
     "score": 48.0,
     "label": "Avoid"
@@ -2535,7 +2527,15 @@
     "score": 48.0,
     "label": "Avoid"
   },
+  "IR": {
+    "score": 48.0,
+    "label": "Avoid"
+  },
   "JMAT.L": {
+    "score": 48.0,
+    "label": "Avoid"
+  },
+  "MCHP": {
     "score": 48.0,
     "label": "Avoid"
   },
@@ -2547,7 +2547,7 @@
     "score": 48.0,
     "label": "Avoid"
   },
-  "PPH.L": {
+  "POOL": {
     "score": 48.0,
     "label": "Avoid"
   },
@@ -2583,7 +2583,7 @@
     "score": 47.0,
     "label": "Avoid"
   },
-  "IR": {
+  "IBM": {
     "score": 47.0,
     "label": "Avoid"
   },
@@ -2592,10 +2592,6 @@
     "label": "Avoid"
   },
   "LMP.L": {
-    "score": 47.0,
-    "label": "Avoid"
-  },
-  "MCHP": {
     "score": 47.0,
     "label": "Avoid"
   },
@@ -2615,10 +2611,6 @@
     "score": 47.0,
     "label": "Avoid"
   },
-  "POOL": {
-    "score": 47.0,
-    "label": "Avoid"
-  },
   "TDG": {
     "score": 47.0,
     "label": "Avoid"
@@ -2631,6 +2623,10 @@
     "score": 46.0,
     "label": "Avoid"
   },
+  "IP": {
+    "score": 46.0,
+    "label": "Avoid"
+  },
   "LOW": {
     "score": 46.0,
     "label": "Avoid"
@@ -2640,6 +2636,10 @@
     "label": "Avoid"
   },
   "RCL": {
+    "score": 46.0,
+    "label": "Avoid"
+  },
+  "SERE.L": {
     "score": 46.0,
     "label": "Avoid"
   },
@@ -2656,10 +2656,6 @@
     "label": "Avoid"
   },
   "HD": {
-    "score": 45.0,
-    "label": "Avoid"
-  },
-  "IP": {
     "score": 45.0,
     "label": "Avoid"
   },
@@ -2727,6 +2723,10 @@
     "score": 42.0,
     "label": "Avoid"
   },
+  "CARR": {
+    "score": 42.0,
+    "label": "Avoid"
+  },
   "CRST.L": {
     "score": 42.0,
     "label": "Avoid"
@@ -2743,11 +2743,19 @@
     "score": 42.0,
     "label": "Avoid"
   },
-  "CARR": {
+  "BRBY.L": {
     "score": 41.0,
     "label": "Avoid"
   },
   "ENOG.L": {
+    "score": 41.0,
+    "label": "Avoid"
+  },
+  "SMWH.L": {
+    "score": 41.0,
+    "label": "Avoid"
+  },
+  "SYK": {
     "score": 41.0,
     "label": "Avoid"
   },
@@ -2771,24 +2779,16 @@
     "score": 39.0,
     "label": "Avoid"
   },
-  "SMWH.L": {
-    "score": 39.0,
-    "label": "Avoid"
-  },
   "BA": {
     "score": 38.0,
     "label": "Avoid"
   },
   "CLX": {
-    "score": 37.0,
+    "score": 38.0,
     "label": "Avoid"
   },
   "COIN": {
     "score": 35.0,
-    "label": "Avoid"
-  },
-  "BRBY.L": {
-    "score": 34.0,
     "label": "Avoid"
   },
   "WIZZ.L": {

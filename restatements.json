@@ -5,7 +5,7 @@
     "to": "2026-09-01"
   },
   "pairsCompared": 111,
-  "totalEvents": 2315,
+  "totalEvents": 2322,
   "events": [
     {
       "ticker": "STX",
@@ -4010,9 +4010,9 @@
   ],
   "summary": {
     "byField": {
-      "fcf": 399,
-      "opMargin": 307,
-      "piotroskiF": 292,
+      "fcf": 401,
+      "opMargin": 309,
+      "piotroskiF": 295,
       "netDebtEbitda": 257,
       "revGrowthTTM": 145,
       "epsGrowthTTM": 136,
@@ -4029,7 +4029,7 @@
     },
     "byTicker": {
       "BTRW.L": 51,
-      "FDEV.L": 20,
+      "FDEV.L": 21,
       "FCX": 19,
       "VRSN": 19,
       "V": 17,
@@ -4049,8 +4049,8 @@
       "CMCSA": 13,
       "OMC": 12
     },
-    "newFilingUpdates": 6473,
+    "newFilingUpdates": 6479,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 20.86
+    "eventsPerPairAvg": 20.92
   }
 }
