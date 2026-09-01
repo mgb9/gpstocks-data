@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-08-31",
+  "asOf": "2026-09-01",
   "horizonDays": 90,
   "regime": "Normal",
   "snapshots": 42,
@@ -296,10 +296,10 @@
         55.55555555555556
       ],
       "bootstrapSnapshots": 10,
-      "avgBenchmarkReturnPct": 4.873559875120118,
-      "avgExcessReturnPct": -6.368985526037502,
+      "avgBenchmarkReturnPct": 4.873559290254317,
+      "avgExcessReturnPct": -6.3689849411717,
       "hitRateVsBenchmarkPct": 30.18867924528302,
-      "informationRatio": -0.4092782448984178
+      "informationRatio": -0.40927819839095636
     },
     "Avoid": {
       "n": 596,
@@ -895,10 +895,10 @@
         55.55555555555556
       ],
       "bootstrapSnapshots": 10,
-      "avgBenchmarkReturnPct": 4.873559875120118,
-      "avgExcessReturnPct": -6.368985526037502,
+      "avgBenchmarkReturnPct": 4.873559290254317,
+      "avgExcessReturnPct": -6.3689849411717,
       "hitRateVsBenchmarkPct": 30.18867924528302,
-      "informationRatio": -0.4092782448984178
+      "informationRatio": -0.40927819839095636
     },
     "Avoid": {
       "n": 568,

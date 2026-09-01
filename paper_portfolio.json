@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-27",
-  "lastUpdated": "2026-08-31",
+  "lastUpdated": "2026-09-01",
   "config": {
     "initialCapital": 10000,
     "currency": "GBP",
@@ -13,7 +13,7 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 4991.07,
+  "cashBalance": 4002.51,
   "positions": [
     {
       "id": "2fde6939",
@@ -174,6 +174,40 @@
       "positionPct": 5.0,
       "stopLossPrice": 24.992,
       "reviewDate": "2026-11-29"
+    },
+    {
+      "id": "86f3f396",
+      "ticker": "GOOGL",
+      "company": "Alphabet Inc.",
+      "sector": "Communication Services",
+      "homeIndex": "spy",
+      "entryDate": "2026-09-01",
+      "entryPrice": 339.35,
+      "scoreAtEntry": 84,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 493.04,
+      "cashCommitted": 494.28,
+      "entryFee": 1.24,
+      "positionPct": 5.0,
+      "stopLossPrice": 271.48,
+      "reviewDate": "2026-12-01"
+    },
+    {
+      "id": "c097c4a8",
+      "ticker": "DGX",
+      "company": "Quest Diagnostics Incorporated",
+      "sector": "Healthcare",
+      "homeIndex": "spy",
+      "entryDate": "2026-09-01",
+      "entryPrice": 240.3,
+      "scoreAtEntry": 75,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 493.04,
+      "cashCommitted": 494.28,
+      "entryFee": 1.24,
+      "positionPct": 5.0,
+      "stopLossPrice": 192.24,
+      "reviewDate": "2026-12-01"
     }
   ],
   "trades": [
@@ -365,18 +399,29 @@
         "midd": 0.0,
         "vwrl": 0.0
       }
+    },
+    {
+      "date": "2026-09-01",
+      "nav": 9883.2,
+      "benchmarkPrice": 138.24,
+      "segmentNav": {
+        "spy": 4895.32,
+        "isf": 985.36,
+        "midd": 0.0,
+        "vwrl": 0.0
+      }
     }
   ],
   "metrics": {
-    "totalReturnPct": -0.88,
+    "totalReturnPct": -1.17,
     "benchmarkReturnPct": null,
     "excessReturnPct": null,
-    "annualizedReturnPct": -2.54,
+    "annualizedReturnPct": -3.32,
     "sharpe": null,
-    "maxDrawdownPct": -0.89,
+    "maxDrawdownPct": -1.17,
     "tradeCount": 5,
     "winRatePct": 0.0,
     "avgHoldDays": 2.2,
-    "openPositions": 10
+    "openPositions": 12
   }
 }

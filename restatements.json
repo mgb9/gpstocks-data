@@ -1,11 +1,11 @@
 {
-  "asOf": "2026-08-31",
+  "asOf": "2026-09-01",
   "window": {
     "from": "2025-10-20",
-    "to": "2026-08-31"
+    "to": "2026-09-01"
   },
-  "pairsCompared": 110,
-  "totalEvents": 2312,
+  "pairsCompared": 111,
+  "totalEvents": 2315,
   "events": [
     {
       "ticker": "STX",
@@ -3360,6 +3360,14 @@
       "relChangePct": 100.0
     },
     {
+      "ticker": "CPG.L",
+      "date": "2026-09-01",
+      "field": "piotroskiF",
+      "prev": 3,
+      "curr": 6,
+      "relChangePct": 100.0
+    },
+    {
       "ticker": "STX",
       "date": "2026-08-06",
       "field": "sharesYoYChange",
@@ -3998,21 +4006,13 @@
       "prev": 1.48,
       "curr": 0.35,
       "relChangePct": -76.35
-    },
-    {
-      "ticker": "WAT",
-      "date": "2026-05-14",
-      "field": "opMargin",
-      "prev": 11.7,
-      "curr": 2.8,
-      "relChangePct": -76.07
     }
   ],
   "summary": {
     "byField": {
       "fcf": 399,
       "opMargin": 307,
-      "piotroskiF": 289,
+      "piotroskiF": 292,
       "netDebtEbitda": 257,
       "revGrowthTTM": 145,
       "epsGrowthTTM": 136,
@@ -4051,6 +4051,6 @@
     },
     "newFilingUpdates": 6473,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 21.02
+    "eventsPerPairAvg": 20.86
   }
 }
