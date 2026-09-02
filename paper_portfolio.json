@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-27",
-  "lastUpdated": "2026-09-01",
+  "lastUpdated": "2026-09-02",
   "config": {
     "initialCapital": 10000,
     "currency": "GBP",
@@ -13,7 +13,7 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 4002.51,
+  "cashBalance": 4485.95,
   "positions": [
     {
       "id": "2fde6939",
@@ -43,21 +43,6 @@
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 53.608,
-      "reviewDate": "2026-11-24"
-    },
-    {
-      "id": "1c611272",
-      "ticker": "EOG",
-      "company": "EOG Resources, Inc.",
-      "sector": "Energy",
-      "homeIndex": "spy",
-      "entryDate": "2026-08-24",
-      "entryPrice": 153.05,
-      "scoreAtEntry": 80,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 122.44,
       "reviewDate": "2026-11-24"
     },
     {
@@ -315,6 +300,27 @@
       "plPct": -0.5,
       "holdDays": 1,
       "positionPct": 5.0
+    },
+    {
+      "id": "1c611272",
+      "ticker": "EOG",
+      "company": "EOG Resources, Inc.",
+      "sector": "Energy",
+      "entryDate": "2026-08-24",
+      "entryPrice": 153.05,
+      "scoreAtEntry": 80,
+      "labelAtEntry": "Buy Now",
+      "exitDate": "2026-09-02",
+      "exitPrice": 148.35,
+      "exitReason": "label_changed_avoid",
+      "costBasis": 500.0,
+      "cashCommitted": 500.0,
+      "entryFee": 0.0,
+      "exitFee": 1.21,
+      "proceeds": 483.44,
+      "plPct": -3.31,
+      "holdDays": 9,
+      "positionPct": 5.0
     }
   ],
   "navHistory": [
@@ -410,18 +416,29 @@
         "midd": 0.0,
         "vwrl": 0.0
       }
+    },
+    {
+      "date": "2026-09-02",
+      "nav": 9863.79,
+      "benchmarkPrice": 138.6,
+      "segmentNav": {
+        "spy": 4407.67,
+        "isf": 970.17,
+        "midd": 0.0,
+        "vwrl": 0.0
+      }
     }
   ],
   "metrics": {
-    "totalReturnPct": -1.17,
+    "totalReturnPct": -1.36,
     "benchmarkReturnPct": null,
     "excessReturnPct": null,
-    "annualizedReturnPct": -3.32,
+    "annualizedReturnPct": -3.84,
     "sharpe": null,
-    "maxDrawdownPct": -1.17,
-    "tradeCount": 5,
+    "maxDrawdownPct": -1.37,
+    "tradeCount": 6,
     "winRatePct": 0.0,
-    "avgHoldDays": 2.2,
-    "openPositions": 12
+    "avgHoldDays": 3.3,
+    "openPositions": 11
   }
 }

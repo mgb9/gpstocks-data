@@ -1,11 +1,11 @@
 {
-  "asOf": "2026-09-01",
+  "asOf": "2026-09-02",
   "window": {
     "from": "2025-10-20",
-    "to": "2026-09-01"
+    "to": "2026-09-02"
   },
-  "pairsCompared": 111,
-  "totalEvents": 2322,
+  "pairsCompared": 112,
+  "totalEvents": 2334,
   "events": [
     {
       "ticker": "STX",
@@ -1272,6 +1272,22 @@
       "relChangePct": 300.0
     },
     {
+      "ticker": "REGN",
+      "date": "2026-09-02",
+      "field": "piotroskiF",
+      "prev": 1,
+      "curr": 4,
+      "relChangePct": 300.0
+    },
+    {
+      "ticker": "SYK",
+      "date": "2026-09-02",
+      "field": "piotroskiF",
+      "prev": 1,
+      "curr": 4,
+      "relChangePct": 300.0
+    },
+    {
       "ticker": "AMP",
       "date": "2026-04-27",
       "field": "currentRatio",
@@ -2117,6 +2133,14 @@
       "field": "piotroskiF",
       "prev": 2,
       "curr": 5,
+      "relChangePct": 150.0
+    },
+    {
+      "ticker": "SMCI",
+      "date": "2026-09-02",
+      "field": "sharesYoYChange",
+      "prev": 4.4,
+      "curr": 11,
       "relChangePct": 150.0
     },
     {
@@ -3368,6 +3392,14 @@
       "relChangePct": 100.0
     },
     {
+      "ticker": "CGS.L",
+      "date": "2026-09-02",
+      "field": "piotroskiF",
+      "prev": 3,
+      "curr": 6,
+      "relChangePct": 100.0
+    },
+    {
       "ticker": "STX",
       "date": "2026-08-06",
       "field": "sharesYoYChange",
@@ -3888,6 +3920,14 @@
       "relChangePct": 80.38
     },
     {
+      "ticker": "SMCI",
+      "date": "2026-09-02",
+      "field": "marginTrend3y",
+      "prev": -5,
+      "curr": -1,
+      "relChangePct": 80.0
+    },
+    {
       "ticker": "STE",
       "date": "2026-06-10",
       "field": "interestCover",
@@ -3966,70 +4006,30 @@
       "prev": 4.16,
       "curr": 0.94,
       "relChangePct": -77.4
-    },
-    {
-      "ticker": "AMCR",
-      "date": "2026-08-17",
-      "field": "fcf",
-      "prev": 6608,
-      "curr": 1504,
-      "relChangePct": -77.24
-    },
-    {
-      "ticker": "INTC",
-      "date": "2026-07-27",
-      "field": "opMargin",
-      "prev": 6.9,
-      "curr": 12.2,
-      "relChangePct": 76.81
-    },
-    {
-      "ticker": "TT",
-      "date": "2026-08-03",
-      "field": "revGrowthTTM",
-      "prev": 6,
-      "curr": 10.6,
-      "relChangePct": 76.67
-    },
-    {
-      "ticker": "ORCL",
-      "date": "2026-06-24",
-      "field": "revTrend3y",
-      "prev": 4.7,
-      "curr": 8.3,
-      "relChangePct": 76.6
-    },
-    {
-      "ticker": "CPT",
-      "date": "2026-08-03",
-      "field": "currentRatio",
-      "prev": 1.48,
-      "curr": 0.35,
-      "relChangePct": -76.35
     }
   ],
   "summary": {
     "byField": {
       "fcf": 401,
       "opMargin": 309,
-      "piotroskiF": 295,
-      "netDebtEbitda": 257,
+      "piotroskiF": 300,
+      "netDebtEbitda": 258,
       "revGrowthTTM": 145,
-      "epsGrowthTTM": 136,
-      "interestCover": 133,
+      "epsGrowthTTM": 137,
+      "interestCover": 134,
       "currentRatio": 105,
-      "gpa": 94,
-      "revTrend3y": 89,
-      "sharesYoYChange": 77,
+      "gpa": 95,
+      "revTrend3y": 90,
+      "sharesYoYChange": 78,
       "grossMargin": 74,
-      "marginTrend3y": 65,
+      "marginTrend3y": 66,
       "netMargin": 59,
       "roic": 52,
       "marketCap": 31
     },
     "byTicker": {
       "BTRW.L": 51,
-      "FDEV.L": 21,
+      "FDEV.L": 22,
       "FCX": 19,
       "VRSN": 19,
       "V": 17,
@@ -4047,10 +4047,10 @@
       "SFR.L": 13,
       "CB": 13,
       "CMCSA": 13,
-      "OMC": 12
+      "REGN": 13
     },
     "newFilingUpdates": 6479,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 20.92
+    "eventsPerPairAvg": 20.84
   }
 }

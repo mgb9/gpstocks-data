@@ -1,6 +1,6 @@
 {
-  "currentVersion": "v1.3",
-  "frozenAt": "2026-05-06",
+  "currentVersion": "v1.5",
+  "frozenAt": "2026-09-02",
   "history": [
     {
       "version": "v1.0",
@@ -14,9 +14,9 @@
       "frozenAt": "2026-05-04",
       "changes": [
         "PR 11: Accruals Ratio (Hribar-Collins 2002 cash-flow proxy of the Sloan 1996 anomaly) demoted from a scored Quality sub-metric to a diagnostic flag, per the post-2002 decay literature.",
-        "PR 11: CFO / Net Income scoring made asymmetric — values below the 0.5 floor penalise the Quality score; values above the floor do NOT boost it. The asymmetry preserves the well-supported 'low CFO/NI is an earnings-quality red flag' interpretation while removing the eroded alpha-source claim.",
+        "PR 11: CFO / Net Income scoring made asymmetric \u2014 values below the 0.5 floor penalise the Quality score; values above the floor do NOT boost it. The asymmetry preserves the well-supported 'low CFO/NI is an earnings-quality red flag' interpretation while removing the eroded alpha-source claim.",
         "PR 11: extreme-decile accrual flags (bottom and top decile of the live universe) are now computed at scoring time and stamped on each row as accrualFlag and accrualFlagCutoffs.",
-        "Methodology document attribution corrected: Sloan 1996 → Hribar-Collins 2002 cash-flow proxy.",
+        "Methodology document attribution corrected: Sloan 1996 \u2192 Hribar-Collins 2002 cash-flow proxy.",
         "Pre-bump snapshots (scored under v1.0) remain immutable per the freeze-date discipline (PR 10.5)."
       ]
     },
@@ -24,7 +24,7 @@
       "version": "v1.2",
       "frozenAt": "2026-05-04",
       "changes": [
-        "PR 11.2: Quality near-miss tolerance switched from Math.floor to Math.round on the 20% failure-tolerance threshold. The floor variant produced a step-function discontinuity at every multiple of 5 in the evaluable rule count — surfaced by CB (Buy Now → Avoid in v1.1 despite the Quality SCORE going up by 0.1) when removing two passing rules dropped evaluable from 15 to 13 and the threshold from 3 to 2 while the failure count stayed at 3. Fix is sector-agnostic; preserves the documented '20% tolerance' semantic without introducing a second magic number.",
+        "PR 11.2: Quality near-miss tolerance switched from Math.floor to Math.round on the 20% failure-tolerance threshold. The floor variant produced a step-function discontinuity at every multiple of 5 in the evaluable rule count \u2014 surfaced by CB (Buy Now \u2192 Avoid in v1.1 despite the Quality SCORE going up by 0.1) when removing two passing rules dropped evaluable from 15 to 13 and the threshold from 3 to 2 while the failure count stayed at 3. Fix is sector-agnostic; preserves the documented '20% tolerance' semantic without introducing a second magic number.",
         "PR 11.2: post-write fingerprint sanity check added to refresh_data_pi.sh and refresh_prices_pi.sh. Any stocks.json on disk that lacks rulesFingerprint after a refresh script exits is now caught immediately rather than silently breaking downstream email/alert scripts."
       ]
     },
@@ -32,9 +32,31 @@
       "version": "v1.3",
       "frozenAt": "2026-05-06",
       "changes": [
-        "PR 9 bundle: Added SUE (Standardised Unexpected Earnings) sub-metric to the Timing component. Implements PEAD (Post-Earnings Announcement Drift) signal with time-decay weighting — full weight ≤ 30 days, 0.7× at 31-60 days, 0.4× at 61-90 days, skipped beyond 90 days. Dispersion path (analyst σ) takes priority; price-scaled fallback for stocks with sparse analyst coverage. Pre-registered anchors from Bernard & Thomas (1989) and Foster, Olsen & Shevlin (1984).",
-        "PR 9 bundle: Added FCF/profit-growth alignment sub-metric to the Quality component. Measures the delta of FCF 3y CAGR minus OperatingProfit 3y CAGR. Negative delta signals working-capital build-up, capital intensification, or accruals-based earnings. Skipped (not penalised) when data is sparse or base year is non-positive. Pre-registered anchors: bad=−0.10, ok=0.0, great=+0.05 (calibration against live universe recommended before first deploy). Academic grounding: Sloan (1996), Dechow (1994), Penman & Zhang (2002).",
+        "PR 9 bundle: Added SUE (Standardised Unexpected Earnings) sub-metric to the Timing component. Implements PEAD (Post-Earnings Announcement Drift) signal with time-decay weighting \u2014 full weight \u2264 30 days, 0.7\u00d7 at 31-60 days, 0.4\u00d7 at 61-90 days, skipped beyond 90 days. Dispersion path (analyst \u03c3) takes priority; price-scaled fallback for stocks with sparse analyst coverage. Pre-registered anchors from Bernard & Thomas (1989) and Foster, Olsen & Shevlin (1984).",
+        "PR 9 bundle: Added FCF/profit-growth alignment sub-metric to the Quality component. Measures the delta of FCF 3y CAGR minus OperatingProfit 3y CAGR. Negative delta signals working-capital build-up, capital intensification, or accruals-based earnings. Skipped (not penalised) when data is sparse or base year is non-positive. Pre-registered anchors: bad=\u22120.10, ok=0.0, great=+0.05 (calibration against live universe recommended before first deploy). Academic grounding: Sloan (1996), Dechow (1994), Penman & Zhang (2002).",
         "Freeze-date reset: OOS clock restarts 2026-05-06. In-sample weights NOT re-tuned. No retrospective re-scoring of pre-v1.3 snapshots."
+      ]
+    },
+    {
+      "version": "v1.4",
+      "frozenAt": "2026-09-02",
+      "changes": [
+        "Regime Fit: sector lists in src/data/regimes.ts restated in the canonical sector vocabulary (src/data/sectors.ts). The pre-v1.4 lists named styles and sub-industries (Aerospace & Defence, Infrastructure, Semiconductors, Small/Mid Caps, Small Caps, Defensives, Cyclicals, Profitless Growth, Hype AI) that never matched a stock.sector value, so the cautious tier in Early Recovery and Risk Off and most of the Stagflation preferred tier were inert. Mapping and rationale in preregistration_log.md Entry 0015. No effect under the Normal regime, which has been active since 2026-04-26; effect under other regimes is now what the documentation always claimed.",
+        "passFail.ts: marketCapUsdM() extracted and exported so the Discovery screen partitions the universe on the same USD-equivalent basis as the universe gate. Universe gate behaviour unchanged.",
+        "Analytics (not score-affecting, recorded here for provenance): model_analysis.ts drops universe-gate failures from every cohort instead of counting them as Avoid, and computes the per-snapshot rank IC on the full in-universe cross-section rather than on label-transition rows only.",
+        "Out-of-sample clock deliberately NOT reset: v1.4 is score-identical to v1.3 under the Normal regime that has been active since 2026-04-26 (0 label flips, 0 score moves on the 702-stock feed, verified before and after the change). The top-level frozenAt therefore stays at 2026-05-06; the v1.4 history entry records the date the version was cut. Weights, thresholds and gates not re-tuned. No retrospective re-scoring of pre-v1.4 snapshots."
+      ]
+    },
+    {
+      "version": "v1.5",
+      "frozenAt": "2026-09-02",
+      "changes": [
+        "Quality: the ROIC sub-metric now scores Greenblatt tangible-capital ROIC (EBIT / (NWC + net PP&E), pipeline field roicTangible) with anchors 0 / 15 / 60 (proposed 50 saturated 29.9% of the feed at the great clamp; 60 is the lowest round value under the pre-registered 25% saturation check, at 24.8%) where it is available; Financials fall back to the ROE-derived field with the unchanged 0 / 10 / 30 anchors; other stocks with no tangible value skip the rule instead of scoring the inflated ROE. Pre-v1.5 snapshots (field absent) score exactly as before. preregistration_log.md Entries 0016 / 0017.",
+        "Regime Fit: the +1 'strong fundamentals' boost (ROIC > 15% or operating margin > 15%) is removed. Both inputs are already scored in Quality; the boost was a hidden double count worth +2 overall points and, under Normal, the only thing Regime Fit varied on. Regime Fit is now the sector tier alone.",
+        "Gates: new data-sufficiency gate. A stock with fewer than half of the scored inputs present is labelled Avoid with that reason (passFail.data). Coverage floor, not a tuned parameter: on the 2026-08-25 feed it trips only tickers with no income statement.",
+        "Universe: 14 further LSE closed-end investment companies added to the exclusion list (same entity class and evidence pattern as PR 13). Not fingerprinted.",
+        "Analytics (not score-affecting): the point-in-time vintage store now accumulates across pipeline runs (first-seen quarter wins) and the re-scorer substitutes with four eligible quarters instead of five; the Track Record tab gains the two pre-registered interaction tests (QV bonus, late-cycle penalty) with verdicts withheld below N = 20 per arm.",
+        "Freeze-date reset: v1.5 moves live scores, so the OOS clock restarts 2026-09-02. Weights, the Buy Now threshold and the near-miss floors are untouched."
       ]
     }
   ]
