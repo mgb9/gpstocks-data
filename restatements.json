@@ -5,7 +5,7 @@
     "to": "2026-09-02"
   },
   "pairsCompared": 112,
-  "totalEvents": 2334,
+  "totalEvents": 2342,
   "events": [
     {
       "ticker": "STX",
@@ -3392,11 +3392,11 @@
       "relChangePct": 100.0
     },
     {
-      "ticker": "CGS.L",
+      "ticker": "NEE",
       "date": "2026-09-02",
-      "field": "piotroskiF",
-      "prev": 3,
-      "curr": 6,
+      "field": "sharesYoYChange",
+      "prev": 0.6,
+      "curr": 1.2,
       "relChangePct": 100.0
     },
     {
@@ -4012,7 +4012,7 @@
     "byField": {
       "fcf": 401,
       "opMargin": 309,
-      "piotroskiF": 300,
+      "piotroskiF": 307,
       "netDebtEbitda": 258,
       "revGrowthTTM": 145,
       "epsGrowthTTM": 137,
@@ -4020,7 +4020,7 @@
       "currentRatio": 105,
       "gpa": 95,
       "revTrend3y": 90,
-      "sharesYoYChange": 78,
+      "sharesYoYChange": 79,
       "grossMargin": 74,
       "marginTrend3y": 66,
       "netMargin": 59,
@@ -4029,7 +4029,7 @@
     },
     "byTicker": {
       "BTRW.L": 51,
-      "FDEV.L": 22,
+      "FDEV.L": 21,
       "FCX": 19,
       "VRSN": 19,
       "V": 17,
@@ -4049,8 +4049,8 @@
       "CMCSA": 13,
       "REGN": 13
     },
-    "newFilingUpdates": 6479,
+    "newFilingUpdates": 6480,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 20.84
+    "eventsPerPairAvg": 20.91
   }
 }

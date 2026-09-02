@@ -18,8 +18,8 @@
   },
   "pitCoverage": {
     "substituted": 43,
-    "missing": 14756,
-    "fraction": 0.0029056017298466114,
+    "missing": 14640,
+    "fraction": 0.00292855683443438,
     "fromSec": 0,
     "secFraction": 0
   },
@@ -1759,7 +1759,7 @@
     }
   ],
   "rankICBasis": "cross-section",
-  "universeGateExcluded": 3026,
+  "universeGateExcluded": 2993,
   "thresholdSensitivity": [
     {
       "threshold": 65,
