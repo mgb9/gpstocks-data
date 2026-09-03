@@ -5,7 +5,7 @@
     "to": "2026-09-03"
   },
   "pairsCompared": 113,
-  "totalEvents": 2350,
+  "totalEvents": 2359,
   "events": [
     {
       "ticker": "STX",
@@ -1288,6 +1288,14 @@
       "relChangePct": 300.0
     },
     {
+      "ticker": "IRM",
+      "date": "2026-09-03",
+      "field": "piotroskiF",
+      "prev": 1,
+      "curr": 4,
+      "relChangePct": 300.0
+    },
+    {
       "ticker": "AMP",
       "date": "2026-04-27",
       "field": "currentRatio",
@@ -2149,6 +2157,14 @@
       "field": "sharesYoYChange",
       "prev": 4.4,
       "curr": 11,
+      "relChangePct": 150.0
+    },
+    {
+      "ticker": "FUTR.L",
+      "date": "2026-09-03",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 5,
       "relChangePct": 150.0
     },
     {
@@ -3408,6 +3424,22 @@
       "relChangePct": 100.0
     },
     {
+      "ticker": "BWY.L",
+      "date": "2026-09-03",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 4,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "DOCS.L",
+      "date": "2026-09-03",
+      "field": "piotroskiF",
+      "prev": 3,
+      "curr": 6,
+      "relChangePct": 100.0
+    },
+    {
       "ticker": "ROL",
       "date": "2026-09-03",
       "field": "piotroskiF",
@@ -3974,44 +4006,12 @@
       "prev": 19.7,
       "curr": 4.2,
       "relChangePct": -78.68
-    },
-    {
-      "ticker": "APD",
-      "date": "2026-08-18",
-      "field": "netDebtEbitda",
-      "prev": 16.8,
-      "curr": 3.7,
-      "relChangePct": -77.98
-    },
-    {
-      "ticker": "STAN.L",
-      "date": "2026-08-06",
-      "field": "epsGrowthTTM",
-      "prev": 30.7,
-      "curr": 6.8,
-      "relChangePct": -77.85
-    },
-    {
-      "ticker": "KIE.L",
-      "date": "2026-07-10",
-      "field": "sharesYoYChange",
-      "prev": 1.8,
-      "curr": 3.2,
-      "relChangePct": 77.78
-    },
-    {
-      "ticker": "GEV",
-      "date": "2026-04-23",
-      "field": "roic",
-      "prev": 42.6,
-      "curr": 75.7,
-      "relChangePct": 77.7
     }
   ],
   "summary": {
     "byField": {
       "fcf": 401,
-      "piotroskiF": 312,
+      "piotroskiF": 321,
       "opMargin": 310,
       "netDebtEbitda": 259,
       "revGrowthTTM": 145,
@@ -4049,8 +4049,8 @@
       "CMCSA": 13,
       "REGN": 13
     },
-    "newFilingUpdates": 6507,
+    "newFilingUpdates": 6509,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 20.8
+    "eventsPerPairAvg": 20.88
   }
 }
