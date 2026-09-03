@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-27",
-  "lastUpdated": "2026-09-02",
+  "lastUpdated": "2026-09-03",
   "config": {
     "initialCapital": 10000,
     "currency": "GBP",
@@ -13,23 +13,8 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 4485.95,
+  "cashBalance": 5969.7,
   "positions": [
-    {
-      "id": "2fde6939",
-      "ticker": "INCY",
-      "company": "Incyte Corporation",
-      "sector": "Healthcare",
-      "homeIndex": "spy",
-      "entryDate": "2026-08-24",
-      "entryPrice": 127.81,
-      "scoreAtEntry": 85,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 102.248,
-      "reviewDate": "2026-11-24"
-    },
     {
       "id": "7ce31991",
       "ticker": "BMY",
@@ -124,40 +109,6 @@
       "entryFee": 1.24,
       "positionPct": 5.0,
       "stopLossPrice": 137.576,
-      "reviewDate": "2026-11-29"
-    },
-    {
-      "id": "3c9b19e0",
-      "ticker": "NXT.L",
-      "company": "NEXT PLC ORD 10P",
-      "sector": "Consumer Discretionary",
-      "homeIndex": "isf",
-      "entryDate": "2026-08-29",
-      "entryPrice": 155.35,
-      "scoreAtEntry": 78,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 492.99,
-      "cashCommitted": 495.97,
-      "entryFee": 2.98,
-      "positionPct": 5.0,
-      "stopLossPrice": 124.28,
-      "reviewDate": "2026-11-29"
-    },
-    {
-      "id": "380c370e",
-      "ticker": "IMI.L",
-      "company": "IMI PLC ORD 28 4/7P",
-      "sector": "Industrials",
-      "homeIndex": "isf",
-      "entryDate": "2026-08-29",
-      "entryPrice": 31.24,
-      "scoreAtEntry": 77,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 492.99,
-      "cashCommitted": 495.97,
-      "entryFee": 2.98,
-      "positionPct": 5.0,
-      "stopLossPrice": 24.992,
       "reviewDate": "2026-11-29"
     },
     {
@@ -321,6 +272,69 @@
       "plPct": -3.31,
       "holdDays": 9,
       "positionPct": 5.0
+    },
+    {
+      "id": "2fde6939",
+      "ticker": "INCY",
+      "company": "Incyte Corporation",
+      "sector": "Healthcare",
+      "entryDate": "2026-08-24",
+      "entryPrice": 127.81,
+      "scoreAtEntry": 85,
+      "labelAtEntry": "Buy Now",
+      "exitDate": "2026-09-03",
+      "exitPrice": 127.81,
+      "exitReason": "removed_from_universe",
+      "costBasis": 500.0,
+      "cashCommitted": 500.0,
+      "entryFee": 0.0,
+      "exitFee": 1.25,
+      "proceeds": 498.75,
+      "plPct": -0.25,
+      "holdDays": 10,
+      "positionPct": 5.0
+    },
+    {
+      "id": "3c9b19e0",
+      "ticker": "NXT.L",
+      "company": "NEXT PLC ORD 10P",
+      "sector": "Consumer Discretionary",
+      "entryDate": "2026-08-29",
+      "entryPrice": 155.35,
+      "scoreAtEntry": 78,
+      "labelAtEntry": "Buy Now",
+      "exitDate": "2026-09-03",
+      "exitPrice": 155.35,
+      "exitReason": "removed_from_universe",
+      "costBasis": 492.99,
+      "cashCommitted": 495.97,
+      "entryFee": 2.98,
+      "exitFee": 0.49,
+      "proceeds": 492.5,
+      "plPct": -0.7,
+      "holdDays": 5,
+      "positionPct": 5.0
+    },
+    {
+      "id": "380c370e",
+      "ticker": "IMI.L",
+      "company": "IMI PLC ORD 28 4/7P",
+      "sector": "Industrials",
+      "entryDate": "2026-08-29",
+      "entryPrice": 31.24,
+      "scoreAtEntry": 77,
+      "labelAtEntry": "Buy Now",
+      "exitDate": "2026-09-03",
+      "exitPrice": 31.24,
+      "exitReason": "removed_from_universe",
+      "costBasis": 492.99,
+      "cashCommitted": 495.97,
+      "entryFee": 2.98,
+      "exitFee": 0.49,
+      "proceeds": 492.5,
+      "plPct": -0.7,
+      "holdDays": 5,
+      "positionPct": 5.0
     }
   ],
   "navHistory": [
@@ -427,18 +441,29 @@
         "midd": 0.0,
         "vwrl": 0.0
       }
+    },
+    {
+      "date": "2026-09-03",
+      "nav": 9916.61,
+      "benchmarkPrice": 139.1825,
+      "segmentNav": {
+        "spy": 3946.9,
+        "isf": 0.0,
+        "midd": 0.0,
+        "vwrl": 0.0
+      }
     }
   ],
   "metrics": {
-    "totalReturnPct": -1.36,
+    "totalReturnPct": -0.83,
     "benchmarkReturnPct": null,
     "excessReturnPct": null,
-    "annualizedReturnPct": -3.84,
+    "annualizedReturnPct": -2.34,
     "sharpe": null,
     "maxDrawdownPct": -1.37,
-    "tradeCount": 6,
+    "tradeCount": 9,
     "winRatePct": 0.0,
-    "avgHoldDays": 3.3,
-    "openPositions": 11
+    "avgHoldDays": 4.4,
+    "openPositions": 8
   }
 }

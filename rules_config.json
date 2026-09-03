@@ -1,5 +1,5 @@
 {
-  "currentVersion": "v1.5",
+  "currentVersion": "v1.6",
   "frozenAt": "2026-09-02",
   "history": [
     {
@@ -57,6 +57,15 @@
         "Universe: 14 further LSE closed-end investment companies added to the exclusion list (same entity class and evidence pattern as PR 13). Not fingerprinted.",
         "Analytics (not score-affecting): the point-in-time vintage store now accumulates across pipeline runs (first-seen quarter wins) and the re-scorer substitutes with four eligible quarters instead of five; the Track Record tab gains the two pre-registered interaction tests (QV bonus, late-cycle penalty) with verdicts withheld below N = 20 per arm.",
         "Freeze-date reset: v1.5 moves live scores, so the OOS clock restarts 2026-09-02. Weights, the Buy Now threshold and the near-miss floors are untouched."
+      ]
+    },
+    {
+      "version": "v1.6",
+      "frozenAt": "2026-09-02",
+      "changes": [
+        "Plausibility bounds added for two scored Quality inputs that had none: sharesYoYChange (+/-50%) and the derived FCF yield (+/-100%). Every other derived ratio in the scorer was already bounds-checked; these two went straight into the Quality mean, so a split-crossing share count or a mismatched cash-flow figure scored as maximum dilution or a spurious yield and counted a failure against the Quality gate. Surfaced by the SEC as-filed back-fill, which exposed Booking Holdings reading as +2,218% share growth across its split, but the live yfinance feed carries the same class of outlier (5 share-count and 3 FCF-yield values on the 2026-08-25 feed, including a -99%).",
+        "Measured on the 702-stock feed: Quality moved for 8 stocks, and ZERO labels flipped in any of the four regimes.",
+        "Out-of-sample clock unchanged at 2026-09-02: v1.5 reset it to that date earlier the same day, so this bump costs no accumulated evidence."
       ]
     }
   ]
