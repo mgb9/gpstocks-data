@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-27",
-  "lastUpdated": "2026-09-03",
+  "lastUpdated": "2026-09-04",
   "config": {
     "initialCapital": 10000,
     "currency": "GBP",
@@ -13,7 +13,7 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 5969.7,
+  "cashBalance": 4475.7,
   "positions": [
     {
       "id": "7ce31991",
@@ -144,6 +144,57 @@
       "positionPct": 5.0,
       "stopLossPrice": 192.24,
       "reviewDate": "2026-12-01"
+    },
+    {
+      "id": "ffc813d3",
+      "ticker": "INCY",
+      "company": "Incyte Corporation",
+      "sector": "Healthcare",
+      "homeIndex": "spy",
+      "entryDate": "2026-09-04",
+      "entryPrice": 128,
+      "scoreAtEntry": 84,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 496.75,
+      "cashCommitted": 498.0,
+      "entryFee": 1.25,
+      "positionPct": 5.0,
+      "stopLossPrice": 102.4,
+      "reviewDate": "2026-12-04"
+    },
+    {
+      "id": "4ee8c524",
+      "ticker": "GOOG",
+      "company": "Alphabet Inc.",
+      "sector": "Communication Services",
+      "homeIndex": "spy",
+      "entryDate": "2026-09-04",
+      "entryPrice": 339.08,
+      "scoreAtEntry": 81,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 496.75,
+      "cashCommitted": 498.0,
+      "entryFee": 1.25,
+      "positionPct": 5.0,
+      "stopLossPrice": 271.264,
+      "reviewDate": "2026-12-04"
+    },
+    {
+      "id": "d2156041",
+      "ticker": "CCH.L",
+      "company": "COCA-COLA HBC AG ORD CHF6.70 (C",
+      "sector": "Consumer Staples",
+      "homeIndex": "isf",
+      "entryDate": "2026-09-04",
+      "entryPrice": 45.72,
+      "scoreAtEntry": 76,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 495.01,
+      "cashCommitted": 498.0,
+      "entryFee": 2.99,
+      "positionPct": 5.0,
+      "stopLossPrice": 36.576,
+      "reviewDate": "2026-12-04"
     }
   ],
   "trades": [
@@ -452,18 +503,29 @@
         "midd": 0.0,
         "vwrl": 0.0
       }
+    },
+    {
+      "date": "2026-09-04",
+      "nav": 9954.46,
+      "benchmarkPrice": 140.13,
+      "segmentNav": {
+        "spy": 4983.75,
+        "isf": 495.01,
+        "midd": 0.0,
+        "vwrl": 0.0
+      }
     }
   ],
   "metrics": {
-    "totalReturnPct": -0.83,
+    "totalReturnPct": -0.46,
     "benchmarkReturnPct": null,
     "excessReturnPct": null,
-    "annualizedReturnPct": -2.34,
+    "annualizedReturnPct": -1.27,
     "sharpe": null,
     "maxDrawdownPct": -1.37,
     "tradeCount": 9,
     "winRatePct": 0.0,
     "avgHoldDays": 4.4,
-    "openPositions": 8
+    "openPositions": 11
   }
 }
