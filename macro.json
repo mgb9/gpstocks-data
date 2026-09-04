@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-04T14:19:50Z",
+  "asOf": "2026-09-04T18:52:27Z",
   "series": {
     "VIXCLS": {
       "name": "VIX",
@@ -8076,12 +8076,12 @@
     "FTSE": {
       "name": "FTSE 100",
       "source": "Yahoo Finance",
-      "latest": 10816.01953125,
+      "latest": 10831.08984375,
       "latestDate": "2026-09-04",
-      "delta1mPct": -0.6638343426802297,
-      "delta1yPct": 17.349858117719805,
-      "deltaYoYPct": 17.349858117719805,
-      "deltaYoYAbs": 1599.119140625,
+      "delta1mPct": -0.5254260257682348,
+      "delta1yPct": 17.513365499391508,
+      "deltaYoYPct": 17.513365499391508,
+      "deltaYoYAbs": 1614.189453125,
       "history": [
         {
           "date": "2025-12-17",
@@ -8801,19 +8801,19 @@
         },
         {
           "date": "2026-09-04",
-          "value": 10816.01953125
+          "value": 10831.08984375
         }
       ]
     },
     "FTMC": {
       "name": "FTSE 250",
       "source": "Yahoo Finance",
-      "latest": 24537.1796875,
+      "latest": 24584.7109375,
       "latestDate": "2026-09-04",
-      "delta1mPct": -0.38737252010820583,
-      "delta1yPct": 14.260877125934718,
-      "deltaYoYPct": 14.260877125934718,
-      "deltaYoYAbs": 3062.48046875,
+      "delta1mPct": -0.1944117658485948,
+      "delta1yPct": 14.48221317127732,
+      "deltaYoYPct": 14.48221317127732,
+      "deltaYoYAbs": 3110.01171875,
       "history": [
         {
           "date": "2025-12-17",
@@ -9533,7 +9533,7 @@
         },
         {
           "date": "2026-09-04",
-          "value": 24537.1796875
+          "value": 24584.7109375
         }
       ]
     }
