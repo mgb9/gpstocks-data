@@ -421,10 +421,10 @@
       ]
     },
     "sharesYoYChange": {
-      "n": 433,
+      "n": 432,
       "mode": "points",
-      "medianAbsDivergencePct": 1.201757722195583,
-      "p90AbsDivergencePct": 6.287069830682297,
+      "medianAbsDivergencePct": 1.2030940086411182,
+      "p90AbsDivergencePct": 6.318139824840286,
       "worst": [
         {
           "ticker": "TRV",
