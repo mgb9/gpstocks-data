@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-08T14:27:33Z",
+  "asOf": "2026-09-08T19:18:13Z",
   "series": {
     "VIXCLS": {
       "name": "VIX",
@@ -3976,21 +3976,13 @@
     "BAMLH0A0HYM2": {
       "name": "US HY credit spread",
       "source": "ICE BofA via FRED",
-      "latest": 2.65,
-      "latestDate": "2026-09-03",
-      "delta1mPct": -2.9304029304029333,
-      "delta1yPct": -7.986111111111111,
-      "deltaYoYPct": -7.986111111111111,
-      "deltaYoYAbs": -0.22999999999999998,
+      "latest": 2.68,
+      "latestDate": "2026-09-07",
+      "delta1mPct": -0.7407407407407414,
+      "delta1yPct": -5.633802816901398,
+      "deltaYoYPct": -5.633802816901398,
+      "deltaYoYAbs": -0.1599999999999997,
       "history": [
-        {
-          "date": "2025-12-30",
-          "value": 2.84
-        },
-        {
-          "date": "2025-12-31",
-          "value": 2.81
-        },
         {
           "date": "2026-01-02",
           "value": 2.83
@@ -4702,6 +4694,14 @@
         {
           "date": "2026-09-03",
           "value": 2.65
+        },
+        {
+          "date": "2026-09-04",
+          "value": 2.68
+        },
+        {
+          "date": "2026-09-07",
+          "value": 2.68
         }
       ]
     },
@@ -8068,12 +8068,12 @@
     "FTSE": {
       "name": "FTSE 100",
       "source": "Yahoo Finance",
-      "latest": 10832.330078125,
+      "latest": 10811.66015625,
       "latestDate": "2026-09-08",
-      "delta1mPct": -0.2777438147295742,
-      "delta1yPct": 17.46946905307097,
-      "deltaYoYPct": 17.46946905307097,
-      "deltaYoYAbs": 1610.9296875,
+      "delta1mPct": -0.4680307825086306,
+      "delta1yPct": 17.245317394977757,
+      "deltaYoYPct": 17.245317394977757,
+      "deltaYoYAbs": 1590.259765625,
       "history": [
         {
           "date": "2025-12-19",
@@ -8793,19 +8793,19 @@
         },
         {
           "date": "2026-09-08",
-          "value": 10832.330078125
+          "value": 10811.66015625
         }
       ]
     },
     "FTMC": {
       "name": "FTSE 250",
       "source": "Yahoo Finance",
-      "latest": 24326.91015625,
+      "latest": 24348.849609375,
       "latestDate": "2026-09-08",
-      "delta1mPct": -1.687606715633777,
-      "delta1yPct": 12.185709406488506,
-      "deltaYoYPct": 12.185709406488506,
-      "deltaYoYAbs": 2642.41015625,
+      "delta1mPct": -1.5989427574814605,
+      "delta1yPct": 12.286885145495631,
+      "deltaYoYPct": 12.286885145495631,
+      "deltaYoYAbs": 2664.349609375,
       "history": [
         {
           "date": "2025-12-19",
@@ -9525,7 +9525,7 @@
         },
         {
           "date": "2026-09-08",
-          "value": 24326.91015625
+          "value": 24348.849609375
         }
       ]
     }
