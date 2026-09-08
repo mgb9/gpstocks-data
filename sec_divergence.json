@@ -15,8 +15,8 @@
     "revGrowthTTM": {
       "n": 490,
       "mode": "points",
-      "medianAbsDivergencePct": 0.03427587288149647,
-      "p90AbsDivergencePct": 6.6553657651215685,
+      "medianAbsDivergencePct": 0.034955100160046104,
+      "p90AbsDivergencePct": 7.052683563660393,
       "worst": [
         {
           "ticker": "COF",
@@ -55,12 +55,6 @@
           "divergencePct": -39.435176651305675
         },
         {
-          "ticker": "AVGO",
-          "sec": 47.87390029325513,
-          "yf": 85.5,
-          "divergencePct": -37.62609970674487
-        },
-        {
           "ticker": "FTV",
           "sec": -27.45896079229413,
           "yf": 7.9,
@@ -77,14 +71,20 @@
           "sec": 11.410379503764712,
           "yf": 42.5,
           "divergencePct": -31.089620496235288
+        },
+        {
+          "ticker": "OXY",
+          "sec": 25.740567508574983,
+          "yf": 53.4,
+          "divergencePct": -27.659432491425015
         }
       ]
     },
     "epsGrowthTTM": {
       "n": 434,
       "mode": "points",
-      "medianAbsDivergencePct": 0.04609147992232643,
-      "p90AbsDivergencePct": 33.56401400604804,
+      "medianAbsDivergencePct": 0.04712208236587223,
+      "p90AbsDivergencePct": 49.959999999999994,
       "worst": [
         {
           "ticker": "CIEN",
@@ -141,10 +141,10 @@
           "divergencePct": 196.98888888888888
         },
         {
-          "ticker": "AVGO",
-          "sec": 85.43689320388349,
-          "yf": 215.3,
-          "divergencePct": -129.86310679611654
+          "ticker": "DLTR",
+          "sec": 196.7032967032967,
+          "yf": 9.5,
+          "divergencePct": 187.2032967032967
         }
       ]
     },
@@ -152,7 +152,7 @@
       "n": 401,
       "mode": "points",
       "medianAbsDivergencePct": 2.323265424490682,
-      "p90AbsDivergencePct": 12.18023042311495,
+      "p90AbsDivergencePct": 12.335011923130873,
       "worst": [
         {
           "ticker": "MRNA",
@@ -219,8 +219,8 @@
     "netMargin": {
       "n": 481,
       "mode": "points",
-      "medianAbsDivergencePct": 0.03561920285636688,
-      "p90AbsDivergencePct": 1.592203424905584,
+      "medianAbsDivergencePct": 0.03723041997729837,
+      "p90AbsDivergencePct": 1.8123204344761668,
       "worst": [
         {
           "ticker": "IBKR",
@@ -353,10 +353,10 @@
       ]
     },
     "fcf": {
-      "n": 417,
+      "n": 416,
       "mode": "relative",
-      "medianAbsDivergencePct": 29.464285714285715,
-      "p90AbsDivergencePct": 107.57742743217449,
+      "medianAbsDivergencePct": 29.5215608023564,
+      "p90AbsDivergencePct": 104.68541790007464,
       "worst": [
         {
           "ticker": "XYZ",
@@ -369,12 +369,6 @@
           "sec": 2255.0,
           "yf": 37.0,
           "divergencePct": 5994.594594594594
-        },
-        {
-          "ticker": "DELL",
-          "sec": 9442.0,
-          "yf": 174.0,
-          "divergencePct": 5326.436781609195
         },
         {
           "ticker": "TPL",
@@ -417,14 +411,20 @@
           "sec": 4694.0,
           "yf": 783.0,
           "divergencePct": 499.4891443167306
+        },
+        {
+          "ticker": "AMZN",
+          "sec": -11625.0,
+          "yf": 3219.0,
+          "divergencePct": -461.13699906803356
         }
       ]
     },
     "sharesYoYChange": {
-      "n": 432,
+      "n": 430,
       "mode": "points",
-      "medianAbsDivergencePct": 1.2030940086411182,
-      "p90AbsDivergencePct": 6.318139824840286,
+      "medianAbsDivergencePct": 1.2204477060544439,
+      "p90AbsDivergencePct": 6.169351850735008,
       "worst": [
         {
           "ticker": "TRV",
@@ -475,16 +475,16 @@
           "divergencePct": 22.025554889022203
         },
         {
-          "ticker": "LITE",
-          "sec": 28.326180257510725,
-          "yf": 7.2,
-          "divergencePct": 21.126180257510725
-        },
-        {
           "ticker": "EQT",
           "sec": 0.23379274649590887,
           "yf": 19.7,
           "divergencePct": -19.46620725350409
+        },
+        {
+          "ticker": "KEY",
+          "sec": -2.6800602375977145,
+          "yf": 16.7,
+          "divergencePct": -19.380060237597714
         }
       ]
     }

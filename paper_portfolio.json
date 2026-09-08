@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-27",
-  "lastUpdated": "2026-09-07",
+  "lastUpdated": "2026-09-08",
   "config": {
     "initialCapital": 10000,
     "currency": "GBP",
@@ -13,7 +13,7 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 3486.28,
+  "cashBalance": 4477.49,
   "positions": [
     {
       "id": "7ce31991",
@@ -178,40 +178,6 @@
       "positionPct": 5.0,
       "stopLossPrice": 271.264,
       "reviewDate": "2026-12-04"
-    },
-    {
-      "id": "d2156041",
-      "ticker": "CCH.L",
-      "company": "COCA-COLA HBC AG ORD CHF6.70 (C",
-      "sector": "Consumer Staples",
-      "homeIndex": "isf",
-      "entryDate": "2026-09-04",
-      "entryPrice": 45.72,
-      "scoreAtEntry": 76,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 495.01,
-      "cashCommitted": 498.0,
-      "entryFee": 2.99,
-      "positionPct": 5.0,
-      "stopLossPrice": 36.576,
-      "reviewDate": "2026-12-04"
-    },
-    {
-      "id": "533e2898",
-      "ticker": "BP.L",
-      "company": "BP PLC $0.25",
-      "sector": "Energy",
-      "homeIndex": "isf",
-      "entryDate": "2026-09-07",
-      "entryPrice": 5.4,
-      "scoreAtEntry": 83,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 491.74,
-      "cashCommitted": 494.71,
-      "entryFee": 2.97,
-      "positionPct": 5.0,
-      "stopLossPrice": 4.32,
-      "reviewDate": "2026-12-07"
     },
     {
       "id": "91a29bb3",
@@ -420,6 +386,48 @@
       "plPct": -0.7,
       "holdDays": 5,
       "positionPct": 5.0
+    },
+    {
+      "id": "d2156041",
+      "ticker": "CCH.L",
+      "company": "COCA-COLA HBC AG ORD CHF6.70 (C",
+      "sector": "Consumer Staples",
+      "entryDate": "2026-09-04",
+      "entryPrice": 45.72,
+      "scoreAtEntry": 76,
+      "labelAtEntry": "Buy Now",
+      "exitDate": "2026-09-08",
+      "exitPrice": 45.72,
+      "exitReason": "removed_from_universe",
+      "costBasis": 495.01,
+      "cashCommitted": 498.0,
+      "entryFee": 2.99,
+      "exitFee": 0.5,
+      "proceeds": 494.51,
+      "plPct": -0.7,
+      "holdDays": 4,
+      "positionPct": 5.0
+    },
+    {
+      "id": "533e2898",
+      "ticker": "BP.L",
+      "company": "BP PLC $0.25",
+      "sector": "Energy",
+      "entryDate": "2026-09-07",
+      "entryPrice": 5.4,
+      "scoreAtEntry": 83,
+      "labelAtEntry": "Buy Now",
+      "exitDate": "2026-09-08",
+      "exitPrice": 5.46,
+      "exitReason": "label_changed_avoid",
+      "costBasis": 491.74,
+      "cashCommitted": 494.71,
+      "entryFee": 2.97,
+      "exitFee": 0.5,
+      "proceeds": 496.7,
+      "plPct": 0.4,
+      "holdDays": 1,
+      "positionPct": 5.0
     }
   ],
   "navHistory": [
@@ -559,18 +567,29 @@
         "midd": 0.0,
         "vwrl": 0.0
       }
+    },
+    {
+      "date": "2026-09-08",
+      "nav": 9898.57,
+      "benchmarkPrice": 139.11,
+      "segmentNav": {
+        "spy": 5421.1,
+        "isf": 0.0,
+        "midd": 0.0,
+        "vwrl": 0.0
+      }
     }
   ],
   "metrics": {
-    "totalReturnPct": -1.1,
+    "totalReturnPct": -1.01,
     "benchmarkReturnPct": null,
     "excessReturnPct": null,
-    "annualizedReturnPct": -2.99,
+    "annualizedReturnPct": -2.74,
     "sharpe": null,
     "maxDrawdownPct": -1.37,
-    "tradeCount": 9,
-    "winRatePct": 0.0,
-    "avgHoldDays": 4.4,
-    "openPositions": 13
+    "tradeCount": 11,
+    "winRatePct": 9.1,
+    "avgHoldDays": 4.1,
+    "openPositions": 11
   }
 }

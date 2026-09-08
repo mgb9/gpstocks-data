@@ -1,11 +1,11 @@
 {
-  "asOf": "2026-09-07",
+  "asOf": "2026-09-08",
   "window": {
     "from": "2025-10-20",
-    "to": "2026-09-07"
+    "to": "2026-09-08"
   },
-  "pairsCompared": 115,
-  "totalEvents": 2398,
+  "pairsCompared": 116,
+  "totalEvents": 2402,
   "events": [
     {
       "ticker": "STX",
@@ -4011,7 +4011,7 @@
   "summary": {
     "byField": {
       "fcf": 407,
-      "piotroskiF": 331,
+      "piotroskiF": 335,
       "opMargin": 312,
       "netDebtEbitda": 260,
       "revGrowthTTM": 145,
@@ -4049,8 +4049,8 @@
       "CMCSA": 13,
       "REGN": 13
     },
-    "newFilingUpdates": 6566,
+    "newFilingUpdates": 6575,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 20.85
+    "eventsPerPairAvg": 20.71
   }
 }
