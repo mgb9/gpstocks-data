@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-27",
-  "lastUpdated": "2026-09-08",
+  "lastUpdated": "2026-09-09",
   "config": {
     "initialCapital": 10000,
     "currency": "GBP",
@@ -13,7 +13,7 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 4477.49,
+  "cashBalance": 3003.53,
   "positions": [
     {
       "id": "7ce31991",
@@ -195,6 +195,57 @@
       "positionPct": 5.0,
       "stopLossPrice": 87.432,
       "reviewDate": "2026-12-07"
+    },
+    {
+      "id": "1af7fbb1",
+      "ticker": "CCH.L",
+      "company": "COCA-COLA HBC AG ORD CHF6.70 (C",
+      "sector": "Consumer Staples",
+      "homeIndex": "isf",
+      "entryDate": "2026-09-09",
+      "entryPrice": 45.9,
+      "scoreAtEntry": 77,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 488.37,
+      "cashCommitted": 491.32,
+      "entryFee": 2.95,
+      "positionPct": 5.0,
+      "stopLossPrice": 36.72,
+      "reviewDate": "2026-12-09"
+    },
+    {
+      "id": "7e898e97",
+      "ticker": "IMI.L",
+      "company": "IMI PLC ORD 28 4/7P",
+      "sector": "Industrials",
+      "homeIndex": "isf",
+      "entryDate": "2026-09-09",
+      "entryPrice": 30.94,
+      "scoreAtEntry": 76,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 488.37,
+      "cashCommitted": 491.32,
+      "entryFee": 2.95,
+      "positionPct": 5.0,
+      "stopLossPrice": 24.752,
+      "reviewDate": "2026-12-09"
+    },
+    {
+      "id": "0e2110f1",
+      "ticker": "NXT.L",
+      "company": "NEXT PLC ORD 10P",
+      "sector": "Consumer Discretionary",
+      "homeIndex": "isf",
+      "entryDate": "2026-09-09",
+      "entryPrice": 152.45,
+      "scoreAtEntry": 76,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 488.37,
+      "cashCommitted": 491.32,
+      "entryFee": 2.95,
+      "positionPct": 5.0,
+      "stopLossPrice": 121.96,
+      "reviewDate": "2026-12-09"
     }
   ],
   "trades": [
@@ -578,18 +629,29 @@
         "midd": 0.0,
         "vwrl": 0.0
       }
+    },
+    {
+      "date": "2026-09-09",
+      "nav": 9817.5,
+      "benchmarkPrice": 138.4,
+      "segmentNav": {
+        "spy": 5348.86,
+        "isf": 1465.11,
+        "midd": 0.0,
+        "vwrl": 0.0
+      }
     }
   ],
   "metrics": {
-    "totalReturnPct": -1.01,
+    "totalReturnPct": -1.82,
     "benchmarkReturnPct": null,
     "excessReturnPct": null,
-    "annualizedReturnPct": -2.74,
+    "annualizedReturnPct": -4.86,
     "sharpe": null,
-    "maxDrawdownPct": -1.37,
+    "maxDrawdownPct": -1.83,
     "tradeCount": 11,
     "winRatePct": 9.1,
     "avgHoldDays": 4.1,
-    "openPositions": 11
+    "openPositions": 14
   }
 }

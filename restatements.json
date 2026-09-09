@@ -1,11 +1,11 @@
 {
-  "asOf": "2026-09-08",
+  "asOf": "2026-09-09",
   "window": {
     "from": "2025-10-20",
-    "to": "2026-09-08"
+    "to": "2026-09-09"
   },
-  "pairsCompared": 116,
-  "totalEvents": 2401,
+  "pairsCompared": 117,
+  "totalEvents": 2412,
   "events": [
     {
       "ticker": "STX",
@@ -1306,6 +1306,14 @@
     {
       "ticker": "IRM",
       "date": "2026-09-03",
+      "field": "piotroskiF",
+      "prev": 1,
+      "curr": 4,
+      "relChangePct": 300.0
+    },
+    {
+      "ticker": "SLB",
+      "date": "2026-09-09",
       "field": "piotroskiF",
       "prev": 1,
       "curr": 4,
@@ -3998,25 +4006,17 @@
       "prev": 2.8,
       "curr": 0.5,
       "relChangePct": -82.14
-    },
-    {
-      "ticker": "SAP.DE",
-      "date": "2026-04-27",
-      "field": "revGrowthTTM",
-      "prev": 3.3,
-      "curr": 6.0,
-      "relChangePct": 81.82
     }
   ],
   "summary": {
     "byField": {
       "fcf": 407,
-      "piotroskiF": 334,
-      "opMargin": 312,
+      "piotroskiF": 342,
+      "opMargin": 313,
       "netDebtEbitda": 260,
       "revGrowthTTM": 145,
+      "epsGrowthTTM": 138,
       "interestCover": 138,
-      "epsGrowthTTM": 137,
       "currentRatio": 106,
       "gpa": 99,
       "revTrend3y": 92,
@@ -4025,7 +4025,7 @@
       "marginTrend3y": 69,
       "netMargin": 59,
       "roic": 52,
-      "marketCap": 31
+      "marketCap": 32
     },
     "byTicker": {
       "BTRW.L": 51,
@@ -4033,11 +4033,11 @@
       "FCX": 19,
       "VRSN": 19,
       "V": 17,
+      "NCC.L": 16,
       "PAY.L": 15,
       "PFG": 15,
       "PCG": 15,
       "LVS": 15,
-      "NCC.L": 15,
       "EA": 15,
       "INTC": 14,
       "PKG": 14,
@@ -4049,8 +4049,8 @@
       "CMCSA": 13,
       "REGN": 13
     },
-    "newFilingUpdates": 6581,
+    "newFilingUpdates": 6602,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 20.7
+    "eventsPerPairAvg": 20.62
   }
 }
