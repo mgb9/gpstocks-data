@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-10T14:27:15Z",
+  "generatedAt": "2026-09-10T19:03:59Z",
   "artefacts": {
     "stocks": {
-      "asOf": "2026-09-10T14:26:26.657Z",
-      "size": 681,
+      "asOf": "2026-09-10T19:02:34.587Z",
+      "size": 685,
       "source": "built"
     },
     "macro": {
-      "asOf": "2026-09-10T14:26:34Z",
+      "asOf": "2026-09-10T19:02:59Z",
       "size": 20,
       "source": "built"
     },
@@ -18,7 +18,7 @@
     "insiders": {
       "asOf": "2026-09-10",
       "size": 5,
-      "source": "built"
+      "source": "published"
     },
     "factorEtfs": {
       "asOf": "2026-09-10",

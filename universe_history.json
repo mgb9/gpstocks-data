@@ -3851,7 +3851,7 @@
     },
     "UTG.L": {
       "firstSeen": "2026-06-10",
-      "lastSeen": "2026-09-09",
+      "lastSeen": "2026-09-10",
       "active": true
     },
     "VCT.L": {
@@ -3871,17 +3871,17 @@
     },
     "WIZZ.L": {
       "firstSeen": "2026-06-10",
-      "lastSeen": "2026-09-09",
+      "lastSeen": "2026-09-10",
       "active": true
     },
     "WKP.L": {
       "firstSeen": "2026-06-10",
-      "lastSeen": "2026-09-09",
+      "lastSeen": "2026-09-10",
       "active": true
     },
     "YOU.L": {
       "firstSeen": "2026-06-10",
-      "lastSeen": "2026-09-09",
+      "lastSeen": "2026-09-10",
       "active": true
     }
   },
@@ -69571,6 +69571,7 @@
       "UPS",
       "URI",
       "USB",
+      "UTG.L",
       "UU.L",
       "V",
       "VCT.L",
@@ -69598,6 +69599,8 @@
       "WEIR.L",
       "WELL",
       "WFC",
+      "WIZZ.L",
+      "WKP.L",
       "WM",
       "WMB",
       "WMT",
@@ -69612,6 +69615,7 @@
       "XOM",
       "XYL",
       "XYZ",
+      "YOU.L",
       "YUM",
       "ZBH",
       "ZBRA",
