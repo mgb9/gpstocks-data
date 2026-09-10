@@ -1,11 +1,11 @@
 {
-  "asOf": "2026-09-09",
+  "asOf": "2026-09-10",
   "window": {
     "from": "2025-10-20",
-    "to": "2026-09-09"
+    "to": "2026-09-10"
   },
-  "pairsCompared": 117,
-  "totalEvents": 2413,
+  "pairsCompared": 118,
+  "totalEvents": 2422,
   "events": [
     {
       "ticker": "STX",
@@ -78,6 +78,14 @@
       "prev": 0.3,
       "curr": 10.5,
       "relChangePct": 3400.0
+    },
+    {
+      "ticker": "DELL",
+      "date": "2026-09-10",
+      "field": "fcf",
+      "prev": 174,
+      "curr": 6033,
+      "relChangePct": 3367.24
     },
     {
       "ticker": "AMCR",
@@ -3544,6 +3552,14 @@
       "relChangePct": 100.0
     },
     {
+      "ticker": "QCOM",
+      "date": "2026-09-10",
+      "field": "piotroskiF",
+      "prev": 3,
+      "curr": 6,
+      "relChangePct": 100.0
+    },
+    {
       "ticker": "STX",
       "date": "2026-08-06",
       "field": "sharesYoYChange",
@@ -3990,33 +4006,17 @@
       "prev": 321,
       "curr": 588,
       "relChangePct": 83.18
-    },
-    {
-      "ticker": "CAG",
-      "date": "2026-07-17",
-      "field": "marginTrend3y",
-      "prev": -2.3,
-      "curr": -4.2,
-      "relChangePct": -82.61
-    },
-    {
-      "ticker": "HSX.L",
-      "date": "2026-08-07",
-      "field": "netDebtEbitda",
-      "prev": -1.7,
-      "curr": -0.3,
-      "relChangePct": 82.35
     }
   ],
   "summary": {
     "byField": {
-      "fcf": 407,
-      "piotroskiF": 339,
-      "opMargin": 313,
-      "netDebtEbitda": 260,
+      "fcf": 409,
+      "piotroskiF": 342,
+      "opMargin": 314,
+      "netDebtEbitda": 261,
       "revGrowthTTM": 145,
-      "interestCover": 139,
-      "epsGrowthTTM": 138,
+      "interestCover": 140,
+      "epsGrowthTTM": 139,
       "currentRatio": 106,
       "gpa": 99,
       "revTrend3y": 93,
@@ -4049,8 +4049,8 @@
       "CMCSA": 13,
       "REGN": 13
     },
-    "newFilingUpdates": 6595,
+    "newFilingUpdates": 6607,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 20.62
+    "eventsPerPairAvg": 20.53
   }
 }
