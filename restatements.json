@@ -1,11 +1,11 @@
 {
-  "asOf": "2026-09-10",
+  "asOf": "2026-09-11",
   "window": {
     "from": "2025-10-20",
-    "to": "2026-09-10"
+    "to": "2026-09-11"
   },
-  "pairsCompared": 118,
-  "totalEvents": 2421,
+  "pairsCompared": 119,
+  "totalEvents": 2427,
   "events": [
     {
       "ticker": "STX",
@@ -1062,6 +1062,14 @@
       "prev": -0.8,
       "curr": 2.6,
       "relChangePct": 425.0
+    },
+    {
+      "ticker": "INTU",
+      "date": "2026-09-11",
+      "field": "sharesYoYChange",
+      "prev": -0.4,
+      "curr": -2.1,
+      "relChangePct": -425.0
     },
     {
       "ticker": "EA",
@@ -3998,31 +4006,23 @@
       "prev": 5278.0,
       "curr": 9675.0,
       "relChangePct": 83.31
-    },
-    {
-      "ticker": "STE",
-      "date": "2026-05-13",
-      "field": "fcf",
-      "prev": 321,
-      "curr": 588,
-      "relChangePct": 83.18
     }
   ],
   "summary": {
     "byField": {
-      "fcf": 409,
-      "piotroskiF": 341,
-      "opMargin": 314,
+      "fcf": 410,
+      "piotroskiF": 342,
+      "opMargin": 315,
       "netDebtEbitda": 261,
       "revGrowthTTM": 145,
-      "interestCover": 140,
+      "interestCover": 141,
       "epsGrowthTTM": 139,
       "currentRatio": 106,
       "gpa": 99,
       "revTrend3y": 93,
-      "sharesYoYChange": 85,
+      "sharesYoYChange": 86,
       "grossMargin": 76,
-      "marginTrend3y": 70,
+      "marginTrend3y": 71,
       "netMargin": 59,
       "roic": 52,
       "marketCap": 32
@@ -4049,8 +4049,8 @@
       "CMCSA": 13,
       "REGN": 13
     },
-    "newFilingUpdates": 6607,
+    "newFilingUpdates": 6616,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 20.52
+    "eventsPerPairAvg": 20.39
   }
 }
