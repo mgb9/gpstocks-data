@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-14",
-  "secAsOf": "2026-09-14",
+  "asOf": "2026-09-07",
+  "secAsOf": "2026-09-07",
   "source": "sec_fundamentals.json vs stocks.json (shadow cross-check, not scored)",
   "n": 497,
   "coverage": {
@@ -9,20 +9,20 @@
     "fetched": 497,
     "withTtm": 490,
     "withVintages": 495,
-    "vintageRecords": 17778
+    "vintageRecords": 17770
   },
   "byMetric": {
     "revGrowthTTM": {
-      "n": 487,
+      "n": 490,
       "mode": "points",
-      "medianAbsDivergencePct": 0.03436039149964487,
-      "p90AbsDivergencePct": 6.249493435951569,
+      "medianAbsDivergencePct": 0.034955100160046104,
+      "p90AbsDivergencePct": 7.052683563660393,
       "worst": [
         {
           "ticker": "COF",
-          "sec": 18.491466589528493,
+          "sec": 42.15274128568927,
           "yf": 1111.0,
-          "divergencePct": -1092.5085334104715
+          "divergencePct": -1068.8472587143108
         },
         {
           "ticker": "LHX",
@@ -81,11 +81,17 @@
       ]
     },
     "epsGrowthTTM": {
-      "n": 432,
+      "n": 434,
       "mode": "points",
-      "medianAbsDivergencePct": 0.04424294761081793,
-      "p90AbsDivergencePct": 30.16177570093464,
+      "medianAbsDivergencePct": 0.04712208236587223,
+      "p90AbsDivergencePct": 49.959999999999994,
       "worst": [
+        {
+          "ticker": "CIEN",
+          "sec": 422.85714285714295,
+          "yf": 2383.3,
+          "divergencePct": -1960.4428571428573
+        },
         {
           "ticker": "PFG",
           "sec": 819.047619047619,
@@ -135,24 +141,18 @@
           "divergencePct": 196.98888888888888
         },
         {
-          "ticker": "DLR",
-          "sec": 70.37037037037037,
-          "yf": -58.7,
-          "divergencePct": 129.07037037037037
-        },
-        {
-          "ticker": "WELL",
-          "sec": 154.99999999999997,
-          "yf": 35.6,
-          "divergencePct": 119.39999999999998
+          "ticker": "DLTR",
+          "sec": 196.7032967032967,
+          "yf": 9.5,
+          "divergencePct": 187.2032967032967
         }
       ]
     },
     "opMargin": {
-      "n": 400,
+      "n": 401,
       "mode": "points",
-      "medianAbsDivergencePct": 2.3128350487264386,
-      "p90AbsDivergencePct": 11.887492829980411,
+      "medianAbsDivergencePct": 2.323265424490682,
+      "p90AbsDivergencePct": 12.335011923130873,
       "worst": [
         {
           "ticker": "MRNA",
@@ -217,10 +217,10 @@
       ]
     },
     "netMargin": {
-      "n": 478,
+      "n": 481,
       "mode": "points",
-      "medianAbsDivergencePct": 0.03558059141090997,
-      "p90AbsDivergencePct": 1.4094949834447807,
+      "medianAbsDivergencePct": 0.03723041997729837,
+      "p90AbsDivergencePct": 1.8123204344761668,
       "worst": [
         {
           "ticker": "IBKR",
@@ -239,6 +239,12 @@
           "sec": 12.687224669603525,
           "yf": 31.0,
           "divergencePct": -18.312775330396477
+        },
+        {
+          "ticker": "COF",
+          "sec": 5.074871278086571,
+          "yf": 21.9,
+          "divergencePct": -16.82512872191343
         },
         {
           "ticker": "NDAQ",
@@ -275,20 +281,14 @@
           "sec": 24.110312938650814,
           "yf": 30.7,
           "divergencePct": -6.589687061349185
-        },
-        {
-          "ticker": "GS",
-          "sec": 25.002086189426,
-          "yf": 31.0,
-          "divergencePct": -5.997913810574001
         }
       ]
     },
     "grossMargin": {
-      "n": 244,
+      "n": 246,
       "mode": "points",
-      "medianAbsDivergencePct": 0.2909346711179097,
-      "p90AbsDivergencePct": 19.806902814964594,
+      "medianAbsDivergencePct": 0.3453937786645369,
+      "p90AbsDivergencePct": 19.782611817400774,
       "worst": [
         {
           "ticker": "NEM",
@@ -340,9 +340,9 @@
         },
         {
           "ticker": "ORCL",
-          "sec": 33.768477367401815,
-          "yf": 64.0,
-          "divergencePct": -30.231522632598185
+          "sec": 35.98438172721469,
+          "yf": 65.8,
+          "divergencePct": -29.815618272785308
         },
         {
           "ticker": "WAT",
@@ -353,10 +353,10 @@
       ]
     },
     "fcf": {
-      "n": 415,
+      "n": 416,
       "mode": "relative",
-      "medianAbsDivergencePct": 29.506726457399107,
-      "p90AbsDivergencePct": 104.44743740655932,
+      "medianAbsDivergencePct": 29.5215608023564,
+      "p90AbsDivergencePct": 104.68541790007464,
       "worst": [
         {
           "ticker": "XYZ",
@@ -421,10 +421,10 @@
       ]
     },
     "sharesYoYChange": {
-      "n": 431,
+      "n": 430,
       "mode": "points",
-      "medianAbsDivergencePct": 1.2044302950866532,
-      "p90AbsDivergencePct": 6.349209818998257,
+      "medianAbsDivergencePct": 1.2204477060544439,
+      "p90AbsDivergencePct": 6.169351850735008,
       "worst": [
         {
           "ticker": "TRV",
@@ -437,12 +437,6 @@
           "sec": 0.5250075406724619,
           "yf": 53.1,
           "divergencePct": -52.57499245932754
-        },
-        {
-          "ticker": "COF",
-          "sec": -4.0706435550314835,
-          "yf": 41.1,
-          "divergencePct": -45.17064355503148
         },
         {
           "ticker": "IP",
@@ -475,16 +469,22 @@
           "divergencePct": -33.84074909304675
         },
         {
-          "ticker": "LITE",
-          "sec": 28.326180257510725,
-          "yf": 7.2,
-          "divergencePct": 21.126180257510725
+          "ticker": "PANW",
+          "sec": 22.225554889022202,
+          "yf": 0.2,
+          "divergencePct": 22.025554889022203
         },
         {
           "ticker": "EQT",
           "sec": 0.23379274649590887,
           "yf": 19.7,
           "divergencePct": -19.46620725350409
+        },
+        {
+          "ticker": "KEY",
+          "sec": -2.6800602375977145,
+          "yf": 16.7,
+          "divergencePct": -19.380060237597714
         }
       ]
     }

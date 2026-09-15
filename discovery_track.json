@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-14",
+  "asOf": "2026-09-15",
   "methodology": "Historical cohorts are reconstructed with the CURRENT discovery rules (cap range $150M-$5B, fundamentals floor F>=4 / FCF>=0 / rev growth>=0, current component weights) applied to archived snapshots. This is in-sample-flavoured reconstruction, not a live track record: the rules were shaped with knowledge of the same period they are scored over. Entries marked live were logged forward at generation time with their entry prices and immutable membership (top 30 by score); only those accumulate a genuine record. Forward returns are price-only (no dividends), measured against the nearest snapshot >= 30/90 days out (within 10 days). Baseline is the same-window mean return of the full cap-range universe at each start date. Weekly cohorts overlap within the 30/90-day windows, so pooled observations are not independent.",
   "reconstructedFrom": "2025-10-20",
   "reconstructedTo": "2026-08-26",
@@ -1320,9 +1320,13 @@
         "mean": 2.836259494732954,
         "median": 3.8461538461538547
       },
-      "fwd90": null,
+      "fwd90": {
+        "n": 52,
+        "mean": 6.239017277061171,
+        "median": 5.23969421475019
+      },
       "universeFwd30Mean": 2.8009566722594075,
-      "universeFwd90Mean": null
+      "universeFwd90Mean": 5.073848728107489
     },
     {
       "date": "2026-06-24",
@@ -2577,15 +2581,88 @@
         "UTG.L": 4.71,
         "PHP.L": 0.91
       }
+    },
+    {
+      "date": "2026-09-15",
+      "n": 57,
+      "tickers": [
+        "PAY.L",
+        "SAGA.L",
+        "HOC.L",
+        "JUP.L",
+        "FDEV.L",
+        "POLR.L",
+        "ALFA.L",
+        "RICA.L",
+        "SRE.L",
+        "HFD.L",
+        "HILS.L",
+        "RMV.L",
+        "SNR.L",
+        "AO.L",
+        "GPE.L",
+        "SVS.L",
+        "TRST.L",
+        "BOY.L",
+        "ESNT.L",
+        "JD.L",
+        "BRBY.L",
+        "ATG.L",
+        "OCDO.L",
+        "FOUR.L",
+        "ELM.L",
+        "CKN.L",
+        "QQ.L",
+        "UTG.L",
+        "PHP.L",
+        "HMSO.L"
+      ],
+      "live": true,
+      "fwd30": null,
+      "fwd90": null,
+      "universeFwd30Mean": null,
+      "universeFwd90Mean": null,
+      "startPrices": {
+        "PAY.L": 6.08,
+        "SAGA.L": 5.94,
+        "HOC.L": 5.87,
+        "JUP.L": 1.6,
+        "FDEV.L": 5.43,
+        "POLR.L": 8.15,
+        "ALFA.L": 1.57,
+        "RICA.L": 3.01,
+        "SRE.L": 0.91,
+        "HFD.L": 2.44,
+        "HILS.L": 28.15,
+        "RMV.L": 4.94,
+        "SNR.L": 2.95,
+        "AO.L": 0.91,
+        "GPE.L": 3.01,
+        "SVS.L": 10.08,
+        "TRST.L": 2.62,
+        "BOY.L": 9.39,
+        "ESNT.L": 1.05,
+        "JD.L": 0.77,
+        "BRBY.L": 9.98,
+        "ATG.L": 4.45,
+        "OCDO.L": 2.07,
+        "FOUR.L": 42.8,
+        "ELM.L": 1.69,
+        "CKN.L": 49.92,
+        "QQ.L": 4.82,
+        "UTG.L": 4.73,
+        "PHP.L": 0.92,
+        "HMSO.L": 3.39
+      }
     }
   ],
   "pooled": {
     "n": 1162,
     "n30": 1162,
-    "n90": 480,
+    "n90": 532,
     "mean30": 1.1154115281229062,
-    "mean90": -8.847152520002345,
+    "mean90": -7.37256449472546,
     "universeMean30": 0.7596317082408859,
-    "universeMean90": -8.493897437310656
+    "universeMean90": -7.16772675948783
   }
 }

@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-27",
-  "lastUpdated": "2026-09-14",
+  "lastUpdated": "2026-09-15",
   "config": {
     "initialCapital": 10000,
     "currency": "GBP",
@@ -13,7 +13,7 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 3003.53,
+  "cashBalance": 2512.09,
   "positions": [
     {
       "id": "7ce31991",
@@ -246,6 +246,23 @@
       "positionPct": 5.0,
       "stopLossPrice": 121.96,
       "reviewDate": "2026-12-09"
+    },
+    {
+      "id": "25857f98",
+      "ticker": "PNC",
+      "company": "PNC Financial Services Group, I",
+      "sector": "Financials",
+      "homeIndex": "spy",
+      "entryDate": "2026-09-15",
+      "entryPrice": 242.72,
+      "scoreAtEntry": 84,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 490.21,
+      "cashCommitted": 491.44,
+      "entryFee": 1.23,
+      "positionPct": 5.0,
+      "stopLossPrice": 194.176,
+      "reviewDate": "2026-12-15"
     }
   ],
   "trades": [
@@ -673,18 +690,29 @@
         "midd": 0.0,
         "vwrl": 0.0
       }
+    },
+    {
+      "date": "2026-09-15",
+      "nav": 9827.65,
+      "benchmarkPrice": 137.02,
+      "segmentNav": {
+        "spy": 5883.81,
+        "isf": 1431.76,
+        "midd": 0.0,
+        "vwrl": 0.0
+      }
     }
   ],
   "metrics": {
-    "totalReturnPct": -2.3,
+    "totalReturnPct": -1.72,
     "benchmarkReturnPct": null,
     "excessReturnPct": null,
-    "annualizedReturnPct": -5.9,
+    "annualizedReturnPct": -4.4,
     "sharpe": null,
     "maxDrawdownPct": -2.68,
     "tradeCount": 11,
     "winRatePct": 9.1,
     "avgHoldDays": 4.1,
-    "openPositions": 14
+    "openPositions": 15
   }
 }

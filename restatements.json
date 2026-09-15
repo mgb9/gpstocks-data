@@ -1,11 +1,11 @@
 {
-  "asOf": "2026-09-14",
+  "asOf": "2026-09-15",
   "window": {
     "from": "2025-10-20",
-    "to": "2026-09-14"
+    "to": "2026-09-15"
   },
-  "pairsCompared": 120,
-  "totalEvents": 2448,
+  "pairsCompared": 121,
+  "totalEvents": 2455,
   "events": [
     {
       "ticker": "STX",
@@ -1360,6 +1360,14 @@
       "relChangePct": 300.0
     },
     {
+      "ticker": "IHP.L",
+      "date": "2026-09-15",
+      "field": "piotroskiF",
+      "prev": 1,
+      "curr": 4,
+      "relChangePct": 300.0
+    },
+    {
       "ticker": "AMP",
       "date": "2026-04-27",
       "field": "currentRatio",
@@ -2242,6 +2250,14 @@
     {
       "ticker": "DGE.L",
       "date": "2026-09-07",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 5,
+      "relChangePct": 150.0
+    },
+    {
+      "ticker": "MTD",
+      "date": "2026-09-15",
       "field": "piotroskiF",
       "prev": 2,
       "curr": 5,
@@ -3624,6 +3640,14 @@
       "relChangePct": 100.0
     },
     {
+      "ticker": "MU",
+      "date": "2026-09-15",
+      "field": "piotroskiF",
+      "prev": 3,
+      "curr": 6,
+      "relChangePct": 100.0
+    },
+    {
       "ticker": "STX",
       "date": "2026-08-06",
       "field": "sharesYoYChange",
@@ -3982,48 +4006,24 @@
       "prev": -0.7,
       "curr": -1.3,
       "relChangePct": -85.71
-    },
-    {
-      "ticker": "MRK",
-      "date": "2026-08-10",
-      "field": "opMargin",
-      "prev": -1.4,
-      "curr": -0.2,
-      "relChangePct": 85.71
-    },
-    {
-      "ticker": "PH",
-      "date": "2026-08-25",
-      "field": "revTrend3y",
-      "prev": 1.4,
-      "curr": 2.6,
-      "relChangePct": 85.71
-    },
-    {
-      "ticker": "PWR",
-      "date": "2026-08-03",
-      "field": "epsGrowthTTM",
-      "prev": 51,
-      "curr": 94.7,
-      "relChangePct": 85.69
     }
   ],
   "summary": {
     "byField": {
       "fcf": 413,
-      "piotroskiF": 349,
+      "piotroskiF": 353,
       "opMargin": 316,
       "netDebtEbitda": 262,
       "revGrowthTTM": 146,
+      "epsGrowthTTM": 141,
       "interestCover": 141,
-      "epsGrowthTTM": 140,
       "currentRatio": 106,
-      "gpa": 100,
+      "gpa": 101,
       "revTrend3y": 94,
       "sharesYoYChange": 88,
       "grossMargin": 76,
       "marginTrend3y": 72,
-      "netMargin": 60,
+      "netMargin": 61,
       "roic": 53,
       "marketCap": 32
     },
@@ -4051,6 +4051,6 @@
     },
     "newFilingUpdates": 6634,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 20.4
+    "eventsPerPairAvg": 20.29
   }
 }
