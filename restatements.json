@@ -1,11 +1,11 @@
 {
-  "asOf": "2026-09-15",
+  "asOf": "2026-09-16",
   "window": {
     "from": "2025-10-20",
-    "to": "2026-09-15"
+    "to": "2026-09-16"
   },
-  "pairsCompared": 121,
-  "totalEvents": 2455,
+  "pairsCompared": 122,
+  "totalEvents": 2478,
   "events": [
     {
       "ticker": "STX",
@@ -48,12 +48,28 @@
       "relChangePct": 6100.0
     },
     {
+      "ticker": "FIX",
+      "date": "2026-09-16",
+      "field": "revGrowthTTM",
+      "prev": 1,
+      "curr": 50.3,
+      "relChangePct": 4930.0
+    },
+    {
       "ticker": "DELL",
       "date": "2026-06-11",
       "field": "fcf",
       "prev": -128,
       "curr": 5434,
       "relChangePct": 4345.31
+    },
+    {
+      "ticker": "GIS",
+      "date": "2026-09-16",
+      "field": "netDebtEbitda",
+      "prev": -0.1,
+      "curr": 3.9,
+      "relChangePct": 4000.0
     },
     {
       "ticker": "LMT",
@@ -342,6 +358,14 @@
       "prev": -0.6,
       "curr": 6.8,
       "relChangePct": 1233.33
+    },
+    {
+      "ticker": "HRL",
+      "date": "2026-09-16",
+      "field": "epsGrowthTTM",
+      "prev": -5.1,
+      "curr": -67.2,
+      "relChangePct": -1217.65
     },
     {
       "ticker": "LII",
@@ -680,6 +704,14 @@
       "relChangePct": 910.74
     },
     {
+      "ticker": "FIX",
+      "date": "2026-09-16",
+      "field": "netDebtEbitda",
+      "prev": 0.1,
+      "curr": -0.8,
+      "relChangePct": -900.0
+    },
+    {
       "ticker": "BAB.L",
       "date": "2026-07-01",
       "field": "grossMargin",
@@ -694,6 +726,14 @@
       "prev": -2.9,
       "curr": 20.8,
       "relChangePct": 817.24
+    },
+    {
+      "ticker": "COST",
+      "date": "2026-09-16",
+      "field": "netDebtEbitda",
+      "prev": -0.1,
+      "curr": -0.9,
+      "relChangePct": -800.0
     },
     {
       "ticker": "EQT",
@@ -765,6 +805,14 @@
       "field": "epsGrowthTTM",
       "prev": 0.7,
       "curr": 6,
+      "relChangePct": 757.14
+    },
+    {
+      "ticker": "STT",
+      "date": "2026-09-16",
+      "field": "revGrowthTTM",
+      "prev": -2.8,
+      "curr": 18.4,
       "relChangePct": 757.14
     },
     {
@@ -862,6 +910,14 @@
       "prev": -2.5,
       "curr": 14.1,
       "relChangePct": 664.0
+    },
+    {
+      "ticker": "HRL",
+      "date": "2026-09-16",
+      "field": "netDebtEbitda",
+      "prev": -0.3,
+      "curr": 1.6,
+      "relChangePct": 633.33
     },
     {
       "ticker": "BKR",
@@ -1158,6 +1214,14 @@
       "prev": -2.7,
       "curr": 7.7,
       "relChangePct": 385.19
+    },
+    {
+      "ticker": "STT",
+      "date": "2026-09-16",
+      "field": "epsGrowthTTM",
+      "prev": -24.1,
+      "curr": 68.2,
+      "relChangePct": 382.99
     },
     {
       "ticker": "ROK",
@@ -2408,6 +2472,14 @@
       "relChangePct": -138.46
     },
     {
+      "ticker": "FIX",
+      "date": "2026-09-16",
+      "field": "epsGrowthTTM",
+      "prev": 38.8,
+      "curr": 91.9,
+      "relChangePct": 136.86
+    },
+    {
       "ticker": "MDLZ",
       "date": "2026-07-30",
       "field": "opMargin",
@@ -2790,6 +2862,14 @@
       "prev": -1.2,
       "curr": 0.2,
       "relChangePct": 116.67
+    },
+    {
+      "ticker": "FIX",
+      "date": "2026-09-16",
+      "field": "opMargin",
+      "prev": 7.9,
+      "curr": 17.1,
+      "relChangePct": 116.46
     },
     {
       "ticker": "QQ.L",
@@ -3926,96 +4006,16 @@
       "prev": 18.6,
       "curr": 2.4,
       "relChangePct": -87.1
-    },
-    {
-      "ticker": "ROL",
-      "date": "2026-04-24",
-      "field": "epsGrowthTTM",
-      "prev": 9.9,
-      "curr": 1.3,
-      "relChangePct": -86.87
-    },
-    {
-      "ticker": "GLW",
-      "date": "2026-07-30",
-      "field": "epsGrowthTTM",
-      "prev": 138.9,
-      "curr": 18.5,
-      "relChangePct": -86.68
-    },
-    {
-      "ticker": "LMP.L",
-      "date": "2026-06-12",
-      "field": "sharesYoYChange",
-      "prev": 82.4,
-      "curr": 11.3,
-      "relChangePct": -86.29
-    },
-    {
-      "ticker": "BA",
-      "date": "2026-04-23",
-      "field": "fcf",
-      "prev": 1762.0,
-      "curr": 3278.0,
-      "relChangePct": 86.04
-    },
-    {
-      "ticker": "SAP.DE",
-      "date": "2026-04-27",
-      "field": "epsGrowthTTM",
-      "prev": 5.0,
-      "curr": 9.3,
-      "relChangePct": 86.0
-    },
-    {
-      "ticker": "PAY.L",
-      "date": "2026-06-15",
-      "field": "revTrend3y",
-      "prev": 22.8,
-      "curr": 3.2,
-      "relChangePct": -85.96
-    },
-    {
-      "ticker": "GEV",
-      "date": "2026-04-23",
-      "field": "netMargin",
-      "prev": 12.8,
-      "curr": 23.8,
-      "relChangePct": 85.94
-    },
-    {
-      "ticker": "AMZN",
-      "date": "2026-08-03",
-      "field": "fcf",
-      "prev": 22875,
-      "curr": 3219,
-      "relChangePct": -85.93
-    },
-    {
-      "ticker": "AIZ",
-      "date": "2026-05-11",
-      "field": "netDebtEbitda",
-      "prev": 1.4,
-      "curr": 0.2,
-      "relChangePct": -85.71
-    },
-    {
-      "ticker": "PG",
-      "date": "2026-08-03",
-      "field": "sharesYoYChange",
-      "prev": -0.7,
-      "curr": -1.3,
-      "relChangePct": -85.71
     }
   ],
   "summary": {
     "byField": {
       "fcf": 413,
-      "piotroskiF": 353,
-      "opMargin": 316,
-      "netDebtEbitda": 262,
-      "revGrowthTTM": 146,
-      "epsGrowthTTM": 141,
+      "piotroskiF": 360,
+      "opMargin": 320,
+      "netDebtEbitda": 266,
+      "revGrowthTTM": 150,
+      "epsGrowthTTM": 145,
       "interestCover": 141,
       "currentRatio": 106,
       "gpa": 101,
@@ -4039,18 +4039,18 @@
       "PCG": 15,
       "LVS": 15,
       "EA": 15,
+      "RSG": 15,
       "INTC": 14,
       "PKG": 14,
       "EQT": 14,
       "GLW": 14,
-      "RSG": 14,
       "SFR.L": 13,
       "CB": 13,
       "CMCSA": 13,
       "REGN": 13
     },
-    "newFilingUpdates": 6634,
+    "newFilingUpdates": 6683,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 20.29
+    "eventsPerPairAvg": 20.31
   }
 }

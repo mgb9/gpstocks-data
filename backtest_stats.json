@@ -1,27 +1,27 @@
 {
-  "asOf": "2026-09-15",
+  "asOf": "2026-09-16",
   "horizonDays": 90,
   "regime": "Normal",
-  "snapshots": 44,
+  "snapshots": 45,
   "observations": 636,
   "methodology": "weekly-sampled, fixed-horizon, run-deduplicated, non-overlapping",
   "unitOfObservation": "Label-transition, non-overlapping: one row per ticker per label-change; skip ticker until t + horizonDays after emitting. Weekly-sampled start dates.",
   "universeAttrition": {
     "droppedDelisted": 6,
-    "droppedImmature": 284,
+    "droppedImmature": 312,
     "recoveredFromIndex": 4,
-    "totalCandidates": 926,
+    "totalCandidates": 954,
     "window": {
       "from": "2025-10-20",
-      "to": "2026-09-09"
+      "to": "2026-09-16"
     }
   },
   "pitCoverage": {
-    "substituted": 10288,
-    "missing": 5080,
-    "fraction": 0.6694429984383133,
-    "fromSec": 10288,
-    "secFraction": 0.6694429984383133
+    "substituted": 10779,
+    "missing": 5185,
+    "fraction": 0.6752067151089952,
+    "fromSec": 10779,
+    "secFraction": 0.6752067151089952
   },
   "rulesVersion": "v1.6",
   "freezeDate": "2026-09-02",
@@ -232,10 +232,10 @@
         66.66666666666666
       ],
       "bootstrapSnapshots": 11,
-      "avgBenchmarkReturnPct": 3.983734520707194,
-      "avgExcessReturnPct": -2.7093603039434657,
+      "avgBenchmarkReturnPct": 3.9887694606997717,
+      "avgExcessReturnPct": -2.714395243936044,
       "hitRateVsBenchmarkPct": 39.726027397260275,
-      "informationRatio": -0.1589587462110753
+      "informationRatio": -0.15927736187854666
     },
     "Staged Buy on Dip": {
       "n": 5,
@@ -260,8 +260,8 @@
         0
       ],
       "bootstrapSnapshots": 2,
-      "avgBenchmarkReturnPct": 4.194016303356386,
-      "avgExcessReturnPct": -20.360190164112815,
+      "avgBenchmarkReturnPct": 4.267526427248026,
+      "avgExcessReturnPct": -20.433700288004452,
       "hitRateVsBenchmarkPct": 0
     },
     "Watchlist": {
@@ -884,10 +884,10 @@
         66.66666666666666
       ],
       "bootstrapSnapshots": 11,
-      "avgBenchmarkReturnPct": 3.983734520707194,
-      "avgExcessReturnPct": -2.7093603039434657,
+      "avgBenchmarkReturnPct": 3.9887694606997717,
+      "avgExcessReturnPct": -2.714395243936044,
       "hitRateVsBenchmarkPct": 39.726027397260275,
-      "informationRatio": -0.1589587462110753
+      "informationRatio": -0.15927736187854666
     },
     "Staged Buy on Dip": {
       "n": 5,
@@ -905,8 +905,8 @@
         0
       ],
       "bootstrapSnapshots": 2,
-      "avgBenchmarkReturnPct": 4.194016303356386,
-      "avgExcessReturnPct": -20.360190164112815,
+      "avgBenchmarkReturnPct": 4.267526427248026,
+      "avgExcessReturnPct": -20.433700288004452,
       "hitRateVsBenchmarkPct": 0
     },
     "Watchlist": {
@@ -1002,10 +1002,10 @@
         66.66666666666666
       ],
       "bootstrapSnapshots": 11,
-      "avgBenchmarkReturnPct": 3.983734520707194,
-      "avgExcessReturnPct": -3.0805931806557956,
+      "avgBenchmarkReturnPct": 3.9887694606997717,
+      "avgExcessReturnPct": -3.0856281206483738,
       "hitRateVsBenchmarkPct": 39.726027397260275,
-      "informationRatio": -0.18018408720089274
+      "informationRatio": -0.18050274573058936
     },
     "Staged Buy on Dip": {
       "n": 5,
@@ -1023,8 +1023,8 @@
         0
       ],
       "bootstrapSnapshots": 2,
-      "avgBenchmarkReturnPct": 4.194016303356386,
-      "avgExcessReturnPct": -20.680190164112812,
+      "avgBenchmarkReturnPct": 4.267526427248026,
+      "avgExcessReturnPct": -20.753700288004453,
       "hitRateVsBenchmarkPct": 0
     },
     "Watchlist": {
@@ -1108,10 +1108,10 @@
         66.66666666666666
       ],
       "bootstrapSnapshots": 11,
-      "avgBenchmarkReturnPct": 3.983734520707194,
-      "avgExcessReturnPct": -3.0805931806557956,
+      "avgBenchmarkReturnPct": 3.9887694606997717,
+      "avgExcessReturnPct": -3.0856281206483738,
       "hitRateVsBenchmarkPct": 39.726027397260275,
-      "informationRatio": -0.18018408720089274
+      "informationRatio": -0.18050274573058936
     },
     "Staged Buy on Dip": {
       "n": 5,
@@ -1129,8 +1129,8 @@
         0
       ],
       "bootstrapSnapshots": 2,
-      "avgBenchmarkReturnPct": 4.194016303356386,
-      "avgExcessReturnPct": -20.680190164112812,
+      "avgBenchmarkReturnPct": 4.267526427248026,
+      "avgExcessReturnPct": -20.753700288004453,
       "hitRateVsBenchmarkPct": 0
     },
     "Watchlist": {
@@ -1583,15 +1583,15 @@
     "milestones": [
       {
         "n": 10,
-        "date": "2027-03-29"
+        "date": "2027-03-30"
       },
       {
         "n": 20,
-        "date": "2027-07-11"
+        "date": "2027-07-12"
       },
       {
         "n": 50,
-        "date": "2028-05-19"
+        "date": "2028-05-20"
       }
     ],
     "killTestDate": "2028-09-02",
@@ -2459,7 +2459,7 @@
     }
   ],
   "rankICBasis": "cross-section",
-  "universeGateExcluded": 3094,
+  "universeGateExcluded": 3185,
   "thresholdSensitivity": [
     {
       "threshold": 65,
