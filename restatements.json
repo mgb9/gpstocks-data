@@ -5,7 +5,7 @@
     "to": "2026-09-16"
   },
   "pairsCompared": 122,
-  "totalEvents": 2478,
+  "totalEvents": 2473,
   "events": [
     {
       "ticker": "STX",
@@ -1426,6 +1426,14 @@
     {
       "ticker": "IHP.L",
       "date": "2026-09-15",
+      "field": "piotroskiF",
+      "prev": 1,
+      "curr": 4,
+      "relChangePct": 300.0
+    },
+    {
+      "ticker": "RIO.L",
+      "date": "2026-09-16",
       "field": "piotroskiF",
       "prev": 1,
       "curr": 4,
@@ -3998,20 +4006,12 @@
       "prev": 3.2,
       "curr": 0.4,
       "relChangePct": -87.5
-    },
-    {
-      "ticker": "SFR.L",
-      "date": "2026-07-07",
-      "field": "netDebtEbitda",
-      "prev": 18.6,
-      "curr": 2.4,
-      "relChangePct": -87.1
     }
   ],
   "summary": {
     "byField": {
       "fcf": 413,
-      "piotroskiF": 360,
+      "piotroskiF": 355,
       "opMargin": 320,
       "netDebtEbitda": 266,
       "revGrowthTTM": 150,
@@ -4039,18 +4039,18 @@
       "PCG": 15,
       "LVS": 15,
       "EA": 15,
-      "RSG": 15,
       "INTC": 14,
       "PKG": 14,
       "EQT": 14,
       "GLW": 14,
+      "RSG": 14,
       "SFR.L": 13,
       "CB": 13,
       "CMCSA": 13,
       "REGN": 13
     },
-    "newFilingUpdates": 6683,
+    "newFilingUpdates": 6682,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 20.31
+    "eventsPerPairAvg": 20.27
   }
 }
