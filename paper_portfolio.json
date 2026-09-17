@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-27",
-  "lastUpdated": "2026-09-16",
+  "lastUpdated": "2026-09-17",
   "config": {
     "initialCapital": 10000,
     "currency": "GBP",
@@ -13,7 +13,7 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 5427.68,
+  "cashBalance": 5410.83,
   "positions": [
     {
       "id": "7ce31991",
@@ -28,21 +28,6 @@
       "costBasis": 500.0,
       "positionPct": 5.0,
       "stopLossPrice": 53.608,
-      "reviewDate": "2026-11-24"
-    },
-    {
-      "id": "6c2690b9",
-      "ticker": "AMZN",
-      "company": "Amazon.com, Inc.",
-      "sector": "Consumer Discretionary",
-      "homeIndex": "spy",
-      "entryDate": "2026-08-24",
-      "entryPrice": 258.63,
-      "scoreAtEntry": 76,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 206.904,
       "reviewDate": "2026-11-24"
     },
     {
@@ -161,6 +146,23 @@
       "positionPct": 5.0,
       "stopLossPrice": 271.264,
       "reviewDate": "2026-12-04"
+    },
+    {
+      "id": "d8f8f5fd",
+      "ticker": "CCH.L",
+      "company": "COCA-COLA HBC AG ORD CHF6.70 (C",
+      "sector": "Consumer Staples",
+      "homeIndex": "isf",
+      "entryDate": "2026-09-17",
+      "entryPrice": 45.84,
+      "scoreAtEntry": 78,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 488.22,
+      "cashCommitted": 491.17,
+      "entryFee": 2.95,
+      "positionPct": 5.0,
+      "stopLossPrice": 36.672,
+      "reviewDate": "2026-12-17"
     }
   ],
   "trades": [
@@ -520,6 +522,27 @@
       "plPct": -1.3,
       "holdDays": 1,
       "positionPct": 5.0
+    },
+    {
+      "id": "6c2690b9",
+      "ticker": "AMZN",
+      "company": "Amazon.com, Inc.",
+      "sector": "Consumer Discretionary",
+      "entryDate": "2026-08-24",
+      "entryPrice": 258.63,
+      "scoreAtEntry": 76,
+      "labelAtEntry": "Buy Now",
+      "exitDate": "2026-09-17",
+      "exitPrice": 245.96,
+      "exitReason": "label_changed_avoid",
+      "costBasis": 500.0,
+      "cashCommitted": 500.0,
+      "entryFee": 0.0,
+      "exitFee": 1.19,
+      "proceeds": 474.32,
+      "plPct": -5.14,
+      "holdDays": 24,
+      "positionPct": 5.0
     }
   ],
   "navHistory": [
@@ -736,18 +759,29 @@
         "midd": 0.0,
         "vwrl": 0.0
       }
+    },
+    {
+      "date": "2026-09-17",
+      "nav": 9820.44,
+      "benchmarkPrice": 139.1,
+      "segmentNav": {
+        "spy": 3921.39,
+        "isf": 488.22,
+        "midd": 0.0,
+        "vwrl": 0.0
+      }
     }
   ],
   "metrics": {
-    "totalReturnPct": -1.64,
+    "totalReturnPct": -1.8,
     "benchmarkReturnPct": null,
     "excessReturnPct": null,
-    "annualizedReturnPct": -4.17,
-    "sharpe": null,
+    "annualizedReturnPct": -4.52,
+    "sharpe": -4.47,
     "maxDrawdownPct": -2.68,
-    "tradeCount": 17,
-    "winRatePct": 5.9,
-    "avgHoldDays": 5.6,
+    "tradeCount": 18,
+    "winRatePct": 5.6,
+    "avgHoldDays": 6.7,
     "openPositions": 9
   }
 }
