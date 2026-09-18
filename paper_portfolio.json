@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-27",
-  "lastUpdated": "2026-09-17",
+  "lastUpdated": "2026-09-18",
   "config": {
     "initialCapital": 10000,
     "currency": "GBP",
@@ -13,7 +13,7 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 5410.83,
+  "cashBalance": 4905.94,
   "positions": [
     {
       "id": "7ce31991",
@@ -29,21 +29,6 @@
       "positionPct": 5.0,
       "stopLossPrice": 53.608,
       "reviewDate": "2026-11-24"
-    },
-    {
-      "id": "5044bdd7",
-      "ticker": "HIG",
-      "company": "The Hartford Insurance Group, I",
-      "sector": "Financials",
-      "homeIndex": "spy",
-      "entryDate": "2026-08-25",
-      "entryPrice": 138.98,
-      "scoreAtEntry": 83,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.02,
-      "positionPct": 5.0,
-      "stopLossPrice": 111.184,
-      "reviewDate": "2026-11-25"
     },
     {
       "id": "7bbd4325",
@@ -163,6 +148,40 @@
       "positionPct": 5.0,
       "stopLossPrice": 36.672,
       "reviewDate": "2026-12-17"
+    },
+    {
+      "id": "638071c6",
+      "ticker": "HST",
+      "company": "Host Hotels & Resorts, Inc.",
+      "sector": "Real Estate",
+      "homeIndex": "spy",
+      "entryDate": "2026-09-18",
+      "entryPrice": 21.9,
+      "scoreAtEntry": 77,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 490.12,
+      "cashCommitted": 491.35,
+      "entryFee": 1.23,
+      "positionPct": 5.0,
+      "stopLossPrice": 17.52,
+      "reviewDate": "2026-12-18"
+    },
+    {
+      "id": "42039cc9",
+      "ticker": "AMZN",
+      "company": "Amazon.com, Inc.",
+      "sector": "Consumer Discretionary",
+      "homeIndex": "spy",
+      "entryDate": "2026-09-18",
+      "entryPrice": 251.19,
+      "scoreAtEntry": 76,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 490.12,
+      "cashCommitted": 491.35,
+      "entryFee": 1.23,
+      "positionPct": 5.0,
+      "stopLossPrice": 200.952,
+      "reviewDate": "2026-12-18"
     }
   ],
   "trades": [
@@ -543,6 +562,27 @@
       "plPct": -5.14,
       "holdDays": 24,
       "positionPct": 5.0
+    },
+    {
+      "id": "5044bdd7",
+      "ticker": "HIG",
+      "company": "The Hartford Insurance Group, I",
+      "sector": "Financials",
+      "entryDate": "2026-08-25",
+      "entryPrice": 138.98,
+      "scoreAtEntry": 83,
+      "labelAtEntry": "Buy Now",
+      "exitDate": "2026-09-18",
+      "exitPrice": 133.14,
+      "exitReason": "label_changed_avoid",
+      "costBasis": 500.02,
+      "cashCommitted": 500.02,
+      "entryFee": 0.0,
+      "exitFee": 1.2,
+      "proceeds": 477.81,
+      "plPct": -4.44,
+      "holdDays": 24,
+      "positionPct": 5.0
     }
   ],
   "navHistory": [
@@ -770,18 +810,29 @@
         "midd": 0.0,
         "vwrl": 0.0
       }
+    },
+    {
+      "date": "2026-09-18",
+      "nav": 9824.6,
+      "benchmarkPrice": 138.64,
+      "segmentNav": {
+        "spy": 4427.67,
+        "isf": 490.99,
+        "midd": 0.0,
+        "vwrl": 0.0
+      }
     }
   ],
   "metrics": {
-    "totalReturnPct": -1.8,
+    "totalReturnPct": -1.75,
     "benchmarkReturnPct": null,
     "excessReturnPct": null,
-    "annualizedReturnPct": -4.52,
-    "sharpe": -4.47,
+    "annualizedReturnPct": -4.39,
+    "sharpe": -4.305,
     "maxDrawdownPct": -2.68,
-    "tradeCount": 18,
-    "winRatePct": 5.6,
-    "avgHoldDays": 6.7,
-    "openPositions": 9
+    "tradeCount": 19,
+    "winRatePct": 5.3,
+    "avgHoldDays": 7.6,
+    "openPositions": 10
   }
 }
