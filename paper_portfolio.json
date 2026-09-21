@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-27",
-  "lastUpdated": "2026-09-18",
+  "lastUpdated": "2026-09-21",
   "config": {
     "initialCapital": 10000,
     "currency": "GBP",
@@ -13,7 +13,7 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 4905.94,
+  "cashBalance": 5393.5,
   "positions": [
     {
       "id": "7ce31991",
@@ -148,23 +148,6 @@
       "positionPct": 5.0,
       "stopLossPrice": 36.672,
       "reviewDate": "2026-12-17"
-    },
-    {
-      "id": "638071c6",
-      "ticker": "HST",
-      "company": "Host Hotels & Resorts, Inc.",
-      "sector": "Real Estate",
-      "homeIndex": "spy",
-      "entryDate": "2026-09-18",
-      "entryPrice": 21.9,
-      "scoreAtEntry": 77,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 490.12,
-      "cashCommitted": 491.35,
-      "entryFee": 1.23,
-      "positionPct": 5.0,
-      "stopLossPrice": 17.52,
-      "reviewDate": "2026-12-18"
     },
     {
       "id": "42039cc9",
@@ -583,6 +566,27 @@
       "plPct": -4.44,
       "holdDays": 24,
       "positionPct": 5.0
+    },
+    {
+      "id": "638071c6",
+      "ticker": "HST",
+      "company": "Host Hotels & Resorts, Inc.",
+      "sector": "Real Estate",
+      "entryDate": "2026-09-18",
+      "entryPrice": 21.9,
+      "scoreAtEntry": 77,
+      "labelAtEntry": "Buy Now",
+      "exitDate": "2026-09-21",
+      "exitPrice": 21.84,
+      "exitReason": "label_changed_avoid",
+      "costBasis": 490.12,
+      "cashCommitted": 491.35,
+      "entryFee": 1.23,
+      "exitFee": 1.22,
+      "proceeds": 487.56,
+      "plPct": -0.77,
+      "holdDays": 3,
+      "positionPct": 5.0
     }
   ],
   "navHistory": [
@@ -821,18 +825,29 @@
         "midd": 0.0,
         "vwrl": 0.0
       }
+    },
+    {
+      "date": "2026-09-21",
+      "nav": 9776.2,
+      "benchmarkPrice": 140.45,
+      "segmentNav": {
+        "spy": 3930.28,
+        "isf": 452.43,
+        "midd": 0.0,
+        "vwrl": 0.0
+      }
     }
   ],
   "metrics": {
-    "totalReturnPct": -1.75,
+    "totalReturnPct": -2.24,
     "benchmarkReturnPct": null,
     "excessReturnPct": null,
-    "annualizedReturnPct": -4.39,
-    "sharpe": -4.305,
+    "annualizedReturnPct": -5.47,
+    "sharpe": -5.077,
     "maxDrawdownPct": -2.68,
-    "tradeCount": 19,
-    "winRatePct": 5.3,
-    "avgHoldDays": 7.6,
-    "openPositions": 10
+    "tradeCount": 20,
+    "winRatePct": 5.0,
+    "avgHoldDays": 7.3,
+    "openPositions": 9
   }
 }
