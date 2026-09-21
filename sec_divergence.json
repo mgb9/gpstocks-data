@@ -2,7 +2,7 @@
   "asOf": "2026-09-21",
   "secAsOf": "2026-09-21",
   "source": "sec_fundamentals.json vs stocks.json (shadow cross-check, not scored)",
-  "n": 497,
+  "n": 488,
   "coverage": {
     "requested": 503,
     "mapped": 497,
@@ -13,10 +13,10 @@
   },
   "byMetric": {
     "revGrowthTTM": {
-      "n": 490,
+      "n": 480,
       "mode": "points",
-      "medianAbsDivergencePct": 0.03407344802830792,
-      "p90AbsDivergencePct": 5.767187916196981,
+      "medianAbsDivergencePct": 0.03434099900195797,
+      "p90AbsDivergencePct": 5.790440039301776,
       "worst": [
         {
           "ticker": "COF",
@@ -81,10 +81,10 @@
       ]
     },
     "epsGrowthTTM": {
-      "n": 435,
+      "n": 425,
       "mode": "points",
-      "medianAbsDivergencePct": 0.04285714285715869,
-      "p90AbsDivergencePct": 23.58156862745098,
+      "medianAbsDivergencePct": 0.042857142857201325,
+      "p90AbsDivergencePct": 23.837491039426524,
       "worst": [
         {
           "ticker": "PFG",
@@ -149,10 +149,10 @@
       ]
     },
     "opMargin": {
-      "n": 401,
+      "n": 391,
       "mode": "points",
-      "medianAbsDivergencePct": 2.3024046729621954,
-      "p90AbsDivergencePct": 11.880500521376433,
+      "medianAbsDivergencePct": 2.323265424490682,
+      "p90AbsDivergencePct": 11.9504236074162,
       "worst": [
         {
           "ticker": "MRNA",
@@ -217,9 +217,9 @@
       ]
     },
     "netMargin": {
-      "n": 481,
+      "n": 471,
       "mode": "points",
-      "medianAbsDivergencePct": 0.03561920285636688,
+      "medianAbsDivergencePct": 0.03528423464888064,
       "p90AbsDivergencePct": 1.5273101824602708,
       "worst": [
         {
@@ -285,10 +285,10 @@
       ]
     },
     "grossMargin": {
-      "n": 246,
+      "n": 238,
       "mode": "points",
-      "medianAbsDivergencePct": 0.28647519741846494,
-      "p90AbsDivergencePct": 19.782611817400774,
+      "medianAbsDivergencePct": 0.2723034006976732,
+      "p90AbsDivergencePct": 19.758320819836953,
       "worst": [
         {
           "ticker": "NEM",
@@ -353,10 +353,10 @@
       ]
     },
     "fcf": {
-      "n": 418,
+      "n": 410,
       "mode": "relative",
-      "medianAbsDivergencePct": 29.48550608584241,
-      "p90AbsDivergencePct": 104.28490225393162,
+      "medianAbsDivergencePct": 29.5215608023564,
+      "p90AbsDivergencePct": 105.38608997858736,
       "worst": [
         {
           "ticker": "XYZ",
@@ -421,10 +421,10 @@
       ]
     },
     "sharesYoYChange": {
-      "n": 433,
+      "n": 427,
       "mode": "points",
-      "medianAbsDivergencePct": 1.2044302950866532,
-      "p90AbsDivergencePct": 6.287069830682297,
+      "medianAbsDivergencePct": 1.2159609144380743,
+      "p90AbsDivergencePct": 6.362619574780034,
       "worst": [
         {
           "ticker": "TRV",

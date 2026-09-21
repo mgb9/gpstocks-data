@@ -1440,14 +1440,6 @@
       "relChangePct": 300.0
     },
     {
-      "ticker": "SSE.L",
-      "date": "2026-09-21",
-      "field": "piotroskiF",
-      "prev": 1,
-      "curr": 4,
-      "relChangePct": 300.0
-    },
-    {
       "ticker": "AMP",
       "date": "2026-04-27",
       "field": "currentRatio",
@@ -4006,6 +3998,14 @@
       "prev": 1037,
       "curr": 1955,
       "relChangePct": 88.52
+    },
+    {
+      "ticker": "DVN",
+      "date": "2026-05-11",
+      "field": "marketCap",
+      "prev": 28387,
+      "curr": 53504,
+      "relChangePct": 88.48
     }
   ],
   "summary": {
@@ -4049,7 +4049,7 @@
       "CMCSA": 13,
       "REGN": 13
     },
-    "newFilingUpdates": 6705,
+    "newFilingUpdates": 6698,
     "unclassifiedChanges": 110,
     "eventsPerPairAvg": 19.88
   }
