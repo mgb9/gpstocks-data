@@ -1,11 +1,11 @@
 {
-  "asOf": "2026-09-21",
+  "asOf": "2026-09-22",
   "window": {
     "from": "2025-10-20",
-    "to": "2026-09-21"
+    "to": "2026-09-22"
   },
-  "pairsCompared": 125,
-  "totalEvents": 2485,
+  "pairsCompared": 126,
+  "totalEvents": 2487,
   "events": [
     {
       "ticker": "STX",
@@ -3752,6 +3752,14 @@
       "relChangePct": 100.0
     },
     {
+      "ticker": "LSEG.L",
+      "date": "2026-09-22",
+      "field": "piotroskiF",
+      "prev": 3,
+      "curr": 6,
+      "relChangePct": 100.0
+    },
+    {
       "ticker": "STX",
       "date": "2026-08-06",
       "field": "sharesYoYChange",
@@ -3998,24 +4006,16 @@
       "prev": 1037,
       "curr": 1955,
       "relChangePct": 88.52
-    },
-    {
-      "ticker": "DVN",
-      "date": "2026-05-11",
-      "field": "marketCap",
-      "prev": 28387,
-      "curr": 53504,
-      "relChangePct": 88.48
     }
   ],
   "summary": {
     "byField": {
       "fcf": 414,
-      "piotroskiF": 364,
+      "piotroskiF": 365,
       "opMargin": 321,
       "netDebtEbitda": 266,
       "revGrowthTTM": 150,
-      "epsGrowthTTM": 145,
+      "epsGrowthTTM": 146,
       "interestCover": 141,
       "currentRatio": 106,
       "gpa": 101,
@@ -4049,8 +4049,8 @@
       "CMCSA": 13,
       "REGN": 13
     },
-    "newFilingUpdates": 6698,
+    "newFilingUpdates": 6700,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 19.88
+    "eventsPerPairAvg": 19.74
   }
 }

@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-27",
-  "lastUpdated": "2026-09-21",
+  "lastUpdated": "2026-09-22",
   "config": {
     "initialCapital": 10000,
     "currency": "GBP",
@@ -13,7 +13,7 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 5393.5,
+  "cashBalance": 4415.74,
   "positions": [
     {
       "id": "7ce31991",
@@ -165,6 +165,40 @@
       "positionPct": 5.0,
       "stopLossPrice": 200.952,
       "reviewDate": "2026-12-18"
+    },
+    {
+      "id": "a92f213f",
+      "ticker": "PNC",
+      "company": "PNC Financial Services Group, I",
+      "sector": "Financials",
+      "homeIndex": "spy",
+      "entryDate": "2026-09-22",
+      "entryPrice": 233.25,
+      "scoreAtEntry": 80,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 487.66,
+      "cashCommitted": 488.88,
+      "entryFee": 1.22,
+      "positionPct": 5.0,
+      "stopLossPrice": 186.6,
+      "reviewDate": "2026-12-22"
+    },
+    {
+      "id": "c341253b",
+      "ticker": "SCHW",
+      "company": "Charles Schwab Corporation (The",
+      "sector": "Financials",
+      "homeIndex": "spy",
+      "entryDate": "2026-09-22",
+      "entryPrice": 106.88,
+      "scoreAtEntry": 76,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 487.66,
+      "cashCommitted": 488.88,
+      "entryFee": 1.22,
+      "positionPct": 5.0,
+      "stopLossPrice": 85.504,
+      "reviewDate": "2026-12-22"
     }
   ],
   "trades": [
@@ -836,18 +870,29 @@
         "midd": 0.0,
         "vwrl": 0.0
       }
+    },
+    {
+      "date": "2026-09-22",
+      "nav": 9775.08,
+      "benchmarkPrice": 141.31,
+      "segmentNav": {
+        "spy": 4903.71,
+        "isf": 455.63,
+        "midd": 0.0,
+        "vwrl": 0.0
+      }
     }
   ],
   "metrics": {
-    "totalReturnPct": -2.24,
+    "totalReturnPct": -2.25,
     "benchmarkReturnPct": null,
     "excessReturnPct": null,
-    "annualizedReturnPct": -5.47,
-    "sharpe": -5.077,
+    "annualizedReturnPct": -5.46,
+    "sharpe": -5.019,
     "maxDrawdownPct": -2.68,
     "tradeCount": 20,
     "winRatePct": 5.0,
     "avgHoldDays": 7.3,
-    "openPositions": 9
+    "openPositions": 11
   }
 }
