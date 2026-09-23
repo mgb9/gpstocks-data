@@ -1,11 +1,11 @@
 {
-  "asOf": "2026-09-22",
+  "asOf": "2026-09-23",
   "window": {
     "from": "2025-10-20",
-    "to": "2026-09-22"
+    "to": "2026-09-23"
   },
-  "pairsCompared": 126,
-  "totalEvents": 2487,
+  "pairsCompared": 127,
+  "totalEvents": 2496,
   "events": [
     {
       "ticker": "STX",
@@ -1264,6 +1264,14 @@
       "relChangePct": -357.14
     },
     {
+      "ticker": "HAS.L",
+      "date": "2026-09-23",
+      "field": "gpa",
+      "prev": 0.122,
+      "curr": 0.553,
+      "relChangePct": 353.28
+    },
+    {
       "ticker": "SNDK",
       "date": "2026-08-19",
       "field": "revTrend3y",
@@ -1342,6 +1350,14 @@
       "prev": 0.8,
       "curr": 3.4,
       "relChangePct": 325.0
+    },
+    {
+      "ticker": "HAS.L",
+      "date": "2026-09-23",
+      "field": "grossMargin",
+      "prev": 3.4,
+      "curr": 14.1,
+      "relChangePct": 314.71
     },
     {
       "ticker": "MRK",
@@ -1438,6 +1454,14 @@
       "prev": 1,
       "curr": 4,
       "relChangePct": 300.0
+    },
+    {
+      "ticker": "HAS.L",
+      "date": "2026-09-23",
+      "field": "revTrend3y",
+      "prev": 2.7,
+      "curr": -5.4,
+      "relChangePct": -300.0
     },
     {
       "ticker": "AMP",
@@ -1982,6 +2006,14 @@
       "prev": -0.7,
       "curr": -2,
       "relChangePct": -185.71
+    },
+    {
+      "ticker": "HAS.L",
+      "date": "2026-09-23",
+      "field": "opMargin",
+      "prev": -1.3,
+      "curr": 1.1,
+      "relChangePct": 184.62
     },
     {
       "ticker": "SATS",
@@ -3974,55 +4006,23 @@
       "prev": 3.5,
       "curr": 0.3,
       "relChangePct": -91.43
-    },
-    {
-      "ticker": "JMAT.L",
-      "date": "2026-06-12",
-      "field": "revTrend3y",
-      "prev": -7.9,
-      "curr": -0.7,
-      "relChangePct": 91.14
-    },
-    {
-      "ticker": "VP.L",
-      "date": "2026-06-19",
-      "field": "interestCover",
-      "prev": 3.1,
-      "curr": 0.3,
-      "relChangePct": -90.32
-    },
-    {
-      "ticker": "BXP",
-      "date": "2026-05-11",
-      "field": "revGrowthTTM",
-      "prev": 5.6,
-      "curr": 0.6,
-      "relChangePct": -89.29
-    },
-    {
-      "ticker": "PWR",
-      "date": "2026-08-03",
-      "field": "fcf",
-      "prev": 1037,
-      "curr": 1955,
-      "relChangePct": 88.52
     }
   ],
   "summary": {
     "byField": {
-      "fcf": 414,
-      "piotroskiF": 365,
-      "opMargin": 321,
+      "fcf": 415,
+      "piotroskiF": 367,
+      "opMargin": 322,
       "netDebtEbitda": 266,
       "revGrowthTTM": 150,
       "epsGrowthTTM": 146,
-      "interestCover": 141,
+      "interestCover": 142,
       "currentRatio": 106,
-      "gpa": 101,
-      "revTrend3y": 94,
+      "gpa": 102,
+      "revTrend3y": 95,
       "sharesYoYChange": 88,
-      "grossMargin": 76,
-      "marginTrend3y": 72,
+      "grossMargin": 77,
+      "marginTrend3y": 73,
       "netMargin": 61,
       "roic": 53,
       "marketCap": 33
@@ -4049,8 +4049,8 @@
       "CMCSA": 13,
       "REGN": 13
     },
-    "newFilingUpdates": 6700,
+    "newFilingUpdates": 6713,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 19.74
+    "eventsPerPairAvg": 19.65
   }
 }

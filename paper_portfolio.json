@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-27",
-  "lastUpdated": "2026-09-22",
+  "lastUpdated": "2026-09-23",
   "config": {
     "initialCapital": 10000,
     "currency": "GBP",
@@ -13,7 +13,7 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 4415.74,
+  "cashBalance": 4902.18,
   "positions": [
     {
       "id": "7ce31991",
@@ -165,23 +165,6 @@
       "positionPct": 5.0,
       "stopLossPrice": 200.952,
       "reviewDate": "2026-12-18"
-    },
-    {
-      "id": "a92f213f",
-      "ticker": "PNC",
-      "company": "PNC Financial Services Group, I",
-      "sector": "Financials",
-      "homeIndex": "spy",
-      "entryDate": "2026-09-22",
-      "entryPrice": 233.25,
-      "scoreAtEntry": 80,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 487.66,
-      "cashCommitted": 488.88,
-      "entryFee": 1.22,
-      "positionPct": 5.0,
-      "stopLossPrice": 186.6,
-      "reviewDate": "2026-12-22"
     },
     {
       "id": "c341253b",
@@ -621,6 +604,27 @@
       "plPct": -0.77,
       "holdDays": 3,
       "positionPct": 5.0
+    },
+    {
+      "id": "a92f213f",
+      "ticker": "PNC",
+      "company": "PNC Financial Services Group, I",
+      "sector": "Financials",
+      "entryDate": "2026-09-22",
+      "entryPrice": 233.25,
+      "scoreAtEntry": 80,
+      "labelAtEntry": "Buy Now",
+      "exitDate": "2026-09-23",
+      "exitPrice": 233.25,
+      "exitReason": "label_changed_avoid",
+      "costBasis": 487.66,
+      "cashCommitted": 488.88,
+      "entryFee": 1.22,
+      "exitFee": 1.22,
+      "proceeds": 486.44,
+      "plPct": -0.5,
+      "holdDays": 1,
+      "positionPct": 5.0
     }
   ],
   "navHistory": [
@@ -881,18 +885,29 @@
         "midd": 0.0,
         "vwrl": 0.0
       }
+    },
+    {
+      "date": "2026-09-23",
+      "nav": 9787.7,
+      "benchmarkPrice": 141.03,
+      "segmentNav": {
+        "spy": 4416.05,
+        "isf": 469.48,
+        "midd": 0.0,
+        "vwrl": 0.0
+      }
     }
   ],
   "metrics": {
-    "totalReturnPct": -2.25,
+    "totalReturnPct": -2.12,
     "benchmarkReturnPct": null,
     "excessReturnPct": null,
-    "annualizedReturnPct": -5.46,
-    "sharpe": -5.019,
+    "annualizedReturnPct": -5.12,
+    "sharpe": -4.674,
     "maxDrawdownPct": -2.68,
-    "tradeCount": 20,
-    "winRatePct": 5.0,
-    "avgHoldDays": 7.3,
-    "openPositions": 11
+    "tradeCount": 21,
+    "winRatePct": 4.8,
+    "avgHoldDays": 7.0,
+    "openPositions": 10
   }
 }
