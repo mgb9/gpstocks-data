@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-27",
-  "lastUpdated": "2026-09-23",
+  "lastUpdated": "2026-09-24",
   "config": {
     "initialCapital": 10000,
     "currency": "GBP",
@@ -13,7 +13,7 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 4902.18,
+  "cashBalance": 5782.24,
   "positions": [
     {
       "id": "7ce31991",
@@ -29,23 +29,6 @@
       "positionPct": 5.0,
       "stopLossPrice": 53.608,
       "reviewDate": "2026-11-24"
-    },
-    {
-      "id": "7bbd4325",
-      "ticker": "ALL",
-      "company": "Allstate Corporation (The)",
-      "sector": "Financials",
-      "homeIndex": "spy",
-      "entryDate": "2026-08-27",
-      "entryPrice": 261.81,
-      "scoreAtEntry": 85,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 496.88,
-      "cashCommitted": 498.13,
-      "entryFee": 1.25,
-      "positionPct": 5.0,
-      "stopLossPrice": 209.448,
-      "reviewDate": "2026-11-27"
     },
     {
       "id": "0d935e6d",
@@ -165,23 +148,6 @@
       "positionPct": 5.0,
       "stopLossPrice": 200.952,
       "reviewDate": "2026-12-18"
-    },
-    {
-      "id": "c341253b",
-      "ticker": "SCHW",
-      "company": "Charles Schwab Corporation (The",
-      "sector": "Financials",
-      "homeIndex": "spy",
-      "entryDate": "2026-09-22",
-      "entryPrice": 106.88,
-      "scoreAtEntry": 76,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 487.66,
-      "cashCommitted": 488.88,
-      "entryFee": 1.22,
-      "positionPct": 5.0,
-      "stopLossPrice": 85.504,
-      "reviewDate": "2026-12-22"
     }
   ],
   "trades": [
@@ -625,6 +591,48 @@
       "plPct": -0.5,
       "holdDays": 1,
       "positionPct": 5.0
+    },
+    {
+      "id": "7bbd4325",
+      "ticker": "ALL",
+      "company": "Allstate Corporation (The)",
+      "sector": "Financials",
+      "entryDate": "2026-08-27",
+      "entryPrice": 261.81,
+      "scoreAtEntry": 85,
+      "labelAtEntry": "Buy Now",
+      "exitDate": "2026-09-24",
+      "exitPrice": 225.66,
+      "exitReason": "label_changed_avoid",
+      "costBasis": 496.88,
+      "cashCommitted": 498.13,
+      "entryFee": 1.25,
+      "exitFee": 1.07,
+      "proceeds": 427.2,
+      "plPct": -14.24,
+      "holdDays": 28,
+      "positionPct": 5.0
+    },
+    {
+      "id": "c341253b",
+      "ticker": "SCHW",
+      "company": "Charles Schwab Corporation (The",
+      "sector": "Financials",
+      "entryDate": "2026-09-22",
+      "entryPrice": 106.88,
+      "scoreAtEntry": 76,
+      "labelAtEntry": "Buy Now",
+      "exitDate": "2026-09-24",
+      "exitPrice": 99.5,
+      "exitReason": "label_changed_avoid",
+      "costBasis": 487.66,
+      "cashCommitted": 488.88,
+      "entryFee": 1.22,
+      "exitFee": 1.13,
+      "proceeds": 452.86,
+      "plPct": -7.37,
+      "holdDays": 2,
+      "positionPct": 5.0
     }
   ],
   "navHistory": [
@@ -896,18 +904,29 @@
         "midd": 0.0,
         "vwrl": 0.0
       }
+    },
+    {
+      "date": "2026-09-24",
+      "nav": 9602.84,
+      "benchmarkPrice": 140.61,
+      "segmentNav": {
+        "spy": 3353.68,
+        "isf": 466.92,
+        "midd": 0.0,
+        "vwrl": 0.0
+      }
     }
   ],
   "metrics": {
-    "totalReturnPct": -2.12,
+    "totalReturnPct": -3.97,
     "benchmarkReturnPct": null,
     "excessReturnPct": null,
-    "annualizedReturnPct": -5.12,
-    "sharpe": -4.674,
-    "maxDrawdownPct": -2.68,
-    "tradeCount": 21,
-    "winRatePct": 4.8,
-    "avgHoldDays": 7.0,
-    "openPositions": 10
+    "annualizedReturnPct": -9.39,
+    "sharpe": -5.612,
+    "maxDrawdownPct": -3.98,
+    "tradeCount": 23,
+    "winRatePct": 4.3,
+    "avgHoldDays": 7.7,
+    "openPositions": 8
   }
 }
