@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-27",
-  "lastUpdated": "2026-09-25",
+  "lastUpdated": "2026-09-28",
   "config": {
     "initialCapital": 10000,
     "currency": "GBP",
@@ -13,7 +13,7 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 5782.24,
+  "cashBalance": 5300.41,
   "positions": [
     {
       "id": "7ce31991",
@@ -148,6 +148,23 @@
       "positionPct": 5.0,
       "stopLossPrice": 200.952,
       "reviewDate": "2026-12-18"
+    },
+    {
+      "id": "d0e993ec",
+      "ticker": "IMI.L",
+      "company": "IMI PLC ORD 28 4/7P",
+      "sector": "Industrials",
+      "homeIndex": "isf",
+      "entryDate": "2026-09-28",
+      "entryPrice": 31.2,
+      "scoreAtEntry": 75,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 478.94,
+      "cashCommitted": 481.83,
+      "entryFee": 2.89,
+      "positionPct": 5.0,
+      "stopLossPrice": 24.96,
+      "reviewDate": "2026-12-28"
     }
   ],
   "trades": [
@@ -926,18 +943,29 @@
         "midd": 0.0,
         "vwrl": 0.0
       }
+    },
+    {
+      "date": "2026-09-28",
+      "nav": 9633.81,
+      "benchmarkPrice": 140.15,
+      "segmentNav": {
+        "spy": 3388.81,
+        "isf": 944.58,
+        "midd": 0.0,
+        "vwrl": 0.0
+      }
     }
   ],
   "metrics": {
-    "totalReturnPct": -3.79,
+    "totalReturnPct": -3.66,
     "benchmarkReturnPct": null,
     "excessReturnPct": null,
-    "annualizedReturnPct": -8.91,
-    "sharpe": -5.238,
+    "annualizedReturnPct": -8.46,
+    "sharpe": -4.983,
     "maxDrawdownPct": -3.98,
     "tradeCount": 23,
     "winRatePct": 4.3,
     "avgHoldDays": 7.7,
-    "openPositions": 8
+    "openPositions": 9
   }
 }
