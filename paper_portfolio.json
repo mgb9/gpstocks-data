@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-27",
-  "lastUpdated": "2026-09-28",
+  "lastUpdated": "2026-09-29",
   "config": {
     "initialCapital": 10000,
     "currency": "GBP",
@@ -13,7 +13,7 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 5300.41,
+  "cashBalance": 5765.07,
   "positions": [
     {
       "id": "7ce31991",
@@ -29,23 +29,6 @@
       "positionPct": 5.0,
       "stopLossPrice": 53.608,
       "reviewDate": "2026-11-24"
-    },
-    {
-      "id": "0d935e6d",
-      "ticker": "CINF",
-      "company": "Cincinnati Financial Corporatio",
-      "sector": "Financials",
-      "homeIndex": "spy",
-      "entryDate": "2026-08-29",
-      "entryPrice": 171.97,
-      "scoreAtEntry": 81,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 494.73,
-      "cashCommitted": 495.97,
-      "entryFee": 1.24,
-      "positionPct": 5.0,
-      "stopLossPrice": 137.576,
-      "reviewDate": "2026-11-29"
     },
     {
       "id": "86f3f396",
@@ -650,6 +633,27 @@
       "plPct": -7.37,
       "holdDays": 2,
       "positionPct": 5.0
+    },
+    {
+      "id": "0d935e6d",
+      "ticker": "CINF",
+      "company": "Cincinnati Financial Corporatio",
+      "sector": "Financials",
+      "entryDate": "2026-08-29",
+      "entryPrice": 171.97,
+      "scoreAtEntry": 81,
+      "labelAtEntry": "Buy Now",
+      "exitDate": "2026-09-29",
+      "exitPrice": 161.92,
+      "exitReason": "label_changed_avoid",
+      "costBasis": 494.73,
+      "cashCommitted": 495.97,
+      "entryFee": 1.24,
+      "exitFee": 1.16,
+      "proceeds": 464.66,
+      "plPct": -6.31,
+      "holdDays": 31,
+      "positionPct": 5.0
     }
   ],
   "navHistory": [
@@ -954,18 +958,29 @@
         "midd": 0.0,
         "vwrl": 0.0
       }
+    },
+    {
+      "date": "2026-09-29",
+      "nav": 9625.35,
+      "benchmarkPrice": 140.38,
+      "segmentNav": {
+        "spy": 2923.74,
+        "isf": 936.55,
+        "midd": 0.0,
+        "vwrl": 0.0
+      }
     }
   ],
   "metrics": {
-    "totalReturnPct": -3.66,
+    "totalReturnPct": -3.75,
     "benchmarkReturnPct": null,
     "excessReturnPct": null,
-    "annualizedReturnPct": -8.46,
-    "sharpe": -4.983,
+    "annualizedReturnPct": -8.6,
+    "sharpe": -5.02,
     "maxDrawdownPct": -3.98,
-    "tradeCount": 23,
-    "winRatePct": 4.3,
-    "avgHoldDays": 7.7,
-    "openPositions": 9
+    "tradeCount": 24,
+    "winRatePct": 4.2,
+    "avgHoldDays": 8.7,
+    "openPositions": 8
   }
 }
