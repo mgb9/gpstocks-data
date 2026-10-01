@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-27",
-  "lastUpdated": "2026-09-30",
+  "lastUpdated": "2026-10-01",
   "config": {
     "initialCapital": 10000,
     "currency": "GBP",
@@ -13,7 +13,7 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 5765.07,
+  "cashBalance": 5284.56,
   "positions": [
     {
       "id": "7ce31991",
@@ -148,6 +148,23 @@
       "positionPct": 5.0,
       "stopLossPrice": 24.96,
       "reviewDate": "2026-12-28"
+    },
+    {
+      "id": "e04b5e71",
+      "ticker": "MPC",
+      "company": "Marathon Petroleum Corporation",
+      "sector": "Energy",
+      "homeIndex": "spy",
+      "entryDate": "2026-10-01",
+      "entryPrice": 395.42,
+      "scoreAtEntry": 82,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 479.31,
+      "cashCommitted": 480.51,
+      "entryFee": 1.2,
+      "positionPct": 5.0,
+      "stopLossPrice": 316.336,
+      "reviewDate": "2027-01-01"
     }
   ],
   "trades": [
@@ -980,18 +997,29 @@
         "midd": 0.0,
         "vwrl": 0.0
       }
+    },
+    {
+      "date": "2026-10-01",
+      "nav": 9608.97,
+      "benchmarkPrice": 139.36,
+      "segmentNav": {
+        "spy": 3379.29,
+        "isf": 945.12,
+        "midd": 0.0,
+        "vwrl": 0.0
+      }
     }
   ],
   "metrics": {
-    "totalReturnPct": -3.97,
+    "totalReturnPct": -3.91,
     "benchmarkReturnPct": null,
     "excessReturnPct": null,
-    "annualizedReturnPct": -9.04,
-    "sharpe": -5.218,
+    "annualizedReturnPct": -8.86,
+    "sharpe": -5.07,
     "maxDrawdownPct": -3.98,
     "tradeCount": 24,
     "winRatePct": 4.2,
     "avgHoldDays": 8.7,
-    "openPositions": 8
+    "openPositions": 9
   }
 }
