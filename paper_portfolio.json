@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-27",
-  "lastUpdated": "2026-10-01",
+  "lastUpdated": "2026-10-02",
   "config": {
     "initialCapital": 10000,
     "currency": "GBP",
@@ -13,7 +13,7 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 5284.56,
+  "cashBalance": 6758.77,
   "positions": [
     {
       "id": "7ce31991",
@@ -99,23 +99,6 @@
       "reviewDate": "2026-12-04"
     },
     {
-      "id": "d8f8f5fd",
-      "ticker": "CCH.L",
-      "company": "COCA-COLA HBC AG ORD CHF6.70 (C",
-      "sector": "Consumer Staples",
-      "homeIndex": "isf",
-      "entryDate": "2026-09-17",
-      "entryPrice": 45.84,
-      "scoreAtEntry": 78,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 488.22,
-      "cashCommitted": 491.17,
-      "entryFee": 2.95,
-      "positionPct": 5.0,
-      "stopLossPrice": 36.672,
-      "reviewDate": "2026-12-17"
-    },
-    {
       "id": "42039cc9",
       "ticker": "AMZN",
       "company": "Amazon.com, Inc.",
@@ -131,40 +114,6 @@
       "positionPct": 5.0,
       "stopLossPrice": 200.952,
       "reviewDate": "2026-12-18"
-    },
-    {
-      "id": "d0e993ec",
-      "ticker": "IMI.L",
-      "company": "IMI PLC ORD 28 4/7P",
-      "sector": "Industrials",
-      "homeIndex": "isf",
-      "entryDate": "2026-09-28",
-      "entryPrice": 31.2,
-      "scoreAtEntry": 75,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 478.94,
-      "cashCommitted": 481.83,
-      "entryFee": 2.89,
-      "positionPct": 5.0,
-      "stopLossPrice": 24.96,
-      "reviewDate": "2026-12-28"
-    },
-    {
-      "id": "e04b5e71",
-      "ticker": "MPC",
-      "company": "Marathon Petroleum Corporation",
-      "sector": "Energy",
-      "homeIndex": "spy",
-      "entryDate": "2026-10-01",
-      "entryPrice": 395.42,
-      "scoreAtEntry": 82,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 479.31,
-      "cashCommitted": 480.51,
-      "entryFee": 1.2,
-      "positionPct": 5.0,
-      "stopLossPrice": 316.336,
-      "reviewDate": "2027-01-01"
     }
   ],
   "trades": [
@@ -671,6 +620,69 @@
       "plPct": -6.31,
       "holdDays": 31,
       "positionPct": 5.0
+    },
+    {
+      "id": "d8f8f5fd",
+      "ticker": "CCH.L",
+      "company": "COCA-COLA HBC AG ORD CHF6.70 (C",
+      "sector": "Consumer Staples",
+      "entryDate": "2026-09-17",
+      "entryPrice": 45.84,
+      "scoreAtEntry": 78,
+      "labelAtEntry": "Buy Now",
+      "exitDate": "2026-10-02",
+      "exitPrice": 45.84,
+      "exitReason": "removed_from_universe",
+      "costBasis": 488.22,
+      "cashCommitted": 491.17,
+      "entryFee": 2.95,
+      "exitFee": 0.49,
+      "proceeds": 487.73,
+      "plPct": -0.7,
+      "holdDays": 15,
+      "positionPct": 5.0
+    },
+    {
+      "id": "d0e993ec",
+      "ticker": "IMI.L",
+      "company": "IMI PLC ORD 28 4/7P",
+      "sector": "Industrials",
+      "entryDate": "2026-09-28",
+      "entryPrice": 31.2,
+      "scoreAtEntry": 75,
+      "labelAtEntry": "Buy Now",
+      "exitDate": "2026-10-02",
+      "exitPrice": 31.2,
+      "exitReason": "removed_from_universe",
+      "costBasis": 478.94,
+      "cashCommitted": 481.83,
+      "entryFee": 2.89,
+      "exitFee": 0.48,
+      "proceeds": 478.46,
+      "plPct": -0.7,
+      "holdDays": 4,
+      "positionPct": 5.0
+    },
+    {
+      "id": "e04b5e71",
+      "ticker": "MPC",
+      "company": "Marathon Petroleum Corporation",
+      "sector": "Energy",
+      "entryDate": "2026-10-01",
+      "entryPrice": 395.42,
+      "scoreAtEntry": 82,
+      "labelAtEntry": "Buy Now",
+      "exitDate": "2026-10-02",
+      "exitPrice": 420.15,
+      "exitReason": "label_changed_avoid",
+      "costBasis": 479.31,
+      "cashCommitted": 480.51,
+      "entryFee": 1.2,
+      "exitFee": 1.27,
+      "proceeds": 508.02,
+      "plPct": 5.73,
+      "holdDays": 1,
+      "positionPct": 5.0
     }
   ],
   "navHistory": [
@@ -1008,18 +1020,29 @@
         "midd": 0.0,
         "vwrl": 0.0
       }
+    },
+    {
+      "date": "2026-10-02",
+      "nav": 9612.55,
+      "benchmarkPrice": 140.68,
+      "segmentNav": {
+        "spy": 2853.77,
+        "isf": 0.0,
+        "midd": 0.0,
+        "vwrl": 0.0
+      }
     }
   ],
   "metrics": {
-    "totalReturnPct": -3.91,
+    "totalReturnPct": -3.87,
     "benchmarkReturnPct": null,
     "excessReturnPct": null,
-    "annualizedReturnPct": -8.86,
-    "sharpe": -5.07,
+    "annualizedReturnPct": -8.72,
+    "sharpe": -4.958,
     "maxDrawdownPct": -3.98,
-    "tradeCount": 24,
-    "winRatePct": 4.2,
-    "avgHoldDays": 8.7,
-    "openPositions": 9
+    "tradeCount": 27,
+    "winRatePct": 7.4,
+    "avgHoldDays": 8.5,
+    "openPositions": 6
   }
 }

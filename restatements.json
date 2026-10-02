@@ -1,11 +1,11 @@
 {
-  "asOf": "2026-10-01",
+  "asOf": "2026-10-02",
   "window": {
     "from": "2025-10-20",
-    "to": "2026-10-01"
+    "to": "2026-10-02"
   },
-  "pairsCompared": 133,
-  "totalEvents": 2532,
+  "pairsCompared": 134,
+  "totalEvents": 2548,
   "events": [
     {
       "ticker": "STX",
@@ -1944,6 +1944,14 @@
       "relChangePct": 200.0
     },
     {
+      "ticker": "SPG",
+      "date": "2026-10-02",
+      "field": "piotroskiF",
+      "prev": 1,
+      "curr": 3,
+      "relChangePct": 200.0
+    },
+    {
       "ticker": "CERT",
       "date": "2026-05-14",
       "field": "opMargin",
@@ -2402,6 +2410,14 @@
     {
       "ticker": "GNRC",
       "date": "2026-09-30",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 5,
+      "relChangePct": 150.0
+    },
+    {
+      "ticker": "NWSA",
+      "date": "2026-10-02",
       "field": "piotroskiF",
       "prev": 2,
       "curr": 5,
@@ -3848,6 +3864,38 @@
       "relChangePct": 100.0
     },
     {
+      "ticker": "BWY.L",
+      "date": "2026-10-02",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 4,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "CTVA",
+      "date": "2026-10-02",
+      "field": "grossMargin",
+      "prev": 49.5,
+      "curr": 0,
+      "relChangePct": -100.0
+    },
+    {
+      "ticker": "CTVA",
+      "date": "2026-10-02",
+      "field": "opMargin",
+      "prev": 30.1,
+      "curr": 0,
+      "relChangePct": -100.0
+    },
+    {
+      "ticker": "CTVA",
+      "date": "2026-10-02",
+      "field": "netMargin",
+      "prev": 5.7,
+      "curr": 0,
+      "relChangePct": -100.0
+    },
+    {
       "ticker": "STX",
       "date": "2026-08-06",
       "field": "sharesYoYChange",
@@ -3958,61 +4006,13 @@
       "prev": 16.1,
       "curr": 31.4,
       "relChangePct": 95.03
-    },
-    {
-      "ticker": "OMC",
-      "date": "2026-04-30",
-      "field": "sharesYoYChange",
-      "prev": 57.7,
-      "curr": 3.2,
-      "relChangePct": -94.45
-    },
-    {
-      "ticker": "TSCO.L",
-      "date": "2026-06-10",
-      "field": "marginTrend3y",
-      "prev": 1.8,
-      "curr": 0.1,
-      "relChangePct": -94.44
-    },
-    {
-      "ticker": "ADM",
-      "date": "2026-08-06",
-      "field": "currentRatio",
-      "prev": 22.97,
-      "curr": 1.39,
-      "relChangePct": -93.95
-    },
-    {
-      "ticker": "HLT",
-      "date": "2026-04-30",
-      "field": "revGrowthTTM",
-      "prev": 175.8,
-      "curr": 11.0,
-      "relChangePct": -93.74
-    },
-    {
-      "ticker": "PCAR",
-      "date": "2026-05-01",
-      "field": "fcf",
-      "prev": 23587.0,
-      "curr": 1485.0,
-      "relChangePct": -93.7
-    },
-    {
-      "ticker": "BAB.L",
-      "date": "2026-07-01",
-      "field": "marginTrend3y",
-      "prev": 4.7,
-      "curr": 0.3,
-      "relChangePct": -93.62
     }
   ],
   "summary": {
     "byField": {
-      "fcf": 420,
-      "piotroskiF": 385,
-      "opMargin": 324,
+      "fcf": 421,
+      "piotroskiF": 395,
+      "opMargin": 327,
       "netDebtEbitda": 266,
       "revGrowthTTM": 152,
       "epsGrowthTTM": 146,
@@ -4021,9 +4021,9 @@
       "gpa": 105,
       "revTrend3y": 95,
       "sharesYoYChange": 88,
-      "grossMargin": 80,
+      "grossMargin": 81,
       "marginTrend3y": 73,
-      "netMargin": 62,
+      "netMargin": 63,
       "roic": 53,
       "marketCap": 35
     },
@@ -4049,8 +4049,8 @@
       "CMCSA": 13,
       "REGN": 13
     },
-    "newFilingUpdates": 6800,
+    "newFilingUpdates": 6826,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 19.04
+    "eventsPerPairAvg": 19.01
   }
 }
