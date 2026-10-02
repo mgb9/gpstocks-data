@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-02T16:27:43Z",
+  "asOf": "2026-10-02T20:24:43Z",
   "series": {
     "VIXCLS": {
       "name": "VIX",
@@ -1468,17 +1468,13 @@
     "DGS10": {
       "name": "US 10y yield",
       "source": "Federal Reserve Board via FRED",
-      "latest": 5.29,
-      "latestDate": "2026-09-30",
-      "delta1mPct": 11.368421052631579,
-      "delta1yPct": 27.163461538461537,
-      "deltaYoYPct": 27.163461538461537,
-      "deltaYoYAbs": 1.13,
+      "latest": 5.24,
+      "latestDate": "2026-10-01",
+      "delta1mPct": 9.394572025052197,
+      "delta1yPct": 27.18446601941748,
+      "deltaYoYPct": 27.18446601941748,
+      "deltaYoYAbs": 1.12,
       "history": [
-        {
-          "date": "2026-01-14",
-          "value": 4.15
-        },
         {
           "date": "2026-01-15",
           "value": 4.17
@@ -2194,6 +2190,10 @@
         {
           "date": "2026-09-30",
           "value": 5.29
+        },
+        {
+          "date": "2026-10-01",
+          "value": 5.24
         }
       ]
     },
@@ -5668,17 +5668,13 @@
     "DFII10": {
       "name": "US 10y real yield",
       "source": "Federal Reserve Board via FRED",
-      "latest": 2.93,
-      "latestDate": "2026-09-30",
-      "delta1mPct": 20.081967213114762,
-      "delta1yPct": 62.777777777777786,
-      "deltaYoYPct": 62.777777777777786,
-      "deltaYoYAbs": 1.1300000000000001,
+      "latest": 2.88,
+      "latestDate": "2026-10-01",
+      "delta1mPct": 18.032786885245898,
+      "delta1yPct": 62.71186440677965,
+      "deltaYoYPct": 62.71186440677965,
+      "deltaYoYAbs": 1.1099999999999999,
       "history": [
-        {
-          "date": "2026-01-14",
-          "value": 1.86
-        },
         {
           "date": "2026-01-15",
           "value": 1.88
@@ -6394,6 +6390,10 @@
         {
           "date": "2026-09-30",
           "value": 2.93
+        },
+        {
+          "date": "2026-10-01",
+          "value": 2.88
         }
       ]
     },
