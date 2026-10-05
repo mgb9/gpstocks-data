@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-05T19:25:37Z",
+  "asOf": "2026-10-05T22:29:19Z",
   "series": {
     "VIXCLS": {
       "name": "VIX",
@@ -736,17 +736,13 @@
     "T10Y2Y": {
       "name": "10y-2y spread",
       "source": "Federal Reserve Board via FRED",
-      "latest": 0.45,
-      "latestDate": "2026-10-02",
-      "delta1mPct": 12.499999999999996,
-      "delta1yPct": -18.181818181818183,
-      "deltaYoYPct": -18.181818181818183,
-      "deltaYoYAbs": -0.10000000000000003,
+      "latest": 0.47,
+      "latestDate": "2026-10-05",
+      "delta1mPct": 14.634146341463413,
+      "delta1yPct": -18.96551724137931,
+      "deltaYoYPct": -18.96551724137931,
+      "deltaYoYAbs": -0.10999999999999999,
       "history": [
-        {
-          "date": "2026-01-16",
-          "value": 0.65
-        },
         {
           "date": "2026-01-20",
           "value": 0.7
@@ -1462,23 +1458,23 @@
         {
           "date": "2026-10-02",
           "value": 0.45
+        },
+        {
+          "date": "2026-10-05",
+          "value": 0.47
         }
       ]
     },
     "DGS10": {
       "name": "US 10y yield",
       "source": "Federal Reserve Board via FRED",
-      "latest": 5.24,
-      "latestDate": "2026-10-01",
-      "delta1mPct": 9.394572025052197,
-      "delta1yPct": 27.18446601941748,
-      "deltaYoYPct": 27.18446601941748,
-      "deltaYoYAbs": 1.12,
+      "latest": 5.28,
+      "latestDate": "2026-10-02",
+      "delta1mPct": 10.229645093945724,
+      "delta1yPct": 28.780487804878064,
+      "deltaYoYPct": 28.780487804878064,
+      "deltaYoYAbs": 1.1800000000000006,
       "history": [
-        {
-          "date": "2026-01-15",
-          "value": 4.17
-        },
         {
           "date": "2026-01-16",
           "value": 4.24
@@ -2194,6 +2190,10 @@
         {
           "date": "2026-10-01",
           "value": 5.24
+        },
+        {
+          "date": "2026-10-02",
+          "value": 5.28
         }
       ]
     },
@@ -2512,33 +2512,13 @@
     "DTWEXBGS": {
       "name": "Dollar index (broad)",
       "source": "Federal Reserve Board via FRED",
-      "latest": 120.33,
-      "latestDate": "2026-09-25",
-      "delta1mPct": 1.5905124778274649,
-      "delta1yPct": -0.1757894972619479,
-      "deltaYoYPct": -0.1757894972619479,
-      "deltaYoYAbs": -0.21189999999999998,
+      "latest": 121.3848,
+      "latestDate": "2026-10-02",
+      "delta1mPct": 2.408849772546264,
+      "delta1yPct": 0.79316048546205,
+      "deltaYoYPct": 0.79316048546205,
+      "deltaYoYAbs": 0.9552000000000049,
       "history": [
-        {
-          "date": "2026-01-09",
-          "value": 120.2215
-        },
-        {
-          "date": "2026-01-12",
-          "value": 119.9958
-        },
-        {
-          "date": "2026-01-13",
-          "value": 120.1401
-        },
-        {
-          "date": "2026-01-14",
-          "value": 119.9537
-        },
-        {
-          "date": "2026-01-15",
-          "value": 119.9951
-        },
         {
           "date": "2026-01-16",
           "value": 120.0838
@@ -3238,6 +3218,26 @@
         {
           "date": "2026-09-25",
           "value": 120.33
+        },
+        {
+          "date": "2026-09-28",
+          "value": 120.6958
+        },
+        {
+          "date": "2026-09-29",
+          "value": 121.0296
+        },
+        {
+          "date": "2026-09-30",
+          "value": 120.9693
+        },
+        {
+          "date": "2026-10-01",
+          "value": 121.7882
+        },
+        {
+          "date": "2026-10-02",
+          "value": 121.3848
         }
       ]
     },
@@ -5668,17 +5668,13 @@
     "DFII10": {
       "name": "US 10y real yield",
       "source": "Federal Reserve Board via FRED",
-      "latest": 2.88,
-      "latestDate": "2026-10-01",
-      "delta1mPct": 18.032786885245898,
-      "delta1yPct": 62.71186440677965,
-      "deltaYoYPct": 62.71186440677965,
-      "deltaYoYAbs": 1.1099999999999999,
+      "latest": 2.92,
+      "latestDate": "2026-10-02",
+      "delta1mPct": 19.183673469387745,
+      "delta1yPct": 65.9090909090909,
+      "deltaYoYPct": 65.9090909090909,
+      "deltaYoYAbs": 1.16,
       "history": [
-        {
-          "date": "2026-01-15",
-          "value": 1.88
-        },
         {
           "date": "2026-01-16",
           "value": 1.91
@@ -6394,6 +6390,10 @@
         {
           "date": "2026-10-01",
           "value": 2.88
+        },
+        {
+          "date": "2026-10-02",
+          "value": 2.92
         }
       ]
     },
@@ -6604,33 +6604,13 @@
     "DEXUSUK": {
       "name": "GBP/USD",
       "source": "Federal Reserve Board via FRED",
-      "latest": 1.325,
-      "latestDate": "2026-09-25",
-      "delta1mPct": -2.537697682971679,
-      "delta1yPct": -0.7564976406261702,
-      "deltaYoYPct": -0.7564976406261702,
-      "deltaYoYAbs": -0.010099999999999998,
+      "latest": 1.3234,
+      "latestDate": "2026-10-02",
+      "delta1mPct": -1.9921498926164662,
+      "delta1yPct": -1.408030991581624,
+      "deltaYoYPct": -1.408030991581624,
+      "deltaYoYAbs": -0.01890000000000014,
       "history": [
-        {
-          "date": "2026-01-09",
-          "value": 1.3413
-        },
-        {
-          "date": "2026-01-12",
-          "value": 1.3466
-        },
-        {
-          "date": "2026-01-13",
-          "value": 1.3436
-        },
-        {
-          "date": "2026-01-14",
-          "value": 1.3445
-        },
-        {
-          "date": "2026-01-15",
-          "value": 1.3387
-        },
         {
           "date": "2026-01-16",
           "value": 1.3384
@@ -7330,6 +7310,26 @@
         {
           "date": "2026-09-25",
           "value": 1.325
+        },
+        {
+          "date": "2026-09-28",
+          "value": 1.3257
+        },
+        {
+          "date": "2026-09-29",
+          "value": 1.3212
+        },
+        {
+          "date": "2026-09-30",
+          "value": 1.3267
+        },
+        {
+          "date": "2026-10-01",
+          "value": 1.3196
+        },
+        {
+          "date": "2026-10-02",
+          "value": 1.3234
         }
       ]
     },

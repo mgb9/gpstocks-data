@@ -5,7 +5,7 @@
     "to": "2026-10-05"
   },
   "pairsCompared": 135,
-  "totalEvents": 2557,
+  "totalEvents": 2560,
   "events": [
     {
       "ticker": "STX",
@@ -3896,15 +3896,15 @@
       "relChangePct": -100.0
     },
     {
-      "ticker": "ROL",
+      "ticker": "PKG",
       "date": "2026-10-05",
       "field": "piotroskiF",
       "prev": 3,
-      "curr": 6,
-      "relChangePct": 100.0
+      "curr": 0,
+      "relChangePct": -100.0
     },
     {
-      "ticker": "UBER",
+      "ticker": "ROL",
       "date": "2026-10-05",
       "field": "piotroskiF",
       "prev": 3,
@@ -4011,7 +4011,7 @@
   "summary": {
     "byField": {
       "fcf": 426,
-      "piotroskiF": 396,
+      "piotroskiF": 399,
       "opMargin": 327,
       "netDebtEbitda": 267,
       "revGrowthTTM": 152,
@@ -4035,12 +4035,12 @@
       "PAY.L": 17,
       "V": 17,
       "PCG": 16,
+      "LVS": 16,
       "NCC.L": 16,
       "PFG": 15,
-      "LVS": 15,
+      "PKG": 15,
       "EA": 15,
       "INTC": 14,
-      "PKG": 14,
       "EQT": 14,
       "GLW": 14,
       "RSG": 14,
@@ -4051,6 +4051,6 @@
     },
     "newFilingUpdates": 6845,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 18.94
+    "eventsPerPairAvg": 18.96
   }
 }

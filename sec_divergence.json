@@ -13,10 +13,10 @@
   },
   "byMetric": {
     "revGrowthTTM": {
-      "n": 488,
+      "n": 486,
       "mode": "points",
-      "medianAbsDivergencePct": 0.03448311891554301,
-      "p90AbsDivergencePct": 5.95007208665747,
+      "medianAbsDivergencePct": 0.034414074543783646,
+      "p90AbsDivergencePct": 5.984148347985217,
       "worst": [
         {
           "ticker": "COF",
@@ -81,10 +81,10 @@
       ]
     },
     "epsGrowthTTM": {
-      "n": 435,
+      "n": 433,
       "mode": "points",
-      "medianAbsDivergencePct": 0.04358974358975942,
-      "p90AbsDivergencePct": 27.536657623440053,
+      "medianAbsDivergencePct": 0.04347826086959117,
+      "p90AbsDivergencePct": 27.649907759088446,
       "worst": [
         {
           "ticker": "PFG",
@@ -149,10 +149,10 @@
       ]
     },
     "opMargin": {
-      "n": 400,
+      "n": 398,
       "mode": "points",
-      "medianAbsDivergencePct": 2.2952596559528597,
-      "p90AbsDivergencePct": 11.887492829980411,
+      "medianAbsDivergencePct": 2.3128350487264386,
+      "p90AbsDivergencePct": 11.901477447188363,
       "worst": [
         {
           "ticker": "MRNA",
@@ -217,10 +217,10 @@
       ]
     },
     "netMargin": {
-      "n": 480,
+      "n": 478,
       "mode": "points",
-      "medianAbsDivergencePct": 0.036722986223738374,
-      "p90AbsDivergencePct": 1.5465030611350936,
+      "medianAbsDivergencePct": 0.03693895283799287,
+      "p90AbsDivergencePct": 1.5516092201835063,
       "worst": [
         {
           "ticker": "IBKR",
@@ -285,10 +285,10 @@
       ]
     },
     "grossMargin": {
-      "n": 246,
+      "n": 245,
       "mode": "points",
-      "medianAbsDivergencePct": 0.33500254520083317,
-      "p90AbsDivergencePct": 19.782611817400774,
+      "medianAbsDivergencePct": 0.33054505106677823,
+      "p90AbsDivergencePct": 19.794757316182682,
       "worst": [
         {
           "ticker": "NEM",
@@ -353,10 +353,10 @@
       ]
     },
     "fcf": {
-      "n": 417,
+      "n": 415,
       "mode": "relative",
       "medianAbsDivergencePct": 29.440833333333334,
-      "p90AbsDivergencePct": 103.88894684052158,
+      "p90AbsDivergencePct": 103.96675359411569,
       "worst": [
         {
           "ticker": "XYZ",
@@ -421,10 +421,10 @@
       ]
     },
     "sharesYoYChange": {
-      "n": 428,
+      "n": 429,
       "mode": "points",
-      "medianAbsDivergencePct": 1.2204477060544439,
-      "p90AbsDivergencePct": 6.4486793842550325,
+      "medianAbsDivergencePct": 1.2125677198155047,
+      "p90AbsDivergencePct": 6.426697658987583,
       "worst": [
         {
           "ticker": "TRV",
