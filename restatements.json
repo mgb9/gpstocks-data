@@ -1,11 +1,11 @@
 {
-  "asOf": "2026-10-02",
+  "asOf": "2026-10-05",
   "window": {
     "from": "2025-10-20",
-    "to": "2026-10-02"
+    "to": "2026-10-05"
   },
-  "pairsCompared": 134,
-  "totalEvents": 2546,
+  "pairsCompared": 135,
+  "totalEvents": 2557,
   "events": [
     {
       "ticker": "STX",
@@ -3896,6 +3896,22 @@
       "relChangePct": -100.0
     },
     {
+      "ticker": "ROL",
+      "date": "2026-10-05",
+      "field": "piotroskiF",
+      "prev": 3,
+      "curr": 6,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "UBER",
+      "date": "2026-10-05",
+      "field": "piotroskiF",
+      "prev": 3,
+      "curr": 6,
+      "relChangePct": 100.0
+    },
+    {
       "ticker": "STX",
       "date": "2026-08-06",
       "field": "sharesYoYChange",
@@ -3990,34 +4006,18 @@
       "prev": 313.8,
       "curr": 12.6,
       "relChangePct": -95.98
-    },
-    {
-      "ticker": "EQT",
-      "date": "2026-04-23",
-      "field": "revGrowthTTM",
-      "prev": 26.9,
-      "curr": 52.5,
-      "relChangePct": 95.17
-    },
-    {
-      "ticker": "DGE.L",
-      "date": "2026-08-10",
-      "field": "opMargin",
-      "prev": 16.1,
-      "curr": 31.4,
-      "relChangePct": 95.03
     }
   ],
   "summary": {
     "byField": {
-      "fcf": 421,
-      "piotroskiF": 393,
+      "fcf": 426,
+      "piotroskiF": 396,
       "opMargin": 327,
-      "netDebtEbitda": 266,
+      "netDebtEbitda": 267,
       "revGrowthTTM": 152,
       "epsGrowthTTM": 146,
       "interestCover": 142,
-      "currentRatio": 106,
+      "currentRatio": 107,
       "gpa": 105,
       "revTrend3y": 95,
       "sharesYoYChange": 88,
@@ -4025,7 +4025,7 @@
       "marginTrend3y": 73,
       "netMargin": 63,
       "roic": 53,
-      "marketCap": 35
+      "marketCap": 36
     },
     "byTicker": {
       "BTRW.L": 51,
@@ -4049,8 +4049,8 @@
       "CMCSA": 13,
       "REGN": 13
     },
-    "newFilingUpdates": 6831,
+    "newFilingUpdates": 6845,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 19.0
+    "eventsPerPairAvg": 18.94
   }
 }

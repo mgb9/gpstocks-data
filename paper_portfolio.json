@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-27",
-  "lastUpdated": "2026-10-02",
+  "lastUpdated": "2026-10-05",
   "config": {
     "initialCapital": 10000,
     "currency": "GBP",
@@ -13,7 +13,7 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 6758.77,
+  "cashBalance": 6277.29,
   "positions": [
     {
       "id": "7ce31991",
@@ -114,6 +114,23 @@
       "positionPct": 5.0,
       "stopLossPrice": 200.952,
       "reviewDate": "2026-12-18"
+    },
+    {
+      "id": "e6e77e48",
+      "ticker": "TROW",
+      "company": "T. Rowe Price Group, Inc.",
+      "sector": "Financials",
+      "homeIndex": "spy",
+      "entryDate": "2026-10-05",
+      "entryPrice": 104.62,
+      "scoreAtEntry": 80,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 480.28,
+      "cashCommitted": 481.48,
+      "entryFee": 1.2,
+      "positionPct": 5.0,
+      "stopLossPrice": 83.696,
+      "reviewDate": "2027-01-05"
     }
   ],
   "trades": [
@@ -1031,18 +1048,29 @@
         "midd": 0.0,
         "vwrl": 0.0
       }
+    },
+    {
+      "date": "2026-10-05",
+      "nav": 9628.49,
+      "benchmarkPrice": 141.68,
+      "segmentNav": {
+        "spy": 3351.2,
+        "isf": 0.0,
+        "midd": 0.0,
+        "vwrl": 0.0
+      }
     }
   ],
   "metrics": {
-    "totalReturnPct": -3.87,
+    "totalReturnPct": -3.72,
     "benchmarkReturnPct": null,
     "excessReturnPct": null,
-    "annualizedReturnPct": -8.72,
-    "sharpe": -4.958,
+    "annualizedReturnPct": -8.22,
+    "sharpe": -4.69,
     "maxDrawdownPct": -3.98,
     "tradeCount": 27,
     "winRatePct": 7.4,
     "avgHoldDays": 8.5,
-    "openPositions": 6
+    "openPositions": 7
   }
 }
