@@ -1,11 +1,11 @@
 {
-  "asOf": "2026-10-05",
+  "asOf": "2026-10-06",
   "window": {
     "from": "2025-10-20",
-    "to": "2026-10-05"
+    "to": "2026-10-06"
   },
-  "pairsCompared": 135,
-  "totalEvents": 2560,
+  "pairsCompared": 136,
+  "totalEvents": 2570,
   "events": [
     {
       "ticker": "STX",
@@ -278,6 +278,14 @@
       "prev": -0.2,
       "curr": 3.3,
       "relChangePct": 1750.0
+    },
+    {
+      "ticker": "CBG.L",
+      "date": "2026-10-06",
+      "field": "revGrowthTTM",
+      "prev": -0.6,
+      "curr": -11.1,
+      "relChangePct": -1750.0
     },
     {
       "ticker": "INVH",
@@ -669,6 +677,14 @@
       "field": "sharesYoYChange",
       "prev": 0,
       "curr": 1,
+      "relChangePct": 999.0
+    },
+    {
+      "ticker": "PKG",
+      "date": "2026-10-06",
+      "field": "piotroskiF",
+      "prev": 0,
+      "curr": 3,
       "relChangePct": 999.0
     },
     {
@@ -3912,6 +3928,22 @@
       "relChangePct": 100.0
     },
     {
+      "ticker": "TKO",
+      "date": "2026-10-06",
+      "field": "piotroskiF",
+      "prev": 3,
+      "curr": 6,
+      "relChangePct": 100.0
+    },
+    {
+      "ticker": "TPT.L",
+      "date": "2026-10-06",
+      "field": "piotroskiF",
+      "prev": 3,
+      "curr": 6,
+      "relChangePct": 100.0
+    },
+    {
       "ticker": "STX",
       "date": "2026-08-06",
       "field": "sharesYoYChange",
@@ -3974,47 +4006,15 @@
       "prev": 100,
       "curr": 3.4,
       "relChangePct": -96.6
-    },
-    {
-      "ticker": "BAB.L",
-      "date": "2026-07-01",
-      "field": "revTrend3y",
-      "prev": 2.9,
-      "curr": 5.7,
-      "relChangePct": 96.55
-    },
-    {
-      "ticker": "HAS.L",
-      "date": "2026-08-24",
-      "field": "gpa",
-      "prev": 3.533,
-      "curr": 0.122,
-      "relChangePct": -96.55
-    },
-    {
-      "ticker": "SFR.L",
-      "date": "2026-06-26",
-      "field": "opMargin",
-      "prev": -12.8,
-      "curr": -0.5,
-      "relChangePct": 96.09
-    },
-    {
-      "ticker": "MAR",
-      "date": "2026-05-08",
-      "field": "revGrowthTTM",
-      "prev": 313.8,
-      "curr": 12.6,
-      "relChangePct": -95.98
     }
   ],
   "summary": {
     "byField": {
       "fcf": 426,
-      "piotroskiF": 399,
+      "piotroskiF": 407,
       "opMargin": 327,
       "netDebtEbitda": 267,
-      "revGrowthTTM": 152,
+      "revGrowthTTM": 153,
       "epsGrowthTTM": 146,
       "interestCover": 142,
       "currentRatio": 107,
@@ -4025,7 +4025,7 @@
       "marginTrend3y": 73,
       "netMargin": 63,
       "roic": 53,
-      "marketCap": 36
+      "marketCap": 37
     },
     "byTicker": {
       "BTRW.L": 51,
@@ -4033,24 +4033,24 @@
       "FCX": 19,
       "VRSN": 19,
       "PAY.L": 17,
+      "LVS": 17,
       "V": 17,
       "PCG": 16,
-      "LVS": 16,
+      "PKG": 16,
       "NCC.L": 16,
       "PFG": 15,
-      "PKG": 15,
       "EA": 15,
       "INTC": 14,
       "EQT": 14,
+      "ARES": 14,
       "GLW": 14,
       "RSG": 14,
       "SFR.L": 13,
       "CB": 13,
-      "CMCSA": 13,
-      "REGN": 13
+      "CMCSA": 13
     },
-    "newFilingUpdates": 6845,
+    "newFilingUpdates": 6846,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 18.96
+    "eventsPerPairAvg": 18.9
   }
 }
