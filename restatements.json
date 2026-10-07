@@ -1,11 +1,11 @@
 {
-  "asOf": "2026-10-06",
+  "asOf": "2026-10-07",
   "window": {
     "from": "2025-10-20",
-    "to": "2026-10-06"
+    "to": "2026-10-07"
   },
-  "pairsCompared": 136,
-  "totalEvents": 2569,
+  "pairsCompared": 137,
+  "totalEvents": 2576,
   "events": [
     {
       "ticker": "STX",
@@ -2440,6 +2440,14 @@
       "relChangePct": 150.0
     },
     {
+      "ticker": "GPN",
+      "date": "2026-10-07",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 5,
+      "relChangePct": 150.0
+    },
+    {
       "ticker": "LVS",
       "date": "2026-04-24",
       "field": "epsGrowthTTM",
@@ -3944,6 +3952,22 @@
       "relChangePct": 100.0
     },
     {
+      "ticker": "CTVA",
+      "date": "2026-10-07",
+      "field": "opMargin",
+      "prev": 30.1,
+      "curr": 0,
+      "relChangePct": -100.0
+    },
+    {
+      "ticker": "POLR.L",
+      "date": "2026-10-07",
+      "field": "piotroskiF",
+      "prev": 3,
+      "curr": 6,
+      "relChangePct": 100.0
+    },
+    {
       "ticker": "STX",
       "date": "2026-08-06",
       "field": "sharesYoYChange",
@@ -3982,37 +4006,13 @@
       "prev": -7.7,
       "curr": -0.2,
       "relChangePct": 97.4
-    },
-    {
-      "ticker": "QQ.L",
-      "date": "2026-06-12",
-      "field": "revTrend3y",
-      "prev": 6.9,
-      "curr": 0.2,
-      "relChangePct": -97.1
-    },
-    {
-      "ticker": "AMCR",
-      "date": "2026-05-11",
-      "field": "fcf",
-      "prev": 4924,
-      "curr": 150,
-      "relChangePct": -96.95
-    },
-    {
-      "ticker": "HAS.L",
-      "date": "2026-08-24",
-      "field": "grossMargin",
-      "prev": 100,
-      "curr": 3.4,
-      "relChangePct": -96.6
     }
   ],
   "summary": {
     "byField": {
       "fcf": 426,
-      "piotroskiF": 406,
-      "opMargin": 327,
+      "piotroskiF": 412,
+      "opMargin": 328,
       "netDebtEbitda": 267,
       "revGrowthTTM": 153,
       "epsGrowthTTM": 146,
@@ -4049,8 +4049,8 @@
       "CMCSA": 13,
       "REGN": 13
     },
-    "newFilingUpdates": 6846,
+    "newFilingUpdates": 6847,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 18.89
+    "eventsPerPairAvg": 18.8
   }
 }
