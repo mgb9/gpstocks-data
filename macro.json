@@ -1,20 +1,16 @@
 {
-  "asOf": "2026-10-07T21:05:28Z",
+  "asOf": "2026-10-08T17:34:29Z",
   "series": {
     "VIXCLS": {
       "name": "VIX",
       "source": "CBOE via FRED",
-      "latest": 15.01,
-      "latestDate": "2026-10-06",
-      "delta1mPct": -1.8954248366013133,
-      "delta1yPct": -8.30788026878437,
-      "deltaYoYPct": -8.30788026878437,
-      "deltaYoYAbs": -1.3600000000000012,
+      "latest": 15.08,
+      "latestDate": "2026-10-07",
+      "delta1mPct": -1.4379084967320301,
+      "delta1yPct": -12.529002320185606,
+      "deltaYoYPct": -12.529002320185606,
+      "deltaYoYAbs": -2.1599999999999984,
       "history": [
-        {
-          "date": "2026-01-27",
-          "value": 16.35
-        },
         {
           "date": "2026-01-28",
           "value": 16.35
@@ -730,6 +726,10 @@
         {
           "date": "2026-10-06",
           "value": 15.01
+        },
+        {
+          "date": "2026-10-07",
+          "value": 15.08
         }
       ]
     },
@@ -3976,17 +3976,13 @@
     "BAMLH0A0HYM2": {
       "name": "US HY credit spread",
       "source": "ICE BofA via FRED",
-      "latest": 3.03,
-      "latestDate": "2026-10-06",
-      "delta1mPct": 13.059701492537299,
-      "delta1yPct": 9.782608695652176,
-      "deltaYoYPct": 9.782608695652176,
+      "latest": 3.09,
+      "latestDate": "2026-10-07",
+      "delta1mPct": 15.298507462686556,
+      "delta1yPct": 9.574468085106384,
+      "deltaYoYPct": 9.574468085106384,
       "deltaYoYAbs": 0.27,
       "history": [
-        {
-          "date": "2026-01-31",
-          "value": 2.88
-        },
         {
           "date": "2026-02-02",
           "value": 2.81
@@ -4702,6 +4698,10 @@
         {
           "date": "2026-10-06",
           "value": 3.03
+        },
+        {
+          "date": "2026-10-07",
+          "value": 3.09
         }
       ]
     },
@@ -4709,11 +4709,11 @@
       "name": "US initial jobless claims",
       "source": "U.S. Employment & Training Administration via FRED",
       "latest": 197000.0,
-      "latestDate": "2026-09-26",
+      "latestDate": "2026-10-03",
       "delta1mPct": -4.830917874396135,
-      "delta1yPct": -12.444444444444445,
-      "deltaYoYPct": -12.444444444444445,
-      "deltaYoYAbs": -28000.0,
+      "delta1yPct": -15.450643776824036,
+      "deltaYoYPct": -15.450643776824036,
+      "deltaYoYAbs": -36000.0,
       "history": [
         {
           "date": "2024-10-12",
@@ -5125,6 +5125,10 @@
         },
         {
           "date": "2026-09-26",
+          "value": 199000.0
+        },
+        {
+          "date": "2026-10-03",
           "value": 197000.0
         }
       ]
@@ -5132,12 +5136,12 @@
     "CCSA": {
       "name": "US continuing claims",
       "source": "U.S. Employment & Training Administration via FRED",
-      "latest": 1701000.0,
-      "latestDate": "2026-09-19",
-      "delta1mPct": -4.169014084507042,
-      "delta1yPct": -11.452368558042686,
-      "deltaYoYPct": -11.452368558042686,
-      "deltaYoYAbs": -220000.0,
+      "latest": 1716000.0,
+      "latestDate": "2026-09-26",
+      "delta1mPct": -2.776203966005666,
+      "delta1yPct": -11.04199066874028,
+      "deltaYoYPct": -11.04199066874028,
+      "deltaYoYAbs": -213000.0,
       "history": [
         {
           "date": "2024-10-12",
@@ -5545,7 +5549,11 @@
         },
         {
           "date": "2026-09-19",
-          "value": 1701000.0
+          "value": 1699000.0
+        },
+        {
+          "date": "2026-09-26",
+          "value": 1716000.0
         }
       ]
     },
@@ -7328,17 +7336,13 @@
     "IRLTLT01GBM156N": {
       "name": "UK 10y gilt yield",
       "source": "Bank of England",
-      "latest": 5.7371,
-      "latestDate": "2026-10-05",
-      "delta1mPct": 2.633320810747952,
-      "delta1yPct": 8.786999639721639,
-      "deltaYoYPct": 8.786999639721639,
-      "deltaYoYAbs": 0.46340000000000003,
+      "latest": 5.6997,
+      "latestDate": "2026-10-06",
+      "delta1mPct": 1.9642569634519385,
+      "delta1yPct": 8.07782012628705,
+      "deltaYoYPct": 8.07782012628705,
+      "deltaYoYAbs": 0.42600000000000016,
       "history": [
-        {
-          "date": "2026-01-20",
-          "value": 5.0057
-        },
         {
           "date": "2026-01-21",
           "value": 4.9877
@@ -8054,23 +8058,23 @@
         {
           "date": "2026-10-05",
           "value": 5.7371
+        },
+        {
+          "date": "2026-10-06",
+          "value": 5.6997
         }
       ]
     },
     "FTSE": {
       "name": "FTSE 100",
       "source": "Yahoo Finance",
-      "latest": 10458.5,
-      "latestDate": "2026-10-07",
-      "delta1mPct": -3.3597880494467067,
-      "delta1yPct": 10.279856075548187,
-      "deltaYoYPct": 10.279856075548187,
-      "deltaYoYAbs": 974.900390625,
+      "latest": 10441.599609375,
+      "latestDate": "2026-10-08",
+      "delta1mPct": -3.4231488040887417,
+      "delta1yPct": 9.348712231059,
+      "deltaYoYPct": 9.348712231059,
+      "deltaYoYAbs": 892.69921875,
       "history": [
-        {
-          "date": "2026-01-22",
-          "value": 10150.099609375
-        },
         {
           "date": "2026-01-23",
           "value": 10143.400390625
@@ -8786,23 +8790,23 @@
         {
           "date": "2026-10-07",
           "value": 10458.5
+        },
+        {
+          "date": "2026-10-08",
+          "value": 10441.599609375
         }
       ]
     },
     "FTMC": {
       "name": "FTSE 250",
       "source": "Yahoo Finance",
-      "latest": 24036.75,
-      "latestDate": "2026-10-07",
-      "delta1mPct": -1.917635723012601,
-      "delta1yPct": 9.244046878264966,
-      "deltaYoYPct": 9.244046878264966,
-      "deltaYoYAbs": 2033.94921875,
+      "latest": 23943.880859375,
+      "latestDate": "2026-10-08",
+      "delta1mPct": -1.6633996802826616,
+      "delta1yPct": 8.629422328065939,
+      "deltaYoYPct": 8.629422328065939,
+      "deltaYoYAbs": 1902.080078125,
       "history": [
-        {
-          "date": "2026-01-22",
-          "value": 23370.900390625
-        },
         {
           "date": "2026-01-23",
           "value": 23317.5
@@ -9517,7 +9521,11 @@
         },
         {
           "date": "2026-10-07",
-          "value": 24036.75
+          "value": 24036.80078125
+        },
+        {
+          "date": "2026-10-08",
+          "value": 23943.880859375
         }
       ]
     }
@@ -9526,7 +9534,7 @@
     "regime": "Normal",
     "confidence": 0.5,
     "reasons": [
-      "VIX at 15.0",
+      "VIX at 15.1",
       "CPI +3.4% YoY"
     ]
   },

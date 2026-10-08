@@ -1,11 +1,11 @@
 {
-  "asOf": "2026-10-07",
+  "asOf": "2026-10-08",
   "window": {
     "from": "2025-10-20",
-    "to": "2026-10-07"
+    "to": "2026-10-08"
   },
-  "pairsCompared": 137,
-  "totalEvents": 2582,
+  "pairsCompared": 138,
+  "totalEvents": 2588,
   "events": [
     {
       "ticker": "STX",
@@ -1962,6 +1962,14 @@
     {
       "ticker": "SPG",
       "date": "2026-10-02",
+      "field": "piotroskiF",
+      "prev": 1,
+      "curr": 3,
+      "relChangePct": 200.0
+    },
+    {
+      "ticker": "ENOG.L",
+      "date": "2026-10-08",
       "field": "piotroskiF",
       "prev": 1,
       "curr": 3,
@@ -3998,20 +4006,12 @@
       "prev": -4.2,
       "curr": -8.3,
       "relChangePct": -97.62
-    },
-    {
-      "ticker": "PAY.L",
-      "date": "2026-06-15",
-      "field": "sharesYoYChange",
-      "prev": -7.7,
-      "curr": -0.2,
-      "relChangePct": 97.4
     }
   ],
   "summary": {
     "byField": {
       "fcf": 428,
-      "piotroskiF": 412,
+      "piotroskiF": 418,
       "opMargin": 329,
       "netDebtEbitda": 268,
       "revGrowthTTM": 153,
@@ -4049,8 +4049,8 @@
       "CMCSA": 13,
       "REGN": 13
     },
-    "newFilingUpdates": 6852,
+    "newFilingUpdates": 6853,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 18.85
+    "eventsPerPairAvg": 18.75
   }
 }
