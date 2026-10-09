@@ -1,11 +1,11 @@
 {
-  "asOf": "2026-10-08",
+  "asOf": "2026-10-09",
   "window": {
     "from": "2025-10-20",
-    "to": "2026-10-08"
+    "to": "2026-10-09"
   },
-  "pairsCompared": 138,
-  "totalEvents": 2588,
+  "pairsCompared": 139,
+  "totalEvents": 2596,
   "events": [
     {
       "ticker": "STX",
@@ -685,6 +685,30 @@
       "field": "piotroskiF",
       "prev": 0,
       "curr": 3,
+      "relChangePct": 999.0
+    },
+    {
+      "ticker": "CTVA",
+      "date": "2026-10-09",
+      "field": "grossMargin",
+      "prev": 0,
+      "curr": 38.7,
+      "relChangePct": 999.0
+    },
+    {
+      "ticker": "CTVA",
+      "date": "2026-10-09",
+      "field": "opMargin",
+      "prev": 0,
+      "curr": 17.3,
+      "relChangePct": 999.0
+    },
+    {
+      "ticker": "CTVA",
+      "date": "2026-10-09",
+      "field": "netMargin",
+      "prev": 0,
+      "curr": 7.8,
       "relChangePct": 999.0
     },
     {
@@ -3976,43 +4000,19 @@
       "relChangePct": 100.0
     },
     {
-      "ticker": "STX",
-      "date": "2026-08-06",
-      "field": "sharesYoYChange",
-      "prev": 5704.1,
-      "curr": 5.5,
-      "relChangePct": -99.9
-    },
-    {
-      "ticker": "PCG",
-      "date": "2026-07-27",
-      "field": "revGrowthTTM",
-      "prev": 15,
-      "curr": 0.1,
-      "relChangePct": -99.33
-    },
-    {
-      "ticker": "HLT",
-      "date": "2026-07-30",
-      "field": "revGrowthTTM",
-      "prev": 152,
-      "curr": 2.5,
-      "relChangePct": -98.36
-    },
-    {
-      "ticker": "CGS.L",
-      "date": "2026-07-01",
-      "field": "revTrend3y",
-      "prev": -4.2,
-      "curr": -8.3,
-      "relChangePct": -97.62
+      "ticker": "PM",
+      "date": "2026-10-09",
+      "field": "piotroskiF",
+      "prev": 3,
+      "curr": 6,
+      "relChangePct": 100.0
     }
   ],
   "summary": {
     "byField": {
-      "fcf": 428,
-      "piotroskiF": 418,
-      "opMargin": 329,
+      "fcf": 429,
+      "piotroskiF": 422,
+      "opMargin": 330,
       "netDebtEbitda": 268,
       "revGrowthTTM": 153,
       "epsGrowthTTM": 147,
@@ -4021,9 +4021,9 @@
       "gpa": 105,
       "revTrend3y": 95,
       "sharesYoYChange": 88,
-      "grossMargin": 82,
+      "grossMargin": 83,
       "marginTrend3y": 73,
-      "netMargin": 63,
+      "netMargin": 64,
       "roic": 53,
       "marketCap": 37
     },
@@ -4049,8 +4049,8 @@
       "CMCSA": 13,
       "REGN": 13
     },
-    "newFilingUpdates": 6853,
+    "newFilingUpdates": 6854,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 18.75
+    "eventsPerPairAvg": 18.68
   }
 }

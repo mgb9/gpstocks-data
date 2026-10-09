@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-27",
-  "lastUpdated": "2026-10-08",
+  "lastUpdated": "2026-10-09",
   "config": {
     "initialCapital": 10000,
     "currency": "GBP",
@@ -13,7 +13,7 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 6753.21,
+  "cashBalance": 6272.42,
   "positions": [
     {
       "id": "7ce31991",
@@ -114,6 +114,23 @@
       "positionPct": 5.0,
       "stopLossPrice": 200.952,
       "reviewDate": "2026-12-18"
+    },
+    {
+      "id": "d5bbd3e3",
+      "ticker": "HST",
+      "company": "Host Hotels & Resorts, Inc.",
+      "sector": "Real Estate",
+      "homeIndex": "spy",
+      "entryDate": "2026-10-09",
+      "entryPrice": 22.54,
+      "scoreAtEntry": 80,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 479.59,
+      "cashCommitted": 480.79,
+      "entryFee": 1.2,
+      "positionPct": 5.0,
+      "stopLossPrice": 18.032,
+      "reviewDate": "2027-01-09"
     }
   ],
   "trades": [
@@ -1096,18 +1113,29 @@
         "midd": 0.0,
         "vwrl": 0.0
       }
+    },
+    {
+      "date": "2026-10-09",
+      "nav": 9614.67,
+      "benchmarkPrice": 141.3,
+      "segmentNav": {
+        "spy": 3342.26,
+        "isf": 0.0,
+        "midd": 0.0,
+        "vwrl": 0.0
+      }
     }
   ],
   "metrics": {
-    "totalReturnPct": -3.7,
+    "totalReturnPct": -3.85,
     "benchmarkReturnPct": null,
     "excessReturnPct": null,
-    "annualizedReturnPct": -8.05,
-    "sharpe": -4.49,
+    "annualizedReturnPct": -8.33,
+    "sharpe": -4.609,
     "maxDrawdownPct": -3.98,
     "tradeCount": 28,
     "winRatePct": 7.1,
     "avgHoldDays": 8.2,
-    "openPositions": 6
+    "openPositions": 7
   }
 }
