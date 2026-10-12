@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-27",
-  "lastUpdated": "2026-10-09",
+  "lastUpdated": "2026-10-12",
   "config": {
     "initialCapital": 10000,
     "currency": "GBP",
@@ -13,7 +13,7 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 6272.42,
+  "cashBalance": 6271.23,
   "positions": [
     {
       "id": "7ce31991",
@@ -116,21 +116,21 @@
       "reviewDate": "2026-12-18"
     },
     {
-      "id": "d5bbd3e3",
-      "ticker": "HST",
-      "company": "Host Hotels & Resorts, Inc.",
-      "sector": "Real Estate",
+      "id": "5ab4c69b",
+      "ticker": "HAS",
+      "company": "Hasbro, Inc.",
+      "sector": "Consumer Discretionary",
       "homeIndex": "spy",
-      "entryDate": "2026-10-09",
-      "entryPrice": 22.54,
-      "scoreAtEntry": 80,
+      "entryDate": "2026-10-12",
+      "entryPrice": 93.32,
+      "scoreAtEntry": 75,
       "labelAtEntry": "Buy Now",
-      "costBasis": 479.59,
-      "cashCommitted": 480.79,
+      "costBasis": 480.72,
+      "cashCommitted": 481.92,
       "entryFee": 1.2,
       "positionPct": 5.0,
-      "stopLossPrice": 18.032,
-      "reviewDate": "2027-01-09"
+      "stopLossPrice": 74.656,
+      "reviewDate": "2027-01-12"
     }
   ],
   "trades": [
@@ -721,6 +721,27 @@
       "plPct": -1.15,
       "holdDays": 1,
       "positionPct": 5.0
+    },
+    {
+      "id": "d5bbd3e3",
+      "ticker": "HST",
+      "company": "Host Hotels & Resorts, Inc.",
+      "sector": "Real Estate",
+      "entryDate": "2026-10-09",
+      "entryPrice": 22.54,
+      "scoreAtEntry": 80,
+      "labelAtEntry": "Buy Now",
+      "exitDate": "2026-10-12",
+      "exitPrice": 22.65,
+      "exitReason": "label_changed_avoid",
+      "costBasis": 479.59,
+      "cashCommitted": 480.79,
+      "entryFee": 1.2,
+      "exitFee": 1.2,
+      "proceeds": 480.73,
+      "plPct": -0.01,
+      "holdDays": 3,
+      "positionPct": 5.0
     }
   ],
   "navHistory": [
@@ -1124,18 +1145,29 @@
         "midd": 0.0,
         "vwrl": 0.0
       }
+    },
+    {
+      "date": "2026-10-12",
+      "nav": 9637.29,
+      "benchmarkPrice": 141.63,
+      "segmentNav": {
+        "spy": 3366.06,
+        "isf": 0.0,
+        "midd": 0.0,
+        "vwrl": 0.0
+      }
     }
   ],
   "metrics": {
-    "totalReturnPct": -3.85,
+    "totalReturnPct": -3.63,
     "benchmarkReturnPct": null,
     "excessReturnPct": null,
-    "annualizedReturnPct": -8.33,
-    "sharpe": -4.609,
+    "annualizedReturnPct": -7.71,
+    "sharpe": -4.293,
     "maxDrawdownPct": -3.98,
-    "tradeCount": 28,
-    "winRatePct": 7.1,
-    "avgHoldDays": 8.2,
+    "tradeCount": 29,
+    "winRatePct": 6.9,
+    "avgHoldDays": 8.0,
     "openPositions": 7
   }
 }

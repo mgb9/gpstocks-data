@@ -1,11 +1,11 @@
 {
-  "asOf": "2026-10-09",
+  "asOf": "2026-10-12",
   "window": {
     "from": "2025-10-20",
-    "to": "2026-10-09"
+    "to": "2026-10-12"
   },
-  "pairsCompared": 139,
-  "totalEvents": 2596,
+  "pairsCompared": 140,
+  "totalEvents": 2611,
   "events": [
     {
       "ticker": "STX",
@@ -1504,6 +1504,14 @@
       "relChangePct": -300.0
     },
     {
+      "ticker": "PLD",
+      "date": "2026-10-12",
+      "field": "piotroskiF",
+      "prev": 1,
+      "curr": 4,
+      "relChangePct": 300.0
+    },
+    {
       "ticker": "AMP",
       "date": "2026-04-27",
       "field": "currentRatio",
@@ -1997,6 +2005,14 @@
       "field": "piotroskiF",
       "prev": 1,
       "curr": 3,
+      "relChangePct": 200.0
+    },
+    {
+      "ticker": "CTVA",
+      "date": "2026-10-12",
+      "field": "netDebtEbitda",
+      "prev": 1.4,
+      "curr": 4.2,
       "relChangePct": 200.0
     },
     {
@@ -3990,45 +4006,29 @@
       "prev": 30.1,
       "curr": 0,
       "relChangePct": -100.0
-    },
-    {
-      "ticker": "POLR.L",
-      "date": "2026-10-07",
-      "field": "piotroskiF",
-      "prev": 3,
-      "curr": 6,
-      "relChangePct": 100.0
-    },
-    {
-      "ticker": "PM",
-      "date": "2026-10-09",
-      "field": "piotroskiF",
-      "prev": 3,
-      "curr": 6,
-      "relChangePct": 100.0
     }
   ],
   "summary": {
     "byField": {
-      "fcf": 429,
-      "piotroskiF": 422,
-      "opMargin": 330,
-      "netDebtEbitda": 268,
+      "fcf": 432,
+      "piotroskiF": 426,
+      "opMargin": 333,
+      "netDebtEbitda": 270,
       "revGrowthTTM": 153,
       "epsGrowthTTM": 147,
       "interestCover": 142,
       "currentRatio": 107,
-      "gpa": 105,
+      "gpa": 106,
       "revTrend3y": 95,
       "sharesYoYChange": 88,
-      "grossMargin": 83,
+      "grossMargin": 84,
       "marginTrend3y": 73,
-      "netMargin": 64,
+      "netMargin": 65,
       "roic": 53,
       "marketCap": 37
     },
     "byTicker": {
-      "BTRW.L": 56,
+      "BTRW.L": 57,
       "FDEV.L": 21,
       "FCX": 19,
       "VRSN": 19,
@@ -4041,16 +4041,16 @@
       "PFG": 15,
       "EA": 15,
       "INTC": 14,
+      "CTVA": 14,
       "EQT": 14,
       "GLW": 14,
       "RSG": 14,
       "SFR.L": 13,
       "CB": 13,
-      "CMCSA": 13,
-      "REGN": 13
+      "CMCSA": 13
     },
-    "newFilingUpdates": 6853,
+    "newFilingUpdates": 6871,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 18.68
+    "eventsPerPairAvg": 18.65
   }
 }

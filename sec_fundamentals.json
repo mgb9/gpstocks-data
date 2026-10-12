@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-05",
+  "asOf": "2026-10-12",
   "source": "SEC XBRL companyfacts (as-filed)",
   "note": "Shadow data for cross-checking yfinance. Values are as originally filed (earliest filing per fiscal period); each derived metric's asOfFiled is the newest filing date used. NOT consumed by the scorer.",
   "tickers": {
@@ -5283,7 +5283,7 @@
     },
     "ATO": {
       "cik": 731802,
-      "entityName": "Atmos Energy Corp",
+      "entityName": "ATMOS ENERGY CORP",
       "metrics": {
         "revGrowthTTM": {
           "value": 6.4523657650654265,
@@ -11565,7 +11565,7 @@
     },
     "CLX": {
       "cik": 21076,
-      "entityName": "CLOROX CO /DE/",
+      "entityName": "The Clorox Company",
       "metrics": {
         "revGrowthTTM": {
           "value": -3.689984328251883,
@@ -13285,65 +13285,65 @@
       "entityName": "COSTCO WHOLESALE CORP /NEW",
       "metrics": {
         "revGrowthTTM": {
-          "value": 9.231106944072387,
-          "asOfFiled": "2026-06-03"
+          "value": 10.143695387577889,
+          "asOfFiled": "2026-10-07"
         },
         "epsGrowthTTM": {
-          "value": 12.76233692569486,
-          "asOfFiled": "2026-06-03"
+          "value": 14.003294892915985,
+          "asOfFiled": "2026-10-07"
         },
         "revGrowthQuarterlyYoY": {
-          "value": 11.584526540621788,
-          "asOfFiled": "2026-06-03"
+          "value": 11.104275964529453,
+          "asOfFiled": "2026-10-07"
         },
         "epsGrowthQuarterlyYoY": {
-          "value": 15.18691588785046,
-          "asOfFiled": "2026-06-03"
+          "value": 14.991482112436127,
+          "asOfFiled": "2026-10-07"
         },
         "opMargin": {
-          "value": 3.8233981749873123,
-          "asOfFiled": "2026-06-03"
+          "value": 3.8544766026507977,
+          "asOfFiled": "2026-10-07"
         },
         "netMargin": {
-          "value": 3.0103512757717477,
-          "asOfFiled": "2026-06-03"
+          "value": 3.043337709546963,
+          "asOfFiled": "2026-10-07"
         },
         "grossMargin": {
-          "value": 5.608218347542636,
-          "asOfFiled": "2026-06-03"
+          "value": 5.43123297070136,
+          "asOfFiled": "2026-10-07"
         },
         "fcf": {
-          "value": 8806.0,
-          "asOfFiled": "2026-06-03"
+          "value": 9382.0,
+          "asOfFiled": "2026-10-07"
         },
         "sharesYoYChange": {
-          "value": 0.0003873931831543942,
-          "asOfFiled": "2026-06-03"
+          "value": -0.011243082414147398,
+          "asOfFiled": "2026-10-07"
         }
       },
       "raw": {
         "revenue": {
           "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
           "ttm": {
-            "value": 293587000000,
-            "periodEnd": "2026-05-10",
-            "asOfFiled": "2026-06-03"
+            "value": 303154000000,
+            "periodEnd": "2026-08-30",
+            "asOfFiled": "2026-10-07"
           }
         },
         "netIncome": {
           "tag": "NetIncomeLoss",
           "ttm": {
-            "value": 8838000000,
-            "periodEnd": "2026-05-10",
-            "asOfFiled": "2026-06-03"
+            "value": 9226000000,
+            "periodEnd": "2026-08-30",
+            "asOfFiled": "2026-10-07"
           }
         },
         "operatingIncome": {
           "tag": "OperatingIncomeLoss",
           "ttm": {
-            "value": 11225000000,
-            "periodEnd": "2026-05-10",
-            "asOfFiled": "2026-06-03"
+            "value": 11685000000,
+            "periodEnd": "2026-08-30",
+            "asOfFiled": "2026-10-07"
           }
         },
         "grossProfit": {
@@ -13357,49 +13357,49 @@
         "epsDiluted": {
           "tag": "EarningsPerShareDiluted",
           "ttm": {
-            "value": 19.880000000000003,
-            "periodEnd": "2026-05-10",
-            "asOfFiled": "2026-06-03"
+            "value": 20.76,
+            "periodEnd": "2026-08-30",
+            "asOfFiled": "2026-10-07"
           }
         },
         "cfo": {
           "tag": "NetCashProvidedByUsedInOperatingActivities",
           "ttm": {
-            "value": 15000000000,
-            "periodEnd": "2026-05-10",
-            "asOfFiled": "2026-06-03"
+            "value": 15817000000,
+            "periodEnd": "2026-08-30",
+            "asOfFiled": "2026-10-07"
           }
         },
         "capex": {
           "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
           "ttm": {
-            "value": 6194000000,
-            "periodEnd": "2026-05-10",
-            "asOfFiled": "2026-06-03"
+            "value": 6435000000,
+            "periodEnd": "2026-08-30",
+            "asOfFiled": "2026-10-07"
           }
         },
         "assets": {
           "tag": "Assets",
           "latest": {
-            "value": 86430000000,
-            "periodEnd": "2026-05-10",
-            "asOfFiled": "2026-06-03"
+            "value": 89045000000,
+            "periodEnd": "2026-08-30",
+            "asOfFiled": "2026-10-07"
           }
         },
         "equity": {
           "tag": "StockholdersEquity",
           "latest": {
-            "value": 33509000000,
-            "periodEnd": "2026-05-10",
-            "asOfFiled": "2026-06-03"
+            "value": 35803000000,
+            "periodEnd": "2026-08-30",
+            "asOfFiled": "2026-10-07"
           }
         },
         "sharesOutstanding": {
           "tag": "EntityCommonStockSharesOutstanding",
           "latest": {
-            "value": 443478804,
-            "periodEnd": "2026-05-27",
-            "asOfFiled": "2026-06-03"
+            "value": 443129349,
+            "periodEnd": "2026-09-29",
+            "asOfFiled": "2026-10-07"
           }
         }
       }
@@ -13529,7 +13529,7 @@
     },
     "CPB": {
       "cik": 16732,
-      "entityName": "CAMPBELL'S Co",
+      "entityName": "The Campbell\u2019s Company",
       "metrics": {
         "revGrowthTTM": {
           "value": -4.964400663220525,
@@ -14767,121 +14767,121 @@
       "entityName": "Cintas Corporation",
       "metrics": {
         "revGrowthTTM": {
-          "value": 8.941622975458552,
-          "asOfFiled": "2026-07-29"
+          "value": 9.50962401565032,
+          "asOfFiled": "2026-10-07"
         },
         "epsGrowthTTM": {
-          "value": 11.590909090909097,
-          "asOfFiled": "2026-07-29"
+          "value": 12.416851441241693,
+          "asOfFiled": "2026-10-07"
         },
         "revGrowthQuarterlyYoY": {
-          "value": 8.904872149740672,
-          "asOfFiled": "2026-07-29"
+          "value": 10.884684351916496,
+          "asOfFiled": "2026-10-07"
         },
         "epsGrowthQuarterlyYoY": {
-          "value": 15.596330275229352,
-          "asOfFiled": "2026-07-29"
+          "value": 13.333333333333353,
+          "asOfFiled": "2026-10-07"
         },
         "opMargin": {
-          "value": 23.13863560886911,
-          "asOfFiled": "2026-07-29"
+          "value": 23.35981980205214,
+          "asOfFiled": "2026-10-07"
         },
         "netMargin": {
-          "value": 17.754198247082208,
-          "asOfFiled": "2026-07-29"
+          "value": 17.823775887452403,
+          "asOfFiled": "2026-10-07"
         },
         "grossMargin": {
-          "value": 50.66945494893322,
-          "asOfFiled": "2026-07-29"
+          "value": 50.99012855711891,
+          "asOfFiled": "2026-10-07"
         },
         "fcf": {
-          "value": 1881.175,
-          "asOfFiled": "2026-07-29"
+          "value": 2033.45,
+          "asOfFiled": "2026-10-07"
         },
         "sharesYoYChange": {
-          "value": -0.6969029365643253,
-          "asOfFiled": "2026-07-29"
+          "value": -1.1923320002162563,
+          "asOfFiled": "2026-10-07"
         }
       },
       "raw": {
         "revenue": {
           "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
           "ttm": {
-            "value": 11264761000,
-            "periodEnd": "2026-05-31",
-            "asOfFiled": "2026-07-29"
+            "value": 11560620000,
+            "periodEnd": "2026-08-31",
+            "asOfFiled": "2026-10-07"
           }
         },
         "netIncome": {
           "tag": "NetIncomeLoss",
           "ttm": {
-            "value": 1999968000,
-            "periodEnd": "2026-05-31",
-            "asOfFiled": "2026-07-29"
+            "value": 2060539000,
+            "periodEnd": "2026-08-31",
+            "asOfFiled": "2026-10-07"
           }
         },
         "operatingIncome": {
           "tag": "OperatingIncomeLoss",
           "ttm": {
-            "value": 2606512000,
-            "periodEnd": "2026-05-31",
-            "asOfFiled": "2026-07-29"
+            "value": 2700540000,
+            "periodEnd": "2026-08-31",
+            "asOfFiled": "2026-10-07"
           }
         },
         "grossProfit": {
           "tag": "GrossProfit",
           "ttm": {
-            "value": 5707793000,
-            "periodEnd": "2026-05-31",
-            "asOfFiled": "2026-07-29"
+            "value": 5894775000,
+            "periodEnd": "2026-08-31",
+            "asOfFiled": "2026-10-07"
           }
         },
         "epsDiluted": {
           "tag": "EarningsPerShareDiluted",
           "ttm": {
-            "value": 4.91,
-            "periodEnd": "2026-05-31",
-            "asOfFiled": "2026-07-29"
+            "value": 5.07,
+            "periodEnd": "2026-08-31",
+            "asOfFiled": "2026-10-07"
           }
         },
         "cfo": {
           "tag": "NetCashProvidedByUsedInOperatingActivities",
           "ttm": {
-            "value": 2276280000,
-            "periodEnd": "2026-05-31",
-            "asOfFiled": "2026-07-29"
+            "value": 2434130000,
+            "periodEnd": "2026-08-31",
+            "asOfFiled": "2026-10-07"
           }
         },
         "capex": {
           "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
           "ttm": {
-            "value": 395105000,
-            "periodEnd": "2026-05-31",
-            "asOfFiled": "2026-07-29"
+            "value": 400680000,
+            "periodEnd": "2026-08-31",
+            "asOfFiled": "2026-10-07"
           }
         },
         "assets": {
           "tag": "Assets",
           "latest": {
-            "value": 10529140000,
-            "periodEnd": "2026-05-31",
-            "asOfFiled": "2026-07-29"
+            "value": 10652735000,
+            "periodEnd": "2026-08-31",
+            "asOfFiled": "2026-10-07"
           }
         },
         "equity": {
           "tag": "StockholdersEquity",
           "latest": {
-            "value": 5139887000,
-            "periodEnd": "2026-05-31",
-            "asOfFiled": "2026-07-29"
+            "value": 5204532000,
+            "periodEnd": "2026-08-31",
+            "asOfFiled": "2026-10-07"
           }
         },
         "sharesOutstanding": {
           "tag": "EntityCommonStockSharesOutstanding",
           "latest": {
-            "value": 400169561,
-            "periodEnd": "2026-06-30",
-            "asOfFiled": "2026-07-29"
+            "value": 397075093,
+            "periodEnd": "2026-09-30",
+            "asOfFiled": "2026-10-07"
           }
         }
       }
@@ -15625,65 +15625,65 @@
       "entityName": "DELTA AIR LINES, INC.",
       "metrics": {
         "revGrowthTTM": {
-          "value": 10.275498998772692,
-          "asOfFiled": "2026-07-10"
+          "value": 14.113159567705026,
+          "asOfFiled": "2026-10-09"
         },
         "epsGrowthTTM": {
-          "value": -12.608695652173918,
-          "asOfFiled": "2026-07-10"
+          "value": -29.436619718309853,
+          "asOfFiled": "2026-10-09"
         },
         "revGrowthQuarterlyYoY": {
-          "value": 18.674915905814515,
-          "asOfFiled": "2026-07-10"
+          "value": 21.069993402507038,
+          "asOfFiled": "2026-10-09"
         },
         "epsGrowthQuarterlyYoY": {
-          "value": -25.382262996941897,
-          "asOfFiled": "2026-07-10"
+          "value": -47.00460829493088,
+          "asOfFiled": "2026-10-09"
         },
         "opMargin": {
-          "value": 8.077672177720503,
-          "asOfFiled": "2026-07-10"
+          "value": 7.362116991643454,
+          "asOfFiled": "2026-10-09"
         },
         "netMargin": {
-          "value": 5.785874324542006,
-          "asOfFiled": "2026-07-10"
+          "value": 4.582172701949861,
+          "asOfFiled": "2026-10-09"
         },
         "grossMargin": {
           "value": null,
           "reason": "no usable tag (tried: GrossProfit)"
         },
         "fcf": {
-          "value": 3658.0,
-          "asOfFiled": "2026-07-10"
+          "value": 3524.0,
+          "asOfFiled": "2026-10-09"
         },
         "sharesYoYChange": {
-          "value": 0.7159260954895386,
-          "asOfFiled": "2026-07-10"
+          "value": 0.7580236182777256,
+          "asOfFiled": "2026-10-09"
         }
       },
       "raw": {
         "revenue": {
           "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
           "ttm": {
-            "value": 68287000000,
-            "periodEnd": "2026-06-30",
-            "asOfFiled": "2026-07-10"
+            "value": 71800000000,
+            "periodEnd": "2026-09-30",
+            "asOfFiled": "2026-10-09"
           }
         },
         "netIncome": {
           "tag": "NetIncomeLoss",
           "ttm": {
-            "value": 3951000000,
-            "periodEnd": "2026-06-30",
-            "asOfFiled": "2026-07-10"
+            "value": 3290000000,
+            "periodEnd": "2026-09-30",
+            "asOfFiled": "2026-10-09"
           }
         },
         "operatingIncome": {
           "tag": "OperatingIncomeLoss",
           "ttm": {
-            "value": 5516000000,
-            "periodEnd": "2026-06-30",
-            "asOfFiled": "2026-07-10"
+            "value": 5286000000,
+            "periodEnd": "2026-09-30",
+            "asOfFiled": "2026-10-09"
           }
         },
         "grossProfit": {
@@ -15696,17 +15696,17 @@
         "epsDiluted": {
           "tag": "EarningsPerShareDiluted",
           "ttm": {
-            "value": 6.03,
-            "periodEnd": "2026-06-30",
-            "asOfFiled": "2026-07-10"
+            "value": 5.01,
+            "periodEnd": "2026-09-30",
+            "asOfFiled": "2026-10-09"
           }
         },
         "cfo": {
           "tag": "NetCashProvidedByUsedInOperatingActivities",
           "ttm": {
-            "value": 8134000000,
-            "periodEnd": "2026-06-30",
-            "asOfFiled": "2026-07-10"
+            "value": 8000000000,
+            "periodEnd": "2026-09-30",
+            "asOfFiled": "2026-10-09"
           }
         },
         "capex": {
@@ -15720,25 +15720,25 @@
         "assets": {
           "tag": "Assets",
           "latest": {
-            "value": 86321000000,
-            "periodEnd": "2026-06-30",
-            "asOfFiled": "2026-07-10"
+            "value": 86048000000,
+            "periodEnd": "2026-09-30",
+            "asOfFiled": "2026-10-09"
           }
         },
         "equity": {
           "tag": "StockholdersEquity",
           "latest": {
-            "value": 21815000000,
-            "periodEnd": "2026-06-30",
-            "asOfFiled": "2026-07-10"
+            "value": 22513000000,
+            "periodEnd": "2026-09-30",
+            "asOfFiled": "2026-10-09"
           }
         },
         "sharesOutstanding": {
           "tag": "EntityCommonStockSharesOutstanding",
           "latest": {
-            "value": 657623030,
-            "periodEnd": "2026-06-30",
-            "asOfFiled": "2026-07-10"
+            "value": 657912380,
+            "periodEnd": "2026-09-30",
+            "asOfFiled": "2026-10-09"
           }
         }
       }
@@ -39225,121 +39225,121 @@
       "entityName": "Micron Technology, Inc.",
       "metrics": {
         "revGrowthTTM": {
-          "value": 166.98015556147047,
-          "asOfFiled": "2026-06-25"
+          "value": 256.3272513243084,
+          "asOfFiled": "2026-10-09"
         },
         "epsGrowthTTM": {
-          "value": 694.6043165467627,
-          "asOfFiled": "2026-06-25"
+          "value": 879.3148880105402,
+          "asOfFiled": "2026-10-09"
         },
         "revGrowthQuarterlyYoY": {
-          "value": 345.7155144608107,
-          "asOfFiled": "2026-06-25"
+          "value": 379.26646045072914,
+          "asOfFiled": "2026-10-09"
         },
         "epsGrowthQuarterlyYoY": {
-          "value": 1368.452380952381,
-          "asOfFiled": "2026-06-25"
+          "value": 1059.5070422535211,
+          "asOfFiled": "2026-10-09"
         },
         "opMargin": {
-          "value": 65.62576157033033,
-          "asOfFiled": "2026-06-25"
+          "value": 74.58629906598192,
+          "asOfFiled": "2026-10-09"
         },
         "netMargin": {
-          "value": 55.90646254735583,
-          "asOfFiled": "2026-06-25"
+          "value": 63.796287953869715,
+          "asOfFiled": "2026-10-09"
         },
         "grossMargin": {
-          "value": 72.56906750559408,
-          "asOfFiled": "2026-06-25"
+          "value": 80.71598041865633,
+          "asOfFiled": "2026-10-09"
         },
         "fcf": {
-          "value": 26172.0,
-          "asOfFiled": "2026-06-25"
+          "value": 58963.0,
+          "asOfFiled": "2026-10-09"
         },
         "sharesYoYChange": {
-          "value": 0.9175068980961099,
-          "asOfFiled": "2026-06-25"
+          "value": 0.7979909164912868,
+          "asOfFiled": "2026-10-09"
         }
       },
       "raw": {
         "revenue": {
           "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
           "ttm": {
-            "value": 90274000000,
-            "periodEnd": "2026-05-28",
-            "asOfFiled": "2026-06-25"
+            "value": 133188000000,
+            "periodEnd": "2026-09-03",
+            "asOfFiled": "2026-10-09"
           }
         },
         "netIncome": {
           "tag": "NetIncomeLoss",
           "ttm": {
-            "value": 50469000000,
-            "periodEnd": "2026-05-28",
-            "asOfFiled": "2026-06-25"
+            "value": 84969000000,
+            "periodEnd": "2026-09-03",
+            "asOfFiled": "2026-10-09"
           }
         },
         "operatingIncome": {
           "tag": "OperatingIncomeLoss",
           "ttm": {
-            "value": 59243000000,
-            "periodEnd": "2026-05-28",
-            "asOfFiled": "2026-06-25"
+            "value": 99340000000,
+            "periodEnd": "2026-09-03",
+            "asOfFiled": "2026-10-09"
           }
         },
         "grossProfit": {
           "tag": "GrossProfit",
           "ttm": {
-            "value": 65511000000,
-            "periodEnd": "2026-05-28",
-            "asOfFiled": "2026-06-25"
+            "value": 107504000000,
+            "periodEnd": "2026-09-03",
+            "asOfFiled": "2026-10-09"
           }
         },
         "epsDiluted": {
           "tag": "EarningsPerShareDiluted",
           "ttm": {
-            "value": 44.18,
-            "periodEnd": "2026-05-28",
-            "asOfFiled": "2026-06-25"
+            "value": 74.33,
+            "periodEnd": "2026-09-03",
+            "asOfFiled": "2026-10-09"
           }
         },
         "cfo": {
           "tag": "NetCashProvidedByUsedInOperatingActivities",
           "ttm": {
-            "value": 51432000000,
-            "periodEnd": "2026-05-28",
-            "asOfFiled": "2026-06-25"
+            "value": 89675000000,
+            "periodEnd": "2026-09-03",
+            "asOfFiled": "2026-10-09"
           }
         },
         "capex": {
           "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
           "ttm": {
-            "value": 25260000000,
-            "periodEnd": "2026-05-28",
-            "asOfFiled": "2026-06-25"
+            "value": 30712000000,
+            "periodEnd": "2026-09-03",
+            "asOfFiled": "2026-10-09"
           }
         },
         "assets": {
           "tag": "Assets",
           "latest": {
-            "value": 134112000000,
-            "periodEnd": "2026-05-28",
-            "asOfFiled": "2026-06-25"
+            "value": 195888000000,
+            "periodEnd": "2026-09-03",
+            "asOfFiled": "2026-10-09"
           }
         },
         "equity": {
           "tag": "StockholdersEquity",
           "latest": {
-            "value": 100724000000,
-            "periodEnd": "2026-05-28",
-            "asOfFiled": "2026-06-25"
+            "value": 138378000000,
+            "periodEnd": "2026-09-03",
+            "asOfFiled": "2026-10-09"
           }
         },
         "sharesOutstanding": {
           "tag": "EntityCommonStockSharesOutstanding",
           "latest": {
-            "value": 1129393151,
-            "periodEnd": "2026-06-17",
-            "asOfFiled": "2026-06-25"
+            "value": 1131423212,
+            "periodEnd": "2026-10-02",
+            "asOfFiled": "2026-10-09"
           }
         }
       }
@@ -43528,121 +43528,121 @@
       "entityName": "PepsiCo, Inc.",
       "metrics": {
         "revGrowthTTM": {
-          "value": 5.6197410297772254,
-          "asOfFiled": "2026-07-09"
+          "value": 6.360565576077781,
+          "asOfFiled": "2026-10-08"
         },
         "epsGrowthTTM": {
-          "value": 38.979963570127474,
-          "asOfFiled": "2026-07-09"
+          "value": 51.33079847908748,
+          "asOfFiled": "2026-10-08"
         },
         "revGrowthQuarterlyYoY": {
-          "value": 6.402358532077801,
-          "asOfFiled": "2026-07-09"
+          "value": 5.585495258386608,
+          "asOfFiled": "2026-10-08"
         },
         "epsGrowthQuarterlyYoY": {
-          "value": 136.9565217391304,
-          "asOfFiled": "2026-07-09"
+          "value": 17.36842105263159,
+          "asOfFiled": "2026-10-08"
         },
         "opMargin": {
-          "value": 14.820853628333197,
-          "asOfFiled": "2026-07-09"
+          "value": 15.322523182785192,
+          "asOfFiled": "2026-10-08"
         },
         "netMargin": {
-          "value": 10.784900520102369,
-          "asOfFiled": "2026-07-09"
+          "value": 11.091092313799738,
+          "asOfFiled": "2026-10-08"
         },
         "grossMargin": {
-          "value": 53.95649302402378,
-          "asOfFiled": "2026-07-09"
+          "value": 54.168829714681245,
+          "asOfFiled": "2026-10-08"
         },
         "fcf": {
-          "value": 9282.0,
-          "asOfFiled": "2026-07-09"
+          "value": 10471.0,
+          "asOfFiled": "2026-10-08"
         },
         "sharesYoYChange": {
-          "value": -0.3057275358738676,
-          "asOfFiled": "2026-07-09"
+          "value": -0.3363486469827981,
+          "asOfFiled": "2026-10-08"
         }
       },
       "raw": {
         "revenue": {
           "tag": "Revenues",
           "ttm": {
-            "value": 96904000000,
-            "periodEnd": "2026-06-13",
-            "asOfFiled": "2026-07-09"
+            "value": 98241000000,
+            "periodEnd": "2026-09-05",
+            "asOfFiled": "2026-10-08"
           }
         },
         "netIncome": {
           "tag": "NetIncomeLoss",
           "ttm": {
-            "value": 10451000000,
-            "periodEnd": "2026-06-13",
-            "asOfFiled": "2026-07-09"
+            "value": 10896000000,
+            "periodEnd": "2026-09-05",
+            "asOfFiled": "2026-10-08"
           }
         },
         "operatingIncome": {
           "tag": "OperatingIncomeLoss",
           "ttm": {
-            "value": 14362000000,
-            "periodEnd": "2026-06-13",
-            "asOfFiled": "2026-07-09"
+            "value": 15053000000,
+            "periodEnd": "2026-09-05",
+            "asOfFiled": "2026-10-08"
           }
         },
         "grossProfit": {
           "tag": "GrossProfit",
           "ttm": {
-            "value": 52286000000,
-            "periodEnd": "2026-06-13",
-            "asOfFiled": "2026-07-09"
+            "value": 53216000000,
+            "periodEnd": "2026-09-05",
+            "asOfFiled": "2026-10-08"
           }
         },
         "epsDiluted": {
           "tag": "EarningsPerShareDiluted",
           "ttm": {
-            "value": 7.629999999999999,
-            "periodEnd": "2026-06-13",
-            "asOfFiled": "2026-07-09"
+            "value": 7.960000000000001,
+            "periodEnd": "2026-09-05",
+            "asOfFiled": "2026-10-08"
           }
         },
         "cfo": {
           "tag": "NetCashProvidedByUsedInOperatingActivities",
           "ttm": {
-            "value": 13456000000,
-            "periodEnd": "2026-06-13",
-            "asOfFiled": "2026-07-09"
+            "value": 14569000000,
+            "periodEnd": "2026-09-05",
+            "asOfFiled": "2026-10-08"
           }
         },
         "capex": {
           "tag": "PaymentsToAcquireProductiveAssets",
           "ttm": {
-            "value": 4174000000,
-            "periodEnd": "2026-06-13",
-            "asOfFiled": "2026-07-09"
+            "value": 4098000000,
+            "periodEnd": "2026-09-05",
+            "asOfFiled": "2026-10-08"
           }
         },
         "assets": {
           "tag": "Assets",
           "latest": {
-            "value": 112189000000,
-            "periodEnd": "2026-06-13",
-            "asOfFiled": "2026-07-09"
+            "value": 111976000000,
+            "periodEnd": "2026-09-05",
+            "asOfFiled": "2026-10-08"
           }
         },
         "equity": {
           "tag": "StockholdersEquity",
           "latest": {
-            "value": 22098000000,
-            "periodEnd": "2026-06-13",
-            "asOfFiled": "2026-07-09"
+            "value": 22292000000,
+            "periodEnd": "2026-09-05",
+            "asOfFiled": "2026-10-08"
           }
         },
         "sharesOutstanding": {
           "tag": "EntityCommonStockSharesOutstanding",
           "latest": {
-            "value": 1364891558,
-            "periodEnd": "2026-07-02",
-            "asOfFiled": "2026-07-09"
+            "value": 1362741092,
+            "periodEnd": "2026-10-01",
+            "asOfFiled": "2026-10-08"
           }
         }
       }
@@ -45970,123 +45970,6 @@
             "value": 175621134,
             "periodEnd": "2026-07-21",
             "asOfFiled": "2026-07-29"
-          }
-        }
-      }
-    },
-    "PSKY": {
-      "cik": 2041610,
-      "entityName": "Paramount Skydance Corp",
-      "metrics": {
-        "revGrowthTTM": {
-          "value": null,
-          "reason": "quarterly chain incomplete"
-        },
-        "epsGrowthTTM": {
-          "value": null,
-          "reason": "quarterly chain incomplete"
-        },
-        "revGrowthQuarterlyYoY": {
-          "value": null,
-          "reason": "prior-year quarterly revenue TTM not positive"
-        },
-        "epsGrowthQuarterlyYoY": {
-          "value": null,
-          "reason": "prior-year quarterly EPS TTM not positive"
-        },
-        "opMargin": {
-          "value": null,
-          "reason": "quarterly chain incomplete"
-        },
-        "netMargin": {
-          "value": null,
-          "reason": "quarterly chain incomplete"
-        },
-        "grossMargin": {
-          "value": null,
-          "reason": "no usable tag (tried: GrossProfit)"
-        },
-        "fcf": {
-          "value": null,
-          "reason": "quarterly chain incomplete"
-        },
-        "sharesYoYChange": {
-          "value": null,
-          "reason": "no year-ago shares outstanding"
-        }
-      },
-      "raw": {
-        "revenue": {
-          "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
-          "ttm": {
-            "value": null,
-            "reason": "quarterly chain incomplete"
-          }
-        },
-        "netIncome": {
-          "tag": "NetIncomeLoss",
-          "ttm": {
-            "value": null,
-            "reason": "quarterly chain incomplete"
-          }
-        },
-        "operatingIncome": {
-          "tag": "OperatingIncomeLoss",
-          "ttm": {
-            "value": null,
-            "reason": "quarterly chain incomplete"
-          }
-        },
-        "grossProfit": {
-          "tag": null,
-          "ttm": {
-            "value": null,
-            "reason": "no usable tag (tried: GrossProfit)"
-          }
-        },
-        "epsDiluted": {
-          "tag": "EarningsPerShareDiluted",
-          "ttm": {
-            "value": null,
-            "reason": "quarterly chain incomplete"
-          }
-        },
-        "cfo": {
-          "tag": "NetCashProvidedByUsedInOperatingActivities",
-          "ttm": {
-            "value": null,
-            "reason": "quarterly chain incomplete"
-          }
-        },
-        "capex": {
-          "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
-          "ttm": {
-            "value": null,
-            "reason": "quarterly chain incomplete"
-          }
-        },
-        "assets": {
-          "tag": "Assets",
-          "latest": {
-            "value": 44411000000,
-            "periodEnd": "2026-06-30",
-            "asOfFiled": "2026-08-04"
-          }
-        },
-        "equity": {
-          "tag": "StockholdersEquity",
-          "latest": {
-            "value": 11771000000,
-            "periodEnd": "2026-06-30",
-            "asOfFiled": "2026-08-04"
-          }
-        },
-        "sharesOutstanding": {
-          "tag": "EntityCommonStockSharesOutstanding",
-          "latest": {
-            "value": 1071666977,
-            "periodEnd": "2025-11-05",
-            "asOfFiled": "2025-11-10"
           }
         }
       }
@@ -50896,36 +50779,36 @@
       "entityName": "CONSTELLATION BRANDS, INC.",
       "metrics": {
         "revGrowthTTM": {
-          "value": -10.25924241439803,
-          "asOfFiled": "2026-07-01"
+          "value": -4.444768430772217,
+          "asOfFiled": "2026-10-07"
         },
         "epsGrowthTTM": {
           "value": null,
           "reason": "no usable tag (tried: EarningsPerShareDiluted, EarningsPerShareBasicAndDiluted)"
         },
         "revGrowthQuarterlyYoY": {
-          "value": -3.2530345471521893,
-          "asOfFiled": "2026-07-01"
+          "value": 6.134368288179659,
+          "asOfFiled": "2026-10-07"
         },
         "epsGrowthQuarterlyYoY": {
           "value": null,
           "reason": "no usable tag (tried: EarningsPerShareDiluted, EarningsPerShareBasicAndDiluted)"
         },
         "opMargin": {
-          "value": 29.50746762649456,
-          "asOfFiled": "2026-07-01"
+          "value": 28.31699080478477,
+          "asOfFiled": "2026-10-07"
         },
         "netMargin": {
-          "value": 18.86971991229159,
-          "asOfFiled": "2026-07-01"
+          "value": 19.57238180486614,
+          "asOfFiled": "2026-10-07"
         },
         "grossMargin": {
-          "value": 49.28943775598858,
-          "asOfFiled": "2026-07-01"
+          "value": 49.31747904630157,
+          "asOfFiled": "2026-10-07"
         },
         "fcf": {
-          "value": 1834.2,
-          "asOfFiled": "2026-07-01"
+          "value": 1839.3,
+          "asOfFiled": "2026-10-07"
         },
         "sharesYoYChange": {
           "value": null,
@@ -50936,33 +50819,33 @@
         "revenue": {
           "tag": "RevenueFromContractWithCustomerIncludingAssessedTax",
           "ttm": {
-            "value": 9668400000,
-            "periodEnd": "2026-05-31",
-            "asOfFiled": "2026-07-01"
+            "value": 9831200000,
+            "periodEnd": "2026-08-31",
+            "asOfFiled": "2026-10-07"
           }
         },
         "netIncome": {
           "tag": "NetIncomeLoss",
           "ttm": {
-            "value": 1824400000,
-            "periodEnd": "2026-05-31",
-            "asOfFiled": "2026-07-01"
+            "value": 1924200000,
+            "periodEnd": "2026-08-31",
+            "asOfFiled": "2026-10-07"
           }
         },
         "operatingIncome": {
           "tag": "OperatingIncomeLoss",
           "ttm": {
-            "value": 2852900000,
-            "periodEnd": "2026-05-31",
-            "asOfFiled": "2026-07-01"
+            "value": 2783900000,
+            "periodEnd": "2026-08-31",
+            "asOfFiled": "2026-10-07"
           }
         },
         "grossProfit": {
           "tag": "GrossProfit",
           "ttm": {
-            "value": 4765500000,
-            "periodEnd": "2026-05-31",
-            "asOfFiled": "2026-07-01"
+            "value": 4848500000,
+            "periodEnd": "2026-08-31",
+            "asOfFiled": "2026-10-07"
           }
         },
         "epsDiluted": {
@@ -50975,33 +50858,33 @@
         "cfo": {
           "tag": "NetCashProvidedByUsedInOperatingActivities",
           "ttm": {
-            "value": 2693600000,
-            "periodEnd": "2026-05-31",
-            "asOfFiled": "2026-07-01"
+            "value": 2658300000,
+            "periodEnd": "2026-08-31",
+            "asOfFiled": "2026-10-07"
           }
         },
         "capex": {
           "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
           "ttm": {
-            "value": 859400000,
-            "periodEnd": "2026-05-31",
-            "asOfFiled": "2026-07-01"
+            "value": 819000000,
+            "periodEnd": "2026-08-31",
+            "asOfFiled": "2026-10-07"
           }
         },
         "assets": {
           "tag": "Assets",
           "latest": {
-            "value": 22108700000,
-            "periodEnd": "2026-05-31",
-            "asOfFiled": "2026-07-01"
+            "value": 22063700000,
+            "periodEnd": "2026-08-31",
+            "asOfFiled": "2026-10-07"
           }
         },
         "equity": {
           "tag": "StockholdersEquity",
           "latest": {
-            "value": 8255600000,
-            "periodEnd": "2026-05-31",
-            "asOfFiled": "2026-07-01"
+            "value": 8586900000,
+            "periodEnd": "2026-08-31",
+            "asOfFiled": "2026-10-07"
           }
         },
         "sharesOutstanding": {
@@ -61085,10 +60968,10 @@
   },
   "coverage": {
     "requested": 503,
-    "mapped": 497,
-    "fetched": 497,
+    "mapped": 496,
+    "fetched": 496,
     "withTtm": 490,
-    "withVintages": 495,
-    "vintageRecords": 17786
+    "withVintages": 494,
+    "vintageRecords": 17787
   }
 }
