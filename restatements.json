@@ -1,11 +1,11 @@
 {
-  "asOf": "2026-10-12",
+  "asOf": "2026-10-13",
   "window": {
     "from": "2025-10-20",
-    "to": "2026-10-12"
+    "to": "2026-10-13"
   },
-  "pairsCompared": 140,
-  "totalEvents": 2611,
+  "pairsCompared": 141,
+  "totalEvents": 2621,
   "events": [
     {
       "ticker": "STX",
@@ -2496,6 +2496,14 @@
       "relChangePct": 150.0
     },
     {
+      "ticker": "SVT.L",
+      "date": "2026-10-13",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 5,
+      "relChangePct": 150.0
+    },
+    {
       "ticker": "LVS",
       "date": "2026-04-24",
       "field": "epsGrowthTTM",
@@ -3998,34 +4006,26 @@
       "prev": 3,
       "curr": 6,
       "relChangePct": 100.0
-    },
-    {
-      "ticker": "CTVA",
-      "date": "2026-10-07",
-      "field": "opMargin",
-      "prev": 30.1,
-      "curr": 0,
-      "relChangePct": -100.0
     }
   ],
   "summary": {
     "byField": {
-      "fcf": 432,
-      "piotroskiF": 426,
-      "opMargin": 333,
+      "fcf": 434,
+      "piotroskiF": 430,
+      "opMargin": 334,
       "netDebtEbitda": 270,
       "revGrowthTTM": 153,
       "epsGrowthTTM": 147,
       "interestCover": 142,
+      "gpa": 107,
       "currentRatio": 107,
-      "gpa": 106,
       "revTrend3y": 95,
       "sharesYoYChange": 88,
-      "grossMargin": 84,
+      "grossMargin": 85,
       "marginTrend3y": 73,
       "netMargin": 65,
       "roic": 53,
-      "marketCap": 37
+      "marketCap": 38
     },
     "byTicker": {
       "BTRW.L": 57,
@@ -4049,8 +4049,8 @@
       "CB": 13,
       "CMCSA": 13
     },
-    "newFilingUpdates": 6871,
+    "newFilingUpdates": 6874,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 18.65
+    "eventsPerPairAvg": 18.59
   }
 }

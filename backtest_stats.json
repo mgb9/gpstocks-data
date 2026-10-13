@@ -1,16 +1,16 @@
 {
-  "asOf": "2026-10-12",
+  "asOf": "2026-10-13",
   "horizonDays": 90,
   "regime": "Normal",
   "snapshots": 48,
-  "observations": 637,
+  "observations": 639,
   "methodology": "weekly-sampled, fixed-horizon, run-deduplicated, non-overlapping",
   "unitOfObservation": "Label-transition, non-overlapping: one row per ticker per label-change; skip ticker until t + horizonDays after emitting. Weekly-sampled start dates.",
   "universeAttrition": {
     "droppedDelisted": 6,
-    "droppedImmature": 406,
+    "droppedImmature": 402,
     "recoveredFromIndex": 4,
-    "totalCandidates": 1049,
+    "totalCandidates": 1047,
     "window": {
       "from": "2025-10-20",
       "to": "2026-10-07"
@@ -136,10 +136,10 @@
         75
       ],
       "bootstrapSnapshots": 4,
-      "avgBenchmarkReturnPct": 3.569457083496695,
-      "avgExcessReturnPct": 0.0611309077515013,
+      "avgBenchmarkReturnPct": 3.5694544211591808,
+      "avgExcessReturnPct": 0.061133570089016494,
       "hitRateVsBenchmarkPct": 47.82608695652174,
-      "informationRatio": 0.004785609126079762
+      "informationRatio": 0.0047858170943287865
     },
     "Staged Buy": {
       "n": 74,
@@ -233,10 +233,10 @@
         71.42857142857143
       ],
       "bootstrapSnapshots": 12,
-      "avgBenchmarkReturnPct": 3.9616635517514935,
-      "avgExcessReturnPct": -2.5853533748015862,
+      "avgBenchmarkReturnPct": 3.961658789049413,
+      "avgExcessReturnPct": -2.5853486120995064,
       "hitRateVsBenchmarkPct": 40.54054054054054,
-      "informationRatio": -0.1524308058970012
+      "informationRatio": -0.15243052928640882
     },
     "Staged Buy on Dip": {
       "n": 5,
@@ -334,18 +334,18 @@
         53.346153846153776
       ],
       "bootstrapSnapshots": 10,
-      "avgBenchmarkReturnPct": 4.896262215777543,
-      "avgExcessReturnPct": -6.815852781142255,
+      "avgBenchmarkReturnPct": 4.8962630653855275,
+      "avgExcessReturnPct": -6.815853630750239,
       "hitRateVsBenchmarkPct": 29.411764705882355,
-      "informationRatio": -0.44070780324485637
+      "informationRatio": -0.44070786772263093
     },
     "Avoid": {
-      "n": 484,
-      "avgReturnPct": 4.046899740361967,
-      "medReturnPct": 2.487366923416569,
-      "winRatePct": 58.88429752066116,
+      "n": 486,
+      "avgReturnPct": 4.062941672573408,
+      "medReturnPct": 2.650804620396868,
+      "winRatePct": 59.053497942386834,
       "p25": -5.403436342662865,
-      "p75": 12.57284071147452,
+      "p75": 12.513330963384286,
       "returns": [
         -88.12407895324432,
         -82.62328077826233,
@@ -622,6 +622,7 @@
         3.9975209172606183,
         4.117647058823525,
         4.2642667045893194,
+        4.316546762589932,
         4.427792915531331,
         4.503105590062112,
         4.6623876765083505,
@@ -698,6 +699,7 @@
         11.09373872465302,
         11.404287707725478,
         11.431742508324083,
+        11.573631772894778,
         11.620448971892102,
         11.621327529923825,
         11.664716388495398,
@@ -833,18 +835,18 @@
         185.7233368532207
       ],
       "avgReturnPctBootstrapCI": [
-        0.7881723311469526,
-        4.804260187706159
+        1.775422501914353,
+        5.539487283905522
       ],
       "winRatePctBootstrapCI": [
-        50,
-        63.63636363636363
+        54.16666666666667,
+        72.72727272727273
       ],
-      "bootstrapSnapshots": 6,
-      "avgBenchmarkReturnPct": 4.181927745313124,
-      "avgExcessReturnPct": -0.13502800495115222,
-      "hitRateVsBenchmarkPct": 44.214876033057855,
-      "informationRatio": -0.006696677467979285
+      "bootstrapSnapshots": 7,
+      "avgBenchmarkReturnPct": 4.173583883263801,
+      "avgExcessReturnPct": -0.11064221069038623,
+      "hitRateVsBenchmarkPct": 44.44444444444444,
+      "informationRatio": -0.005497461245948667
     }
   },
   "inSampleCohorts": {
@@ -864,10 +866,10 @@
         75
       ],
       "bootstrapSnapshots": 4,
-      "avgBenchmarkReturnPct": 3.569457083496695,
-      "avgExcessReturnPct": 0.0611309077515013,
+      "avgBenchmarkReturnPct": 3.5694544211591808,
+      "avgExcessReturnPct": 0.061133570089016494,
       "hitRateVsBenchmarkPct": 47.82608695652174,
-      "informationRatio": 0.004785609126079762
+      "informationRatio": 0.0047858170943287865
     },
     "Staged Buy": {
       "n": 74,
@@ -885,10 +887,10 @@
         71.42857142857143
       ],
       "bootstrapSnapshots": 12,
-      "avgBenchmarkReturnPct": 3.9616635517514935,
-      "avgExcessReturnPct": -2.5853533748015862,
+      "avgBenchmarkReturnPct": 3.961658789049413,
+      "avgExcessReturnPct": -2.5853486120995064,
       "hitRateVsBenchmarkPct": 40.54054054054054,
-      "informationRatio": -0.1524308058970012
+      "informationRatio": -0.15243052928640882
     },
     "Staged Buy on Dip": {
       "n": 5,
@@ -926,31 +928,31 @@
         53.346153846153776
       ],
       "bootstrapSnapshots": 10,
-      "avgBenchmarkReturnPct": 4.896262215777543,
-      "avgExcessReturnPct": -6.815852781142255,
+      "avgBenchmarkReturnPct": 4.8962630653855275,
+      "avgExcessReturnPct": -6.815853630750239,
       "hitRateVsBenchmarkPct": 29.411764705882355,
-      "informationRatio": -0.44070780324485637
+      "informationRatio": -0.44070786772263093
     },
     "Avoid": {
-      "n": 484,
-      "avgReturnPct": 4.046899740361967,
-      "medReturnPct": 2.487366923416569,
-      "winRatePct": 58.88429752066116,
+      "n": 486,
+      "avgReturnPct": 4.062941672573408,
+      "medReturnPct": 2.650804620396868,
+      "winRatePct": 59.053497942386834,
       "p25": -5.403436342662865,
-      "p75": 12.57284071147452,
+      "p75": 12.513330963384286,
       "avgReturnPctBootstrapCI": [
-        0.7881723311469526,
-        4.804260187706159
+        1.775422501914353,
+        5.539487283905522
       ],
       "winRatePctBootstrapCI": [
-        50,
-        63.63636363636363
+        54.16666666666667,
+        72.72727272727273
       ],
-      "bootstrapSnapshots": 6,
-      "avgBenchmarkReturnPct": 4.181927745313124,
-      "avgExcessReturnPct": -0.13502800495115222,
-      "hitRateVsBenchmarkPct": 44.214876033057855,
-      "informationRatio": -0.006696677467979285
+      "bootstrapSnapshots": 7,
+      "avgBenchmarkReturnPct": 4.173583883263801,
+      "avgExcessReturnPct": -0.11064221069038623,
+      "hitRateVsBenchmarkPct": 44.44444444444444,
+      "informationRatio": -0.005497461245948667
     }
   },
   "outOfSampleCohorts": {
@@ -982,10 +984,10 @@
         75
       ],
       "bootstrapSnapshots": 4,
-      "avgBenchmarkReturnPct": 3.569457083496695,
-      "avgExcessReturnPct": -0.2736517009441509,
+      "avgBenchmarkReturnPct": 3.5694544211591808,
+      "avgExcessReturnPct": -0.27364903860663575,
       "hitRateVsBenchmarkPct": 47.82608695652174,
-      "informationRatio": -0.021521876596447914
+      "informationRatio": -0.021521665092632876
     },
     "Staged Buy": {
       "n": 74,
@@ -1003,10 +1005,10 @@
         71.42857142857143
       ],
       "bootstrapSnapshots": 12,
-      "avgBenchmarkReturnPct": 3.9616635517514935,
-      "avgExcessReturnPct": -2.965083104531316,
+      "avgBenchmarkReturnPct": 3.961658789049413,
+      "avgExcessReturnPct": -2.965078341829236,
       "hitRateVsBenchmarkPct": 40.54054054054054,
-      "informationRatio": -0.17433011082667504
+      "informationRatio": -0.1743298348999417
     },
     "Staged Buy on Dip": {
       "n": 5,
@@ -1044,31 +1046,31 @@
         50
       ],
       "bootstrapSnapshots": 10,
-      "avgBenchmarkReturnPct": 4.896262215777543,
-      "avgExcessReturnPct": -7.032519447808921,
+      "avgBenchmarkReturnPct": 4.8962630653855275,
+      "avgExcessReturnPct": -7.032520297416904,
       "hitRateVsBenchmarkPct": 29.411764705882355,
-      "informationRatio": -0.4549854471096956
+      "informationRatio": -0.45498551205067206
     },
     "Avoid": {
-      "n": 484,
-      "avgReturnPct": 3.7704534593702315,
-      "medReturnPct": 2.2178217821782154,
-      "winRatePct": 57.85123966942148,
+      "n": 486,
+      "avgReturnPct": 3.7852667754540676,
+      "medReturnPct": 2.256969875959828,
+      "winRatePct": 58.0246913580247,
       "p25": -5.665343662140336,
-      "p75": 12.42284071147452,
+      "p75": 12.363330963384286,
       "avgReturnPctBootstrapCI": [
-        0.05564733427866031,
-        4.239152719058573
+        1.366672424688898,
+        4.921804201287473
       ],
       "winRatePctBootstrapCI": [
-        50,
-        63.63636363636363
+        52.77777777777778,
+        72.72727272727273
       ],
-      "bootstrapSnapshots": 6,
-      "avgBenchmarkReturnPct": 4.181927745313124,
-      "avgExcessReturnPct": -0.41147428594288726,
-      "hitRateVsBenchmarkPct": 44.214876033057855,
-      "informationRatio": -0.020420982257539896
+      "bootstrapSnapshots": 7,
+      "avgBenchmarkReturnPct": 4.173583883263801,
+      "avgExcessReturnPct": -0.3883171078097273,
+      "hitRateVsBenchmarkPct": 44.44444444444444,
+      "informationRatio": -0.01930761184015953
     }
   },
   "inSampleCohortsNet": {
@@ -1088,10 +1090,10 @@
         75
       ],
       "bootstrapSnapshots": 4,
-      "avgBenchmarkReturnPct": 3.569457083496695,
-      "avgExcessReturnPct": -0.2736517009441509,
+      "avgBenchmarkReturnPct": 3.5694544211591808,
+      "avgExcessReturnPct": -0.27364903860663575,
       "hitRateVsBenchmarkPct": 47.82608695652174,
-      "informationRatio": -0.021521876596447914
+      "informationRatio": -0.021521665092632876
     },
     "Staged Buy": {
       "n": 74,
@@ -1109,10 +1111,10 @@
         71.42857142857143
       ],
       "bootstrapSnapshots": 12,
-      "avgBenchmarkReturnPct": 3.9616635517514935,
-      "avgExcessReturnPct": -2.965083104531316,
+      "avgBenchmarkReturnPct": 3.961658789049413,
+      "avgExcessReturnPct": -2.965078341829236,
       "hitRateVsBenchmarkPct": 40.54054054054054,
-      "informationRatio": -0.17433011082667504
+      "informationRatio": -0.1743298348999417
     },
     "Staged Buy on Dip": {
       "n": 5,
@@ -1150,31 +1152,31 @@
         50
       ],
       "bootstrapSnapshots": 10,
-      "avgBenchmarkReturnPct": 4.896262215777543,
-      "avgExcessReturnPct": -7.032519447808921,
+      "avgBenchmarkReturnPct": 4.8962630653855275,
+      "avgExcessReturnPct": -7.032520297416904,
       "hitRateVsBenchmarkPct": 29.411764705882355,
-      "informationRatio": -0.4549854471096956
+      "informationRatio": -0.45498551205067206
     },
     "Avoid": {
-      "n": 484,
-      "avgReturnPct": 3.7704534593702315,
-      "medReturnPct": 2.2178217821782154,
-      "winRatePct": 57.85123966942148,
+      "n": 486,
+      "avgReturnPct": 3.7852667754540676,
+      "medReturnPct": 2.256969875959828,
+      "winRatePct": 58.0246913580247,
       "p25": -5.665343662140336,
-      "p75": 12.42284071147452,
+      "p75": 12.363330963384286,
       "avgReturnPctBootstrapCI": [
-        0.05564733427866031,
-        4.239152719058573
+        1.366672424688898,
+        4.921804201287473
       ],
       "winRatePctBootstrapCI": [
-        50,
-        63.63636363636363
+        52.77777777777778,
+        72.72727272727273
       ],
-      "bootstrapSnapshots": 6,
-      "avgBenchmarkReturnPct": 4.181927745313124,
-      "avgExcessReturnPct": -0.41147428594288726,
-      "hitRateVsBenchmarkPct": 44.214876033057855,
-      "informationRatio": -0.020420982257539896
+      "bootstrapSnapshots": 7,
+      "avgBenchmarkReturnPct": 4.173583883263801,
+      "avgExcessReturnPct": -0.3883171078097273,
+      "hitRateVsBenchmarkPct": 44.44444444444444,
+      "informationRatio": -0.01930761184015953
     }
   },
   "outOfSampleCohortsNet": {
@@ -1185,7 +1187,7 @@
     "Avoid": null
   },
   "consensusFree": {
-    "observations": 625,
+    "observations": 628,
     "note": "Identical weights, gates and thresholds; the five forward-looking Value/Growth inputs (fwdPE, peg, fcstRevGrowth, fcstEpsGrowth, analystUpside) skipped as if missing. Label transitions are recomputed, so N differs from the live model.",
     "cohorts": {
       "Buy Now": {
@@ -1224,10 +1226,10 @@
           66.66666666666666
         ],
         "bootstrapSnapshots": 8,
-        "avgBenchmarkReturnPct": 4.090599309350624,
-        "avgExcessReturnPct": -4.24178014369893,
+        "avgBenchmarkReturnPct": 4.090595377938615,
+        "avgExcessReturnPct": -4.241776212286921,
         "hitRateVsBenchmarkPct": 37.704918032786885,
-        "informationRatio": -0.2893912334551631
+        "informationRatio": -0.2893909746054954
       },
       "Staged Buy on Dip": {
         "n": 1,
@@ -1238,46 +1240,46 @@
         "p75": -27.361497596761957
       },
       "Watchlist": {
-        "n": 32,
-        "avgReturnPct": -1.9675095565681386,
-        "medReturnPct": -2.9453876048271583,
-        "winRatePct": 37.5,
+        "n": 33,
+        "avgReturnPct": -1.9975912988761877,
+        "medReturnPct": -2.9602070527337405,
+        "winRatePct": 36.36363636363637,
         "p25": -13.40643982153416,
-        "p75": 10.896747303742528,
+        "p75": 10.06766215585627,
         "avgReturnPctBootstrapCI": [
-          -6.479031908379432,
-          12.18495522871953
+          -6.675905666876444,
+          10.313673571732153
         ],
         "winRatePctBootstrapCI": [
-          18.181818181818183,
-          71.42857142857143
-        ],
-        "bootstrapSnapshots": 7,
-        "avgBenchmarkReturnPct": 5.257940776014007,
-        "avgExcessReturnPct": -7.2254503325821515,
-        "hitRateVsBenchmarkPct": 31.25,
-        "informationRatio": -0.45721433835158126
-      },
-      "Avoid": {
-        "n": 515,
-        "avgReturnPct": 3.928468883725049,
-        "medReturnPct": 2.0819563780568373,
-        "winRatePct": 58.252427184466015,
-        "p25": -5.785123966942141,
-        "p75": 12.494212580197113,
-        "avgReturnPctBootstrapCI": [
-          0.258235866046431,
-          4.268928830986295
-        ],
-        "winRatePctBootstrapCI": [
-          33.33333333333333,
-          59.31042934415145
+          14.24107142857143,
+          62.5
         ],
         "bootstrapSnapshots": 8,
-        "avgBenchmarkReturnPct": 4.152316638088481,
-        "avgExcessReturnPct": -0.22384775436342522,
-        "hitRateVsBenchmarkPct": 43.689320388349515,
-        "informationRatio": -0.011107376326729028
+        "avgBenchmarkReturnPct": 5.130778287755127,
+        "avgExcessReturnPct": -7.128369586631318,
+        "hitRateVsBenchmarkPct": 30.303030303030305,
+        "informationRatio": -0.45799455388985605
+      },
+      "Avoid": {
+        "n": 517,
+        "avgReturnPct": 3.9440070670287923,
+        "medReturnPct": 2.1623625355245273,
+        "winRatePct": 58.41392649903289,
+        "p25": -5.779550186200622,
+        "p75": 12.477202971398075,
+        "avgReturnPctBootstrapCI": [
+          1.026192803813636,
+          4.733732253444759
+        ],
+        "winRatePctBootstrapCI": [
+          43.75,
+          62.82738095238091
+        ],
+        "bootstrapSnapshots": 9,
+        "avgBenchmarkReturnPct": 4.144587348437644,
+        "avgExcessReturnPct": -0.20058028140884637,
+        "hitRateVsBenchmarkPct": 43.907156673114116,
+        "informationRatio": -0.00997015665094937
       }
     },
     "cohortsNet": {
@@ -1317,10 +1319,10 @@
           66.66666666666666
         ],
         "bootstrapSnapshots": 8,
-        "avgBenchmarkReturnPct": 4.090599309350624,
-        "avgExcessReturnPct": -4.642599815830078,
+        "avgBenchmarkReturnPct": 4.090595377938615,
+        "avgExcessReturnPct": -4.642595884418068,
         "hitRateVsBenchmarkPct": 37.704918032786885,
-        "informationRatio": -0.3154423651766421
+        "informationRatio": -0.3154421062659282
       },
       "Staged Buy on Dip": {
         "n": 1,
@@ -1331,46 +1333,46 @@
         "p75": -27.511497596761956
       },
       "Watchlist": {
-        "n": 32,
-        "avgReturnPct": -2.170634556568139,
-        "medReturnPct": -3.0953876048271582,
-        "winRatePct": 37.5,
+        "n": 33,
+        "avgReturnPct": -2.2248640261489157,
+        "medReturnPct": -3.6709708135878416,
+        "winRatePct": 36.36363636363637,
         "p25": -13.55643982153416,
-        "p75": 10.746747303742527,
+        "p75": 9.91766215585627,
         "avgReturnPctBootstrapCI": [
-          -6.629031908379431,
-          12.034955228719527
+          -6.908800135808636,
+          10.088700449408904
         ],
         "winRatePctBootstrapCI": [
-          18.181818181818183,
-          71.42857142857143
-        ],
-        "bootstrapSnapshots": 7,
-        "avgBenchmarkReturnPct": 5.257940776014007,
-        "avgExcessReturnPct": -7.428575332582149,
-        "hitRateVsBenchmarkPct": 31.25,
-        "informationRatio": -0.4705765278752444
-      },
-      "Avoid": {
-        "n": 515,
-        "avgReturnPct": 3.6530319905211623,
-        "medReturnPct": 1.9232550103662676,
-        "winRatePct": 57.28155339805825,
-        "p25": -6.129099790648984,
-        "p75": 12.344212580197112,
-        "avgReturnPctBootstrapCI": [
-          -0.11318135015159843,
-          3.962157671489938
-        ],
-        "winRatePctBootstrapCI": [
-          33.33333333333333,
-          58.219394832668634
+          14.24107142857143,
+          62.5
         ],
         "bootstrapSnapshots": 8,
-        "avgBenchmarkReturnPct": 4.152316638088481,
-        "avgExcessReturnPct": -0.49928464756730856,
-        "hitRateVsBenchmarkPct": 43.689320388349515,
-        "informationRatio": -0.024791823946976696
+        "avgBenchmarkReturnPct": 5.130778287755127,
+        "avgExcessReturnPct": -7.3556423139040445,
+        "hitRateVsBenchmarkPct": 30.303030303030305,
+        "informationRatio": -0.47324022202516475
+      },
+      "Avoid": {
+        "n": 517,
+        "avgReturnPct": 3.667411322347937,
+        "medReturnPct": 1.9319563780568374,
+        "winRatePct": 57.446808510638306,
+        "p25": -6.093545443484598,
+        "p75": 12.327202971398075,
+        "avgReturnPctBootstrapCI": [
+          0.5379061649710766,
+          4.230397043048631
+        ],
+        "winRatePctBootstrapCI": [
+          43.75,
+          62.5
+        ],
+        "bootstrapSnapshots": 9,
+        "avgBenchmarkReturnPct": 4.144587348437644,
+        "avgExcessReturnPct": -0.47717602608969706,
+        "hitRateVsBenchmarkPct": 43.907156673114116,
+        "informationRatio": -0.02373537980920916
       }
     },
     "inSampleCohorts": {
@@ -1410,10 +1412,10 @@
           66.66666666666666
         ],
         "bootstrapSnapshots": 8,
-        "avgBenchmarkReturnPct": 4.090599309350624,
-        "avgExcessReturnPct": -4.24178014369893,
+        "avgBenchmarkReturnPct": 4.090595377938615,
+        "avgExcessReturnPct": -4.241776212286921,
         "hitRateVsBenchmarkPct": 37.704918032786885,
-        "informationRatio": -0.2893912334551631
+        "informationRatio": -0.2893909746054954
       },
       "Staged Buy on Dip": {
         "n": 1,
@@ -1424,46 +1426,46 @@
         "p75": -27.361497596761957
       },
       "Watchlist": {
-        "n": 32,
-        "avgReturnPct": -1.9675095565681386,
-        "medReturnPct": -2.9453876048271583,
-        "winRatePct": 37.5,
+        "n": 33,
+        "avgReturnPct": -1.9975912988761877,
+        "medReturnPct": -2.9602070527337405,
+        "winRatePct": 36.36363636363637,
         "p25": -13.40643982153416,
-        "p75": 10.896747303742528,
+        "p75": 10.06766215585627,
         "avgReturnPctBootstrapCI": [
-          -6.479031908379432,
-          12.18495522871953
+          -6.675905666876444,
+          10.313673571732153
         ],
         "winRatePctBootstrapCI": [
-          18.181818181818183,
-          71.42857142857143
-        ],
-        "bootstrapSnapshots": 7,
-        "avgBenchmarkReturnPct": 5.257940776014007,
-        "avgExcessReturnPct": -7.2254503325821515,
-        "hitRateVsBenchmarkPct": 31.25,
-        "informationRatio": -0.45721433835158126
-      },
-      "Avoid": {
-        "n": 515,
-        "avgReturnPct": 3.928468883725049,
-        "medReturnPct": 2.0819563780568373,
-        "winRatePct": 58.252427184466015,
-        "p25": -5.785123966942141,
-        "p75": 12.494212580197113,
-        "avgReturnPctBootstrapCI": [
-          0.258235866046431,
-          4.268928830986295
-        ],
-        "winRatePctBootstrapCI": [
-          33.33333333333333,
-          59.31042934415145
+          14.24107142857143,
+          62.5
         ],
         "bootstrapSnapshots": 8,
-        "avgBenchmarkReturnPct": 4.152316638088481,
-        "avgExcessReturnPct": -0.22384775436342522,
-        "hitRateVsBenchmarkPct": 43.689320388349515,
-        "informationRatio": -0.011107376326729028
+        "avgBenchmarkReturnPct": 5.130778287755127,
+        "avgExcessReturnPct": -7.128369586631318,
+        "hitRateVsBenchmarkPct": 30.303030303030305,
+        "informationRatio": -0.45799455388985605
+      },
+      "Avoid": {
+        "n": 517,
+        "avgReturnPct": 3.9440070670287923,
+        "medReturnPct": 2.1623625355245273,
+        "winRatePct": 58.41392649903289,
+        "p25": -5.779550186200622,
+        "p75": 12.477202971398075,
+        "avgReturnPctBootstrapCI": [
+          1.026192803813636,
+          4.733732253444759
+        ],
+        "winRatePctBootstrapCI": [
+          43.75,
+          62.82738095238091
+        ],
+        "bootstrapSnapshots": 9,
+        "avgBenchmarkReturnPct": 4.144587348437644,
+        "avgExcessReturnPct": -0.20058028140884637,
+        "hitRateVsBenchmarkPct": 43.907156673114116,
+        "informationRatio": -0.00997015665094937
       }
     },
     "inSampleCohortsNet": {
@@ -1503,10 +1505,10 @@
           66.66666666666666
         ],
         "bootstrapSnapshots": 8,
-        "avgBenchmarkReturnPct": 4.090599309350624,
-        "avgExcessReturnPct": -4.642599815830078,
+        "avgBenchmarkReturnPct": 4.090595377938615,
+        "avgExcessReturnPct": -4.642595884418068,
         "hitRateVsBenchmarkPct": 37.704918032786885,
-        "informationRatio": -0.3154423651766421
+        "informationRatio": -0.3154421062659282
       },
       "Staged Buy on Dip": {
         "n": 1,
@@ -1517,46 +1519,46 @@
         "p75": -27.511497596761956
       },
       "Watchlist": {
-        "n": 32,
-        "avgReturnPct": -2.170634556568139,
-        "medReturnPct": -3.0953876048271582,
-        "winRatePct": 37.5,
+        "n": 33,
+        "avgReturnPct": -2.2248640261489157,
+        "medReturnPct": -3.6709708135878416,
+        "winRatePct": 36.36363636363637,
         "p25": -13.55643982153416,
-        "p75": 10.746747303742527,
+        "p75": 9.91766215585627,
         "avgReturnPctBootstrapCI": [
-          -6.629031908379431,
-          12.034955228719527
+          -6.908800135808636,
+          10.088700449408904
         ],
         "winRatePctBootstrapCI": [
-          18.181818181818183,
-          71.42857142857143
-        ],
-        "bootstrapSnapshots": 7,
-        "avgBenchmarkReturnPct": 5.257940776014007,
-        "avgExcessReturnPct": -7.428575332582149,
-        "hitRateVsBenchmarkPct": 31.25,
-        "informationRatio": -0.4705765278752444
-      },
-      "Avoid": {
-        "n": 515,
-        "avgReturnPct": 3.6530319905211623,
-        "medReturnPct": 1.9232550103662676,
-        "winRatePct": 57.28155339805825,
-        "p25": -6.129099790648984,
-        "p75": 12.344212580197112,
-        "avgReturnPctBootstrapCI": [
-          -0.11318135015159843,
-          3.962157671489938
-        ],
-        "winRatePctBootstrapCI": [
-          33.33333333333333,
-          58.219394832668634
+          14.24107142857143,
+          62.5
         ],
         "bootstrapSnapshots": 8,
-        "avgBenchmarkReturnPct": 4.152316638088481,
-        "avgExcessReturnPct": -0.49928464756730856,
-        "hitRateVsBenchmarkPct": 43.689320388349515,
-        "informationRatio": -0.024791823946976696
+        "avgBenchmarkReturnPct": 5.130778287755127,
+        "avgExcessReturnPct": -7.3556423139040445,
+        "hitRateVsBenchmarkPct": 30.303030303030305,
+        "informationRatio": -0.47324022202516475
+      },
+      "Avoid": {
+        "n": 517,
+        "avgReturnPct": 3.667411322347937,
+        "medReturnPct": 1.9319563780568374,
+        "winRatePct": 57.446808510638306,
+        "p25": -6.093545443484598,
+        "p75": 12.327202971398075,
+        "avgReturnPctBootstrapCI": [
+          0.5379061649710766,
+          4.230397043048631
+        ],
+        "winRatePctBootstrapCI": [
+          43.75,
+          62.5
+        ],
+        "bootstrapSnapshots": 9,
+        "avgBenchmarkReturnPct": 4.144587348437644,
+        "avgExcessReturnPct": -0.47717602608969706,
+        "hitRateVsBenchmarkPct": 43.907156673114116,
+        "informationRatio": -0.02373537980920916
       }
     },
     "outOfSampleCohorts": {
@@ -1577,22 +1579,22 @@
   "verdictProjection": {
     "basis": "in-sample Buy Now label-transition rate across the archive; rows become readable when the forward window closes",
     "buyNowRowsInArchive": 23,
-    "archiveWeeks": 35,
-    "accrualPerWeek": 0.6518218623481782,
+    "archiveWeeks": 38,
+    "accrualPerWeek": 0.6007462686567164,
     "postFreezeN": 0,
     "horizonDays": 90,
     "milestones": [
       {
         "n": 10,
-        "date": "2027-04-28"
+        "date": "2027-05-08"
       },
       {
         "n": 20,
-        "date": "2027-08-13"
+        "date": "2027-09-02"
       },
       {
         "n": 50,
-        "date": "2028-06-30"
+        "date": "2028-08-16"
       }
     ],
     "killTestDate": "2028-09-02",
@@ -1777,6 +1779,11 @@
         "date": "2026-06-10",
         "winRatePct": 58.884297520661164,
         "n": 484
+      },
+      {
+        "date": "2026-07-15",
+        "winRatePct": 59.05349794238684,
+        "n": 486
       }
     ]
   },
@@ -1816,21 +1823,21 @@
         "p75": -5.379928128743287
       },
       "Avoid": {
-        "n": 51,
-        "avgReturnPct": -3.1896429295399154,
-        "medReturnPct": -2.745037220843677,
-        "winRatePct": 39.21568627450981,
-        "p25": -7.505773672055431,
+        "n": 53,
+        "avgReturnPct": -2.7694643560575654,
+        "medReturnPct": -2.35294117647059,
+        "winRatePct": 41.509433962264154,
+        "p25": -7.297326637070557,
         "p75": 4.768717215069147,
         "avgReturnPctBootstrapCI": [
-          -4.116513457077518,
-          7.260192698875173
+          -4.078990642596518,
+          7.488491555164234
         ],
         "winRatePctBootstrapCI": [
-          0,
-          75
+          36.17021276595745,
+          85.71428571428571
         ],
-        "bootstrapSnapshots": 3
+        "bootstrapSnapshots": 4
       }
     },
     "Consumer Staples": {
@@ -2344,21 +2351,21 @@
         "bootstrapSnapshots": 9
       },
       "Avoid": {
-        "n": 428,
-        "avgReturnPct": 4.3132022598313045,
+        "n": 429,
+        "avgReturnPct": 4.330126337950333,
         "medReturnPct": 2.659372388116404,
-        "winRatePct": 59.345794392523366,
+        "winRatePct": 59.44055944055944,
         "p25": -4.937347111976444,
-        "p75": 12.57284071147452,
+        "p75": 12.513330963384286,
         "avgReturnPctBootstrapCI": [
-          3.621065133471135,
-          17.11189863929816
+          3.6857201467997815,
+          17.986513177901777
         ],
         "winRatePctBootstrapCI": [
-          56.906077348066304,
+          57.14285714285714,
           100
         ],
-        "bootstrapSnapshots": 4
+        "bootstrapSnapshots": 5
       }
     },
     "Mid": {
@@ -2405,64 +2412,64 @@
         "bootstrapSnapshots": 2
       },
       "Avoid": {
-        "n": 56,
-        "avgReturnPct": 2.0115876272748996,
+        "n": 57,
+        "avgReturnPct": 2.0520255068418307,
         "medReturnPct": 1.1363636363636374,
-        "winRatePct": 55.35714285714286,
+        "winRatePct": 56.14035087719298,
         "p25": -8.208118412200053,
-        "p75": 14.671052631578952,
+        "p75": 12.339743589743582,
         "avgReturnPctBootstrapCI": [
-          -25.99375029564367,
-          3.947889416139554
+          -21.006482988276222,
+          3.950809386981556
         ],
         "winRatePctBootstrapCI": [
-          11.11111111111111,
-          58.666666666666664
+          20,
+          60.19417475728155
         ],
-        "bootstrapSnapshots": 5
+        "bootstrapSnapshots": 6
       }
     }
   },
   "rankIC": [
     {
       "category": "overall",
-      "mean": 0.10618064055241756,
-      "std": 0.2135544791547963,
-      "ir": 0.4972063380391654,
-      "tStat": 2.9415123645025,
-      "n": 35
+      "mean": 0.10316660943449298,
+      "std": 0.2112570440138314,
+      "ir": 0.4883463645725274,
+      "tStat": 2.9300781874351642,
+      "n": 36
     },
     {
       "category": "quality",
-      "mean": -0.13747474260754727,
-      "std": 0.1904847601671868,
-      "ir": -0.7217099283264808,
-      "tStat": -4.2696935162345655,
-      "n": 35
+      "mean": -0.1289575526648993,
+      "std": 0.19457460354001893,
+      "ir": -0.6627666217414447,
+      "tStat": -3.976599730448669,
+      "n": 36
     },
     {
       "category": "value",
-      "mean": 0.25206563568891166,
-      "std": 0.2117224279359422,
-      "ir": 1.1905476342127321,
-      "tStat": 7.043374789583021,
-      "n": 35
+      "mean": 0.24685479320667436,
+      "std": 0.2110050621403041,
+      "ir": 1.1698998626039248,
+      "tStat": 7.0193991756235485,
+      "n": 36
     },
     {
       "category": "risk",
-      "mean": 0.04178384199665355,
-      "std": 0.13990487592979164,
-      "ir": 0.29865894036189206,
-      "tStat": 1.7668901191169433,
-      "n": 35
+      "mean": 0.03829849301158004,
+      "std": 0.13946845777694702,
+      "ir": 0.2746032588445992,
+      "tStat": 1.6476195530675952,
+      "n": 36
     },
     {
       "category": "timing",
-      "mean": 0.019700507152160443,
-      "std": 0.19437244317886523,
-      "ir": 0.1013544246806203,
-      "tStat": 0.5996208627807105,
-      "n": 35
+      "mean": 0.015758284664930646,
+      "std": 0.19303025636588936,
+      "ir": 0.08163634531500998,
+      "tStat": 0.4898180718900598,
+      "n": 36
     },
     {
       "category": "regimeFit",
@@ -2481,77 +2488,77 @@
       "n": 259,
       "avgReturnPct": 5.025743685658318,
       "winRatePct": 58.68725868725869,
-      "avgExcessReturnPct": 1.219107059517165,
+      "avgExcessReturnPct": 1.219109533605992,
       "bombRatePct": 4.633204633204633,
-      "infoRatio": 0.06049699940806466,
-      "ci95Low": -1.2433749404344294,
-      "ci95High": 3.6815890594687577
+      "infoRatio": 0.06049712259735347,
+      "ci95Low": -1.243372442702286,
+      "ci95High": 3.681591509914268
     },
     {
       "threshold": 68,
       "n": 174,
       "avgReturnPct": 5.0650693809174525,
       "winRatePct": 58.620689655172406,
-      "avgExcessReturnPct": 1.2924207645185393,
+      "avgExcessReturnPct": 1.292422720750843,
       "bombRatePct": 4.597701149425287,
-      "infoRatio": 0.060272027606251145,
-      "ci95Low": -1.8857258067647948,
-      "ci95High": 4.470567335801869
+      "infoRatio": 0.06027211912232448,
+      "ci95Low": -1.885723839007282,
+      "ci95High": 4.470569280508963
     },
     {
       "threshold": 70,
       "n": 128,
       "avgReturnPct": 5.0999751321350155,
       "winRatePct": 60.15625,
-      "avgExcessReturnPct": 1.5110730706041036,
+      "avgExcessReturnPct": 1.5110744650624603,
       "bombRatePct": 3.90625,
-      "infoRatio": 0.08711887236302601,
-      "ci95Low": -1.4772476654795572,
-      "ci95High": 4.49939380668776
+      "infoRatio": 0.08711894777457811,
+      "ci95Low": -1.4772464524663775,
+      "ci95High": 4.4993953825912945
     },
     {
       "threshold": 72,
       "n": 89,
       "avgReturnPct": 3.5208440302881363,
       "winRatePct": 60.67415730337079,
-      "avgExcessReturnPct": 0.18609186502586347,
+      "avgExcessReturnPct": 0.1860935500619631,
       "bombRatePct": 5.617977528089887,
-      "infoRatio": 0.012129426992983193,
-      "ci95Low": -2.979592536397009,
-      "ci95High": 3.3517762664487334
+      "infoRatio": 0.012129535908395496,
+      "ci95Low": -2.9795911054337365,
+      "ci95High": 3.35177820555766
     },
     {
       "threshold": 74,
       "n": 62,
       "avgReturnPct": 2.294292527764929,
       "winRatePct": 59.67741935483871,
-      "avgExcessReturnPct": -0.487643981172958,
+      "avgExcessReturnPct": -0.4876440314341551,
       "bombRatePct": 8.064516129032258,
-      "infoRatio": -0.029409907713524752,
-      "ci95Low": -4.614976251660615,
-      "ci95High": 3.6396882893146993
+      "infoRatio": -0.029409911891965953,
+      "ci95Low": -4.614976140928967,
+      "ci95High": 3.6396880780606558
     },
     {
       "threshold": 76,
       "n": 39,
       "avgReturnPct": -1.7792059624245553,
       "winRatePct": 51.28205128205128,
-      "avgExcessReturnPct": -4.047260881747787,
+      "avgExcessReturnPct": -4.047261440915412,
       "bombRatePct": 12.82051282051282,
-      "infoRatio": -0.2935785817756433,
-      "ci95Low": -8.373998894181899,
-      "ci95High": 0.2794771306863222
+      "infoRatio": -0.2935786239078242,
+      "ci95Low": -8.373999430188814,
+      "ci95High": 0.2794765483579891
     },
     {
       "threshold": 78,
       "n": 29,
       "avgReturnPct": -1.4976149579096658,
       "winRatePct": 51.724137931034484,
-      "avgExcessReturnPct": -3.5970087536004205,
+      "avgExcessReturnPct": -3.5970091295924447,
       "bombRatePct": 13.793103448275861,
-      "infoRatio": -0.24560311639995094,
-      "ci95Low": -9.523066141124978,
-      "ci95High": 2.329048633924135
+      "infoRatio": -0.24560314499623084,
+      "ci95Low": -9.523066446574381,
+      "ci95High": 2.3290481873894895
     },
     {
       "threshold": 80,
