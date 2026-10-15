@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-27",
-  "lastUpdated": "2026-10-14",
+  "lastUpdated": "2026-10-15",
   "config": {
     "initialCapital": 10000,
     "currency": "GBP",
@@ -13,7 +13,7 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 6256.85,
+  "cashBalance": 5776.49,
   "positions": [
     {
       "id": "7ce31991",
@@ -131,6 +131,23 @@
       "positionPct": 5.0,
       "stopLossPrice": 74.656,
       "reviewDate": "2027-01-12"
+    },
+    {
+      "id": "30ed15c1",
+      "ticker": "CINF",
+      "company": "Cincinnati Financial Corporatio",
+      "sector": "Financials",
+      "homeIndex": "spy",
+      "entryDate": "2026-10-15",
+      "entryPrice": 166.67,
+      "scoreAtEntry": 77,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 479.16,
+      "cashCommitted": 480.36,
+      "entryFee": 1.2,
+      "positionPct": 5.0,
+      "stopLossPrice": 133.336,
+      "reviewDate": "2027-01-15"
     }
   ],
   "trades": [
@@ -1199,18 +1216,29 @@
         "midd": 0.0,
         "vwrl": 0.0
       }
+    },
+    {
+      "date": "2026-10-15",
+      "nav": 9605.94,
+      "benchmarkPrice": 138.99,
+      "segmentNav": {
+        "spy": 3829.44,
+        "isf": 0.0,
+        "midd": 0.0,
+        "vwrl": 0.0
+      }
     }
   ],
   "metrics": {
-    "totalReturnPct": -4.01,
+    "totalReturnPct": -3.94,
     "benchmarkReturnPct": null,
     "excessReturnPct": null,
-    "annualizedReturnPct": -8.41,
-    "sharpe": -4.593,
+    "annualizedReturnPct": -8.22,
+    "sharpe": -4.473,
     "maxDrawdownPct": -4.02,
     "tradeCount": 30,
     "winRatePct": 6.7,
     "avgHoldDays": 7.8,
-    "openPositions": 7
+    "openPositions": 8
   }
 }
