@@ -1,11 +1,11 @@
 {
-  "asOf": "2026-10-15",
+  "asOf": "2026-10-16",
   "window": {
     "from": "2025-10-20",
-    "to": "2026-10-15"
+    "to": "2026-10-16"
   },
-  "pairsCompared": 143,
-  "totalEvents": 2638,
+  "pairsCompared": 144,
+  "totalEvents": 2643,
   "events": [
     {
       "ticker": "STX",
@@ -709,6 +709,14 @@
       "field": "netMargin",
       "prev": 0,
       "curr": 7.8,
+      "relChangePct": 999.0
+    },
+    {
+      "ticker": "PNW",
+      "date": "2026-10-16",
+      "field": "piotroskiF",
+      "prev": 0,
+      "curr": 3,
       "relChangePct": 999.0
     },
     {
@@ -2013,6 +2021,14 @@
       "field": "netDebtEbitda",
       "prev": 1.4,
       "curr": 4.2,
+      "relChangePct": 200.0
+    },
+    {
+      "ticker": "IBST.L",
+      "date": "2026-10-16",
+      "field": "piotroskiF",
+      "prev": 1,
+      "curr": 3,
       "relChangePct": 200.0
     },
     {
@@ -3990,27 +4006,11 @@
       "prev": 3,
       "curr": 6,
       "relChangePct": 100.0
-    },
-    {
-      "ticker": "TKO",
-      "date": "2026-10-06",
-      "field": "piotroskiF",
-      "prev": 3,
-      "curr": 6,
-      "relChangePct": 100.0
-    },
-    {
-      "ticker": "TPT.L",
-      "date": "2026-10-06",
-      "field": "piotroskiF",
-      "prev": 3,
-      "curr": 6,
-      "relChangePct": 100.0
     }
   ],
   "summary": {
     "byField": {
-      "piotroskiF": 448,
+      "piotroskiF": 453,
       "fcf": 434,
       "opMargin": 334,
       "netDebtEbitda": 270,
@@ -4049,8 +4049,8 @@
       "CB": 13,
       "CMCSA": 13
     },
-    "newFilingUpdates": 6964,
+    "newFilingUpdates": 6987,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 18.45
+    "eventsPerPairAvg": 18.35
   }
 }

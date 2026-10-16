@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-27",
-  "lastUpdated": "2026-10-15",
+  "lastUpdated": "2026-10-16",
   "config": {
     "initialCapital": 10000,
     "currency": "GBP",
@@ -13,7 +13,7 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 5776.49,
+  "cashBalance": 5293.68,
   "positions": [
     {
       "id": "7ce31991",
@@ -148,6 +148,23 @@
       "positionPct": 5.0,
       "stopLossPrice": 133.336,
       "reviewDate": "2027-01-15"
+    },
+    {
+      "id": "c2e995f5",
+      "ticker": "ALL",
+      "company": "Allstate Corporation (The)",
+      "sector": "Financials",
+      "homeIndex": "spy",
+      "entryDate": "2026-10-16",
+      "entryPrice": 239.6,
+      "scoreAtEntry": 81,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 481.6,
+      "cashCommitted": 482.81,
+      "entryFee": 1.21,
+      "positionPct": 5.0,
+      "stopLossPrice": 191.68,
+      "reviewDate": "2027-01-16"
     }
   ],
   "trades": [
@@ -1227,18 +1244,29 @@
         "midd": 0.0,
         "vwrl": 0.0
       }
+    },
+    {
+      "date": "2026-10-16",
+      "nav": 9654.93,
+      "benchmarkPrice": 138.8991,
+      "segmentNav": {
+        "spy": 4361.25,
+        "isf": 0.0,
+        "midd": 0.0,
+        "vwrl": 0.0
+      }
     }
   ],
   "metrics": {
-    "totalReturnPct": -3.94,
+    "totalReturnPct": -3.45,
     "benchmarkReturnPct": null,
     "excessReturnPct": null,
-    "annualizedReturnPct": -8.22,
-    "sharpe": -4.473,
+    "annualizedReturnPct": -7.18,
+    "sharpe": -3.855,
     "maxDrawdownPct": -4.02,
     "tradeCount": 30,
     "winRatePct": 6.7,
     "avgHoldDays": 7.8,
-    "openPositions": 8
+    "openPositions": 9
   }
 }
