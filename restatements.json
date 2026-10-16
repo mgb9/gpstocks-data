@@ -5,7 +5,7 @@
     "to": "2026-10-16"
   },
   "pairsCompared": 144,
-  "totalEvents": 2643,
+  "totalEvents": 2649,
   "events": [
     {
       "ticker": "STX",
@@ -4010,7 +4010,7 @@
   ],
   "summary": {
     "byField": {
-      "piotroskiF": 453,
+      "piotroskiF": 459,
       "fcf": 434,
       "opMargin": 334,
       "netDebtEbitda": 270,
@@ -4039,8 +4039,8 @@
       "PKG": 16,
       "NCC.L": 16,
       "PFG": 15,
+      "INTC": 15,
       "EA": 15,
-      "INTC": 14,
       "CTVA": 14,
       "EQT": 14,
       "GLW": 14,
@@ -4051,6 +4051,6 @@
     },
     "newFilingUpdates": 6987,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 18.35
+    "eventsPerPairAvg": 18.4
   }
 }
