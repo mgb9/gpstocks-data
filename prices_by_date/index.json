@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T11:58:15Z",
+  "generatedAt": "2026-10-18T10:14:31Z",
   "months": [
     "2025-09",
     "2025-10",
@@ -16,10 +16,10 @@
     "2026-09",
     "2026-10"
   ],
-  "firstDate": "2025-09-08",
-  "lastDate": "2026-10-09",
+  "firstDate": "2025-09-15",
+  "lastDate": "2026-10-16",
   "dateCount": 271,
-  "tickerCount": 756,
-  "peakCoverage": 756,
+  "tickerCount": 755,
+  "peakCoverage": 755,
   "minCoverageRatio": 0.9
 }
