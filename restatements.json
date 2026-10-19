@@ -1,11 +1,11 @@
 {
-  "asOf": "2026-10-16",
+  "asOf": "2026-10-19",
   "window": {
     "from": "2025-10-20",
-    "to": "2026-10-16"
+    "to": "2026-10-19"
   },
-  "pairsCompared": 144,
-  "totalEvents": 2649,
+  "pairsCompared": 145,
+  "totalEvents": 2663,
   "events": [
     {
       "ticker": "STX",
@@ -2056,6 +2056,14 @@
       "relChangePct": -192.58
     },
     {
+      "ticker": "PLD",
+      "date": "2026-10-19",
+      "field": "revGrowthTTM",
+      "prev": 3.5,
+      "curr": 10.2,
+      "relChangePct": 191.43
+    },
+    {
       "ticker": "AAL.L",
       "date": "2026-09-03",
       "field": "sharesYoYChange",
@@ -2514,6 +2522,14 @@
     {
       "ticker": "SVT.L",
       "date": "2026-10-13",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 5,
+      "relChangePct": 150.0
+    },
+    {
+      "ticker": "MAA",
+      "date": "2026-10-19",
       "field": "piotroskiF",
       "prev": 2,
       "curr": 5,
@@ -3990,31 +4006,15 @@
       "prev": 5.7,
       "curr": 0,
       "relChangePct": -100.0
-    },
-    {
-      "ticker": "PKG",
-      "date": "2026-10-05",
-      "field": "piotroskiF",
-      "prev": 3,
-      "curr": 0,
-      "relChangePct": -100.0
-    },
-    {
-      "ticker": "ROL",
-      "date": "2026-10-05",
-      "field": "piotroskiF",
-      "prev": 3,
-      "curr": 6,
-      "relChangePct": 100.0
     }
   ],
   "summary": {
     "byField": {
-      "piotroskiF": 459,
-      "fcf": 434,
-      "opMargin": 334,
+      "piotroskiF": 468,
+      "fcf": 436,
+      "opMargin": 336,
       "netDebtEbitda": 270,
-      "revGrowthTTM": 153,
+      "revGrowthTTM": 154,
       "epsGrowthTTM": 147,
       "interestCover": 142,
       "gpa": 107,
@@ -4036,21 +4036,21 @@
       "PAY.L": 17,
       "LVS": 17,
       "PCG": 16,
+      "INTC": 16,
       "PKG": 16,
       "NCC.L": 16,
       "PFG": 15,
-      "INTC": 15,
       "EA": 15,
       "CTVA": 14,
       "EQT": 14,
       "GLW": 14,
       "RSG": 14,
       "SFR.L": 13,
-      "CB": 13,
-      "CMCSA": 13
+      "PCAR": 13,
+      "CB": 13
     },
-    "newFilingUpdates": 6987,
+    "newFilingUpdates": 7013,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 18.4
+    "eventsPerPairAvg": 18.37
   }
 }

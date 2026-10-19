@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-16",
+  "asOf": "2026-10-19",
   "methodology": "Historical cohorts are reconstructed with the CURRENT discovery rules (cap range $150M-$5B, fundamentals floor F>=4 / FCF>=0 / rev growth>=0, current component weights) applied to archived snapshots. This is in-sample-flavoured reconstruction, not a live track record: the rules were shaped with knowledge of the same period they are scored over. Entries marked live were logged forward at generation time with their entry prices and immutable membership (top 30 by score); only those accumulate a genuine record. Forward returns are price-only (no dividends), measured against the nearest snapshot >= 30/90 days out (within 10 days). Baseline is the same-window mean return of the full cap-range universe at each start date. Weekly cohorts overlap within the 30/90-day windows, so pooled observations are not independent.",
   "reconstructedFrom": "2025-10-20",
   "reconstructedTo": "2026-08-26",
@@ -2844,9 +2844,13 @@
         "CKN.L"
       ],
       "live": true,
-      "fwd30": null,
+      "fwd30": {
+        "n": 29,
+        "mean": 6.723916740895734,
+        "median": 5.923344947735187
+      },
       "fwd90": null,
-      "universeFwd30Mean": null,
+      "universeFwd30Mean": 4.436934918826723,
       "universeFwd90Mean": null,
       "startPrices": {
         "PAY.L": 6.25,
@@ -2917,9 +2921,13 @@
         "SPI.L"
       ],
       "live": true,
-      "fwd30": null,
+      "fwd30": {
+        "n": 29,
+        "mean": 4.24894235399945,
+        "median": 2.4844720496894235
+      },
       "fwd90": null,
-      "universeFwd30Mean": null,
+      "universeFwd30Mean": 3.4162627068938987,
       "universeFwd90Mean": null,
       "startPrices": {
         "PAY.L": 6.27,
@@ -4413,15 +4421,88 @@
         "HMSO.L": 3.42,
         "MONY.L": 1.96
       }
+    },
+    {
+      "date": "2026-10-19",
+      "n": 51,
+      "tickers": [
+        "CNE.L",
+        "PAY.L",
+        "JUP.L",
+        "TRST.L",
+        "POLR.L",
+        "ATG.L",
+        "PHP.L",
+        "AO.L",
+        "BYIT.L",
+        "SRE.L",
+        "HFD.L",
+        "RMV.L",
+        "GPE.L",
+        "HOC.L",
+        "SVS.L",
+        "ALFA.L",
+        "HILS.L",
+        "BOY.L",
+        "ESNT.L",
+        "BRBY.L",
+        "SCT.L",
+        "FDEV.L",
+        "OCDO.L",
+        "ELM.L",
+        "QQ.L",
+        "UTG.L",
+        "HMSO.L",
+        "KIE.L",
+        "MONY.L",
+        "CKN.L"
+      ],
+      "live": true,
+      "fwd30": null,
+      "fwd90": null,
+      "universeFwd30Mean": null,
+      "universeFwd90Mean": null,
+      "startPrices": {
+        "CNE.L": 4.27,
+        "PAY.L": 7.2,
+        "JUP.L": 1.76,
+        "TRST.L": 2.71,
+        "POLR.L": 7.52,
+        "ATG.L": 4.81,
+        "PHP.L": 0.91,
+        "AO.L": 0.93,
+        "BYIT.L": 4.44,
+        "SRE.L": 0.93,
+        "HFD.L": 2.75,
+        "RMV.L": 5.41,
+        "GPE.L": 3.25,
+        "HOC.L": 5.17,
+        "SVS.L": 10.38,
+        "ALFA.L": 1.65,
+        "HILS.L": 30.35,
+        "BOY.L": 9.1,
+        "ESNT.L": 1.16,
+        "BRBY.L": 11.03,
+        "SCT.L": 17,
+        "FDEV.L": 5.55,
+        "OCDO.L": 2.91,
+        "ELM.L": 1.85,
+        "QQ.L": 4.97,
+        "UTG.L": 4.47,
+        "HMSO.L": 3.43,
+        "KIE.L": 3.04,
+        "MONY.L": 2.02,
+        "CKN.L": 53.2
+      }
     }
   ],
   "pooled": {
-    "n": 1656,
-    "n30": 1656,
+    "n": 1714,
+    "n30": 1714,
     "n90": 739,
-    "mean30": 0.8394036168787347,
+    "mean30": 0.9966542026272726,
     "mean90": -2.4607760034657598,
-    "universeMean30": 0.4386885023138029,
+    "universeMean30": 0.556715805704525,
     "universeMean90": -2.8119373274698027
   }
 }
