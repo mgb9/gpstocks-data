@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-19T17:13:06Z",
+  "generatedAt": "2026-10-19T21:08:15Z",
   "artefacts": {
     "stocks": {
-      "asOf": "2026-10-19T17:08:04.881Z",
+      "asOf": "2026-10-19T21:02:13.322Z",
       "size": 680,
       "source": "built"
     },
     "macro": {
-      "asOf": "2026-10-19T17:08:17Z",
+      "asOf": "2026-10-19T21:02:41Z",
       "size": 20,
       "source": "built"
     },
@@ -17,7 +17,7 @@
     },
     "insiders": {
       "asOf": "2026-10-19",
-      "size": 0,
+      "size": 7,
       "source": "built"
     },
     "factorEtfs": {
@@ -46,7 +46,5 @@
       "source": "built"
     }
   },
-  "problems": [
-    "Insider trades: current but empty (0 entries) — drives the insider signal on Discovery and stock detail"
-  ]
+  "problems": []
 }
