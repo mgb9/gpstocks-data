@@ -1,11 +1,11 @@
 {
-  "asOf": "2026-10-19",
+  "asOf": "2026-10-20",
   "window": {
     "from": "2025-10-20",
-    "to": "2026-10-19"
+    "to": "2026-10-20"
   },
-  "pairsCompared": 145,
-  "totalEvents": 2662,
+  "pairsCompared": 146,
+  "totalEvents": 2666,
   "events": [
     {
       "ticker": "STX",
@@ -2536,6 +2536,14 @@
       "relChangePct": 150.0
     },
     {
+      "ticker": "HPE",
+      "date": "2026-10-20",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 5,
+      "relChangePct": 150.0
+    },
+    {
       "ticker": "LVS",
       "date": "2026-04-24",
       "field": "epsGrowthTTM",
@@ -3998,21 +4006,13 @@
       "prev": 30.1,
       "curr": 0,
       "relChangePct": -100.0
-    },
-    {
-      "ticker": "CTVA",
-      "date": "2026-10-02",
-      "field": "netMargin",
-      "prev": 5.7,
-      "curr": 0,
-      "relChangePct": -100.0
     }
   ],
   "summary": {
     "byField": {
-      "piotroskiF": 467,
+      "piotroskiF": 470,
       "fcf": 436,
-      "opMargin": 336,
+      "opMargin": 337,
       "netDebtEbitda": 270,
       "revGrowthTTM": 154,
       "epsGrowthTTM": 147,
@@ -4049,8 +4049,8 @@
       "CB": 13,
       "CMCSA": 13
     },
-    "newFilingUpdates": 7014,
+    "newFilingUpdates": 7034,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 18.36
+    "eventsPerPairAvg": 18.26
   }
 }

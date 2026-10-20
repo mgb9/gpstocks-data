@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-27",
-  "lastUpdated": "2026-10-19",
+  "lastUpdated": "2026-10-20",
   "config": {
     "initialCapital": 10000,
     "currency": "GBP",
@@ -13,7 +13,7 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 5293.68,
+  "cashBalance": 4810.85,
   "positions": [
     {
       "id": "7ce31991",
@@ -165,6 +165,23 @@
       "positionPct": 5.0,
       "stopLossPrice": 191.68,
       "reviewDate": "2027-01-16"
+    },
+    {
+      "id": "3223ff01",
+      "ticker": "CCH.L",
+      "company": "COCA-COLA HBC AG ORD CHF6.70 (C",
+      "sector": "Consumer Staples",
+      "homeIndex": "isf",
+      "entryDate": "2026-10-20",
+      "entryPrice": 45.06,
+      "scoreAtEntry": 78,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 479.93,
+      "cashCommitted": 482.83,
+      "entryFee": 2.9,
+      "positionPct": 5.0,
+      "stopLossPrice": 36.048,
+      "reviewDate": "2027-01-20"
     }
   ],
   "trades": [
@@ -1266,18 +1283,29 @@
         "midd": 0.0,
         "vwrl": 0.0
       }
+    },
+    {
+      "date": "2026-10-20",
+      "nav": 9653.65,
+      "benchmarkPrice": 138.57,
+      "segmentNav": {
+        "spy": 4362.87,
+        "isf": 479.93,
+        "midd": 0.0,
+        "vwrl": 0.0
+      }
     }
   ],
   "metrics": {
-    "totalReturnPct": -3.64,
+    "totalReturnPct": -3.46,
     "benchmarkReturnPct": null,
     "excessReturnPct": null,
-    "annualizedReturnPct": -7.44,
-    "sharpe": -4.0,
+    "annualizedReturnPct": -7.05,
+    "sharpe": -3.788,
     "maxDrawdownPct": -4.02,
     "tradeCount": 30,
     "winRatePct": 6.7,
     "avgHoldDays": 7.8,
-    "openPositions": 9
+    "openPositions": 10
   }
 }
