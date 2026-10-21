@@ -5,7 +5,7 @@
     "to": "2026-10-21"
   },
   "pairsCompared": 147,
-  "totalEvents": 2672,
+  "totalEvents": 2678,
   "events": [
     {
       "ticker": "STX",
@@ -4010,7 +4010,7 @@
   ],
   "summary": {
     "byField": {
-      "piotroskiF": 474,
+      "piotroskiF": 480,
       "fcf": 436,
       "opMargin": 337,
       "netDebtEbitda": 272,
@@ -4049,8 +4049,8 @@
       "CB": 13,
       "CMCSA": 13
     },
-    "newFilingUpdates": 7081,
+    "newFilingUpdates": 7085,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 18.18
+    "eventsPerPairAvg": 18.22
   }
 }

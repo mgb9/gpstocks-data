@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-21T15:11:27Z",
+  "asOf": "2026-10-21T20:05:03Z",
   "series": {
     "IRLTLT01GBM156N": {
       "name": "UK 10y gilt yield",
@@ -736,12 +736,12 @@
     "FTSE": {
       "name": "FTSE 100",
       "source": "Yahoo Finance",
-      "latest": 10742.73046875,
+      "latest": 10752.8798828125,
       "latestDate": "2026-10-21",
-      "delta1mPct": 0.03473758031474066,
-      "delta1yPct": 13.95704326668081,
-      "deltaYoYPct": 13.95704326668081,
-      "deltaYoYAbs": 1315.73046875,
+      "delta1mPct": 0.12924744215010708,
+      "delta1yPct": 14.064706511217778,
+      "deltaYoYPct": 14.064706511217778,
+      "deltaYoYAbs": 1325.8798828125,
       "history": [
         {
           "date": "2026-02-05",
@@ -1461,19 +1461,19 @@
         },
         {
           "date": "2026-10-21",
-          "value": 10742.73046875
+          "value": 10752.8798828125
         }
       ]
     },
     "FTMC": {
       "name": "FTSE 250",
       "source": "Yahoo Finance",
-      "latest": 24394.26953125,
+      "latest": 24439.779296875,
       "latestDate": "2026-10-21",
-      "delta1mPct": -0.39659169269953415,
-      "delta1yPct": 11.34715455489634,
-      "deltaYoYPct": 11.34715455489634,
-      "deltaYoYAbs": 2485.96875,
+      "delta1mPct": -0.21077232386335862,
+      "delta1yPct": 11.554882968338378,
+      "deltaYoYPct": 11.554882968338378,
+      "deltaYoYAbs": 2531.478515625,
       "history": [
         {
           "date": "2026-02-05",
@@ -2193,7 +2193,7 @@
         },
         {
           "date": "2026-10-21",
-          "value": 24394.26953125
+          "value": 24439.779296875
         }
       ]
     }
