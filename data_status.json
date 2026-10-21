@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-10-20T15:02:41Z",
+  "generatedAt": "2026-10-21T15:12:21Z",
   "artefacts": {
     "stocks": {
-      "asOf": "2026-10-20T15:00:13.080Z",
+      "asOf": "2026-10-21T15:11:22.768Z",
       "size": 681,
       "source": "built"
     },
     "macro": {
-      "asOf": "2026-10-20T15:01:45Z",
-      "size": 20,
+      "asOf": "2026-10-21T15:11:27Z",
+      "size": 3,
       "source": "built"
     },
     "benchmarks": {
-      "asOf": "2026-10-20",
+      "asOf": "2026-10-21",
       "source": "built"
     },
     "insiders": {
-      "asOf": "2026-10-20",
-      "size": 0,
+      "asOf": "2026-10-21",
+      "size": 2,
       "source": "built"
     },
     "factorEtfs": {
-      "asOf": "2026-10-20",
+      "asOf": "2026-10-21",
       "size": 3,
       "source": "built"
     },
     "paperPortfolio": {
-      "asOf": "2026-10-20",
+      "asOf": "2026-10-21",
       "size": 10,
       "source": "built"
     },
     "universeHistory": {
-      "asOf": "2026-10-20",
-      "size": 147,
+      "asOf": "2026-10-21",
+      "size": 148,
       "source": "built"
     },
     "prices": {
@@ -41,12 +41,10 @@
       "source": "published"
     },
     "snapshots": {
-      "asOf": "2026-10-20",
-      "size": 147,
+      "asOf": "2026-10-21",
+      "size": 148,
       "source": "built"
     }
   },
-  "problems": [
-    "Insider trades: current but empty (0 entries) — drives the insider signal on Discovery and stock detail"
-  ]
+  "problems": []
 }
