@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-27",
-  "lastUpdated": "2026-10-21",
+  "lastUpdated": "2026-10-22",
   "config": {
     "initialCapital": 10000,
     "currency": "GBP",
@@ -1305,14 +1305,25 @@
         "midd": 0.0,
         "vwrl": 0.0
       }
+    },
+    {
+      "date": "2026-10-22",
+      "nav": 9758.71,
+      "benchmarkPrice": 137.01,
+      "segmentNav": {
+        "spy": 4460.67,
+        "isf": 487.17,
+        "midd": 0.0,
+        "vwrl": 0.0
+      }
     }
   ],
   "metrics": {
-    "totalReturnPct": -2.47,
+    "totalReturnPct": -2.41,
     "benchmarkReturnPct": null,
     "excessReturnPct": null,
-    "annualizedReturnPct": -5.03,
-    "sharpe": -2.642,
+    "annualizedReturnPct": -4.89,
+    "sharpe": -2.58,
     "maxDrawdownPct": -4.02,
     "tradeCount": 30,
     "winRatePct": 6.7,

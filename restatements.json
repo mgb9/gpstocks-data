@@ -1,11 +1,11 @@
 {
-  "asOf": "2026-10-21",
+  "asOf": "2026-10-22",
   "window": {
     "from": "2025-10-20",
-    "to": "2026-10-21"
+    "to": "2026-10-22"
   },
-  "pairsCompared": 147,
-  "totalEvents": 2678,
+  "pairsCompared": 148,
+  "totalEvents": 2692,
   "events": [
     {
       "ticker": "STX",
@@ -1528,6 +1528,14 @@
       "relChangePct": 300.0
     },
     {
+      "ticker": "IQV",
+      "date": "2026-10-22",
+      "field": "piotroskiF",
+      "prev": 1,
+      "curr": 4,
+      "relChangePct": 300.0
+    },
+    {
       "ticker": "AMP",
       "date": "2026-04-27",
       "field": "currentRatio",
@@ -2546,6 +2554,22 @@
     {
       "ticker": "HPE",
       "date": "2026-10-20",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 5,
+      "relChangePct": 150.0
+    },
+    {
+      "ticker": "GAW.L",
+      "date": "2026-10-22",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 5,
+      "relChangePct": 150.0
+    },
+    {
+      "ticker": "IR",
+      "date": "2026-10-22",
       "field": "piotroskiF",
       "prev": 2,
       "curr": 5,
@@ -3982,46 +4006,22 @@
       "prev": 3,
       "curr": 6,
       "relChangePct": 100.0
-    },
-    {
-      "ticker": "KMI",
-      "date": "2026-09-30",
-      "field": "piotroskiF",
-      "prev": 3,
-      "curr": 6,
-      "relChangePct": 100.0
-    },
-    {
-      "ticker": "BWY.L",
-      "date": "2026-10-02",
-      "field": "piotroskiF",
-      "prev": 2,
-      "curr": 4,
-      "relChangePct": 100.0
-    },
-    {
-      "ticker": "CTVA",
-      "date": "2026-10-02",
-      "field": "grossMargin",
-      "prev": 49.5,
-      "curr": 0,
-      "relChangePct": -100.0
     }
   ],
   "summary": {
     "byField": {
-      "piotroskiF": 480,
-      "fcf": 436,
+      "piotroskiF": 490,
+      "fcf": 437,
       "opMargin": 337,
-      "netDebtEbitda": 272,
+      "netDebtEbitda": 273,
       "revGrowthTTM": 154,
       "epsGrowthTTM": 147,
       "interestCover": 142,
-      "gpa": 107,
+      "gpa": 108,
       "currentRatio": 107,
       "revTrend3y": 95,
       "sharesYoYChange": 88,
-      "grossMargin": 85,
+      "grossMargin": 86,
       "marginTrend3y": 73,
       "netMargin": 65,
       "roic": 53,
@@ -4049,8 +4049,8 @@
       "CB": 13,
       "CMCSA": 13
     },
-    "newFilingUpdates": 7085,
+    "newFilingUpdates": 7194,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 18.22
+    "eventsPerPairAvg": 18.19
   }
 }
