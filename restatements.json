@@ -5,7 +5,7 @@
     "to": "2026-10-23"
   },
   "pairsCompared": 149,
-  "totalEvents": 2728,
+  "totalEvents": 2734,
   "events": [
     {
       "ticker": "STX",
@@ -1856,6 +1856,14 @@
       "relChangePct": -218.18
     },
     {
+      "ticker": "FDEV.L",
+      "date": "2026-10-23",
+      "field": "revTrend3y",
+      "prev": -4.7,
+      "curr": 5.5,
+      "relChangePct": 217.02
+    },
+    {
       "ticker": "CASY",
       "date": "2026-06-24",
       "field": "revTrend3y",
@@ -2598,6 +2606,14 @@
       "prev": 2,
       "curr": 5,
       "relChangePct": 150.0
+    },
+    {
+      "ticker": "CPB",
+      "date": "2026-10-23",
+      "field": "marginTrend3y",
+      "prev": -0.8,
+      "curr": -2,
+      "relChangePct": -150.0
     },
     {
       "ticker": "MAA",
@@ -3990,22 +4006,6 @@
       "prev": 3,
       "curr": 6,
       "relChangePct": 100.0
-    },
-    {
-      "ticker": "QCOM",
-      "date": "2026-09-10",
-      "field": "piotroskiF",
-      "prev": 3,
-      "curr": 6,
-      "relChangePct": 100.0
-    },
-    {
-      "ticker": "SPI.L",
-      "date": "2026-09-14",
-      "field": "piotroskiF",
-      "prev": 3,
-      "curr": 6,
-      "relChangePct": 100.0
     }
   ],
   "summary": {
@@ -4016,20 +4016,20 @@
       "netDebtEbitda": 280,
       "revGrowthTTM": 155,
       "epsGrowthTTM": 147,
-      "interestCover": 142,
+      "interestCover": 144,
       "gpa": 108,
       "currentRatio": 108,
-      "revTrend3y": 95,
+      "revTrend3y": 97,
       "sharesYoYChange": 88,
       "grossMargin": 87,
-      "marginTrend3y": 73,
+      "marginTrend3y": 75,
       "netMargin": 65,
       "roic": 53,
       "marketCap": 37
     },
     "byTicker": {
       "BTRW.L": 60,
-      "FDEV.L": 21,
+      "FDEV.L": 24,
       "FCX": 19,
       "V": 19,
       "VRSN": 19,
@@ -4049,8 +4049,8 @@
       "RSG": 14,
       "SFR.L": 13
     },
-    "newFilingUpdates": 7428,
+    "newFilingUpdates": 7429,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 18.31
+    "eventsPerPairAvg": 18.35
   }
 }
