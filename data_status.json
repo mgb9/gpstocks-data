@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-10-23T19:55:09Z",
+  "generatedAt": "2026-10-25T10:33:20Z",
   "artefacts": {
     "stocks": {
       "asOf": "2026-10-23T19:54:01.830Z",
       "size": 681,
-      "source": "built"
+      "source": "published"
     },
     "macro": {
       "asOf": "2026-10-23T19:54:11Z",
       "size": 20,
-      "source": "built"
+      "source": "published"
     },
     "benchmarks": {
       "asOf": "2026-10-23",
-      "source": "built"
+      "source": "published"
     },
     "insiders": {
       "asOf": "2026-10-23",
       "size": 0,
-      "source": "built"
+      "source": "published"
     },
     "factorEtfs": {
       "asOf": "2026-10-23",
       "size": 3,
-      "source": "built"
+      "source": "published"
     },
     "paperPortfolio": {
       "asOf": "2026-10-23",
@@ -36,17 +36,14 @@
       "source": "built"
     },
     "prices": {
-      "asOf": "2026-10-18T10:14:30.418032Z",
+      "asOf": "2026-10-25T10:33:18.219997Z",
       "size": 755,
-      "source": "published"
+      "source": "built"
     },
     "snapshots": {
       "asOf": "2026-10-23",
       "size": 150,
       "source": "built"
     }
-  },
-  "problems": [
-    "Insider trades: current but empty (0 entries) — drives the insider signal on Discovery and stock detail"
-  ]
+  }
 }
