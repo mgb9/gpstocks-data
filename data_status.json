@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-26T16:53:47Z",
+  "generatedAt": "2026-10-26T21:10:21Z",
   "artefacts": {
     "stocks": {
-      "asOf": "2026-10-26T16:48:44.583Z",
+      "asOf": "2026-10-26T21:05:09.209Z",
       "size": 681,
       "source": "built"
     },
     "macro": {
-      "asOf": "2026-10-26T16:48:51Z",
+      "asOf": "2026-10-26T21:05:25Z",
       "size": 20,
       "source": "built"
     },
@@ -17,7 +17,7 @@
     },
     "insiders": {
       "asOf": "2026-10-26",
-      "size": 3,
+      "size": 7,
       "source": "built"
     },
     "factorEtfs": {
