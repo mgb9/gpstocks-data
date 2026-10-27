@@ -1,11 +1,11 @@
 {
-  "asOf": "2026-10-26",
+  "asOf": "2026-10-27",
   "window": {
     "from": "2025-10-20",
-    "to": "2026-10-26"
+    "to": "2026-10-27"
   },
-  "pairsCompared": 150,
-  "totalEvents": 2821,
+  "pairsCompared": 151,
+  "totalEvents": 2829,
   "events": [
     {
       "ticker": "STX",
@@ -126,6 +126,14 @@
       "prev": 174,
       "curr": 6033,
       "relChangePct": 3367.24
+    },
+    {
+      "ticker": "BWY.L",
+      "date": "2026-10-27",
+      "field": "marginTrend3y",
+      "prev": 0.2,
+      "curr": -5.4,
+      "relChangePct": -2800.0
     },
     {
       "ticker": "AMCR",
@@ -318,6 +326,14 @@
       "prev": 3.2,
       "curr": 57.7,
       "relChangePct": 1703.12
+    },
+    {
+      "ticker": "BWY.L",
+      "date": "2026-10-27",
+      "field": "sharesYoYChange",
+      "prev": -0.1,
+      "curr": -1.7,
+      "relChangePct": -1600.0
     },
     {
       "ticker": "PCAR",
@@ -789,6 +805,14 @@
       "field": "netDebtEbitda",
       "prev": 0,
       "curr": 0.2,
+      "relChangePct": 999.0
+    },
+    {
+      "ticker": "PNW",
+      "date": "2026-10-27",
+      "field": "piotroskiF",
+      "prev": 0,
+      "curr": 3,
       "relChangePct": 999.0
     },
     {
@@ -2784,6 +2808,14 @@
       "relChangePct": 150.0
     },
     {
+      "ticker": "MCD",
+      "date": "2026-10-27",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 5,
+      "relChangePct": 150.0
+    },
+    {
       "ticker": "LVS",
       "date": "2026-04-24",
       "field": "epsGrowthTTM",
@@ -3974,55 +4006,23 @@
       "prev": 2,
       "curr": 4,
       "relChangePct": 100.0
-    },
-    {
-      "ticker": "MET",
-      "date": "2026-05-11",
-      "field": "piotroskiF",
-      "prev": 2,
-      "curr": 4,
-      "relChangePct": 100.0
-    },
-    {
-      "ticker": "JD.L",
-      "date": "2026-06-10",
-      "field": "piotroskiF",
-      "prev": 4,
-      "curr": 8,
-      "relChangePct": 100.0
-    },
-    {
-      "ticker": "CGS.L",
-      "date": "2026-07-01",
-      "field": "piotroskiF",
-      "prev": 3,
-      "curr": 6,
-      "relChangePct": 100.0
-    },
-    {
-      "ticker": "SFR.L",
-      "date": "2026-07-24",
-      "field": "interestCover",
-      "prev": 3.4,
-      "curr": 6.8,
-      "relChangePct": 100.0
     }
   ],
   "summary": {
     "byField": {
-      "piotroskiF": 509,
+      "piotroskiF": 513,
       "fcf": 459,
       "opMargin": 358,
       "netDebtEbitda": 289,
       "revGrowthTTM": 156,
-      "interestCover": 152,
+      "interestCover": 153,
       "epsGrowthTTM": 150,
       "gpa": 114,
       "currentRatio": 109,
-      "revTrend3y": 103,
-      "sharesYoYChange": 98,
+      "revTrend3y": 104,
+      "sharesYoYChange": 99,
       "grossMargin": 88,
-      "marginTrend3y": 81,
+      "marginTrend3y": 82,
       "netMargin": 65,
       "roic": 53,
       "marketCap": 37
@@ -4049,8 +4049,8 @@
       "ISRG": 14,
       "RSG": 14
     },
-    "newFilingUpdates": 7503,
+    "newFilingUpdates": 7511,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 18.81
+    "eventsPerPairAvg": 18.74
   }
 }
