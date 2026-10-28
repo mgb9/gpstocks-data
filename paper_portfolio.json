@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-27",
-  "lastUpdated": "2026-10-27",
+  "lastUpdated": "2026-10-28",
   "config": {
     "initialCapital": 10000,
     "currency": "GBP",
@@ -13,7 +13,7 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 4324.22,
+  "cashBalance": 5307.45,
   "positions": [
     {
       "id": "7ce31991",
@@ -82,23 +82,6 @@
       "reviewDate": "2026-12-04"
     },
     {
-      "id": "4ee8c524",
-      "ticker": "GOOG",
-      "company": "Alphabet Inc.",
-      "sector": "Communication Services",
-      "homeIndex": "spy",
-      "entryDate": "2026-09-04",
-      "entryPrice": 339.08,
-      "scoreAtEntry": 81,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 496.75,
-      "cashCommitted": 498.0,
-      "entryFee": 1.25,
-      "positionPct": 5.0,
-      "stopLossPrice": 271.264,
-      "reviewDate": "2026-12-04"
-    },
-    {
       "id": "42039cc9",
       "ticker": "AMZN",
       "company": "Amazon.com, Inc.",
@@ -131,23 +114,6 @@
       "positionPct": 5.0,
       "stopLossPrice": 74.656,
       "reviewDate": "2027-01-12"
-    },
-    {
-      "id": "30ed15c1",
-      "ticker": "CINF",
-      "company": "Cincinnati Financial Corporatio",
-      "sector": "Financials",
-      "homeIndex": "spy",
-      "entryDate": "2026-10-15",
-      "entryPrice": 166.67,
-      "scoreAtEntry": 77,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 479.16,
-      "cashCommitted": 480.36,
-      "entryFee": 1.2,
-      "positionPct": 5.0,
-      "stopLossPrice": 133.336,
-      "reviewDate": "2027-01-15"
     },
     {
       "id": "c2e995f5",
@@ -831,6 +797,48 @@
       "plPct": -2.99,
       "holdDays": 1,
       "positionPct": 5.0
+    },
+    {
+      "id": "4ee8c524",
+      "ticker": "GOOG",
+      "company": "Alphabet Inc.",
+      "sector": "Communication Services",
+      "entryDate": "2026-09-04",
+      "entryPrice": 339.08,
+      "scoreAtEntry": 81,
+      "labelAtEntry": "Buy Now",
+      "exitDate": "2026-10-28",
+      "exitPrice": 316.83,
+      "exitReason": "score_degraded",
+      "costBasis": 496.75,
+      "cashCommitted": 498.0,
+      "entryFee": 1.25,
+      "exitFee": 1.16,
+      "proceeds": 462.99,
+      "plPct": -7.03,
+      "holdDays": 54,
+      "positionPct": 5.0
+    },
+    {
+      "id": "30ed15c1",
+      "ticker": "CINF",
+      "company": "Cincinnati Financial Corporatio",
+      "sector": "Financials",
+      "entryDate": "2026-10-15",
+      "entryPrice": 166.67,
+      "scoreAtEntry": 77,
+      "labelAtEntry": "Buy Now",
+      "exitDate": "2026-10-28",
+      "exitPrice": 181.41,
+      "exitReason": "label_changed_avoid",
+      "costBasis": 479.16,
+      "cashCommitted": 480.36,
+      "entryFee": 1.2,
+      "exitFee": 1.3,
+      "proceeds": 520.24,
+      "plPct": 8.3,
+      "holdDays": 13,
+      "positionPct": 5.0
     }
   ],
   "navHistory": [
@@ -1366,18 +1374,29 @@
         "midd": 0.0,
         "vwrl": 0.0
       }
+    },
+    {
+      "date": "2026-10-28",
+      "nav": 9779.56,
+      "benchmarkPrice": 139.09,
+      "segmentNav": {
+        "spy": 3978.12,
+        "isf": 493.99,
+        "midd": 0.0,
+        "vwrl": 0.0
+      }
     }
   ],
   "metrics": {
-    "totalReturnPct": -2.69,
+    "totalReturnPct": -2.2,
     "benchmarkReturnPct": null,
     "excessReturnPct": null,
-    "annualizedReturnPct": -5.28,
-    "sharpe": -2.7,
+    "annualizedReturnPct": -4.33,
+    "sharpe": -2.274,
     "maxDrawdownPct": -4.02,
-    "tradeCount": 30,
-    "winRatePct": 6.7,
-    "avgHoldDays": 7.8,
-    "openPositions": 11
+    "tradeCount": 32,
+    "winRatePct": 9.4,
+    "avgHoldDays": 9.4,
+    "openPositions": 9
   }
 }

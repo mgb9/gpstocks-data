@@ -1,11 +1,11 @@
 {
-  "asOf": "2026-10-27",
+  "asOf": "2026-10-28",
   "window": {
     "from": "2025-10-20",
-    "to": "2026-10-27"
+    "to": "2026-10-28"
   },
-  "pairsCompared": 151,
-  "totalEvents": 2830,
+  "pairsCompared": 152,
+  "totalEvents": 2840,
   "events": [
     {
       "ticker": "STX",
@@ -1856,6 +1856,14 @@
       "relChangePct": 255.56
     },
     {
+      "ticker": "JBL",
+      "date": "2026-10-28",
+      "field": "revTrend3y",
+      "prev": -4.9,
+      "curr": 7.6,
+      "relChangePct": 255.1
+    },
+    {
       "ticker": "KKR",
       "date": "2026-08-10",
       "field": "revGrowthTTM",
@@ -3616,6 +3624,14 @@
       "relChangePct": 107.69
     },
     {
+      "ticker": "TSLA",
+      "date": "2026-10-28",
+      "field": "opMargin",
+      "prev": 2.6,
+      "curr": 5.4,
+      "relChangePct": 107.69
+    },
+    {
       "ticker": "ACGL",
       "date": "2026-07-30",
       "field": "epsGrowthTTM",
@@ -3990,42 +4006,26 @@
       "prev": 2,
       "curr": 4,
       "relChangePct": 100.0
-    },
-    {
-      "ticker": "IBKR",
-      "date": "2026-05-11",
-      "field": "piotroskiF",
-      "prev": 2,
-      "curr": 4,
-      "relChangePct": 100.0
-    },
-    {
-      "ticker": "ITW",
-      "date": "2026-05-11",
-      "field": "piotroskiF",
-      "prev": 2,
-      "curr": 4,
-      "relChangePct": 100.0
     }
   ],
   "summary": {
     "byField": {
-      "piotroskiF": 514,
-      "fcf": 459,
-      "opMargin": 358,
+      "piotroskiF": 516,
+      "fcf": 460,
+      "opMargin": 360,
       "netDebtEbitda": 289,
       "revGrowthTTM": 156,
-      "interestCover": 153,
+      "interestCover": 154,
       "epsGrowthTTM": 150,
-      "gpa": 114,
+      "gpa": 115,
       "currentRatio": 109,
-      "revTrend3y": 104,
-      "sharesYoYChange": 99,
+      "revTrend3y": 105,
+      "sharesYoYChange": 100,
       "grossMargin": 88,
       "marginTrend3y": 82,
       "netMargin": 65,
       "roic": 53,
-      "marketCap": 37
+      "marketCap": 38
     },
     "byTicker": {
       "BTRW.L": 60,
@@ -4041,16 +4041,16 @@
       "CB": 16,
       "NCC.L": 16,
       "PFG": 15,
+      "TSLA": 15,
       "EA": 15,
       "CTVA": 14,
       "EQT": 14,
       "KMI": 14,
       "GLW": 14,
-      "ISRG": 14,
-      "RSG": 14
+      "ISRG": 14
     },
-    "newFilingUpdates": 7509,
+    "newFilingUpdates": 7737,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 18.74
+    "eventsPerPairAvg": 18.68
   }
 }
