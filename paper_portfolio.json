@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-27",
-  "lastUpdated": "2026-10-29",
+  "lastUpdated": "2026-10-30",
   "config": {
     "initialCapital": 10000,
     "currency": "GBP",
@@ -13,40 +13,8 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 5307.45,
+  "cashBalance": 6162.84,
   "positions": [
-    {
-      "id": "7ce31991",
-      "ticker": "BMY",
-      "company": "Bristol-Myers Squibb Company",
-      "sector": "Healthcare",
-      "homeIndex": "spy",
-      "entryDate": "2026-08-24",
-      "entryPrice": 67.01,
-      "scoreAtEntry": 81,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 500.0,
-      "positionPct": 5.0,
-      "stopLossPrice": 53.608,
-      "reviewDate": "2026-11-24"
-    },
-    {
-      "id": "86f3f396",
-      "ticker": "GOOGL",
-      "company": "Alphabet Inc.",
-      "sector": "Communication Services",
-      "homeIndex": "spy",
-      "entryDate": "2026-09-01",
-      "entryPrice": 339.35,
-      "scoreAtEntry": 84,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 493.04,
-      "cashCommitted": 494.28,
-      "entryFee": 1.24,
-      "positionPct": 5.0,
-      "stopLossPrice": 271.48,
-      "reviewDate": "2026-12-01"
-    },
     {
       "id": "c097c4a8",
       "ticker": "DGX",
@@ -80,23 +48,6 @@
       "positionPct": 5.0,
       "stopLossPrice": 102.4,
       "reviewDate": "2026-12-04"
-    },
-    {
-      "id": "42039cc9",
-      "ticker": "AMZN",
-      "company": "Amazon.com, Inc.",
-      "sector": "Consumer Discretionary",
-      "homeIndex": "spy",
-      "entryDate": "2026-09-18",
-      "entryPrice": 251.19,
-      "scoreAtEntry": 76,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 490.12,
-      "cashCommitted": 491.35,
-      "entryFee": 1.23,
-      "positionPct": 5.0,
-      "stopLossPrice": 200.952,
-      "reviewDate": "2026-12-18"
     },
     {
       "id": "5ab4c69b",
@@ -165,6 +116,23 @@
       "positionPct": 5.0,
       "stopLossPrice": 88.104,
       "reviewDate": "2027-01-27"
+    },
+    {
+      "id": "0e097f82",
+      "ticker": "SHEL.L",
+      "company": "SHELL PLC ORD EUR0.07",
+      "sector": "Energy",
+      "homeIndex": "isf",
+      "entryDate": "2026-10-30",
+      "entryPrice": 40.38,
+      "scoreAtEntry": 81,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 484.43,
+      "cashCommitted": 487.35,
+      "entryFee": 2.92,
+      "positionPct": 5.0,
+      "stopLossPrice": 32.304,
+      "reviewDate": "2027-01-30"
     }
   ],
   "trades": [
@@ -839,6 +807,69 @@
       "plPct": 8.3,
       "holdDays": 13,
       "positionPct": 5.0
+    },
+    {
+      "id": "7ce31991",
+      "ticker": "BMY",
+      "company": "Bristol-Myers Squibb Company",
+      "sector": "Healthcare",
+      "entryDate": "2026-08-24",
+      "entryPrice": 67.01,
+      "scoreAtEntry": 81,
+      "labelAtEntry": "Buy Now",
+      "exitDate": "2026-10-30",
+      "exitPrice": 61.39,
+      "exitReason": "label_changed_avoid",
+      "costBasis": 500.0,
+      "cashCommitted": 500.0,
+      "entryFee": 0.0,
+      "exitFee": 1.15,
+      "proceeds": 456.92,
+      "plPct": -8.62,
+      "holdDays": 67,
+      "positionPct": 5.0
+    },
+    {
+      "id": "86f3f396",
+      "ticker": "GOOGL",
+      "company": "Alphabet Inc.",
+      "sector": "Communication Services",
+      "entryDate": "2026-09-01",
+      "entryPrice": 339.35,
+      "scoreAtEntry": 84,
+      "labelAtEntry": "Buy Now",
+      "exitDate": "2026-10-30",
+      "exitPrice": 283.82,
+      "exitReason": "score_degraded",
+      "costBasis": 493.04,
+      "cashCommitted": 494.28,
+      "entryFee": 1.24,
+      "exitFee": 1.03,
+      "proceeds": 411.33,
+      "plPct": -16.78,
+      "holdDays": 59,
+      "positionPct": 5.0
+    },
+    {
+      "id": "42039cc9",
+      "ticker": "AMZN",
+      "company": "Amazon.com, Inc.",
+      "sector": "Consumer Discretionary",
+      "entryDate": "2026-09-18",
+      "entryPrice": 251.19,
+      "scoreAtEntry": 76,
+      "labelAtEntry": "Buy Now",
+      "exitDate": "2026-10-30",
+      "exitPrice": 243.79,
+      "exitReason": "label_changed_avoid",
+      "costBasis": 490.12,
+      "cashCommitted": 491.35,
+      "entryFee": 1.23,
+      "exitFee": 1.19,
+      "proceeds": 474.49,
+      "plPct": -3.43,
+      "holdDays": 42,
+      "positionPct": 5.0
     }
   ],
   "navHistory": [
@@ -1396,18 +1427,29 @@
         "midd": 0.0,
         "vwrl": 0.0
       }
+    },
+    {
+      "date": "2026-10-30",
+      "nav": 9744.11,
+      "benchmarkPrice": 135.99,
+      "segmentNav": {
+        "spy": 2603.47,
+        "isf": 977.78,
+        "midd": 0.0,
+        "vwrl": 0.0
+      }
     }
   ],
   "metrics": {
-    "totalReturnPct": -2.08,
+    "totalReturnPct": -2.56,
     "benchmarkReturnPct": null,
     "excessReturnPct": null,
-    "annualizedReturnPct": -4.07,
-    "sharpe": -2.17,
+    "annualizedReturnPct": -4.96,
+    "sharpe": -2.49,
     "maxDrawdownPct": -4.02,
-    "tradeCount": 32,
-    "winRatePct": 9.4,
-    "avgHoldDays": 9.4,
-    "openPositions": 9
+    "tradeCount": 35,
+    "winRatePct": 8.6,
+    "avgHoldDays": 13.4,
+    "openPositions": 7
   }
 }
