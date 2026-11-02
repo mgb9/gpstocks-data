@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-27",
-  "lastUpdated": "2026-10-30",
+  "lastUpdated": "2026-11-02",
   "config": {
     "initialCapital": 10000,
     "currency": "GBP",
@@ -13,7 +13,7 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 6162.84,
+  "cashBalance": 6628.89,
   "positions": [
     {
       "id": "c097c4a8",
@@ -31,23 +31,6 @@
       "positionPct": 5.0,
       "stopLossPrice": 192.24,
       "reviewDate": "2026-12-01"
-    },
-    {
-      "id": "ffc813d3",
-      "ticker": "INCY",
-      "company": "Incyte Corporation",
-      "sector": "Healthcare",
-      "homeIndex": "spy",
-      "entryDate": "2026-09-04",
-      "entryPrice": 128,
-      "scoreAtEntry": 84,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 496.75,
-      "cashCommitted": 498.0,
-      "entryFee": 1.25,
-      "positionPct": 5.0,
-      "stopLossPrice": 102.4,
-      "reviewDate": "2026-12-04"
     },
     {
       "id": "5ab4c69b",
@@ -870,6 +853,27 @@
       "plPct": -3.43,
       "holdDays": 42,
       "positionPct": 5.0
+    },
+    {
+      "id": "ffc813d3",
+      "ticker": "INCY",
+      "company": "Incyte Corporation",
+      "sector": "Healthcare",
+      "entryDate": "2026-09-04",
+      "entryPrice": 128,
+      "scoreAtEntry": 84,
+      "labelAtEntry": "Buy Now",
+      "exitDate": "2026-11-02",
+      "exitPrice": 120.39,
+      "exitReason": "label_changed_avoid",
+      "costBasis": 496.75,
+      "cashCommitted": 498.0,
+      "entryFee": 1.25,
+      "exitFee": 1.17,
+      "proceeds": 466.05,
+      "plPct": -6.42,
+      "holdDays": 59,
+      "positionPct": 5.0
     }
   ],
   "navHistory": [
@@ -1438,18 +1442,29 @@
         "midd": 0.0,
         "vwrl": 0.0
       }
+    },
+    {
+      "date": "2026-11-02",
+      "nav": 9758.73,
+      "benchmarkPrice": 136.58,
+      "segmentNav": {
+        "spy": 2144.51,
+        "isf": 985.33,
+        "midd": 0.0,
+        "vwrl": 0.0
+      }
     }
   ],
   "metrics": {
-    "totalReturnPct": -2.56,
+    "totalReturnPct": -2.41,
     "benchmarkReturnPct": null,
     "excessReturnPct": null,
-    "annualizedReturnPct": -4.96,
-    "sharpe": -2.49,
+    "annualizedReturnPct": -4.61,
+    "sharpe": -2.367,
     "maxDrawdownPct": -4.02,
-    "tradeCount": 35,
-    "winRatePct": 8.6,
-    "avgHoldDays": 13.4,
-    "openPositions": 7
+    "tradeCount": 36,
+    "winRatePct": 8.3,
+    "avgHoldDays": 14.7,
+    "openPositions": 6
   }
 }
