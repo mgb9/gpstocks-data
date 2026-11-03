@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-27",
-  "lastUpdated": "2026-11-02",
+  "lastUpdated": "2026-11-03",
   "config": {
     "initialCapital": 10000,
     "currency": "GBP",
@@ -13,7 +13,7 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 6628.89,
+  "cashBalance": 7112.84,
   "positions": [
     {
       "id": "c097c4a8",
@@ -99,23 +99,6 @@
       "positionPct": 5.0,
       "stopLossPrice": 88.104,
       "reviewDate": "2027-01-27"
-    },
-    {
-      "id": "0e097f82",
-      "ticker": "SHEL.L",
-      "company": "SHELL PLC ORD EUR0.07",
-      "sector": "Energy",
-      "homeIndex": "isf",
-      "entryDate": "2026-10-30",
-      "entryPrice": 40.38,
-      "scoreAtEntry": 81,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 484.43,
-      "cashCommitted": 487.35,
-      "entryFee": 2.92,
-      "positionPct": 5.0,
-      "stopLossPrice": 32.304,
-      "reviewDate": "2027-01-30"
     }
   ],
   "trades": [
@@ -874,6 +857,27 @@
       "plPct": -6.42,
       "holdDays": 59,
       "positionPct": 5.0
+    },
+    {
+      "id": "0e097f82",
+      "ticker": "SHEL.L",
+      "company": "SHELL PLC ORD EUR0.07",
+      "sector": "Energy",
+      "entryDate": "2026-10-30",
+      "entryPrice": 40.38,
+      "scoreAtEntry": 81,
+      "labelAtEntry": "Buy Now",
+      "exitDate": "2026-11-03",
+      "exitPrice": 40.38,
+      "exitReason": "removed_from_universe",
+      "costBasis": 484.43,
+      "cashCommitted": 487.35,
+      "entryFee": 2.92,
+      "exitFee": 0.48,
+      "proceeds": 483.95,
+      "plPct": -0.7,
+      "holdDays": 4,
+      "positionPct": 5.0
     }
   ],
   "navHistory": [
@@ -1453,18 +1457,29 @@
         "midd": 0.0,
         "vwrl": 0.0
       }
+    },
+    {
+      "date": "2026-11-03",
+      "nav": 9777.1,
+      "benchmarkPrice": 135.45,
+      "segmentNav": {
+        "spy": 2152.15,
+        "isf": 512.1,
+        "midd": 0.0,
+        "vwrl": 0.0
+      }
     }
   ],
   "metrics": {
-    "totalReturnPct": -2.41,
+    "totalReturnPct": -2.23,
     "benchmarkReturnPct": null,
     "excessReturnPct": null,
-    "annualizedReturnPct": -4.61,
-    "sharpe": -2.367,
+    "annualizedReturnPct": -4.24,
+    "sharpe": -2.219,
     "maxDrawdownPct": -4.02,
-    "tradeCount": 36,
-    "winRatePct": 8.3,
-    "avgHoldDays": 14.7,
-    "openPositions": 6
+    "tradeCount": 37,
+    "winRatePct": 8.1,
+    "avgHoldDays": 14.4,
+    "openPositions": 5
   }
 }

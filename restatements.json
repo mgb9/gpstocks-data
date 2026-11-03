@@ -1,11 +1,11 @@
 {
-  "asOf": "2026-11-02",
+  "asOf": "2026-11-03",
   "window": {
     "from": "2025-10-20",
-    "to": "2026-11-02"
+    "to": "2026-11-03"
   },
-  "pairsCompared": 155,
-  "totalEvents": 3328,
+  "pairsCompared": 156,
+  "totalEvents": 3338,
   "events": [
     {
       "ticker": "STX",
@@ -338,6 +338,14 @@
     {
       "ticker": "OMC",
       "date": "2026-05-03",
+      "field": "sharesYoYChange",
+      "prev": 3.2,
+      "curr": 57.7,
+      "relChangePct": 1703.12
+    },
+    {
+      "ticker": "OMC",
+      "date": "2026-11-03",
       "field": "sharesYoYChange",
       "prev": 3.2,
       "curr": 57.7,
@@ -2168,6 +2176,14 @@
       "relChangePct": -271.43
     },
     {
+      "ticker": "CMS",
+      "date": "2026-11-03",
+      "field": "sharesYoYChange",
+      "prev": 0.7,
+      "curr": 2.6,
+      "relChangePct": 271.43
+    },
+    {
       "ticker": "COHR",
       "date": "2026-08-18",
       "field": "revTrend3y",
@@ -3280,6 +3296,14 @@
       "relChangePct": 150.0
     },
     {
+      "ticker": "JNJ",
+      "date": "2026-11-03",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 5,
+      "relChangePct": 150.0
+    },
+    {
       "ticker": "LVS",
       "date": "2026-04-24",
       "field": "epsGrowthTTM",
@@ -3982,35 +4006,11 @@
       "prev": 57.1,
       "curr": 122.2,
       "relChangePct": 114.01
-    },
-    {
-      "ticker": "TSLA",
-      "date": "2026-04-24",
-      "field": "epsGrowthTTM",
-      "prev": -60.6,
-      "curr": 8.3,
-      "relChangePct": 113.7
-    },
-    {
-      "ticker": "DD",
-      "date": "2026-08-06",
-      "field": "revGrowthTTM",
-      "prev": -29.6,
-      "curr": 4,
-      "relChangePct": 113.51
-    },
-    {
-      "ticker": "AO.L",
-      "date": "2026-07-01",
-      "field": "interestCover",
-      "prev": 6.7,
-      "curr": 14.3,
-      "relChangePct": 113.43
     }
   ],
   "summary": {
     "byField": {
-      "piotroskiF": 565,
+      "piotroskiF": 569,
       "fcf": 543,
       "opMargin": 445,
       "netDebtEbitda": 349,
@@ -4020,12 +4020,12 @@
       "currentRatio": 141,
       "gpa": 140,
       "grossMargin": 108,
+      "sharesYoYChange": 106,
       "revTrend3y": 106,
-      "sharesYoYChange": 101,
       "netMargin": 87,
       "marginTrend3y": 84,
       "roic": 75,
-      "marketCap": 38
+      "marketCap": 39
     },
     "byTicker": {
       "BTRW.L": 60,
@@ -4035,9 +4035,9 @@
       "LVS": 21,
       "V": 21,
       "CB": 20,
+      "MDLZ": 19,
       "VRSN": 19,
       "PFG": 18,
-      "MDLZ": 18,
       "GLW": 18,
       "PAY.L": 17,
       "INVH": 17,
@@ -4046,11 +4046,11 @@
       "INCY": 17,
       "RSG": 17,
       "PCG": 16,
-      "PKG": 16,
-      "NCC.L": 16
+      "PSX": 16,
+      "PKG": 16
     },
-    "newFilingUpdates": 8409,
+    "newFilingUpdates": 8466,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 21.47
+    "eventsPerPairAvg": 21.4
   }
 }
