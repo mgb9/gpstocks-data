@@ -4010,7 +4010,7 @@
   ],
   "summary": {
     "byField": {
-      "piotroskiF": 569,
+      "piotroskiF": 568,
       "fcf": 543,
       "opMargin": 445,
       "netDebtEbitda": 349,
@@ -4020,7 +4020,7 @@
       "currentRatio": 141,
       "gpa": 140,
       "grossMargin": 108,
-      "sharesYoYChange": 106,
+      "sharesYoYChange": 107,
       "revTrend3y": 106,
       "netMargin": 87,
       "marginTrend3y": 84,
@@ -4035,9 +4035,9 @@
       "LVS": 21,
       "V": 21,
       "CB": 20,
-      "MDLZ": 19,
       "VRSN": 19,
       "PFG": 18,
+      "MDLZ": 18,
       "GLW": 18,
       "PAY.L": 17,
       "INVH": 17,
@@ -4046,10 +4046,10 @@
       "INCY": 17,
       "RSG": 17,
       "PCG": 16,
-      "PSX": 16,
-      "PKG": 16
+      "PKG": 16,
+      "NCC.L": 16
     },
-    "newFilingUpdates": 8466,
+    "newFilingUpdates": 8467,
     "unclassifiedChanges": 110,
     "eventsPerPairAvg": 21.4
   }
