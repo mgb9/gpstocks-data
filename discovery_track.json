@@ -1,9 +1,9 @@
 {
-  "asOf": "2026-11-03",
+  "asOf": "2026-11-04",
   "methodology": "Historical cohorts are reconstructed with the CURRENT discovery rules (cap range $150M-$5B, fundamentals floor F>=4 / FCF>=0 / rev growth>=0, current component weights) applied to archived snapshots. This is in-sample-flavoured reconstruction, not a live track record: the rules were shaped with knowledge of the same period they are scored over. Entries marked live were logged forward at generation time with their entry prices and immutable membership (top 30 by score); only those accumulate a genuine record. Forward returns are price-only (no dividends), measured against the nearest snapshot >= 30/90 days out (within 10 days). Baseline is the same-window mean return of the full cap-range universe at each start date. Weekly cohorts overlap within the 30/90-day windows, so pooled observations are not independent.",
   "reconstructedFrom": "2025-10-20",
-  "reconstructedTo": "2026-08-26",
-  "snapshotsUsed": 42,
+  "reconstructedTo": "2026-11-04",
+  "snapshotsUsed": 43,
   "snapshotsSkipped": 0,
   "cohorts": [
     {

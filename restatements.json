@@ -1,11 +1,11 @@
 {
-  "asOf": "2026-11-03",
+  "asOf": "2026-11-04",
   "window": {
     "from": "2025-10-20",
-    "to": "2026-11-03"
+    "to": "2026-11-04"
   },
-  "pairsCompared": 156,
-  "totalEvents": 3338,
+  "pairsCompared": 157,
+  "totalEvents": 3356,
   "events": [
     {
       "ticker": "STX",
@@ -1101,6 +1101,22 @@
       "field": "netDebtEbitda",
       "prev": 0,
       "curr": 6.4,
+      "relChangePct": 999.0
+    },
+    {
+      "ticker": "MAR",
+      "date": "2026-11-04",
+      "field": "netDebtEbitda",
+      "prev": 0,
+      "curr": 3.5,
+      "relChangePct": 999.0
+    },
+    {
+      "ticker": "PEG",
+      "date": "2026-11-04",
+      "field": "netDebtEbitda",
+      "prev": 0,
+      "curr": 5.9,
       "relChangePct": 999.0
     },
     {
@@ -2230,6 +2246,14 @@
       "prev": -4.1,
       "curr": -15,
       "relChangePct": -265.85
+    },
+    {
+      "ticker": "MAR",
+      "date": "2026-11-04",
+      "field": "opMargin",
+      "prev": 18.2,
+      "curr": 66.2,
+      "relChangePct": 263.74
     },
     {
       "ticker": "JKHY",
@@ -3982,47 +4006,23 @@
       "prev": -11,
       "curr": 1.6,
       "relChangePct": 114.55
-    },
-    {
-      "ticker": "BTRW.L",
-      "date": "2026-07-16",
-      "field": "revTrend3y",
-      "prev": -11,
-      "curr": 1.6,
-      "relChangePct": 114.55
-    },
-    {
-      "ticker": "BTRW.L",
-      "date": "2026-07-23",
-      "field": "revTrend3y",
-      "prev": -11,
-      "curr": 1.6,
-      "relChangePct": 114.55
-    },
-    {
-      "ticker": "JKHY",
-      "date": "2026-09-07",
-      "field": "interestCover",
-      "prev": 57.1,
-      "curr": 122.2,
-      "relChangePct": 114.01
     }
   ],
   "summary": {
     "byField": {
-      "piotroskiF": 568,
-      "fcf": 543,
-      "opMargin": 445,
-      "netDebtEbitda": 349,
-      "revGrowthTTM": 200,
+      "piotroskiF": 573,
+      "fcf": 545,
+      "opMargin": 448,
+      "netDebtEbitda": 353,
+      "revGrowthTTM": 201,
       "epsGrowthTTM": 191,
       "interestCover": 155,
-      "currentRatio": 141,
+      "currentRatio": 142,
       "gpa": 140,
-      "grossMargin": 108,
+      "grossMargin": 109,
       "sharesYoYChange": 107,
       "revTrend3y": 106,
-      "netMargin": 87,
+      "netMargin": 88,
       "marginTrend3y": 84,
       "roic": 75,
       "marketCap": 39
@@ -4049,8 +4049,8 @@
       "PKG": 16,
       "NCC.L": 16
     },
-    "newFilingUpdates": 8467,
+    "newFilingUpdates": 8628,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 21.4
+    "eventsPerPairAvg": 21.38
   }
 }
