@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-04T18:02:07Z",
+  "asOf": "2026-11-04T21:47:45Z",
   "series": {
     "VIXCLS": {
       "name": "VIX",
@@ -1468,17 +1468,13 @@
     "DGS10": {
       "name": "US 10y yield",
       "source": "Federal Reserve Board via FRED",
-      "latest": 4.91,
-      "latestDate": "2026-11-02",
-      "delta1mPct": -7.53295668549905,
-      "delta1yPct": 18.886198547215503,
-      "deltaYoYPct": 18.886198547215503,
-      "deltaYoYAbs": 0.7800000000000002,
+      "latest": 4.95,
+      "latestDate": "2026-11-03",
+      "delta1mPct": -6.7796610169491425,
+      "delta1yPct": 19.85472154963681,
+      "deltaYoYPct": 19.85472154963681,
+      "deltaYoYAbs": 0.8200000000000003,
       "history": [
-        {
-          "date": "2026-02-17",
-          "value": 4.05
-        },
         {
           "date": "2026-02-18",
           "value": 4.09
@@ -2194,6 +2190,10 @@
         {
           "date": "2026-11-02",
           "value": 4.91
+        },
+        {
+          "date": "2026-11-03",
+          "value": 4.95
         }
       ]
     },
@@ -3236,33 +3236,13 @@
     "DCOILWTICO": {
       "name": "WTI crude",
       "source": "U.S. Energy Information Administration via FRED",
-      "latest": 103.37,
-      "latestDate": "2026-10-27",
-      "delta1mPct": 4.025359766529133,
-      "delta1yPct": 66.37695155319491,
-      "deltaYoYPct": 66.37695155319491,
-      "deltaYoYAbs": 41.24,
+      "latest": 99.64,
+      "latestDate": "2026-11-03",
+      "delta1mPct": 3.6513055237699,
+      "delta1yPct": 61.25586664508821,
+      "deltaYoYPct": 61.25586664508821,
+      "deltaYoYAbs": 37.85,
       "history": [
-        {
-          "date": "2026-02-10",
-          "value": 64.2
-        },
-        {
-          "date": "2026-02-11",
-          "value": 64.8
-        },
-        {
-          "date": "2026-02-12",
-          "value": 63.08
-        },
-        {
-          "date": "2026-02-13",
-          "value": 63.05
-        },
-        {
-          "date": "2026-02-17",
-          "value": 62.53
-        },
         {
           "date": "2026-02-18",
           "value": 65.33
@@ -3962,6 +3942,26 @@
         {
           "date": "2026-10-27",
           "value": 103.37
+        },
+        {
+          "date": "2026-10-28",
+          "value": 106.25
+        },
+        {
+          "date": "2026-10-29",
+          "value": 105.51
+        },
+        {
+          "date": "2026-10-30",
+          "value": 107.56
+        },
+        {
+          "date": "2026-11-02",
+          "value": 100.06
+        },
+        {
+          "date": "2026-11-03",
+          "value": 99.64
         }
       ]
     },
@@ -5652,17 +5652,13 @@
     "DFII10": {
       "name": "US 10y real yield",
       "source": "Federal Reserve Board via FRED",
-      "latest": 2.62,
-      "latestDate": "2026-11-02",
-      "delta1mPct": -11.186440677966104,
-      "delta1yPct": 43.956043956043956,
-      "deltaYoYPct": 43.956043956043956,
-      "deltaYoYAbs": 0.8,
+      "latest": 2.65,
+      "latestDate": "2026-11-03",
+      "delta1mPct": -10.169491525423737,
+      "delta1yPct": 45.60439560439559,
+      "deltaYoYPct": 45.60439560439559,
+      "deltaYoYAbs": 0.8299999999999998,
       "history": [
-        {
-          "date": "2026-02-17",
-          "value": 1.79
-        },
         {
           "date": "2026-02-18",
           "value": 1.8
@@ -6378,6 +6374,10 @@
         {
           "date": "2026-11-02",
           "value": 2.62
+        },
+        {
+          "date": "2026-11-03",
+          "value": 2.65
         }
       ]
     },
