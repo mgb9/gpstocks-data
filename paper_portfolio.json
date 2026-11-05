@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-27",
-  "lastUpdated": "2026-11-04",
+  "lastUpdated": "2026-11-05",
   "config": {
     "initialCapital": 10000,
     "currency": "GBP",
@@ -13,7 +13,7 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 7592.29,
+  "cashBalance": 6612.19,
   "positions": [
     {
       "id": "c097c4a8",
@@ -82,6 +82,40 @@
       "positionPct": 5.0,
       "stopLossPrice": 88.104,
       "reviewDate": "2027-01-27"
+    },
+    {
+      "id": "7d401918",
+      "ticker": "SHEL.L",
+      "company": "SHELL PLC ORD EUR0.07",
+      "sector": "Energy",
+      "homeIndex": "isf",
+      "entryDate": "2026-11-05",
+      "entryPrice": 37.95,
+      "scoreAtEntry": 82,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 487.11,
+      "cashCommitted": 490.05,
+      "entryFee": 2.94,
+      "positionPct": 5.0,
+      "stopLossPrice": 30.36,
+      "reviewDate": "2027-02-05"
+    },
+    {
+      "id": "1213f877",
+      "ticker": "CCH.L",
+      "company": "COCA-COLA HBC AG ORD CHF6.70 (C",
+      "sector": "Consumer Staples",
+      "homeIndex": "isf",
+      "entryDate": "2026-11-05",
+      "entryPrice": 49.34,
+      "scoreAtEntry": 77,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 487.11,
+      "cashCommitted": 490.05,
+      "entryFee": 2.94,
+      "positionPct": 5.0,
+      "stopLossPrice": 39.472,
+      "reviewDate": "2027-02-05"
     }
   ],
   "trades": [
@@ -1483,18 +1517,29 @@
         "midd": 0.0,
         "vwrl": 0.0
       }
+    },
+    {
+      "date": "2026-11-05",
+      "nav": 9795.17,
+      "benchmarkPrice": 133.36,
+      "segmentNav": {
+        "spy": 2208.78,
+        "isf": 974.22,
+        "midd": 0.0,
+        "vwrl": 0.0
+      }
     }
   ],
   "metrics": {
-    "totalReturnPct": -2.71,
+    "totalReturnPct": -2.05,
     "benchmarkReturnPct": null,
     "excessReturnPct": null,
-    "annualizedReturnPct": -5.11,
-    "sharpe": -2.527,
+    "annualizedReturnPct": -3.86,
+    "sharpe": -1.998,
     "maxDrawdownPct": -4.02,
     "tradeCount": 38,
     "winRatePct": 7.9,
     "avgHoldDays": 14.4,
-    "openPositions": 4
+    "openPositions": 6
   }
 }

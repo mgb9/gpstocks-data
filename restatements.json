@@ -1,11 +1,11 @@
 {
-  "asOf": "2026-11-04",
+  "asOf": "2026-11-05",
   "window": {
     "from": "2025-10-20",
-    "to": "2026-11-04"
+    "to": "2026-11-05"
   },
-  "pairsCompared": 157,
-  "totalEvents": 3366,
+  "pairsCompared": 158,
+  "totalEvents": 3439,
   "events": [
     {
       "ticker": "STX",
@@ -1120,6 +1120,30 @@
       "relChangePct": 999.0
     },
     {
+      "ticker": "IT",
+      "date": "2026-11-05",
+      "field": "netDebtEbitda",
+      "prev": 0,
+      "curr": 1.2,
+      "relChangePct": 999.0
+    },
+    {
+      "ticker": "MPC",
+      "date": "2026-11-05",
+      "field": "netDebtEbitda",
+      "prev": 0,
+      "curr": 0.9,
+      "relChangePct": 999.0
+    },
+    {
+      "ticker": "PFE",
+      "date": "2026-11-05",
+      "field": "netDebtEbitda",
+      "prev": 0,
+      "curr": 2.1,
+      "relChangePct": 999.0
+    },
+    {
       "ticker": "EXR",
       "date": "2026-11-02",
       "field": "currentRatio",
@@ -1446,6 +1470,14 @@
       "prev": -5.5,
       "curr": 27.1,
       "relChangePct": 592.73
+    },
+    {
+      "ticker": "BR",
+      "date": "2026-11-05",
+      "field": "epsGrowthTTM",
+      "prev": 8.4,
+      "curr": -40.7,
+      "relChangePct": -584.52
     },
     {
       "ticker": "BTRW.L",
@@ -1920,6 +1952,14 @@
       "relChangePct": 334.44
     },
     {
+      "ticker": "O",
+      "date": "2026-11-05",
+      "field": "currentRatio",
+      "prev": 0.5,
+      "curr": 2.17,
+      "relChangePct": 334.0
+    },
+    {
       "ticker": "GEV",
       "date": "2026-04-23",
       "field": "revGrowthTTM",
@@ -2134,6 +2174,14 @@
       "prev": -0.9,
       "curr": 1.7,
       "relChangePct": 288.89
+    },
+    {
+      "ticker": "PRU",
+      "date": "2026-11-05",
+      "field": "revGrowthTTM",
+      "prev": 14.1,
+      "curr": -26.2,
+      "relChangePct": -285.82
     },
     {
       "ticker": "IBKR",
@@ -3416,6 +3464,14 @@
       "relChangePct": 143.19
     },
     {
+      "ticker": "YUM",
+      "date": "2026-11-05",
+      "field": "epsGrowthTTM",
+      "prev": 131.6,
+      "curr": 319.9,
+      "relChangePct": 143.09
+    },
+    {
       "ticker": "EXC",
       "date": "2026-09-07",
       "field": "sharesYoYChange",
@@ -3486,6 +3542,14 @@
       "prev": -2.6,
       "curr": -6.2,
       "relChangePct": -138.46
+    },
+    {
+      "ticker": "PRU",
+      "date": "2026-11-05",
+      "field": "currentRatio",
+      "prev": 0.78,
+      "curr": 1.85,
+      "relChangePct": 137.18
     },
     {
       "ticker": "FIX",
@@ -3664,6 +3728,14 @@
       "relChangePct": -131.34
     },
     {
+      "ticker": "ANET",
+      "date": "2026-11-05",
+      "field": "epsGrowthTTM",
+      "prev": 35.7,
+      "curr": 82.1,
+      "relChangePct": 129.97
+    },
+    {
       "ticker": "VST",
       "date": "2026-06-10",
       "field": "sharesYoYChange",
@@ -3758,6 +3830,14 @@
       "prev": 2.1,
       "curr": -0.5,
       "relChangePct": -123.81
+    },
+    {
+      "ticker": "KDP",
+      "date": "2026-11-05",
+      "field": "epsGrowthTTM",
+      "prev": -90,
+      "curr": 21.1,
+      "relChangePct": 123.44
     },
     {
       "ticker": "CMCSA",
@@ -3926,131 +4006,51 @@
       "prev": -1.2,
       "curr": 0.2,
       "relChangePct": 116.67
-    },
-    {
-      "ticker": "EQT",
-      "date": "2026-07-24",
-      "field": "revGrowthTTM",
-      "prev": -1.8,
-      "curr": -3.9,
-      "relChangePct": -116.67
-    },
-    {
-      "ticker": "PLD",
-      "date": "2026-07-31",
-      "field": "currentRatio",
-      "prev": 0.3,
-      "curr": 0.65,
-      "relChangePct": 116.67
-    },
-    {
-      "ticker": "NCC.L",
-      "date": "2026-08-06",
-      "field": "sharesYoYChange",
-      "prev": -1.2,
-      "curr": 0.2,
-      "relChangePct": 116.67
-    },
-    {
-      "ticker": "INTC",
-      "date": "2026-11-02",
-      "field": "netDebtEbitda",
-      "prev": 1.2,
-      "curr": -0.2,
-      "relChangePct": -116.67
-    },
-    {
-      "ticker": "FIX",
-      "date": "2026-09-16",
-      "field": "opMargin",
-      "prev": 7.9,
-      "curr": 17.1,
-      "relChangePct": 116.46
-    },
-    {
-      "ticker": "QQ.L",
-      "date": "2026-06-12",
-      "field": "interestCover",
-      "prev": 3.8,
-      "curr": 8.2,
-      "relChangePct": 115.79
-    },
-    {
-      "ticker": "CB",
-      "date": "2026-04-23",
-      "field": "netDebtEbitda",
-      "prev": 1.3,
-      "curr": -0.2,
-      "relChangePct": -115.38
-    },
-    {
-      "ticker": "ERIE",
-      "date": "2026-04-27",
-      "field": "epsGrowthTTM",
-      "prev": -58.4,
-      "curr": 8.7,
-      "relChangePct": 114.9
-    },
-    {
-      "ticker": "BTRW.L",
-      "date": "2026-07-07",
-      "field": "revTrend3y",
-      "prev": -11,
-      "curr": 1.6,
-      "relChangePct": 114.55
-    },
-    {
-      "ticker": "BTRW.L",
-      "date": "2026-07-13",
-      "field": "revTrend3y",
-      "prev": -11,
-      "curr": 1.6,
-      "relChangePct": 114.55
     }
   ],
   "summary": {
     "byField": {
-      "piotroskiF": 577,
-      "fcf": 546,
-      "opMargin": 449,
-      "netDebtEbitda": 354,
-      "revGrowthTTM": 201,
-      "epsGrowthTTM": 192,
+      "piotroskiF": 590,
+      "fcf": 556,
+      "opMargin": 458,
+      "netDebtEbitda": 365,
+      "revGrowthTTM": 207,
+      "epsGrowthTTM": 198,
       "interestCover": 155,
-      "currentRatio": 142,
-      "gpa": 141,
-      "grossMargin": 109,
-      "sharesYoYChange": 107,
+      "currentRatio": 148,
+      "gpa": 144,
+      "grossMargin": 112,
+      "sharesYoYChange": 108,
       "revTrend3y": 106,
-      "netMargin": 88,
+      "netMargin": 91,
       "marginTrend3y": 84,
-      "roic": 76,
+      "roic": 78,
       "marketCap": 39
     },
     "byTicker": {
       "BTRW.L": 60,
-      "FDEV.L": 24,
+      "FDEV.L": 25,
       "INTC": 23,
       "FCX": 23,
       "LVS": 21,
       "V": 21,
       "CB": 20,
+      "MDLZ": 19,
       "VRSN": 19,
       "PFG": 18,
-      "MDLZ": 18,
       "GLW": 18,
       "PAY.L": 17,
       "INVH": 17,
       "HLT": 17,
       "EQT": 17,
+      "PRU": 17,
       "INCY": 17,
       "RSG": 17,
       "PCG": 16,
-      "PKG": 16,
-      "NCC.L": 16
+      "PKG": 16
     },
-    "newFilingUpdates": 8628,
+    "newFilingUpdates": 8827,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 21.44
+    "eventsPerPairAvg": 21.77
   }
 }
