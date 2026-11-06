@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-27",
-  "lastUpdated": "2026-11-05",
+  "lastUpdated": "2026-11-06",
   "config": {
     "initialCapital": 10000,
     "currency": "GBP",
@@ -13,7 +13,7 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 6612.19,
+  "cashBalance": 7546.59,
   "positions": [
     {
       "id": "c097c4a8",
@@ -50,23 +50,6 @@
       "reviewDate": "2027-01-12"
     },
     {
-      "id": "c2e995f5",
-      "ticker": "ALL",
-      "company": "Allstate Corporation (The)",
-      "sector": "Financials",
-      "homeIndex": "spy",
-      "entryDate": "2026-10-16",
-      "entryPrice": 239.6,
-      "scoreAtEntry": 81,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 481.6,
-      "cashCommitted": 482.81,
-      "entryFee": 1.21,
-      "positionPct": 5.0,
-      "stopLossPrice": 191.68,
-      "reviewDate": "2027-01-16"
-    },
-    {
       "id": "0a945390",
       "ticker": "PFG",
       "company": "Principal Financial Group Inc",
@@ -98,23 +81,6 @@
       "entryFee": 2.94,
       "positionPct": 5.0,
       "stopLossPrice": 30.36,
-      "reviewDate": "2027-02-05"
-    },
-    {
-      "id": "1213f877",
-      "ticker": "CCH.L",
-      "company": "COCA-COLA HBC AG ORD CHF6.70 (C",
-      "sector": "Consumer Staples",
-      "homeIndex": "isf",
-      "entryDate": "2026-11-05",
-      "entryPrice": 49.34,
-      "scoreAtEntry": 77,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 487.11,
-      "cashCommitted": 490.05,
-      "entryFee": 2.94,
-      "positionPct": 5.0,
-      "stopLossPrice": 39.472,
       "reviewDate": "2027-02-05"
     }
   ],
@@ -916,6 +882,48 @@
       "plPct": -0.7,
       "holdDays": 15,
       "positionPct": 5.0
+    },
+    {
+      "id": "c2e995f5",
+      "ticker": "ALL",
+      "company": "Allstate Corporation (The)",
+      "sector": "Financials",
+      "entryDate": "2026-10-16",
+      "entryPrice": 239.6,
+      "scoreAtEntry": 81,
+      "labelAtEntry": "Buy Now",
+      "exitDate": "2026-11-06",
+      "exitPrice": 266.72,
+      "exitReason": "label_changed_avoid",
+      "costBasis": 481.6,
+      "cashCommitted": 482.81,
+      "entryFee": 1.21,
+      "exitFee": 1.34,
+      "proceeds": 534.77,
+      "plPct": 10.76,
+      "holdDays": 21,
+      "positionPct": 5.0
+    },
+    {
+      "id": "1213f877",
+      "ticker": "CCH.L",
+      "company": "COCA-COLA HBC AG ORD CHF6.70 (C",
+      "sector": "Consumer Staples",
+      "entryDate": "2026-11-05",
+      "entryPrice": 49.34,
+      "scoreAtEntry": 77,
+      "labelAtEntry": "Buy Now",
+      "exitDate": "2026-11-06",
+      "exitPrice": 40.52,
+      "exitReason": "score_degraded",
+      "costBasis": 487.11,
+      "cashCommitted": 490.05,
+      "entryFee": 2.94,
+      "exitFee": 0.4,
+      "proceeds": 399.63,
+      "plPct": -18.45,
+      "holdDays": 1,
+      "positionPct": 5.0
     }
   ],
   "navHistory": [
@@ -1528,18 +1536,29 @@
         "midd": 0.0,
         "vwrl": 0.0
       }
+    },
+    {
+      "date": "2026-11-06",
+      "nav": 9668.01,
+      "benchmarkPrice": 133.69,
+      "segmentNav": {
+        "spy": 1635.73,
+        "isf": 485.7,
+        "midd": 0.0,
+        "vwrl": 0.0
+      }
     }
   ],
   "metrics": {
-    "totalReturnPct": -2.05,
+    "totalReturnPct": -3.32,
     "benchmarkReturnPct": null,
     "excessReturnPct": null,
-    "annualizedReturnPct": -3.86,
-    "sharpe": -1.998,
+    "annualizedReturnPct": -6.19,
+    "sharpe": -2.652,
     "maxDrawdownPct": -4.02,
-    "tradeCount": 38,
-    "winRatePct": 7.9,
-    "avgHoldDays": 14.4,
-    "openPositions": 6
+    "tradeCount": 40,
+    "winRatePct": 10.0,
+    "avgHoldDays": 14.2,
+    "openPositions": 4
   }
 }
