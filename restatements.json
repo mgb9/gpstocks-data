@@ -5,7 +5,7 @@
     "to": "2026-11-06"
   },
   "pairsCompared": 159,
-  "totalEvents": 3598,
+  "totalEvents": 3603,
   "events": [
     {
       "ticker": "STX",
@@ -2320,6 +2320,14 @@
       "relChangePct": 270.0
     },
     {
+      "ticker": "ABF.L",
+      "date": "2026-11-06",
+      "field": "marginTrend3y",
+      "prev": 1.3,
+      "curr": -2.2,
+      "relChangePct": -269.23
+    },
+    {
       "ticker": "INTC",
       "date": "2026-07-27",
       "field": "roic",
@@ -3998,14 +4006,6 @@
       "prev": -90,
       "curr": 21.1,
       "relChangePct": 123.44
-    },
-    {
-      "ticker": "CMCSA",
-      "date": "2026-07-27",
-      "field": "revGrowthTTM",
-      "prev": 5.3,
-      "curr": -1.2,
-      "relChangePct": -122.64
     }
   ],
   "summary": {
@@ -4016,15 +4016,15 @@
       "netDebtEbitda": 383,
       "revGrowthTTM": 221,
       "epsGrowthTTM": 207,
-      "currentRatio": 157,
-      "interestCover": 155,
-      "gpa": 152,
+      "interestCover": 157,
+      "currentRatio": 156,
+      "gpa": 153,
       "grossMargin": 122,
       "sharesYoYChange": 110,
-      "revTrend3y": 106,
+      "revTrend3y": 107,
       "netMargin": 97,
+      "marginTrend3y": 86,
       "roic": 86,
-      "marginTrend3y": 84,
       "marketCap": 41
     },
     "byTicker": {
@@ -4051,6 +4051,6 @@
     },
     "newFilingUpdates": 9156,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 22.63
+    "eventsPerPairAvg": 22.66
   }
 }
