@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-27",
-  "lastUpdated": "2026-11-06",
+  "lastUpdated": "2026-11-09",
   "config": {
     "initialCapital": 10000,
     "currency": "GBP",
@@ -13,25 +13,8 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 7546.59,
+  "cashBalance": 8069.77,
   "positions": [
-    {
-      "id": "c097c4a8",
-      "ticker": "DGX",
-      "company": "Quest Diagnostics Incorporated",
-      "sector": "Healthcare",
-      "homeIndex": "spy",
-      "entryDate": "2026-09-01",
-      "entryPrice": 240.3,
-      "scoreAtEntry": 75,
-      "labelAtEntry": "Buy Now",
-      "costBasis": 493.04,
-      "cashCommitted": 494.28,
-      "entryFee": 1.24,
-      "positionPct": 5.0,
-      "stopLossPrice": 192.24,
-      "reviewDate": "2026-12-01"
-    },
     {
       "id": "5ab4c69b",
       "ticker": "HAS",
@@ -924,6 +907,27 @@
       "plPct": -18.45,
       "holdDays": 1,
       "positionPct": 5.0
+    },
+    {
+      "id": "c097c4a8",
+      "ticker": "DGX",
+      "company": "Quest Diagnostics Incorporated",
+      "sector": "Healthcare",
+      "entryDate": "2026-09-01",
+      "entryPrice": 240.3,
+      "scoreAtEntry": 75,
+      "labelAtEntry": "Buy Now",
+      "exitDate": "2026-11-09",
+      "exitPrice": 255.63,
+      "exitReason": "label_changed_avoid",
+      "costBasis": 493.04,
+      "cashCommitted": 494.28,
+      "entryFee": 1.24,
+      "exitFee": 1.31,
+      "proceeds": 523.18,
+      "plPct": 5.85,
+      "holdDays": 69,
+      "positionPct": 5.0
     }
   ],
   "navHistory": [
@@ -1547,18 +1551,29 @@
         "midd": 0.0,
         "vwrl": 0.0
       }
+    },
+    {
+      "date": "2026-11-09",
+      "nav": 9649.03,
+      "benchmarkPrice": 135.1,
+      "segmentNav": {
+        "spy": 1101.39,
+        "isf": 477.87,
+        "midd": 0.0,
+        "vwrl": 0.0
+      }
     }
   ],
   "metrics": {
-    "totalReturnPct": -3.32,
+    "totalReturnPct": -3.51,
     "benchmarkReturnPct": null,
     "excessReturnPct": null,
-    "annualizedReturnPct": -6.19,
-    "sharpe": -2.652,
+    "annualizedReturnPct": -6.44,
+    "sharpe": -2.758,
     "maxDrawdownPct": -4.02,
-    "tradeCount": 40,
-    "winRatePct": 10.0,
-    "avgHoldDays": 14.2,
-    "openPositions": 4
+    "tradeCount": 41,
+    "winRatePct": 12.2,
+    "avgHoldDays": 15.6,
+    "openPositions": 3
   }
 }
