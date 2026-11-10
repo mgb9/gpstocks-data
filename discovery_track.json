@@ -1713,12 +1713,12 @@
         "median": -3.703703703703709
       },
       "fwd90": {
-        "n": 49,
-        "mean": 2.528967692266383,
-        "median": 1.6393442622950838
+        "n": 50,
+        "mean": 2.9688631221912125,
+        "median": 2.0166536559979353
       },
       "universeFwd30Mean": -3.4474427910718006,
-      "universeFwd90Mean": 1.4004545454954245
+      "universeFwd90Mean": 1.9144989654565638
     },
     {
       "date": "2026-08-19",
@@ -5665,15 +5665,88 @@
         "UTG.L": 4.93,
         "HMSO.L": 3.57
       }
+    },
+    {
+      "date": "2026-11-10",
+      "n": 48,
+      "tickers": [
+        "CNE.L",
+        "PAY.L",
+        "SAGA.L",
+        "JUP.L",
+        "TRST.L",
+        "POLR.L",
+        "PHP.L",
+        "ATG.L",
+        "SCT.L",
+        "SRE.L",
+        "AO.L",
+        "BYIT.L",
+        "GPE.L",
+        "HOC.L",
+        "SVS.L",
+        "BWY.L",
+        "BOY.L",
+        "ESNT.L",
+        "HFD.L",
+        "RNK.L",
+        "BRBY.L",
+        "KIE.L",
+        "MONY.L",
+        "ALFA.L",
+        "HILS.L",
+        "ELM.L",
+        "QQ.L",
+        "HMSO.L",
+        "FDEV.L",
+        "DNLM.L"
+      ],
+      "live": true,
+      "fwd30": null,
+      "fwd90": null,
+      "universeFwd30Mean": null,
+      "universeFwd90Mean": null,
+      "startPrices": {
+        "CNE.L": 4.2,
+        "PAY.L": 7.62,
+        "SAGA.L": 8.77,
+        "JUP.L": 1.8,
+        "TRST.L": 2.57,
+        "POLR.L": 7.06,
+        "PHP.L": 0.97,
+        "ATG.L": 4.83,
+        "SCT.L": 15.62,
+        "SRE.L": 1.01,
+        "AO.L": 0.92,
+        "BYIT.L": 4.3,
+        "GPE.L": 3.5,
+        "HOC.L": 5.13,
+        "SVS.L": 11.4,
+        "BWY.L": 23,
+        "BOY.L": 9.18,
+        "ESNT.L": 1.15,
+        "HFD.L": 2.56,
+        "RNK.L": 0.92,
+        "BRBY.L": 11.13,
+        "KIE.L": 3.22,
+        "MONY.L": 2.06,
+        "ALFA.L": 1.59,
+        "HILS.L": 28.45,
+        "ELM.L": 1.92,
+        "QQ.L": 5.32,
+        "HMSO.L": 3.59,
+        "FDEV.L": 5.16,
+        "DNLM.L": 9.09
+      }
     }
   ],
   "pooled": {
     "n": 2150,
     "n30": 2150,
-    "n90": 936,
+    "n90": 937,
     "mean30": 1.8294656702381042,
-    "mean90": -0.6599427569710008,
+    "mean90": -0.6330658285339903,
     "universeMean30": 1.2682325686033735,
-    "universeMean90": -1.4590181289053685
+    "universeMean90": -1.428536065220782
   }
 }
