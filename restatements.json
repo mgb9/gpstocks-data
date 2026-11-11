@@ -5,7 +5,7 @@
     "to": "2026-11-11"
   },
   "pairsCompared": 162,
-  "totalEvents": 4113,
+  "totalEvents": 4288,
   "events": [
     {
       "ticker": "STX",
@@ -2336,6 +2336,14 @@
       "relChangePct": -285.82
     },
     {
+      "ticker": "BAB.L",
+      "date": "2026-11-11",
+      "field": "opMargin",
+      "prev": 1.4,
+      "curr": 5.4,
+      "relChangePct": 285.71
+    },
+    {
       "ticker": "IBKR",
       "date": "2026-04-29",
       "field": "marketCap",
@@ -2774,6 +2782,14 @@
       "prev": 4013,
       "curr": 12698,
       "relChangePct": 216.42
+    },
+    {
+      "ticker": "TEL",
+      "date": "2026-11-11",
+      "field": "revTrend3y",
+      "prev": 2.5,
+      "curr": 7.9,
+      "relChangePct": 216.0
     },
     {
       "ticker": "LRCX",
@@ -3990,53 +4006,38 @@
       "prev": 5.7,
       "curr": 13.4,
       "relChangePct": 135.09
-    },
-    {
-      "ticker": "WIZZ.L",
-      "date": "2026-06-19",
-      "field": "marginTrend3y",
-      "prev": 17.7,
-      "curr": -6.2,
-      "relChangePct": -135.03
-    },
-    {
-      "ticker": "HON",
-      "date": "2026-04-27",
-      "field": "revGrowthTTM",
-      "prev": -6.9,
-      "curr": 2.4,
-      "relChangePct": 134.78
     }
   ],
   "summary": {
     "byField": {
-      "opMargin": 836,
-      "piotroskiF": 638,
-      "fcf": 624,
-      "netDebtEbitda": 399,
+      "opMargin": 998,
+      "piotroskiF": 642,
+      "fcf": 627,
+      "netDebtEbitda": 400,
       "revGrowthTTM": 235,
       "epsGrowthTTM": 219,
+      "gpa": 162,
       "currentRatio": 162,
-      "gpa": 161,
-      "interestCover": 160,
+      "interestCover": 161,
       "grossMargin": 133,
-      "sharesYoYChange": 113,
-      "revTrend3y": 110,
+      "sharesYoYChange": 114,
+      "revTrend3y": 111,
       "netMargin": 101,
-      "marginTrend3y": 90,
+      "marginTrend3y": 91,
       "roic": 90,
       "marketCap": 42
     },
     "byTicker": {
-      "BTRW.L": 60,
-      "V": 27,
+      "BTRW.L": 61,
+      "V": 28,
       "FDEV.L": 25,
       "INTC": 24,
       "FCX": 24,
-      "PRU": 23,
+      "PRU": 24,
       "LVS": 22,
       "CB": 21,
       "PFG": 19,
+      "PKG": 19,
       "MRK": 19,
       "AJG": 19,
       "MDLZ": 19,
@@ -4046,11 +4047,10 @@
       "INVH": 18,
       "PCG": 18,
       "HLT": 18,
-      "PKG": 18,
       "BXP": 18
     },
-    "newFilingUpdates": 9296,
+    "newFilingUpdates": 9307,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 25.39
+    "eventsPerPairAvg": 26.47
   }
 }
