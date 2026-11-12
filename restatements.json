@@ -1,11 +1,11 @@
 {
-  "asOf": "2026-11-11",
+  "asOf": "2026-11-12",
   "window": {
     "from": "2025-10-20",
-    "to": "2026-11-11"
+    "to": "2026-11-12"
   },
-  "pairsCompared": 162,
-  "totalEvents": 4288,
+  "pairsCompared": 163,
+  "totalEvents": 4313,
   "events": [
     {
       "ticker": "STX",
@@ -1173,6 +1173,14 @@
       "field": "netDebtEbitda",
       "prev": 0,
       "curr": 6.2,
+      "relChangePct": 999.0
+    },
+    {
+      "ticker": "TDG",
+      "date": "2026-11-12",
+      "field": "netDebtEbitda",
+      "prev": 0,
+      "curr": 6.1,
       "relChangePct": 999.0
     },
     {
@@ -2592,6 +2600,14 @@
       "relChangePct": -242.86
     },
     {
+      "ticker": "TDG",
+      "date": "2026-11-12",
+      "field": "sharesYoYChange",
+      "prev": 0.7,
+      "curr": -1,
+      "relChangePct": -242.86
+    },
+    {
       "ticker": "APA",
       "date": "2026-11-06",
       "field": "revGrowthTTM",
@@ -3752,6 +3768,22 @@
       "relChangePct": 150.0
     },
     {
+      "ticker": "ITH.L",
+      "date": "2026-11-12",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 5,
+      "relChangePct": 150.0
+    },
+    {
+      "ticker": "TSN",
+      "date": "2026-11-12",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 5,
+      "relChangePct": 150.0
+    },
+    {
       "ticker": "LVS",
       "date": "2026-04-24",
       "field": "epsGrowthTTM",
@@ -3974,58 +4006,26 @@
       "prev": 9.3,
       "curr": 22,
       "relChangePct": 136.56
-    },
-    {
-      "ticker": "SHEL.L",
-      "date": "2026-05-11",
-      "field": "revGrowthTTM",
-      "prev": -3.6,
-      "curr": 1.3,
-      "relChangePct": 136.11
-    },
-    {
-      "ticker": "PPG",
-      "date": "2026-07-30",
-      "field": "epsGrowthTTM",
-      "prev": 4.2,
-      "curr": -1.5,
-      "relChangePct": -135.71
-    },
-    {
-      "ticker": "BXP",
-      "date": "2026-07-30",
-      "field": "epsGrowthTTM",
-      "prev": 65.5,
-      "curr": -23.2,
-      "relChangePct": -135.42
-    },
-    {
-      "ticker": "RJF",
-      "date": "2026-04-24",
-      "field": "revGrowthTTM",
-      "prev": 5.7,
-      "curr": 13.4,
-      "relChangePct": 135.09
     }
   ],
   "summary": {
     "byField": {
-      "opMargin": 998,
-      "piotroskiF": 642,
-      "fcf": 627,
-      "netDebtEbitda": 400,
-      "revGrowthTTM": 235,
-      "epsGrowthTTM": 219,
-      "gpa": 162,
+      "opMargin": 1001,
+      "piotroskiF": 646,
+      "fcf": 628,
+      "netDebtEbitda": 403,
+      "revGrowthTTM": 236,
+      "epsGrowthTTM": 220,
+      "gpa": 165,
+      "interestCover": 163,
       "currentRatio": 162,
-      "interestCover": 161,
-      "grossMargin": 133,
-      "sharesYoYChange": 114,
-      "revTrend3y": 111,
+      "grossMargin": 135,
+      "sharesYoYChange": 115,
+      "revTrend3y": 112,
       "netMargin": 101,
-      "marginTrend3y": 91,
+      "marginTrend3y": 93,
       "roic": 90,
-      "marketCap": 42
+      "marketCap": 43
     },
     "byTicker": {
       "BTRW.L": 61,
@@ -4049,8 +4049,8 @@
       "HLT": 18,
       "BXP": 18
     },
-    "newFilingUpdates": 9307,
+    "newFilingUpdates": 9313,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 26.47
+    "eventsPerPairAvg": 26.46
   }
 }
