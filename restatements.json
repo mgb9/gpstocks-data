@@ -1,11 +1,11 @@
 {
-  "asOf": "2026-11-12",
+  "asOf": "2026-11-13",
   "window": {
     "from": "2025-10-20",
-    "to": "2026-11-12"
+    "to": "2026-11-13"
   },
-  "pairsCompared": 163,
-  "totalEvents": 4311,
+  "pairsCompared": 164,
+  "totalEvents": 4318,
   "events": [
     {
       "ticker": "STX",
@@ -3776,6 +3776,14 @@
       "relChangePct": 150.0
     },
     {
+      "ticker": "SWKS",
+      "date": "2026-11-13",
+      "field": "netDebtEbitda",
+      "prev": -0.2,
+      "curr": 0.1,
+      "relChangePct": 150.0
+    },
+    {
       "ticker": "LVS",
       "date": "2026-04-24",
       "field": "epsGrowthTTM",
@@ -3998,27 +4006,19 @@
       "prev": 9.3,
       "curr": 22,
       "relChangePct": 136.56
-    },
-    {
-      "ticker": "SHEL.L",
-      "date": "2026-05-11",
-      "field": "revGrowthTTM",
-      "prev": -3.6,
-      "curr": 1.3,
-      "relChangePct": 136.11
     }
   ],
   "summary": {
     "byField": {
-      "opMargin": 1001,
+      "opMargin": 1003,
       "piotroskiF": 644,
-      "fcf": 628,
-      "netDebtEbitda": 403,
-      "revGrowthTTM": 236,
+      "fcf": 630,
+      "netDebtEbitda": 404,
+      "revGrowthTTM": 237,
       "epsGrowthTTM": 220,
       "gpa": 165,
       "interestCover": 163,
-      "currentRatio": 162,
+      "currentRatio": 163,
       "grossMargin": 135,
       "sharesYoYChange": 115,
       "revTrend3y": 112,
@@ -4036,11 +4036,11 @@
       "PRU": 24,
       "LVS": 22,
       "CB": 21,
+      "MDLZ": 21,
       "PFG": 19,
       "PKG": 19,
       "MRK": 19,
       "AJG": 19,
-      "MDLZ": 19,
       "GLW": 19,
       "VRSN": 19,
       "PAY.L": 18,
@@ -4049,8 +4049,8 @@
       "HLT": 18,
       "BXP": 18
     },
-    "newFilingUpdates": 9313,
+    "newFilingUpdates": 9330,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 26.45
+    "eventsPerPairAvg": 26.33
   }
 }
