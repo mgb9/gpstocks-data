@@ -1,7 +1,7 @@
 {
   "version": "1",
   "startDate": "2026-04-27",
-  "lastUpdated": "2026-11-13",
+  "lastUpdated": "2026-11-16",
   "config": {
     "initialCapital": 10000,
     "currency": "GBP",
@@ -13,7 +13,7 @@
     "regime": "Normal",
     "rulesVersion": "3.0"
   },
-  "cashBalance": 8547.16,
+  "cashBalance": 8063.73,
   "positions": [
     {
       "id": "5ab4c69b",
@@ -48,6 +48,23 @@
       "positionPct": 5.0,
       "stopLossPrice": 88.104,
       "reviewDate": "2027-01-27"
+    },
+    {
+      "id": "044c583c",
+      "ticker": "TDY",
+      "company": "Teledyne Technologies Incorpora",
+      "sector": "Technology",
+      "homeIndex": "spy",
+      "entryDate": "2026-11-16",
+      "entryPrice": 643.73,
+      "scoreAtEntry": 78,
+      "labelAtEntry": "Buy Now",
+      "costBasis": 482.22,
+      "cashCommitted": 483.43,
+      "entryFee": 1.21,
+      "positionPct": 5.0,
+      "stopLossPrice": 514.984,
+      "reviewDate": "2027-02-16"
     }
   ],
   "trades": [
@@ -1610,18 +1627,29 @@
         "midd": 0.0,
         "vwrl": 0.0
       }
+    },
+    {
+      "date": "2026-11-16",
+      "nav": 9667.42,
+      "benchmarkPrice": 136.36,
+      "segmentNav": {
+        "spy": 1603.69,
+        "isf": 0.0,
+        "midd": 0.0,
+        "vwrl": 0.0
+      }
     }
   ],
   "metrics": {
-    "totalReturnPct": -3.29,
+    "totalReturnPct": -3.33,
     "benchmarkReturnPct": null,
     "excessReturnPct": null,
-    "annualizedReturnPct": -5.92,
-    "sharpe": -2.55,
+    "annualizedReturnPct": -5.9,
+    "sharpe": -2.56,
     "maxDrawdownPct": -4.02,
     "tradeCount": 42,
     "winRatePct": 11.9,
     "avgHoldDays": 15.3,
-    "openPositions": 2
+    "openPositions": 3
   }
 }
