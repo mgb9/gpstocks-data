@@ -1,11 +1,11 @@
 {
-  "asOf": "2026-11-16",
+  "asOf": "2026-11-17",
   "window": {
     "from": "2025-10-20",
-    "to": "2026-11-16"
+    "to": "2026-11-17"
   },
-  "pairsCompared": 165,
-  "totalEvents": 4379,
+  "pairsCompared": 166,
+  "totalEvents": 4385,
   "events": [
     {
       "ticker": "STX",
@@ -3840,6 +3840,14 @@
       "relChangePct": 150.0
     },
     {
+      "ticker": "PCG",
+      "date": "2026-11-17",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 5,
+      "relChangePct": 150.0
+    },
+    {
       "ticker": "LVS",
       "date": "2026-04-24",
       "field": "epsGrowthTTM",
@@ -3998,20 +4006,12 @@
       "prev": 5.6,
       "curr": 13.5,
       "relChangePct": 141.07
-    },
-    {
-      "ticker": "JETG.L",
-      "date": "2026-06-25",
-      "field": "revTrend3y",
-      "prev": -23.7,
-      "curr": 9.7,
-      "relChangePct": 140.93
     }
   ],
   "summary": {
     "byField": {
       "opMargin": 1009,
-      "piotroskiF": 655,
+      "piotroskiF": 661,
       "fcf": 636,
       "netDebtEbitda": 411,
       "revGrowthTTM": 241,
@@ -4038,8 +4038,8 @@
       "LVS": 22,
       "CB": 21,
       "MDLZ": 21,
+      "PCG": 20,
       "PFG": 19,
-      "PCG": 19,
       "PKG": 19,
       "MRK": 19,
       "AJG": 19,
@@ -4049,8 +4049,8 @@
       "INVH": 18,
       "HLT": 18
     },
-    "newFilingUpdates": 9351,
+    "newFilingUpdates": 9352,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 26.54
+    "eventsPerPairAvg": 26.42
   }
 }
