@@ -1763,11 +1763,11 @@
       },
       "fwd90": {
         "n": 51,
-        "mean": 4.8542173150588726,
-        "median": 3.0487804878048808
+        "mean": 4.416045888952365,
+        "median": 3.157894736842115
       },
       "universeFwd30Mean": -1.159969349050162,
-      "universeFwd90Mean": 2.897862868587895
+      "universeFwd90Mean": 2.7034925584158547
     },
     {
       "date": "2026-08-25",
@@ -6054,6 +6054,79 @@
         "CKN.L": 46.68,
         "QQ.L": 4.85
       }
+    },
+    {
+      "date": "2026-11-17",
+      "n": 51,
+      "tickers": [
+        "CNE.L",
+        "PAY.L",
+        "SAGA.L",
+        "JUP.L",
+        "TRST.L",
+        "POLR.L",
+        "HBR.L",
+        "SRE.L",
+        "PHP.L",
+        "ATG.L",
+        "SCT.L",
+        "BYIT.L",
+        "AO.L",
+        "RMV.L",
+        "GPE.L",
+        "HOC.L",
+        "SVS.L",
+        "BWY.L",
+        "BOY.L",
+        "ESNT.L",
+        "HFD.L",
+        "MONY.L",
+        "KIE.L",
+        "RNK.L",
+        "ALFA.L",
+        "OCDO.L",
+        "ELM.L",
+        "UTG.L",
+        "HMSO.L",
+        "FDEV.L"
+      ],
+      "live": true,
+      "fwd30": null,
+      "fwd90": null,
+      "universeFwd30Mean": null,
+      "universeFwd90Mean": null,
+      "startPrices": {
+        "CNE.L": 4.23,
+        "PAY.L": 7.72,
+        "SAGA.L": 8.95,
+        "JUP.L": 1.84,
+        "TRST.L": 2.67,
+        "POLR.L": 7.17,
+        "HBR.L": 2.7,
+        "SRE.L": 0.98,
+        "PHP.L": 0.98,
+        "ATG.L": 4.65,
+        "SCT.L": 16.46,
+        "BYIT.L": 4.34,
+        "AO.L": 0.92,
+        "RMV.L": 5.8,
+        "GPE.L": 3.61,
+        "HOC.L": 4.4,
+        "SVS.L": 11.26,
+        "BWY.L": 22.4,
+        "BOY.L": 9.2,
+        "ESNT.L": 1.14,
+        "HFD.L": 2.54,
+        "MONY.L": 2.11,
+        "KIE.L": 3.18,
+        "RNK.L": 0.9,
+        "ALFA.L": 1.72,
+        "OCDO.L": 3.4,
+        "ELM.L": 1.93,
+        "UTG.L": 4.82,
+        "HMSO.L": 3.63,
+        "FDEV.L": 5.66
+      }
     }
   ],
   "pooled": {
@@ -6061,8 +6134,8 @@
     "n30": 2267,
     "n90": 988,
     "mean30": 1.988734245301027,
-    "mean90": -0.34981538286269875,
+    "mean90": -0.37243354352204283,
     "universeMean30": 1.4057470051996261,
-    "universeMean90": -1.2052098044675
+    "universeMean90": -1.2152430897091742
   }
 }

@@ -5,7 +5,7 @@
     "to": "2026-11-17"
   },
   "pairsCompared": 166,
-  "totalEvents": 4385,
+  "totalEvents": 4393,
   "events": [
     {
       "ticker": "STX",
@@ -4010,22 +4010,22 @@
   ],
   "summary": {
     "byField": {
-      "opMargin": 1009,
-      "piotroskiF": 661,
-      "fcf": 636,
+      "opMargin": 1010,
+      "piotroskiF": 659,
+      "fcf": 637,
       "netDebtEbitda": 411,
-      "revGrowthTTM": 241,
-      "epsGrowthTTM": 222,
-      "gpa": 171,
+      "revGrowthTTM": 242,
+      "epsGrowthTTM": 223,
+      "gpa": 172,
       "interestCover": 166,
-      "currentRatio": 165,
-      "grossMargin": 139,
+      "currentRatio": 166,
+      "grossMargin": 140,
       "sharesYoYChange": 116,
       "revTrend3y": 114,
-      "netMargin": 103,
+      "netMargin": 104,
       "marginTrend3y": 96,
-      "roic": 92,
-      "marketCap": 43
+      "roic": 93,
+      "marketCap": 44
     },
     "byTicker": {
       "BTRW.L": 61,
@@ -4049,8 +4049,8 @@
       "INVH": 18,
       "HLT": 18
     },
-    "newFilingUpdates": 9352,
+    "newFilingUpdates": 9371,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 26.42
+    "eventsPerPairAvg": 26.46
   }
 }
