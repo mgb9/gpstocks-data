@@ -3696,7 +3696,7 @@
     },
     "PLUS.L": {
       "firstSeen": "2026-06-10",
-      "lastSeen": "2026-11-17",
+      "lastSeen": "2026-11-18",
       "active": true
     },
     "PNL.L": {
@@ -3706,7 +3706,7 @@
     },
     "PNN.L": {
       "firstSeen": "2026-06-10",
-      "lastSeen": "2026-11-17",
+      "lastSeen": "2026-11-18",
       "active": true
     },
     "POLR.L": {
@@ -3716,17 +3716,17 @@
     },
     "PPH.L": {
       "firstSeen": "2026-06-10",
-      "lastSeen": "2026-11-17",
+      "lastSeen": "2026-11-18",
       "active": true
     },
     "QQ.L": {
       "firstSeen": "2026-06-10",
-      "lastSeen": "2026-11-17",
+      "lastSeen": "2026-11-18",
       "active": true
     },
     "RAT.L": {
       "firstSeen": "2026-06-10",
-      "lastSeen": "2026-11-17",
+      "lastSeen": "2026-11-18",
       "active": true
     },
     "RCP.L": {
@@ -102341,14 +102341,17 @@
       "PKG",
       "PLD",
       "PLTR",
+      "PLUS.L",
       "PM",
       "PNC",
+      "PNN.L",
       "PNR",
       "PNW",
       "PODD",
       "POLR.L",
       "POOL",
       "PPG",
+      "PPH.L",
       "PPL",
       "PRU",
       "PRU.L",
@@ -102361,6 +102364,8 @@
       "PYPL",
       "Q",
       "QCOM",
+      "QQ.L",
+      "RAT.L",
       "RCL",
       "REG",
       "REGN",
