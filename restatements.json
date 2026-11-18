@@ -1,11 +1,11 @@
 {
-  "asOf": "2026-11-17",
+  "asOf": "2026-11-18",
   "window": {
     "from": "2025-10-20",
-    "to": "2026-11-17"
+    "to": "2026-11-18"
   },
-  "pairsCompared": 166,
-  "totalEvents": 4393,
+  "pairsCompared": 167,
+  "totalEvents": 4409,
   "events": [
     {
       "ticker": "STX",
@@ -1656,6 +1656,14 @@
       "relChangePct": 550.0
     },
     {
+      "ticker": "TSN",
+      "date": "2026-11-18",
+      "field": "sharesYoYChange",
+      "prev": 0.2,
+      "curr": -0.9,
+      "relChangePct": -550.0
+    },
+    {
       "ticker": "TMUS",
       "date": "2026-10-30",
       "field": "epsGrowthTTM",
@@ -1926,6 +1934,14 @@
       "prev": -9.0,
       "curr": -46,
       "relChangePct": -411.11
+    },
+    {
+      "ticker": "CTVA",
+      "date": "2026-11-18",
+      "field": "revGrowthTTM",
+      "prev": -1.2,
+      "curr": -6.1,
+      "relChangePct": -408.33
     },
     {
       "ticker": "IFF",
@@ -3990,42 +4006,26 @@
       "prev": -7940,
       "curr": 3266,
       "relChangePct": 141.13
-    },
-    {
-      "ticker": "DGE.L",
-      "date": "2026-08-19",
-      "field": "marginTrend3y",
-      "prev": -5.6,
-      "curr": -13.5,
-      "relChangePct": -141.07
-    },
-    {
-      "ticker": "COO",
-      "date": "2026-09-14",
-      "field": "netMargin",
-      "prev": 5.6,
-      "curr": 13.5,
-      "relChangePct": 141.07
     }
   ],
   "summary": {
     "byField": {
-      "opMargin": 1010,
-      "piotroskiF": 659,
-      "fcf": 637,
-      "netDebtEbitda": 411,
-      "revGrowthTTM": 242,
+      "opMargin": 1011,
+      "piotroskiF": 663,
+      "fcf": 638,
+      "netDebtEbitda": 412,
+      "revGrowthTTM": 244,
       "epsGrowthTTM": 223,
-      "gpa": 172,
+      "gpa": 173,
+      "currentRatio": 167,
       "interestCover": 166,
-      "currentRatio": 166,
-      "grossMargin": 140,
-      "sharesYoYChange": 116,
-      "revTrend3y": 114,
+      "grossMargin": 141,
+      "sharesYoYChange": 117,
+      "revTrend3y": 115,
       "netMargin": 104,
-      "marginTrend3y": 96,
+      "marginTrend3y": 97,
       "roic": 93,
-      "marketCap": 44
+      "marketCap": 45
     },
     "byTicker": {
       "BTRW.L": 61,
@@ -4036,6 +4036,7 @@
       "PRU": 24,
       "WAT": 24,
       "LVS": 22,
+      "CTVA": 21,
       "CB": 21,
       "MDLZ": 21,
       "PCG": 20,
@@ -4046,11 +4047,10 @@
       "GLW": 19,
       "VRSN": 19,
       "PAY.L": 18,
-      "INVH": 18,
-      "HLT": 18
+      "INVH": 18
     },
-    "newFilingUpdates": 9371,
+    "newFilingUpdates": 9411,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 26.46
+    "eventsPerPairAvg": 26.4
   }
 }
