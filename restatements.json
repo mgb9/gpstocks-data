@@ -1,11 +1,11 @@
 {
-  "asOf": "2026-11-18",
+  "asOf": "2026-11-19",
   "window": {
     "from": "2025-10-20",
-    "to": "2026-11-18"
+    "to": "2026-11-19"
   },
-  "pairsCompared": 167,
-  "totalEvents": 4408,
+  "pairsCompared": 168,
+  "totalEvents": 4436,
   "events": [
     {
       "ticker": "STX",
@@ -3496,6 +3496,14 @@
       "relChangePct": 163.64
     },
     {
+      "ticker": "DIS",
+      "date": "2026-11-19",
+      "field": "sharesYoYChange",
+      "prev": -1.1,
+      "curr": -2.9,
+      "relChangePct": -163.64
+    },
+    {
       "ticker": "BA",
       "date": "2026-04-23",
       "field": "opMargin",
@@ -3998,32 +4006,24 @@
       "prev": 10.4,
       "curr": 25.1,
       "relChangePct": 141.35
-    },
-    {
-      "ticker": "F",
-      "date": "2026-10-30",
-      "field": "fcf",
-      "prev": -7940,
-      "curr": 3266,
-      "relChangePct": 141.13
     }
   ],
   "summary": {
     "byField": {
-      "opMargin": 1011,
-      "piotroskiF": 662,
-      "fcf": 638,
-      "netDebtEbitda": 412,
+      "opMargin": 1015,
+      "piotroskiF": 665,
+      "fcf": 644,
+      "netDebtEbitda": 416,
       "revGrowthTTM": 244,
       "epsGrowthTTM": 223,
-      "gpa": 173,
+      "gpa": 176,
+      "interestCover": 167,
       "currentRatio": 167,
-      "interestCover": 166,
-      "grossMargin": 141,
-      "sharesYoYChange": 117,
-      "revTrend3y": 115,
+      "grossMargin": 143,
+      "sharesYoYChange": 118,
+      "revTrend3y": 117,
       "netMargin": 104,
-      "marginTrend3y": 97,
+      "marginTrend3y": 99,
       "roic": 93,
       "marketCap": 45
     },
@@ -4035,21 +4035,21 @@
       "FCX": 24,
       "PRU": 24,
       "WAT": 24,
+      "CTVA": 23,
       "LVS": 22,
-      "CTVA": 21,
       "CB": 21,
       "MDLZ": 21,
       "PCG": 20,
+      "EQT": 20,
       "PFG": 19,
       "PKG": 19,
       "MRK": 19,
       "AJG": 19,
       "GLW": 19,
       "VRSN": 19,
-      "PAY.L": 18,
-      "INVH": 18
+      "PAY.L": 18
     },
-    "newFilingUpdates": 9415,
+    "newFilingUpdates": 9486,
     "unclassifiedChanges": 110,
     "eventsPerPairAvg": 26.4
   }
