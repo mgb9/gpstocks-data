@@ -1,11 +1,11 @@
 {
-  "asOf": "2026-11-19",
+  "asOf": "2026-11-20",
   "window": {
     "from": "2025-10-20",
-    "to": "2026-11-19"
+    "to": "2026-11-20"
   },
-  "pairsCompared": 168,
-  "totalEvents": 4435,
+  "pairsCompared": 169,
+  "totalEvents": 4458,
   "events": [
     {
       "ticker": "STX",
@@ -3168,6 +3168,14 @@
       "relChangePct": 192.11
     },
     {
+      "ticker": "DHI",
+      "date": "2026-11-20",
+      "field": "revTrend3y",
+      "prev": -1.2,
+      "curr": -3.5,
+      "relChangePct": -191.67
+    },
+    {
       "ticker": "PLD",
       "date": "2026-10-19",
       "field": "revGrowthTTM",
@@ -3998,32 +4006,24 @@
       "prev": -13618,
       "curr": 5665,
       "relChangePct": 141.6
-    },
-    {
-      "ticker": "CCI",
-      "date": "2026-04-24",
-      "field": "netMargin",
-      "prev": 10.4,
-      "curr": 25.1,
-      "relChangePct": 141.35
     }
   ],
   "summary": {
     "byField": {
-      "opMargin": 1015,
-      "piotroskiF": 664,
-      "fcf": 644,
-      "netDebtEbitda": 416,
+      "opMargin": 1019,
+      "piotroskiF": 669,
+      "fcf": 648,
+      "netDebtEbitda": 417,
       "revGrowthTTM": 244,
       "epsGrowthTTM": 223,
-      "gpa": 176,
+      "gpa": 178,
+      "currentRatio": 168,
       "interestCover": 167,
-      "currentRatio": 167,
-      "grossMargin": 143,
-      "sharesYoYChange": 118,
-      "revTrend3y": 117,
+      "grossMargin": 146,
+      "sharesYoYChange": 119,
+      "revTrend3y": 118,
       "netMargin": 104,
-      "marginTrend3y": 99,
+      "marginTrend3y": 100,
       "roic": 93,
       "marketCap": 45
     },
@@ -4041,16 +4041,16 @@
       "MDLZ": 21,
       "PCG": 20,
       "EQT": 20,
+      "DHI": 20,
       "PFG": 19,
       "PKG": 19,
       "MRK": 19,
       "AJG": 19,
       "GLW": 19,
-      "VRSN": 19,
-      "PAY.L": 18
+      "VRSN": 19
     },
-    "newFilingUpdates": 9485,
+    "newFilingUpdates": 9550,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 26.4
+    "eventsPerPairAvg": 26.38
   }
 }
