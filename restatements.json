@@ -1,11 +1,11 @@
 {
-  "asOf": "2026-11-20",
+  "asOf": "2026-11-24",
   "window": {
     "from": "2025-10-20",
-    "to": "2026-11-20"
+    "to": "2026-11-24"
   },
-  "pairsCompared": 169,
-  "totalEvents": 4458,
+  "pairsCompared": 170,
+  "totalEvents": 4474,
   "events": [
     {
       "ticker": "STX",
@@ -2568,6 +2568,14 @@
       "relChangePct": 262.5
     },
     {
+      "ticker": "APD",
+      "date": "2026-11-24",
+      "field": "revTrend3y",
+      "prev": -1.5,
+      "curr": 2.4,
+      "relChangePct": 260.0
+    },
+    {
       "ticker": "HSBA.L",
       "date": "2026-06-23",
       "field": "revTrend3y",
@@ -2814,6 +2822,14 @@
       "prev": -3.3,
       "curr": -10.5,
       "relChangePct": -218.18
+    },
+    {
+      "ticker": "APD",
+      "date": "2026-11-24",
+      "field": "interestCover",
+      "prev": 1.1,
+      "curr": 3.5,
+      "relChangePct": 218.18
     },
     {
       "ticker": "FDEV.L",
@@ -3990,52 +4006,36 @@
       "prev": 0.7,
       "curr": 1.7,
       "relChangePct": 142.86
-    },
-    {
-      "ticker": "SNDK",
-      "date": "2026-08-19",
-      "field": "marginTrend3y",
-      "prev": 28.2,
-      "curr": 68.2,
-      "relChangePct": 141.84
-    },
-    {
-      "ticker": "DE",
-      "date": "2026-08-24",
-      "field": "fcf",
-      "prev": -13618,
-      "curr": 5665,
-      "relChangePct": 141.6
     }
   ],
   "summary": {
     "byField": {
-      "opMargin": 1019,
-      "piotroskiF": 669,
-      "fcf": 648,
-      "netDebtEbitda": 417,
+      "opMargin": 1020,
+      "piotroskiF": 672,
+      "fcf": 650,
+      "netDebtEbitda": 418,
       "revGrowthTTM": 244,
       "epsGrowthTTM": 223,
       "gpa": 178,
-      "currentRatio": 168,
-      "interestCover": 167,
-      "grossMargin": 146,
-      "sharesYoYChange": 119,
-      "revTrend3y": 118,
-      "netMargin": 104,
-      "marginTrend3y": 100,
+      "currentRatio": 169,
+      "interestCover": 168,
+      "grossMargin": 147,
+      "sharesYoYChange": 121,
+      "revTrend3y": 119,
+      "netMargin": 105,
+      "marginTrend3y": 101,
       "roic": 93,
-      "marketCap": 45
+      "marketCap": 46
     },
     "byTicker": {
       "BTRW.L": 61,
+      "CTVA": 28,
       "V": 28,
       "FDEV.L": 25,
       "INTC": 24,
       "FCX": 24,
       "PRU": 24,
       "WAT": 24,
-      "CTVA": 23,
       "LVS": 22,
       "CB": 21,
       "MDLZ": 21,
@@ -4049,8 +4049,8 @@
       "GLW": 19,
       "VRSN": 19
     },
-    "newFilingUpdates": 9550,
+    "newFilingUpdates": 9583,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 26.38
+    "eventsPerPairAvg": 26.32
   }
 }
