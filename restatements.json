@@ -5,7 +5,7 @@
     "to": "2026-11-25"
   },
   "pairsCompared": 171,
-  "totalEvents": 4477,
+  "totalEvents": 4487,
   "events": [
     {
       "ticker": "STX",
@@ -2712,6 +2712,14 @@
       "relChangePct": -235.59
     },
     {
+      "ticker": "PAY.L",
+      "date": "2026-11-25",
+      "field": "netDebtEbitda",
+      "prev": 0.3,
+      "curr": -0.4,
+      "relChangePct": -233.33
+    },
+    {
       "ticker": "III.L",
       "date": "2026-06-10",
       "field": "revTrend3y",
@@ -3536,6 +3544,14 @@
       "relChangePct": 162.5
     },
     {
+      "ticker": "PAY.L",
+      "date": "2026-11-25",
+      "field": "revGrowthTTM",
+      "prev": 10.3,
+      "curr": -6.3,
+      "relChangePct": -161.17
+    },
+    {
       "ticker": "SFR.L",
       "date": "2026-07-24",
       "field": "marginTrend3y",
@@ -3990,47 +4006,32 @@
       "prev": -76.4,
       "curr": 33,
       "relChangePct": 143.19
-    },
-    {
-      "ticker": "YUM",
-      "date": "2026-11-05",
-      "field": "epsGrowthTTM",
-      "prev": 131.6,
-      "curr": 319.9,
-      "relChangePct": 143.09
-    },
-    {
-      "ticker": "EXC",
-      "date": "2026-09-07",
-      "field": "sharesYoYChange",
-      "prev": 0.7,
-      "curr": 1.7,
-      "relChangePct": 142.86
     }
   ],
   "summary": {
     "byField": {
-      "opMargin": 1020,
+      "opMargin": 1022,
       "piotroskiF": 675,
-      "fcf": 650,
-      "netDebtEbitda": 418,
-      "revGrowthTTM": 244,
-      "epsGrowthTTM": 223,
+      "fcf": 652,
+      "netDebtEbitda": 420,
+      "revGrowthTTM": 245,
+      "epsGrowthTTM": 224,
       "gpa": 178,
       "currentRatio": 169,
       "interestCover": 168,
       "grossMargin": 147,
       "sharesYoYChange": 121,
       "revTrend3y": 119,
-      "netMargin": 105,
+      "netMargin": 106,
       "marginTrend3y": 101,
-      "roic": 93,
+      "roic": 94,
       "marketCap": 46
     },
     "byTicker": {
       "BTRW.L": 61,
       "CTVA": 28,
       "V": 28,
+      "PAY.L": 25,
       "FDEV.L": 25,
       "INTC": 24,
       "FCX": 24,
@@ -4046,11 +4047,10 @@
       "PKG": 19,
       "MRK": 19,
       "AJG": 19,
-      "GLW": 19,
-      "VRSN": 19
+      "GLW": 19
     },
-    "newFilingUpdates": 9583,
+    "newFilingUpdates": 9666,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 26.18
+    "eventsPerPairAvg": 26.24
   }
 }
