@@ -1,11 +1,11 @@
 {
-  "asOf": "2026-11-25",
+  "asOf": "2026-11-26",
   "window": {
     "from": "2025-10-20",
-    "to": "2026-11-25"
+    "to": "2026-11-26"
   },
-  "pairsCompared": 171,
-  "totalEvents": 4487,
+  "pairsCompared": 172,
+  "totalEvents": 4490,
   "events": [
     {
       "ticker": "STX",
@@ -3912,6 +3912,14 @@
       "relChangePct": 150.0
     },
     {
+      "ticker": "ZBH",
+      "date": "2026-11-26",
+      "field": "piotroskiF",
+      "prev": 2,
+      "curr": 5,
+      "relChangePct": 150.0
+    },
+    {
       "ticker": "LVS",
       "date": "2026-04-24",
       "field": "epsGrowthTTM",
@@ -3998,20 +4006,12 @@
       "prev": -1.8,
       "curr": 0.8,
       "relChangePct": 144.44
-    },
-    {
-      "ticker": "BG",
-      "date": "2026-07-30",
-      "field": "epsGrowthTTM",
-      "prev": -76.4,
-      "curr": 33,
-      "relChangePct": 143.19
     }
   ],
   "summary": {
     "byField": {
       "opMargin": 1022,
-      "piotroskiF": 675,
+      "piotroskiF": 678,
       "fcf": 652,
       "netDebtEbitda": 420,
       "revGrowthTTM": 245,
@@ -4049,8 +4049,8 @@
       "AJG": 19,
       "GLW": 19
     },
-    "newFilingUpdates": 9666,
+    "newFilingUpdates": 9667,
     "unclassifiedChanges": 110,
-    "eventsPerPairAvg": 26.24
+    "eventsPerPairAvg": 26.1
   }
 }
