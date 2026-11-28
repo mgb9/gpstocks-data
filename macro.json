@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-27T19:42:05Z",
+  "asOf": "2026-11-28T00:01:12Z",
   "series": {
     "VIXCLS": {
       "name": "VIX",
@@ -736,17 +736,13 @@
     "T10Y2Y": {
       "name": "10y-2y spread",
       "source": "Federal Reserve Board via FRED",
-      "latest": 0.24,
-      "latestDate": "2026-11-25",
-      "delta1mPct": -25.000000000000007,
-      "delta1yPct": -58.620689655172406,
-      "deltaYoYPct": -58.620689655172406,
-      "deltaYoYAbs": -0.33999999999999997,
+      "latest": 0.25,
+      "latestDate": "2026-11-27",
+      "delta1mPct": -34.21052631578947,
+      "delta1yPct": -54.545454545454554,
+      "deltaYoYPct": -54.545454545454554,
+      "deltaYoYAbs": -0.30000000000000004,
       "history": [
-        {
-          "date": "2026-03-11",
-          "value": 0.57
-        },
         {
           "date": "2026-03-12",
           "value": 0.51
@@ -1462,23 +1458,23 @@
         {
           "date": "2026-11-25",
           "value": 0.24
+        },
+        {
+          "date": "2026-11-27",
+          "value": 0.25
         }
       ]
     },
     "DGS10": {
       "name": "US 10y yield",
       "source": "Federal Reserve Board via FRED",
-      "latest": 4.91,
-      "latestDate": "2026-11-24",
-      "delta1mPct": -1.7999999999999972,
-      "delta1yPct": 21.534653465346537,
-      "deltaYoYPct": 21.534653465346537,
-      "deltaYoYAbs": 0.8700000000000001,
+      "latest": 4.85,
+      "latestDate": "2026-11-25",
+      "delta1mPct": -3.000000000000007,
+      "delta1yPct": 20.947630922693264,
+      "deltaYoYPct": 20.947630922693264,
+      "deltaYoYAbs": 0.8399999999999999,
       "history": [
-        {
-          "date": "2026-03-10",
-          "value": 4.15
-        },
         {
           "date": "2026-03-11",
           "value": 4.21
@@ -2194,6 +2190,10 @@
         {
           "date": "2026-11-24",
           "value": 4.91
+        },
+        {
+          "date": "2026-11-25",
+          "value": 4.85
         }
       ]
     },
@@ -5672,17 +5672,13 @@
     "DFII10": {
       "name": "US 10y real yield",
       "source": "Federal Reserve Board via FRED",
-      "latest": 2.79,
-      "latestDate": "2026-11-24",
-      "delta1mPct": 4.887218045112777,
-      "delta1yPct": 54.14364640883977,
-      "deltaYoYPct": 54.14364640883977,
-      "deltaYoYAbs": 0.98,
+      "latest": 2.73,
+      "latestDate": "2026-11-25",
+      "delta1mPct": 2.631578947368415,
+      "delta1yPct": 52.513966480446925,
+      "deltaYoYPct": 52.513966480446925,
+      "deltaYoYAbs": 0.94,
       "history": [
-        {
-          "date": "2026-03-10",
-          "value": 1.82
-        },
         {
           "date": "2026-03-11",
           "value": 1.85
@@ -6398,6 +6394,10 @@
         {
           "date": "2026-11-24",
           "value": 2.79
+        },
+        {
+          "date": "2026-11-25",
+          "value": 2.73
         }
       ]
     },
@@ -8068,12 +8068,12 @@
     "FTSE": {
       "name": "FTSE 100",
       "source": "Yahoo Finance",
-      "latest": 10698.8095703125,
+      "latest": NaN,
       "latestDate": "2026-11-27",
-      "delta1mPct": 0.04029707150871944,
-      "delta1yPct": 10.366407113687186,
-      "deltaYoYPct": 10.366407113687186,
-      "deltaYoYAbs": 1004.9091796875,
+      "delta1mPct": NaN,
+      "delta1yPct": NaN,
+      "deltaYoYPct": NaN,
+      "deltaYoYAbs": NaN,
       "history": [
         {
           "date": "2026-03-16",
@@ -8793,19 +8793,19 @@
         },
         {
           "date": "2026-11-27",
-          "value": 10698.8095703125
+          "value": NaN
         }
       ]
     },
     "FTMC": {
       "name": "FTSE 250",
       "source": "Yahoo Finance",
-      "latest": 24314.720703125,
+      "latest": NaN,
       "latestDate": "2026-11-27",
-      "delta1mPct": -1.3173266603896436,
-      "delta1yPct": 10.063692837177195,
-      "deltaYoYPct": 10.063692837177195,
-      "deltaYoYAbs": 2223.220703125,
+      "delta1mPct": NaN,
+      "delta1yPct": NaN,
+      "deltaYoYPct": NaN,
+      "deltaYoYAbs": NaN,
       "history": [
         {
           "date": "2026-03-16",
@@ -9525,7 +9525,7 @@
         },
         {
           "date": "2026-11-27",
-          "value": 24314.720703125
+          "value": NaN
         }
       ]
     }
